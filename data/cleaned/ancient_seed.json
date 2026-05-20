@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Ancient Seed It's a dry old seed from some ancient plant. By all appearances it's long since dead... Information Artifact Spots: Cindersap Forest (0.7%) The Mountain (0.7%) Monster Drops: Bug (0.5%) Cave Fly (0.5%) Grub (0.5%) Mutant Fly (0.5%) Mutant Grub (0.5%) Other Sources: Fishing Treasure Chest (0.7-0.8%) Artifact Trove (3.7%) Deconstructor Donation Reward: Ancient Seeds (1) Ancient Seeds Recipe Sell Price: data-sort-value=\"5 \"> 5g\nThe Ancient Seed is an Artifact that can be found by digging up an Artifact Spot in Cindersap Forest or The Mountain (including the Quarry ), or obtained inside Artifact Troves , or Fishing Treasure Chests after reaching Fishing level 2 . It can be dropped from Bugs , Grubs , Cave Flies , Mutant Flies , and Mutant Grubs (0.5% chance). It can also be found by cutting foliage on Prehistoric Floors , in The Mines when they are in a \"Dangerous\" state, or in the Volcano Dungeon . Placing a packet of Ancient Seeds in a Deconstructor yields an Ancient Seed.\nThis artifact can be crafted into viable seeds that can be planted to grow Ancient Fruit during Spring , Summer and Fall , or during any season in the Greenhouse or the Ginger Island farm."
+      "content": "The Ancient Seed is an Artifact that can be found by digging up an Artifact Spot in Cindersap Forest or The Mountain (including the Quarry ), or obtained inside Artifact Troves , or Fishing Treasure Chests after reaching Fishing level 2 . It can be dropped from Bugs , Grubs , Cave Flies , Mutant Flies , and Mutant Grubs (0.5% chance). It can also be found by cutting foliage on Prehistoric Floors , in The Mines when they are in a \"Dangerous\" state, or in the Volcano Dungeon . Placing a packet of Ancient Seeds in a Deconstructor yields an Ancient Seed.\nThis artifact can be crafted into viable seeds that can be planted to grow Ancient Fruit during Spring , Summer and Fall , or during any season in the Greenhouse or the Ginger Island farm."
     },
     {
       "heading": "Donation",
@@ -29,6 +29,46 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Ancient Seed"
+          ],
+          [
+            ""
+          ],
+          [
+            "It's a dry old seed from some ancient plant. By all appearances it's long since dead..."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Artifact Spots:",
+            "Cindersap Forest, (0.7%), The Mountain, (0.7%)"
+          ],
+          [
+            "Monster Drops:",
+            "Bug, (0.5%), Cave Fly, (0.5%), Grub, (0.5%), Mutant Fly, (0.5%), Mutant Grub, (0.5%)"
+          ],
+          [
+            "Other Sources:",
+            "Fishing Treasure Chest, (0.7-0.8%), Artifact Trove, (3.7%), Deconstructor"
+          ],
+          [
+            "Donation Reward:",
+            "Ancient Seeds, (1), Ancient Seeds Recipe"
+          ],
+          [
+            "Sell Price:",
+            "data-sort-value=\"5 \">, 5g"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Gifting",
       "table": {
         "headers": [
@@ -40,11 +80,11 @@
           ],
           [
             "Like",
-            "Dwarf • Penny"
+            "Dwarf, •, Penny"
           ],
           [
             "Dislike",
-            "Abigail • Alex • Caroline • Clint • Demetrius • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+            "Abigail, •, Alex, •, Caroline, •, Clint, •, Demetrius, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Haley, •, Harvey, •, Jas, •, Jodi, •, Kent, •, Krobus, •, Leah, •, Leo, •, Lewis, •, Linus, •, Marnie, •, Maru, •, Pam, •, Pierre, •, Robin, •, Sam, •, Sandy, •, Sebastian, •, Shane, •, Vincent, •, Willy, •, Wizard"
           ]
         ]
       }
@@ -71,8 +111,8 @@
             "",
             "Ancient Seeds",
             "Could these still grow?",
-            "Ancient Seed (1)",
-            "Donating Ancient Seed to the Museum"
+            "Ancient Seed, (1)",
+            "Donating, Ancient Seed, to the, Museum"
           ]
         ]
       }
@@ -89,7 +129,7 @@
           ],
           [
             "Artifacts",
-            "Amphibian Fossil • Anchor • Ancient Doll • Ancient Drum • Ancient Seed • Ancient Sword • Arrowhead • Bone Flute • Chewing Stick • Chicken Statue • Chipped Amphora • Dinosaur Egg • Dried Starfish • Dwarf Gadget • Dwarf Scroll I • Dwarf Scroll II • Dwarf Scroll III • Dwarf Scroll IV • Dwarvish Helm • Elvish Jewelry • Glass Shards • Golden Mask • Golden Relic • Nautilus Fossil • Ornamental Fan • Palm Fossil • Prehistoric Handaxe • Prehistoric Rib • Prehistoric Scapula • Prehistoric Skull • Prehistoric Tibia • Prehistoric Tool • Prehistoric Vertebra • Rare Disc • Rusty Cog • Rusty Spoon • Rusty Spur • Skeletal Hand • Skeletal Tail • Strange Doll (green) • Strange Doll (yellow) • Trilobite"
+            "Amphibian Fossil, •, Anchor, •, Ancient Doll, •, Ancient Drum, •, Ancient Seed, •, Ancient Sword, •, Arrowhead, •, Bone Flute, •, Chewing Stick, •, Chicken Statue, •, Chipped Amphora, •, Dinosaur Egg, •, Dried Starfish, •, Dwarf Gadget, •, Dwarf Scroll I, •, Dwarf Scroll II, •, Dwarf Scroll III, •, Dwarf Scroll IV, •, Dwarvish Helm, •, Elvish Jewelry, •, Glass Shards, •, Golden Mask, •, Golden Relic, •, Nautilus Fossil, •, Ornamental Fan, •, Palm Fossil, •, Prehistoric Handaxe, •, Prehistoric Rib, •, Prehistoric Scapula, •, Prehistoric Skull, •, Prehistoric Tibia, •, Prehistoric Tool, •, Prehistoric Vertebra, •, Rare Disc, •, Rusty Cog, •, Rusty Spoon, •, Rusty Spur, •, Skeletal Hand, •, Skeletal Tail, •, Strange Doll (green), •, Strange Doll (yellow), •, Trilobite"
           ]
         ]
       }

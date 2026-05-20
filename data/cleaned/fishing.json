@@ -644,42 +644,42 @@
           [
             "",
             "Training Rod",
-            "data-sort-value=\"25\"> 25g",
-            "Easier to use (only catches common Fish ).",
-            "Buy from Willy's Fish Shop",
+            "data-sort-value=\"25\">, 25g",
+            "Easier to use (only catches common, Fish, ).",
+            "Buy from Willy's, Fish Shop",
             ""
           ],
           [
             "",
             "Bamboo Pole",
-            "data-sort-value=\"500\"> 500g",
+            "data-sort-value=\"500\">, 500g",
             "",
-            "Given to the player by Willy Buy from Willy's Fish Shop",
+            "Given to the player by, Willy, Buy from Willy's, Fish Shop",
             ""
           ],
           [
             "",
             "Fiberglass Rod",
-            "data-sort-value=\"1800\"> 1,800g",
-            "Able to use bait .",
-            "Buy from Willy's Fish Shop",
-            "Fishing Level 2 (The player receives a letter the day after it becomes available)"
+            "data-sort-value=\"1800\">, 1,800g",
+            "Able to use, bait, .",
+            "Buy from Willy's, Fish Shop",
+            "Fishing Level 2, (The player receives a letter the day after it becomes available)"
           ],
           [
             "",
             "Iridium Rod",
-            "data-sort-value=\"7500\"> 7,500g",
-            "Able to use bait & tackle .",
-            "Buy from Willy's Fish Shop",
-            "Fishing Level 6 (The player receives a letter the day after it becomes available)"
+            "data-sort-value=\"7500\">, 7,500g",
+            "Able to use, bait, &, tackle, .",
+            "Buy from Willy's, Fish Shop",
+            "Fishing Level 6, (The player receives a letter the day after it becomes available)"
           ],
           [
             "",
             "Advanced Iridium Rod",
             "N/A",
-            "Able to use bait & 2 tackles .",
+            "Able to use, bait, & 2, tackles, .",
             "Mastery Cave",
-            "Claiming Fishing Mastery ."
+            "Claiming, Fishing Mastery, ."
           ]
         ]
       }
@@ -711,11 +711,11 @@
           ],
           [
             "Casting distance increased by one tile",
-            "Bait Fiberglass Rod & Bait unlocked in Willy's Fish Shop",
-            "Crab Pot Dish O' The Sea Crab Pot unlocked in Willy's Fish Shop",
-            "Deluxe Bait Worm Bin Recycling Machine Deluxe Bait unlocked in Willy's Fish Shop Casting distance increased by one tile",
-            "Fisher Fish worth 25% more.",
-            "Trapper Resources required to craft crab pots reduced."
+            "Bait, Fiberglass Rod, &, Bait, unlocked in, Willy's Fish Shop",
+            "Crab Pot, Dish O' The Sea, Crab Pot, unlocked in, Willy's Fish Shop",
+            "Deluxe Bait, Worm Bin, Recycling Machine, Deluxe Bait, unlocked in, Willy's Fish Shop, Casting distance increased by one tile",
+            "Fisher, Fish, worth 25% more.",
+            "Trapper, Resources required to craft, crab pots, reduced."
           ],
           [
             ""
@@ -736,16 +736,16 @@
             "Trapper:"
           ],
           [
-            "Bait Maker Spinner Trap Bobber Sonar Bobber Iridium Rod , Sonar Bobber , Lead Bobber , Spinner , & Trap Bobber unlocked in Willy's Fish Shop",
-            "Cork Bobber Treasure Hunter Cork Bobber & Treasure Hunter unlocked in Willy's Fish Shop",
-            "Deluxe Worm Bin Barbed Hook Dressed Spinner Barbed Hook & Dressed Spinner unlocked in Willy's Fish Shop Casting distance increased by one tile",
-            "Seafoam Pudding Magnet Magnet unlocked in Willy's Fish Shop",
-            "Angler Fish worth 50% more.",
-            "Mariner Crab pots no longer produce junk items ."
+            "Bait Maker, Spinner, Trap Bobber, Sonar Bobber, Iridium Rod, ,, Sonar Bobber, ,, Lead Bobber, ,, Spinner, , &, Trap Bobber, unlocked in, Willy's Fish Shop",
+            "Cork Bobber, Treasure Hunter, Cork Bobber, &, Treasure Hunter, unlocked in, Willy's Fish Shop",
+            "Deluxe Worm Bin, Barbed Hook, Dressed Spinner, Barbed Hook, &, Dressed Spinner, unlocked in, Willy's Fish Shop, Casting distance increased by one tile",
+            "Seafoam Pudding, Magnet, Magnet, unlocked in, Willy's Fish Shop",
+            "Angler, Fish, worth 50% more.",
+            "Mariner, Crab pots, no longer produce, junk items, ."
           ],
           [
-            "Pirate Chance to find treasure doubled.",
-            "Luremaster Crab pots no longer require bait ."
+            "Pirate, Chance to find, treasure, doubled.",
+            "Luremaster, Crab pots, no longer require, bait, ."
           ]
         ]
       }
@@ -763,9 +763,9 @@
         "rows": [
           [
             "Lvl",
-            "Total Experience",
-            "Total Sardines (No stars)",
-            "Total Gold Star Legend Fish (225XP)",
+            "Total, Experience",
+            "Total Sardines, (No stars)",
+            "Total Gold Star Legend Fish, (225XP)",
             "Total Crab Pot"
           ],
           [
@@ -871,70 +871,70 @@
             "",
             "Chowder",
             "A perfect way to warm yourself after a cold night at sea.",
-            "Clam (1) Milk (1)",
-            "225 101",
-            "Fishing (+1)",
+            "Clam, (1), Milk, (1)",
+            "225, 101",
+            "Fishing, (+1)",
             "16m 47s",
-            "Willy (Mail - 3+ )",
-            "data-sort-value=\"135\"> 135g"
+            "Willy, (Mail - 3+, )",
+            "data-sort-value=\"135\">, 135g"
           ],
           [
             "",
             "Dish O' The Sea",
             "This'll keep you warm in the cold sea air.",
-            "Sardine (2) Hashbrowns (1)",
-            "150 67",
-            "Fishing (+3)",
+            "Sardine, (2), Hashbrowns, (1)",
+            "150, 67",
+            "Fishing, (+3)",
             "5m 35s",
-            "Fishing Level 3",
-            "data-sort-value=\"220\"> 220g"
+            "Fishing, Level 3",
+            "data-sort-value=\"220\">, 220g"
           ],
           [
             "",
             "Escargot",
             "Butter-soaked snails cooked to perfection.",
-            "Snail (1) Garlic (1)",
-            "225 101",
-            "Fishing (+2)",
+            "Snail, (1), Garlic, (1)",
+            "225, 101",
+            "Fishing, (+2)",
             "16m 47s",
-            "Willy (Mail - 5+ )",
-            "data-sort-value=\"125\"> 125g"
+            "Willy, (Mail - 5+, )",
+            "data-sort-value=\"125\">, 125g"
           ],
           [
             "",
             "Fish Stew",
             "It smells a lot like the sea. Tastes better, though.",
-            "Crayfish (1) Mussel (1) Periwinkle (1) Tomato (1)",
-            "225 101",
-            "Fishing (+3)",
+            "Crayfish, (1), Mussel, (1), Periwinkle, (1), Tomato, (1)",
+            "225, 101",
+            "Fishing, (+3)",
             "16m 47s",
-            "Willy (Mail - 7+ )",
-            "data-sort-value=\"175\"> 175g"
+            "Willy, (Mail - 7+, )",
+            "data-sort-value=\"175\">, 175g"
           ],
           [
             "",
             "Fish Taco",
             "It smells delicious.",
-            "Tuna (1) Tortilla (1) Red Cabbage (1) Mayonnaise (1)",
-            "165 74",
-            "Fishing (+2)",
+            "Tuna, (1), Tortilla, (1), Red Cabbage, (1), Mayonnaise, (1)",
+            "165, 74",
+            "Fishing, (+2)",
             "7m",
-            "Linus (Mail - 7+ )",
-            "data-sort-value=\"500\"> 500g"
+            "Linus, (Mail - 7+, )",
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Lobster Bisque",
             "This delicate soup is a secret family recipe of Willy's.",
-            "Lobster (1) Milk (1)",
-            "225 101",
-            "Fishing (+3) Max Energy (+50)",
+            "Lobster, (1), Milk, (1)",
+            "225, 101",
+            "Fishing, (+3), Max Energy, (+50)",
             "16m 47s",
-            "The Queen of Sauce 14 Winter, Year 2 Willy (Mail - 9+ )",
+            "The Queen of Sauce, 14 Winter, Year 2, Willy, (Mail - 9+, )",
             "",
             "The Queen of Sauce",
             "14 Winter, Year 2",
-            "data-sort-value=\"205\"> 205g"
+            "data-sort-value=\"205\">, 205g"
           ],
           [
             "",
@@ -947,15 +947,15 @@
             "",
             "Maple Bar",
             "It's a sweet doughnut topped with a rich maple glaze.",
-            "Maple Syrup (1) Sugar (1) Wheat Flour (1)",
-            "225 101",
-            "Farming (+1) Fishing (+1) Mining (+1)",
+            "Maple Syrup, (1), Sugar, (1), Wheat Flour, (1)",
+            "225, 101",
+            "Farming, (+1), Fishing, (+1), Mining, (+1)",
             "16m 47s",
-            "The Queen of Sauce 14 Summer, Year 2",
+            "The Queen of Sauce, 14 Summer, Year 2",
             "",
             "The Queen of Sauce",
             "14 Summer, Year 2",
-            "data-sort-value=\"300\"> 300g"
+            "data-sort-value=\"300\">, 300g"
           ],
           [
             "",
@@ -968,26 +968,26 @@
             "",
             "Seafoam Pudding",
             "This briny pudding will really get you into the maritime mindset!",
-            "Flounder (1) Midnight Carp (1) Squid Ink (1)",
-            "175 78",
-            "Fishing (+4)",
+            "Flounder, (1), Midnight Carp, (1), Squid Ink, (1)",
+            "175, 78",
+            "Fishing, (+4)",
             "3m 30s",
-            "Fishing (Level 9)",
-            "data-sort-value=\"300\"> 300g"
+            "Fishing, (Level 9)",
+            "data-sort-value=\"300\">, 300g"
           ],
           [
             "",
             "Shrimp Cocktail",
             "A sumptuous appetizer made with freshly-caught shrimp.",
-            "Tomato (1) Shrimp (1) Wild Horseradish (1)",
-            "225 101",
-            "Fishing (+1) Luck (+1)",
+            "Tomato, (1), Shrimp, (1), Wild Horseradish, (1)",
+            "225, 101",
+            "Fishing, (+1), Luck, (+1)",
             "10m 2s",
-            "The Queen of Sauce 28 Winter, Year 2",
+            "The Queen of Sauce, 28 Winter, Year 2",
             "",
             "The Queen of Sauce",
             "28 Winter, Year 2",
-            "data-sort-value=\"160\"> 160g"
+            "data-sort-value=\"160\">, 160g"
           ],
           [
             "",
@@ -1000,15 +1000,15 @@
             "",
             "Trout Soup",
             "Pretty salty.",
-            "Rainbow Trout (1) Green Algae (1)",
-            "100 45",
-            "Fishing (+1)",
+            "Rainbow Trout, (1), Green Algae, (1)",
+            "100, 45",
+            "Fishing, (+1)",
             "4m 39s",
-            "The Queen of Sauce 14 Fall, Year 1",
+            "The Queen of Sauce, 14 Fall, Year 1",
             "",
             "The Queen of Sauce",
             "14 Fall, Year 1",
-            "data-sort-value=\"100\"> 100g"
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
@@ -1041,35 +1041,35 @@
           [
             "",
             "Cioppino",
-            "Fishing (+3) Defense (+1)",
+            "Fishing, (+3), Defense, (+1)",
             "7m",
             "Shrimp + Rich Marinara"
           ],
           [
             "",
             "Rainforest Shrimp",
-            "Fishing (+3) Mining (+1)",
+            "Fishing, (+3), Mining, (+1)",
             "7m",
             "Shrimp + Mushroom Creme"
           ],
           [
             "",
             "Shrimp Donut",
-            "Fishing (+3) Luck (+1)",
+            "Fishing, (+3), Luck, (+1)",
             "7m",
             "Shrimp + Cherry Syrup"
           ],
           [
             "",
             "Smell Of The Sea",
-            "Fishing (+3) Attack (+1)",
+            "Fishing, (+3), Attack, (+1)",
             "7m",
             "Shrimp + Pungent Garlic"
           ],
           [
             "",
             "Desert Gumbo",
-            "Fishing (+3) Speed (+1)",
+            "Fishing, (+3), Speed, (+1)",
             "7m",
             "Shrimp + Uncomfortably Hot Sauce"
           ]
@@ -1100,7 +1100,7 @@
             "Rice Shoot",
             "2-10",
             "",
-            "Spring only, not at The Beach",
+            "Spring, only, not at, The Beach",
             "14%",
             "18%"
           ],
@@ -1108,7 +1108,7 @@
             "Wild Bait",
             "2-10",
             "",
-            "Must know the recipe for Wild Bait Chance is significantly increased if more than one fish is caught simultaneously, which is reflected with the extra percentage ranges given",
+            "Must know the recipe for Wild Bait, Chance is significantly increased if more than one fish is caught simultaneously, which is reflected with the extra percentage ranges given",
             "8-9%, 64-65%",
             "5-6%, 69%"
           ],
@@ -1116,7 +1116,7 @@
             "Qi Bean",
             "1-4",
             "",
-            "Only if the Qi's Crop Quest is active",
+            "Only if the, Qi's Crop, Quest is active",
             "43%",
             "51%"
           ],
@@ -1124,7 +1124,7 @@
             "Mystery Box",
             "1",
             "",
-            "Requires having seen Mr. Qi's cutscene and Foraging Mastery not claimed Chance increases with higher daily luck and if the player has received the power from the Book of Mysteries",
+            "Requires having seen Mr. Qi's cutscene and, Foraging Mastery, not claimed, Chance increases with higher daily, luck, and if the player has received the power from the, Book of Mysteries",
             "6-15%",
             "8-19%"
           ],
@@ -1132,7 +1132,7 @@
             "Golden Mystery Box",
             "1",
             "",
-            "Requires having seen Mr. Qi's cutscene and claiming Foraging Mastery Chance increases with higher daily luck and if the player has received the power from the Book of Mysteries",
+            "Requires having seen Mr. Qi's cutscene and claiming, Foraging Mastery, Chance increases with higher daily, luck, and if the player has received the power from the, Book of Mysteries",
             "6-15%",
             "8-19%"
           ],
@@ -1140,7 +1140,7 @@
             "Golden Animal Cracker",
             "1",
             "",
-            "Requires claiming Farming Mastery",
+            "Requires claiming, Farming Mastery",
             "7%",
             "9%"
           ],
@@ -1196,7 +1196,7 @@
             "Carrot Seeds",
             "8",
             "",
-            "Must be between Winter 21 and Spring 23",
+            "Must be between, Winter, 21 and, Spring, 23",
             "0%",
             "7%"
           ],
@@ -1204,7 +1204,7 @@
             "Summer Squash Seeds",
             "8",
             "",
-            "Must be between Spring 24 and Summer 20",
+            "Must be between, Spring, 24 and, Summer, 20",
             "0%",
             "7%"
           ],
@@ -1212,7 +1212,7 @@
             "Broccoli Seeds",
             "8",
             "",
-            "Must be between Summer 21 and Fall 20",
+            "Must be between, Summer, 21 and, Fall, 20",
             "0%",
             "7%"
           ],
@@ -1220,7 +1220,7 @@
             "Powdermelon Seeds",
             "8",
             "",
-            "Must be between Fall 21 and Winter 20",
+            "Must be between, Fall, 21 and, Winter, 20",
             "0%",
             "7%"
           ],
@@ -1244,7 +1244,7 @@
             "Dressed Spinner",
             "1",
             "6+",
-            "Distance from Land must be 5 to obtain in regular chests",
+            "Distance from Land, must be 5 to obtain in regular chests",
             "4%",
             "9%"
           ],
@@ -1308,7 +1308,7 @@
             "Iridium Ore",
             "1-2",
             "",
-            "Distance from Land must be 5",
+            "Distance from Land, must be 5",
             "1.1%",
             "0.7%"
           ],
@@ -1316,7 +1316,7 @@
             "Gold Ore",
             "1-24",
             "",
-            "Distance from Land must be 5",
+            "Distance from Land, must be 5",
             "9%",
             "6%"
           ],
@@ -1324,7 +1324,7 @@
             "Iron Ore",
             "1-24",
             "",
-            "Distance from Land must be 3 or 5. More likely at a Distance from Land of 3",
+            "Distance from Land, must be 3 or 5. More likely at a Distance from Land of 3",
             "5-10%",
             "3-6%"
           ],
@@ -1332,7 +1332,7 @@
             "Copper Ore",
             "1-24",
             "",
-            "More likely at lower Distance from Land values",
+            "More likely at lower, Distance from Land, values",
             "5-12%",
             "3-8%"
           ],
@@ -1340,7 +1340,7 @@
             "Wood",
             "1-24",
             "",
-            "More likely at lower Distance from Land values",
+            "More likely at lower, Distance from Land, values",
             "5-6%",
             "3-4%"
           ],
@@ -1348,7 +1348,7 @@
             "Stone",
             "1-24",
             "",
-            "More likely at lower Distance from Land values",
+            "More likely at lower, Distance from Land, values",
             "5-6%",
             "3-4%"
           ],
@@ -1356,7 +1356,7 @@
             "Coal",
             "1-24",
             "",
-            "More likely at Fishing levels less than 2, at lower Distance from Land values, and if Lost Books and Artifacts cannot be found",
+            "More likely at Fishing levels less than 2, at lower, Distance from Land, values, and if, Lost Books, and, Artifacts, cannot be found",
             "9-50%",
             "6-27%"
           ],
@@ -1372,7 +1372,7 @@
             "Bait",
             "1-15",
             "",
-            "Chance of obtaining is significantly reduced starting at Fishing level 6 Cannot appear in multiple slots starting at Fishing level 6",
+            "Chance of obtaining is significantly reduced starting at Fishing level 6, Cannot appear in multiple slots starting at Fishing level 6",
             "9-37%",
             "6-9%"
           ],
@@ -1380,7 +1380,7 @@
             "Lost Book",
             "1",
             "",
-            "Only if at least 1 Lost Book has already been found, and the Museum 's Library collection is not complete",
+            "Only if at least 1 Lost Book has already been found, and the, Museum, 's Library collection is not complete",
             "4%",
             "2%"
           ],
@@ -1388,7 +1388,7 @@
             "Skeletal Tail",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "2.8-3.1%",
             "1.7-1.9%"
           ],
@@ -1396,7 +1396,7 @@
             "Nautilus Fossil",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "2.8-3.1%",
             "1.7-1.9%"
           ],
@@ -1404,7 +1404,7 @@
             "Amphibian Fossil",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "2.8-3.1%",
             "1.7-1.9%"
           ],
@@ -1412,7 +1412,7 @@
             "Ancient Doll",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1420,7 +1420,7 @@
             "Elvish Jewelry",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1428,7 +1428,7 @@
             "Chewing Stick",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1436,7 +1436,7 @@
             "Ornamental Fan",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1444,7 +1444,7 @@
             "Dinosaur Egg",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1452,7 +1452,7 @@
             "Rare Disc",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1460,7 +1460,7 @@
             "Ancient Sword",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1468,7 +1468,7 @@
             "Rusty Spoon",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1476,7 +1476,7 @@
             "Rusty Spur",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1484,7 +1484,7 @@
             "Rusty Cog",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1492,7 +1492,7 @@
             "Chicken Statue",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1500,7 +1500,7 @@
             "Ancient Seed",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1508,7 +1508,7 @@
             "Prehistoric Tool",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1516,7 +1516,7 @@
             "Dried Starfish",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1524,7 +1524,7 @@
             "Anchor",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1532,7 +1532,7 @@
             "Glass Shards",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1540,7 +1540,7 @@
             "Bone Flute",
             "1",
             "2+",
-            "Only if at least 1 artifact has already been found",
+            "Only if at least 1, artifact, has already been found",
             "0.7-0.8%",
             "0.5%"
           ],
@@ -1548,7 +1548,7 @@
             "Geode",
             "1-6",
             "",
-            "More likely at lower Distance from Land values",
+            "More likely at lower, Distance from Land, values",
             "4-16%",
             "2-11%"
           ],
@@ -1556,7 +1556,7 @@
             "Magma Geode",
             "1-6",
             "",
-            "Distance from Land must be 5",
+            "Distance from Land, must be 5",
             "5%",
             "3%"
           ],
@@ -1564,7 +1564,7 @@
             "Frozen Geode",
             "1-6",
             "",
-            "Distance from Land must be 3 or 5. More likely at a Distance from Land of 3",
+            "Distance from Land, must be 3 or 5. More likely at a Distance from Land of 3",
             "4-12%",
             "2-8%"
           ],
@@ -1572,7 +1572,7 @@
             "Fire Quartz",
             "1-4",
             "2+",
-            "Distance from Land must be 5",
+            "Distance from Land, must be 5",
             "3.7%",
             "2.3%"
           ],
@@ -1580,7 +1580,7 @@
             "Ruby",
             "1-4",
             "2+",
-            "Distance from Land must be 5",
+            "Distance from Land, must be 5",
             "4.3%",
             "2.7%"
           ],
@@ -1588,7 +1588,7 @@
             "Emerald",
             "1-4",
             "2+",
-            "Distance from Land must be 5",
+            "Distance from Land, must be 5",
             "4.3%",
             "2.7%"
           ],
@@ -1596,7 +1596,7 @@
             "Frozen Tear",
             "1-4",
             "2+",
-            "Distance from Land must be 3",
+            "Distance from Land, must be 3",
             "3.7%",
             "2.3%"
           ],
@@ -1604,7 +1604,7 @@
             "Jade",
             "1-4",
             "2+",
-            "Distance from Land must be 3",
+            "Distance from Land, must be 3",
             "4.3%",
             "2.7%"
           ],
@@ -1612,7 +1612,7 @@
             "Aquamarine",
             "1-4",
             "2+",
-            "Distance from Land must be 3",
+            "Distance from Land, must be 3",
             "4.3%",
             "2.7%"
           ],
@@ -1620,7 +1620,7 @@
             "Earth Crystal",
             "1-4",
             "2+",
-            "Distance from Land must be 2 or less",
+            "Distance from Land, must be 2 or less",
             "3.7%",
             "2.3%"
           ],
@@ -1628,7 +1628,7 @@
             "Amethyst",
             "1-4",
             "2+",
-            "Distance from Land must be 2 or less",
+            "Distance from Land, must be 2 or less",
             "4.3%",
             "2.7%"
           ],
@@ -1636,7 +1636,7 @@
             "Topaz",
             "1-4",
             "2+",
-            "Distance from Land must be 2 or less",
+            "Distance from Land, must be 2 or less",
             "4.3%",
             "2.7%"
           ],
@@ -1644,7 +1644,7 @@
             "Diamond",
             "1-2",
             "2+",
-            "More likely at higher Distance from Land values",
+            "More likely at higher, Distance from Land, values",
             "3-4%",
             "2-3%"
           ],
@@ -1684,7 +1684,7 @@
             "Glow Ring",
             "1",
             "2+",
-            "Requires a Luck buff; chance increases with magnitude of buff",
+            "Requires a, Luck, buff; chance increases with magnitude of buff",
             "≈0.03-0.09%",
             "≈0.02-0.06%"
           ],
@@ -1701,7 +1701,7 @@
             "Magnet Ring",
             "1",
             "2+",
-            "Requires a Luck buff; chance increases with magnitude of buff",
+            "Requires a, Luck, buff; chance increases with magnitude of buff",
             "≈0.03-0.09%",
             "≈0.02-0.06%"
           ],
@@ -1773,7 +1773,7 @@
             "Strange Doll",
             "1",
             "2+",
-            "Possible even if no artifacts previously found",
+            "Possible even if no, artifacts, previously found",
             "≈0.12%",
             "≈0.08%"
           ],
@@ -1781,7 +1781,7 @@
             "Strange Doll",
             "1",
             "2+",
-            "Possible even if no artifacts previously found",
+            "Possible even if no, artifacts, previously found",
             "≈0.12%",
             "≈0.08%"
           ],
@@ -1877,7 +1877,7 @@
             "Golden Egg",
             "1",
             "2+",
-            "Requires achieving Perfection",
+            "Requires achieving, Perfection",
             "≈0.12%",
             "≈0.08%"
           ],
@@ -1885,7 +1885,7 @@
             "Golden Bobber",
             "1",
             "",
-            "Can only get when Willy's \"Golden Bobber\" quest is active during the Desert Festival and cannot already have Golden Bobber in inventory Cannot appear in multiple slots",
+            "Can only get when Willy's \"Golden Bobber\" quest is active during the, Desert Festival, and cannot already have Golden Bobber in inventory, Cannot appear in multiple slots",
             "100%",
             "100%"
           ],
@@ -1893,7 +1893,7 @@
             "Roe",
             "1-6",
             "",
-            "Requires having the power obtained from the Jewels Of The Sea book, gives the same fish roe as the fish being caught Cannot appear in multiple slots",
+            "Requires having the power obtained from the, Jewels Of The Sea, book, gives the same fish roe as the fish being caught, Cannot appear in multiple slots",
             "25%",
             "25%"
           ],
@@ -1901,7 +1901,7 @@
             "Jewels Of The Sea",
             "1",
             "5+",
-            "Must have already opened at least 2 other fishing treasure chests, chance is greater if book has not been found before Cannot appear in multiple slots",
+            "Must have already opened at least 2 other fishing treasure chests, chance is greater if book has not been found before, Cannot appear in multiple slots",
             ">=2.1%",
             ">=2.1%"
           ],
@@ -1909,7 +1909,7 @@
             "Golden Tag",
             "1",
             "",
-            "Can only get during the Trout Derby festival when catching a Rainbow Trout . Chance is equal to 33% x [number of fish caught simultaneously]. Cannot appear in multiple slots",
+            "Can only get during the, Trout Derby, festival when catching a, Rainbow Trout, . Chance is equal to 33% x [number of fish caught simultaneously]., Cannot appear in multiple slots",
             "33-99%",
             "33-99%"
           ]
@@ -1933,62 +1933,62 @@
           [
             "",
             "'Boat'",
-            "Fish at the southwest spot of the Beach Farm ."
+            "Fish at the southwest spot of the, Beach Farm, ."
           ],
           [
             "",
             "Decorative Trash Can",
-            "Fish in the fountain west of the Community Center in Pelican Town . This item can also be found in the Furniture Catalogue ."
+            "Fish in the fountain west of the, Community Center, in, Pelican Town, . This item can also be found in the, Furniture Catalogue, ."
           ],
           [
             "",
             "Foliage Print",
-            "Fish in the river at the west of Ginger Island North."
+            "Fish in the river at the west of, Ginger Island, North."
           ],
           [
             "",
             "Frog Hat",
-            "Fish in Gourmand Frog's cave on Ginger Island ."
+            "Fish in Gourmand Frog's cave on, Ginger Island, ."
           ],
           [
             "",
             "Gourmand Statue",
-            "Fish in the Pirate Cove on Ginger Island ."
+            "Fish in the Pirate Cove on, Ginger Island, ."
           ],
           [
             "",
             "Iridium Krobus",
-            "Fish at the southernmost point of Cindersap Forest near the entrance to the Sewers with a fishing level of at least 15."
+            "Fish at the southernmost point of, Cindersap Forest, near the entrance to, the Sewers, with a fishing level of at least 15."
           ],
           [
             "",
             "Lifesaver",
-            "Fish in the backroom of Willy 's Fish Shop ."
+            "Fish in the backroom of, Willy, 's, Fish Shop, ."
           ],
           [
             "",
             "'Physics 101'",
-            "Fish in the Volcano Caldera ."
+            "Fish in the, Volcano Caldera, ."
           ],
           [
             "",
             "Pyramid Decal",
-            "Fish in the southern pond in the Calico Desert ."
+            "Fish in the southern pond in, the Calico Desert, ."
           ],
           [
             "",
             "Squirrel Figurine",
-            "Fish at the west edge of the river in an area on Ginger Island accessible through the volcano."
+            "Fish at the west edge of the river in an area on, Ginger Island, accessible through the volcano."
           ],
           [
             "",
             "'Vista'",
-            "Fish in the pond outside the Spa . (Cannot be obtained in Winter .)"
+            "Fish in the pond outside the, Spa, . (Cannot be obtained in, Winter, .)"
           ],
           [
             "",
             "Wall Basket",
-            "Fish in the Secret Woods pond during any season."
+            "Fish in the, Secret Woods, pond during any season."
           ]
         ]
       }
@@ -2001,15 +2001,15 @@
         ],
         "rows": [
           [
-            "Skills & Stats"
+            "Skills, & Stats"
           ],
           [
             "Skills",
-            "Farming • Mining • Foraging • Fishing • Combat"
+            "Farming, •, Mining, •, Foraging, •, Fishing, •, Combat"
           ],
           [
             "Stats",
-            "Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight"
+            "Attack, •, Crit. Chance, •, Crit. Power, •, Defense, •, Immunity, •, Luck, •, Magnetism, •, Speed, •, Weight"
           ]
         ]
       }

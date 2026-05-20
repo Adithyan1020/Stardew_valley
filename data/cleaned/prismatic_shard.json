@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Prismatic Shard A very rare and powerful substance with unknown origins. Information Source Mining • Fishing Treasure Chests • Monsters ' drop • Omni Geodes • Rainbow Trout Fish Ponds • Treasure room • Statue Of True Perfection • Meteorite • Mystery Box • Golden Mystery Box Sell Price data-sort-value=\"2000 \"> 2,000g Gemologist Profession (+30% Sell Price) data-sort-value=\"2600 \"> 2,600g\nThe Prismatic Shard is a Mineral . It is one of the rarest items in the game, and has a variety of uses, including obtaining the Galaxy Sword ."
+      "content": "The Prismatic Shard is a Mineral . It is one of the rarest items in the game, and has a variety of uses, including obtaining the Galaxy Sword ."
     },
     {
       "heading": "Locations",
@@ -37,6 +37,38 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Prismatic Shard"
+          ],
+          [
+            ""
+          ],
+          [
+            "A very rare and powerful substance with unknown origins."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Mining, •, Fishing Treasure Chests, •, Monsters, ' drop •, Omni Geodes, •, Rainbow Trout, Fish Ponds, •, Treasure room, •, Statue Of True Perfection, •, Meteorite, •, Mystery Box, •, Golden Mystery Box"
+          ],
+          [
+            "Sell Price",
+            "data-sort-value=\"2000 \">, 2,000g"
+          ],
+          [
+            "Gemologist Profession, (+30% Sell Price)",
+            "data-sort-value=\"2600 \">, 2,600g"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Gifting",
       "table": {
         "headers": [
@@ -48,7 +80,7 @@
           ],
           [
             "Love",
-            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+            "Abigail, •, Alex, •, Caroline, •, Clint, •, Demetrius, •, Dwarf, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Harvey, •, Jas, •, Jodi, •, Kent, •, Krobus, •, Leah, •, Leo, •, Lewis, •, Linus, •, Marnie, •, Maru, •, Pam, •, Penny, •, Pierre, •, Robin, •, Sam, •, Sandy, •, Sebastian, •, Shane, •, Vincent, •, Willy, •, Wizard"
           ],
           [
             "Hate",
@@ -78,9 +110,9 @@
           [
             "",
             "Wedding Ring",
-            "An old Zuzu City tradition... It's used to ask for another farmer's hand in marriage. Used only in multiplayer games.",
-            "Iridium Bar (5) Prismatic Shard (1)",
-            "Traveling Cart data-sort-value=\"500\"> 500g"
+            "An old Zuzu City tradition... It's used to ask for another farmer's hand in marriage., Used only in, multiplayer, games.",
+            "Iridium Bar, (5), Prismatic Shard, (1)",
+            "Traveling Cart, data-sort-value=\"500\">, 500g"
           ]
         ]
       }
@@ -97,19 +129,19 @@
           ],
           [
             "Foraged Minerals",
-            "Earth Crystal • Fire Quartz • Frozen Tear • Quartz"
+            "Earth Crystal, •, Fire Quartz, •, Frozen Tear, •, Quartz"
           ],
           [
             "Gems",
-            "Amethyst • Aquamarine • Diamond • Emerald • Jade • Prismatic Shard • Ruby • Topaz"
+            "Amethyst, •, Aquamarine, •, Diamond, •, Emerald, •, Jade, •, Prismatic Shard, •, Ruby, •, Topaz"
           ],
           [
             "Geode Minerals",
-            "Aerinite • Alamite • Baryte • Basalt • Bixite • Calcite • Celestine • Dolomite • Esperite • Fairy Stone • Fire Opal • Fluorapatite • Geminite • Ghost Crystal • Granite • Helvite • Hematite • Jagoite • Jamborite • Jasper • Kyanite • Lemon Stone • Limestone • Lunarite • Malachite • Marble • Mudstone • Nekoite • Neptunite • Obsidian • Ocean Stone • Opal • Orpiment • Petrified Slime • Pyrite • Sandstone • Slate • Soapstone • Star Shards • Thunder Egg • Tigerseye"
+            "Aerinite, •, Alamite, •, Baryte, •, Basalt, •, Bixite, •, Calcite, •, Celestine, •, Dolomite, •, Esperite, •, Fairy Stone, •, Fire Opal, •, Fluorapatite, •, Geminite, •, Ghost Crystal, •, Granite, •, Helvite, •, Hematite, •, Jagoite, •, Jamborite, •, Jasper, •, Kyanite, •, Lemon Stone, •, Limestone, •, Lunarite, •, Malachite, •, Marble, •, Mudstone, •, Nekoite, •, Neptunite, •, Obsidian, •, Ocean Stone, •, Opal, •, Orpiment, •, Petrified Slime, •, Pyrite, •, Sandstone, •, Slate, •, Soapstone, •, Star Shards, •, Thunder Egg, •, Tigerseye"
           ],
           [
             "Geodes",
-            "Geode • Frozen Geode • Magma Geode • Omni Geode"
+            "Geode, •, Frozen Geode, •, Magma Geode, •, Omni Geode"
           ]
         ]
       }

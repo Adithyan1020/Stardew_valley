@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Auto-Petter Joja Co. patented technology for coops and barns. Keeps your animals content, but can't replace the full benefit of human touch. Hand-petting can be provided to supplement. Information Cost: data-sort-value=\"50000\"> 50,000g Sold by: JojaMart\nThe Auto-Petter is a tool used to automatically pet barn and coop animals every day. It can be purchased from JojaMart for data-sort-value=\"50000\"> 50,000g after completing the Joja Community Development Form . It can also be found in Skull Cavern treasure chests (3.6% chance) and Golden Mystery Boxes (0.5% chance). Additionally, it can be obtained by killing monsters as a special item in The Mines during the Danger In The Deep quest or after activating the Shrine of Challenge .\nAuto-Petters can be placed anywhere, but will not do anything unless placed inside a barn or coop. To remove an Auto-Petter, it must be struck with a tool or by repeated left-clicking.\nAuto-Petters cannot be sold or deconstructed ."
+      "content": "The Auto-Petter is a tool used to automatically pet barn and coop animals every day. It can be purchased from JojaMart for data-sort-value=\"50000\"> 50,000g after completing the Joja Community Development Form . It can also be found in Skull Cavern treasure chests (3.6% chance) and Golden Mystery Boxes (0.5% chance). Additionally, it can be obtained by killing monsters as a special item in The Mines during the Danger In The Deep quest or after activating the Shrine of Challenge .\nAuto-Petters can be placed anywhere, but will not do anything unless placed inside a barn or coop. To remove an Auto-Petter, it must be struck with a tool or by repeated left-clicking.\nAuto-Petters cannot be sold or deconstructed ."
     },
     {
       "heading": "Animal Friendship",
@@ -17,6 +17,34 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Auto-Petter"
+          ],
+          [
+            ""
+          ],
+          [
+            "Joja Co. patented technology for coops and barns. Keeps your animals content, but can't replace the full benefit of human touch. Hand-petting can be provided to supplement."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Cost:",
+            "data-sort-value=\"50000\">, 50,000g"
+          ],
+          [
+            "Sold by:",
+            "JojaMart"
+          ]
+        ]
+      }
+    },
+    {
       "section": "History",
       "table": {
         "headers": [
@@ -28,15 +56,15 @@
           ],
           [
             "Basic",
-            "Axes • Golden Scythe • Iridium Scythe • Hoes • Pans • Pickaxes • Scythe • Trash Cans • Watering Cans"
+            "Axes, •, Golden Scythe, •, Iridium Scythe, •, Hoes, •, Pans, •, Pickaxes, •, Scythe, •, Trash Cans, •, Watering Cans"
           ],
           [
             "Fishing",
-            "Training Rod • Bamboo Pole • Fiberglass Rod • Iridium Rod • Advanced Iridium Rod • Crab Pot"
+            "Training Rod, •, Bamboo Pole, •, Fiberglass Rod, •, Iridium Rod, •, Advanced Iridium Rod, •, Crab Pot"
           ],
           [
             "Other",
-            "Auto-Grabber • Auto-Petter • Hay Hopper • Heater • Incubator • Milk Pail • Ostrich Incubator • Shears"
+            "Auto-Grabber, •, Auto-Petter, •, Hay Hopper, •, Heater, •, Incubator, •, Milk Pail, •, Ostrich Incubator, •, Shears"
           ]
         ]
       }

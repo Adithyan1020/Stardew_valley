@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Chicken Well cared-for adult chickens lay eggs every day. Lives in the coop. Information Building Coop Purchase Price data-sort-value=\"800 \"> 800g Produce Egg Brown Egg Large Egg Large Brown Egg\nThe Chicken is a farm animal that lives in a Coop . Chickens can be purchased at Marnie's Ranch for data-sort-value=\"800\"> 800g or hatched by placing an Egg into an Incubator , taking 9,000m (5d 16h 40m) to incubate, or 4,500m (2d 21h 40m) with the Coopmaster Profession . Additionally, two chickens are present on the farm by default on the Meadowlands Farm Map ."
+      "content": "The Chicken is a farm animal that lives in a Coop . Chickens can be purchased at Marnie's Ranch for data-sort-value=\"800\"> 800g or hatched by placing an Egg into an Incubator , taking 9,000m (5d 16h 40m) to incubate, or 4,500m (2d 21h 40m) with the Coopmaster Profession . Additionally, two chickens are present on the farm by default on the Meadowlands Farm Map ."
     },
     {
       "heading": "Color",
@@ -37,6 +37,38 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Chicken"
+          ],
+          [
+            ""
+          ],
+          [
+            "Well cared-for adult chickens lay eggs every day. Lives in the coop."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Building",
+            "Coop"
+          ],
+          [
+            "Purchase Price",
+            "data-sort-value=\"800 \">, 800g"
+          ],
+          [
+            "Produce",
+            "Egg, Brown Egg, Large Egg, Large Brown Egg"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Produce",
       "table": {
         "headers": [
@@ -54,9 +86,9 @@
           ],
           [
             "",
-            "Egg Brown Egg",
-            "A regular white chicken egg. A regular brown chicken egg.",
-            "50g 62g 75g 100g",
+            "Egg, Brown Egg",
+            "A regular white chicken egg., A regular brown chicken egg.",
+            "50g, 62g, 75g, 100g",
             "",
             "50g",
             "",
@@ -84,9 +116,9 @@
           ],
           [
             "",
-            "Large Egg Large Brown Egg",
-            "It's an uncommonly large white egg! It's an uncommonly large brown egg!",
-            "95g 118g 142g 190g",
+            "Large Egg, Large Brown Egg",
+            "It's an uncommonly large white egg!, It's an uncommonly large brown egg!",
+            "95g, 118g, 142g, 190g",
             "",
             "95g",
             "",
@@ -123,15 +155,15 @@
         ],
         "rows": [
           [
-            "Animals and Produce"
+            "Animals, and Produce"
           ],
           [
             "Coop",
-            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+            "Chicken, •, Dinosaur, •, Duck, •, Golden Chicken, •, Rabbit, •, Void Chicken"
           ],
           [
             "Barn",
-            "Cow • Goat • Sheep • Ostrich • Pig"
+            "Cow, •, Goat, •, Sheep, •, Ostrich, •, Pig"
           ],
           [
             "Fish Pond",
@@ -143,7 +175,7 @@
           ],
           [
             "Other",
-            "Cat • Dog • Horse • Turtle"
+            "Cat, •, Dog, •, Horse, •, Turtle"
           ]
         ]
       }

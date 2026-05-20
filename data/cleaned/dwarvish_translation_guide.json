@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Dwarvish Translation Guide Teaches you dwarvish. Information Source Museum donation reward Sell Price Cannot be sold\nThe Dwarvish Translation Guide is a special item unlocked by donating all 4 Dwarf Scrolls to the Museum .\nIt unlocks the player's ability to understand the language of the dwarves. This allows the player to communicate with the Dwarf in the Mines , the Dwarf in the Volcano Dungeon , and to read the rightmost gravestone in the Graveyard .\nOnce obtained, it can be found in the Player 's Menu on the Special Items & Powers tab."
+      "content": "The Dwarvish Translation Guide is a special item unlocked by donating all 4 Dwarf Scrolls to the Museum .\nIt unlocks the player's ability to understand the language of the dwarves. This allows the player to communicate with the Dwarf in the Mines , the Dwarf in the Volcano Dungeon , and to read the rightmost gravestone in the Graveyard .\nOnce obtained, it can be found in the Player 's Menu on the Special Items & Powers tab."
     },
     {
       "heading": "Trivia",
@@ -24,6 +24,34 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Dwarvish Translation Guide"
+          ],
+          [
+            ""
+          ],
+          [
+            "Teaches you dwarvish."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Museum, donation reward"
+          ],
+          [
+            "Sell Price",
+            "Cannot be sold"
+          ]
+        ]
+      }
+    },
     {
       "section": "Scrolls",
       "table": {
@@ -46,29 +74,29 @@
             "",
             "Dwarf Scroll I",
             "A yellowed scroll of parchment filled with dwarven script. This one's tied with a red bow.",
-            "data-sort-value=\"1\"> 1g",
-            "Tilling in Mines/Skull Cavern (any floor) (0.16%) Several monsters (0.5% each)"
+            "data-sort-value=\"1\">, 1g",
+            "Tilling in Mines/Skull Cavern (any floor) (0.16%), Several monsters (0.5% each)"
           ],
           [
             "",
             "Dwarf Scroll II",
             "A yellowed scroll of parchment filled with dwarven script. This one's tied with a green ribbon.",
-            "data-sort-value=\"1\"> 1g",
-            "Tilling in Mines (floor 1-39) (0.1%) Ghost drop (0.5%) Frost Bat drop (0.5%) Dust Sprite drop (0.5%) Blue Slime drop (0.5%)"
+            "data-sort-value=\"1\">, 1g",
+            "Tilling in Mines (floor 1-39) (0.1%), Ghost, drop (0.5%), Frost Bat drop (0.5%), Dust Sprite, drop (0.5%), Blue Slime drop (0.5%)"
           ],
           [
             "",
             "Dwarf Scroll III",
             "A yellowed scroll of parchment filled with dwarven script. This one's tied with a blue rope.",
-            "data-sort-value=\"1\"> 1g",
+            "data-sort-value=\"1\">, 1g",
             "Several monsters drop (1.5% for Blue Slime, 0.5% for others)"
           ],
           [
             "",
             "Dwarf Scroll IV",
             "A yellowed scroll of parchment filled with dwarven script. This one's tied with a golden chain.",
-            "data-sort-value=\"1\"> 1g",
-            "Any Monster (other than Serpent , Skeleton , Wilderness Golem , Carbon Ghost , Iridium Bat , Iridium Crab , and Haunted Skull ) (0.1%) Tilling in Mines (floor 80+) (0.2%)"
+            "data-sort-value=\"1\">, 1g",
+            "Any Monster (other than, Serpent, ,, Skeleton, ,, Wilderness Golem, ,, Carbon Ghost, ,, Iridium Bat, ,, Iridium Crab, , and, Haunted Skull, ) (0.1%), Tilling in Mines (floor 80+) (0.2%)"
           ]
         ]
       }

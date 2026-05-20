@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Willy Information Birthday Summer 24 Lives In The Beach Address Fish Shop Marriage No Clinic Visit Spring 9 Loved Gifts Catfish Diamond Gold Bar Iridium Bar Jewels Of The Sea Mead Octopus Pumpkin Sea Cucumber Sturgeon The Art O' Crabbing\nWilly is a villager who grew up traveling among the Fern Islands and now lives south of Pelican Town on The Beach . He sells bait and fishing supplies in his shop . His shop is open every day but will be closed on Saturday if the weather is nice enough for him to go fishing."
+      "content": "Willy is a villager who grew up traveling among the Fern Islands and now lives south of Pelican Town on The Beach . He sells bait and fishing supplies in his shop . His shop is open every day but will be closed on Saturday if the weather is nice enough for him to go fishing."
     },
     {
       "heading": "Schedule",
@@ -70,6 +70,47 @@
         "headers": [],
         "rows": [
           [
+            "Willy"
+          ],
+          [
+            ""
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Birthday",
+            "Summer, 24"
+          ],
+          [
+            "Lives In",
+            "The Beach"
+          ],
+          [
+            "Address",
+            "Fish Shop"
+          ],
+          [
+            "Marriage",
+            "No"
+          ],
+          [
+            "Clinic Visit",
+            "Spring, 9"
+          ],
+          [
+            "Loved Gifts",
+            "Catfish, Diamond, Gold Bar, Iridium Bar, Jewels Of The Sea, Mead, Octopus, Pumpkin, Sea Cucumber, Sturgeon, The Art O' Crabbing"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
             "“",
             "“A true angler has respect for the water... don't you forget that.”"
           ],
@@ -91,31 +132,31 @@
           ],
           [
             "6:10 AM",
-            "Wakes up for the day, goes fishing outside his fish shop ."
+            "Wakes up for the day, goes fishing outside his, fish shop, ."
           ],
           [
             "8:50 AM",
-            "Goes back inside fish shop from the beach ."
+            "Goes back inside, fish shop, from, the beach, ."
           ],
           [
             "9:00 AM",
-            "Starts working at the counter in the fish shop , goods are available for sale. \"I have a doctor's appointment today, so if you need to buy anything you'd better hurry.\""
+            "Starts working at the counter in the, fish shop, , goods are available for sale., \"I have a doctor's appointment today, so if you need to buy anything you'd better hurry.\""
           ],
           [
             "10:10 AM",
-            "Leaves the fish shop , walks over to the Harvey's Clinic . \"Eh, I got a fish hook stuck in my thumb... the Doctor's gonna cut it out.\""
+            "Leaves the, fish shop, , walks over to the, Harvey's Clinic, ., \"Eh, I got a fish hook stuck in my thumb... the Doctor's gonna cut it out.\""
           ],
           [
             "1:30 PM",
-            "Continues checkup at the Harvey's Clinic . \"Yowch! That hurt, Doc!\""
+            "Continues checkup at the, Harvey's Clinic, ., \"Yowch! That hurt, Doc!\""
           ],
           [
             "5:00 PM",
-            "Leaves the Harvey's Clinic , walks over to the saloon . \"I need a little warm-me-up to be ready for another cold night on the ocean.\""
+            "Leaves the, Harvey's Clinic, , walks over to, the saloon, ., \"I need a little warm-me-up to be ready for another cold night on the ocean.\""
           ],
           [
             "11:20 PM",
-            "Leaves the saloon to head home for the night."
+            "Leaves, the saloon, to head home for the night."
           ]
         ]
       }
@@ -132,7 +173,7 @@
           ],
           [
             "9:00 AM",
-            "Boards the bus to Calico Desert to attend the Desert Festival ."
+            "Boards the bus to, Calico Desert, to attend the, Desert Festival, ."
           ],
           [
             "9:10 AM",
@@ -153,19 +194,19 @@
           ],
           [
             "6:10 AM",
-            "Wakes up for the day, goes fishing outside his fish shop ."
+            "Wakes up for the day, goes fishing outside his, fish shop, ."
           ],
           [
             "8:50 AM",
-            "Returns to the fish shop ."
+            "Returns to the, fish shop, ."
           ],
           [
             "10:00 AM",
-            "Leaves the beach , goes to Cindersap Forest to fish in the Trout Derby in the river to the southwest of Leah's Cottage ."
+            "Leaves, the beach, , goes to, Cindersap Forest, to fish in the, Trout Derby, in the river to the southwest of, Leah's Cottage, ."
           ],
           [
             "11:20 PM",
-            "Leaves Cindersap Forest to head home for the night."
+            "Leaves, Cindersap Forest, to head home for the night."
           ]
         ]
       }
@@ -182,19 +223,19 @@
           ],
           [
             "6:10 AM",
-            "Wakes up for the day, goes fishing outside his fish shop ."
+            "Wakes up for the day, goes fishing outside his, fish shop, ."
           ],
           [
             "8:50 AM",
-            "Returns to the fish shop ."
+            "Returns to the, fish shop, ."
           ],
           [
             "12:00 PM",
-            "Heads out to the beach to fish in the SquidFest ."
+            "Heads out to, the beach, to fish in the, SquidFest, ."
           ],
           [
             "11:20 PM",
-            "Leaves the beach to head home for the night."
+            "Leaves, the beach, to head home for the night."
           ]
         ]
       }
@@ -211,11 +252,11 @@
           ],
           [
             "4:30 PM",
-            "At The Stardrop Saloon ."
+            "At, The Stardrop Saloon, ."
           ],
           [
             "12:20 AM",
-            "Returns to the fish shop ."
+            "Returns to the, fish shop, ."
           ]
         ]
       }
@@ -232,7 +273,7 @@
           ],
           [
             "All day",
-            "In The Stardrop Saloon ."
+            "In, The Stardrop Saloon, ."
           ]
         ]
       }
@@ -249,23 +290,23 @@
           ],
           [
             "6:10 AM",
-            "Wakes up for the day, goes fishing outside his fish shop ."
+            "Wakes up for the day, goes fishing outside his, fish shop, ."
           ],
           [
             "8:50 AM",
-            "Goes back inside fish shop from the beach ."
+            "Goes back inside, fish shop, from, the beach, ."
           ],
           [
             "9:00 AM",
-            "Starts working at the counter in the fish shop , goods are available for sale."
+            "Starts working at the counter in the, fish shop, , goods are available for sale."
           ],
           [
             "5:00 PM",
-            "Leaves the fish shop , walks over to the saloon . \"I need a little warm-me-up to be ready for another cold night on the ocean.\""
+            "Leaves the, fish shop, , walks over to, the saloon, ., \"I need a little warm-me-up to be ready for another cold night on the ocean.\""
           ],
           [
             "11:20 PM",
-            "Leaves the saloon to head home for the night."
+            "Leaves, the saloon, to head home for the night."
           ]
         ]
       }
@@ -282,23 +323,23 @@
           ],
           [
             "6:10 AM",
-            "Wakes up for the day, goes fishing outside his fish shop ."
+            "Wakes up for the day, goes fishing outside his, fish shop, ."
           ],
           [
             "8:50 AM",
-            "Goes back inside fish shop from the beach ."
+            "Goes back inside, fish shop, from, the beach, ."
           ],
           [
             "9:00 AM",
-            "Starts working at the counter in the fish shop , goods are available for sale."
+            "Starts working at the counter in the, fish shop, , goods are available for sale."
           ],
           [
             "5:00 PM",
-            "Leaves the fish shop , walks over to the saloon . \"Handling salty fish all day makes me real thirsty.\""
+            "Leaves the, fish shop, , walks over to, the saloon, ., \"Handling salty fish all day makes me real thirsty.\""
           ],
           [
             "11:20 PM",
-            "Leaves the saloon to head home for the night."
+            "Leaves, the saloon, to head home for the night."
           ]
         ]
       }
@@ -315,19 +356,19 @@
           ],
           [
             "6:10 AM",
-            "Wakes up for the day, walks through town to go fishing at the river outside Leah's cottage ."
+            "Wakes up for the day, walks through town to go fishing at the river outside, Leah's cottage, ."
           ],
           [
             "2:00 PM",
-            "Leaves the river and heads into Pelican Town for more river fishing."
+            "Leaves, the river, and heads into, Pelican Town, for more river fishing."
           ],
           [
             "7:00 PM",
-            "Walks over to the saloon . \"Ah... Nothing's better than kicking back with a cold one after a relaxing day fishing.\""
+            "Walks over to, the saloon, ., \"Ah... Nothing's better than kicking back with a cold one after a relaxing day fishing.\""
           ],
           [
             "11:00 PM",
-            "Leaves the saloon to head home for the night."
+            "Leaves, the saloon, to head home for the night."
           ]
         ]
       }
@@ -344,23 +385,23 @@
           ],
           [
             "6:10 AM",
-            "Wakes up for the day, goes fishing outside his fish shop ."
+            "Wakes up for the day, goes fishing outside his, fish shop, ."
           ],
           [
             "8:50 AM",
-            "Goes back inside fish shop from the beach ."
+            "Goes back inside, fish shop, from, the beach, ."
           ],
           [
             "9:00 AM",
-            "Starts working at the counter in the fish shop , goods are available for sale."
+            "Starts working at the counter in the, fish shop, , goods are available for sale."
           ],
           [
             "5:00 PM",
-            "Leaves the fish shop , walks over to the saloon . \"I need a little warm-me-up to be ready for another cold night on the ocean.\""
+            "Leaves the, fish shop, , walks over to, the saloon, ., \"I need a little warm-me-up to be ready for another cold night on the ocean.\""
           ],
           [
             "11:20 PM",
-            "Leaves the saloon to head home for the night."
+            "Leaves, the saloon, to head home for the night."
           ]
         ]
       }
@@ -377,23 +418,23 @@
           ],
           [
             "6:10 AM",
-            "Wakes up for the day, goes fishing outside his fish shop ."
+            "Wakes up for the day, goes fishing outside his, fish shop, ."
           ],
           [
             "8:50 AM",
-            "Goes back inside fish shop from the beach ."
+            "Goes back inside, fish shop, from, the beach, ."
           ],
           [
             "9:00 AM",
-            "Starts working at the counter in the fish shop , goods are available for sale."
+            "Starts working at the counter in the, fish shop, , goods are available for sale."
           ],
           [
             "5:00 PM",
-            "Leaves the fish shop , goes out to fish on the beach ."
+            "Leaves the, fish shop, , goes out to fish on, the beach, ."
           ],
           [
             "10:00 PM",
-            "Leaves the beach to head home for the night."
+            "Leaves, the beach, to head home for the night."
           ]
         ]
       }
@@ -524,7 +565,7 @@
           ],
           [
             "",
-            "All Universal Loves"
+            "All, Universal Loves"
           ],
           [
             "",
@@ -651,7 +692,7 @@
           ],
           [
             "",
-            "All Universal Likes (except Life Elixir , and All Cooking except for the fish dishes he is neutral towards: Dish O' The Sea , Maki Roll , & Sashimi ; and the fish dishes he likes, shown below)."
+            "All, Universal Likes, (except, Life Elixir, , and, All, Cooking, except for the fish dishes he is neutral towards:, Dish O' The Sea, ,, Maki Roll, , &, Sashimi, ; and the fish dishes he likes, shown below)."
           ],
           [
             "",
@@ -665,70 +706,70 @@
             "Baked Fish",
             "Baked fish on a bed of herbs.",
             "Cooking",
-            "Sunfish (1) Bream (1) Wheat Flour (1)"
+            "Sunfish, (1), Bream, (1), Wheat Flour, (1)"
           ],
           [
             "",
             "Carp Surprise",
             "It's bland and oily.",
             "Cooking",
-            "Carp (4)"
+            "Carp, (4)"
           ],
           [
             "",
             "Chowder",
             "A perfect way to warm yourself after a cold night at sea.",
             "Cooking",
-            "Clam (1) Milk (1)"
+            "Clam, (1), Milk, (1)"
           ],
           [
             "",
             "Crab Cakes",
             "Crab, bread crumbs, and egg formed into patties then fried to a golden brown.",
             "Cooking",
-            "Crab (1) Wheat Flour (1) Egg (1) Oil (1)"
+            "Crab, (1), Wheat Flour, (1), Egg, (1), Oil, (1)"
           ],
           [
             "",
             "Crispy Bass",
             "Wow, the breading is perfect.",
             "Cooking",
-            "Largemouth Bass (1) Wheat Flour (1) Oil (1)"
+            "Largemouth Bass, (1), Wheat Flour, (1), Oil, (1)"
           ],
           [
             "",
             "Escargot",
             "Butter-soaked snails cooked to perfection.",
             "Cooking",
-            "Snail (1) Garlic (1)"
+            "Snail, (1), Garlic, (1)"
           ],
           [
             "",
             "Fish Stew",
             "It smells a lot like the sea. Tastes better, though.",
             "Cooking",
-            "Crayfish (1) Mussel (1) Periwinkle (1) Tomato (1)"
+            "Crayfish, (1), Mussel, (1), Periwinkle, (1), Tomato, (1)"
           ],
           [
             "",
             "Fish Taco",
             "It smells delicious.",
             "Cooking",
-            "Tuna (1) Tortilla (1) Red Cabbage (1) Mayonnaise (1)"
+            "Tuna, (1), Tortilla, (1), Red Cabbage, (1), Mayonnaise, (1)"
           ],
           [
             "",
             "Fried Calamari",
             "It's so chewy.",
             "Cooking",
-            "Squid (1) Wheat Flour (1) Oil (1)"
+            "Squid, (1), Wheat Flour, (1), Oil, (1)"
           ],
           [
             "",
             "Fried Eel",
             "Greasy but flavorful.",
             "Cooking",
-            "Eel (1) Oil (1)"
+            "Eel, (1), Oil, (1)"
           ],
           [
             "",
@@ -742,13 +783,13 @@
             "Lobster Bisque",
             "This delicate soup is a secret family recipe of Willy's.",
             "Cooking",
-            "Lobster (1) Milk (1)"
+            "Lobster, (1), Milk, (1)"
           ],
           [
             "",
             "Quartz",
             "A clear crystal commonly found in caves and mines.",
-            "Foraging - Mines",
+            "Foraging, - Mines",
             ""
           ],
           [
@@ -756,14 +797,14 @@
             "Salmon Dinner",
             "The lemon spritz makes it special.",
             "Cooking",
-            "Salmon (1) Amaranth (1) Kale (1)"
+            "Salmon, (1), Amaranth, (1), Kale, (1)"
           ],
           [
             "",
             "Seafoam Pudding",
             "This briny pudding will really get you into the maritime mindset!",
             "Cooking",
-            "Flounder (1) Midnight Carp (1) Squid Ink (1)"
+            "Flounder, (1), Midnight Carp, (1), Squid Ink, (1)"
           ],
           [
             "",
@@ -777,7 +818,7 @@
             "Trout Soup",
             "Pretty salty.",
             "Cooking",
-            "Rainbow Trout (1) Green Algae (1)"
+            "Rainbow Trout, (1), Green Algae, (1)"
           ]
         ]
       }
@@ -826,28 +867,28 @@
           ],
           [
             "",
-            "All Universal Neutrals (except Bait And Bobber , Jewels Of The Sea , & The Art O' Crabbing ) All Eggs (except Void Egg )* All Fish (except Carp , Catfish , Lingcod , Octopus , Sea Cucumber , Snail , Sturgeon , & Tiger Trout ) All Fruit (except Fruit Tree Fruit & Salmonberry ) All Milk"
+            "All, Universal Neutrals, (except, Bait And Bobber, ,, Jewels Of The Sea, , &, The Art O' Crabbing, ), All Eggs, (except, Void Egg, )*, All, Fish, (except, Carp, ,, Catfish, ,, Lingcod, ,, Octopus, ,, Sea Cucumber, ,, Snail, ,, Sturgeon, , &, Tiger Trout, ), All, Fruit, (except, Fruit Tree Fruit, &, Salmonberry, ), All Milk"
           ],
           [
             "",
             "Dish O' The Sea",
             "This'll keep you warm in the cold sea air.",
             "Cooking",
-            "Sardine (2) Hashbrowns (1)"
+            "Sardine, (2), Hashbrowns, (1)"
           ],
           [
             "",
             "Maki Roll",
             "Fish and rice wrapped in seaweed.",
             "Cooking",
-            "Any Fish (1) Seaweed (1) Rice (1)"
+            "Any, Fish, (1), Seaweed, (1), Rice, (1)"
           ],
           [
             "",
             "Sashimi",
             "Raw fish sliced into thin pieces.",
             "Cooking",
-            "Any Fish (1)"
+            "Any, Fish, (1)"
           ]
         ]
       }
@@ -882,55 +923,55 @@
           ],
           [
             "",
-            "All Universal Dislikes (except Fish , Gold Bar , & Iridium Bar ) All Cooking (except Baked Fish , Bread , Carp Surprise , Chowder , Crab Cakes , Crispy Bass , Dish O' The Sea , Escargot , Fish Stew , Fish Taco , Fried Calamari , Fried Eel , Fried Egg , Lobster Bisque , Maki Roll , Salmon Dinner , Sashimi , Seafoam Pudding , Strange Bun , & Trout Soup )"
+            "All, Universal Dislikes, (except, Fish, ,, Gold Bar, , &, Iridium Bar, ), All, Cooking, (except, Baked Fish, ,, Bread, ,, Carp Surprise, ,, Chowder, ,, Crab Cakes, ,, Crispy Bass, ,, Dish O' The Sea, ,, Escargot, ,, Fish Stew, ,, Fish Taco, ,, Fried Calamari, ,, Fried Eel, ,, Fried Egg, ,, Lobster Bisque, ,, Maki Roll, ,, Salmon Dinner, ,, Sashimi, ,, Seafoam Pudding, ,, Strange Bun, , &, Trout Soup, )"
           ],
           [
             "",
             "Chanterelle",
             "A tasty mushroom with a fruity smell and slightly peppery flavor.",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Common Mushroom",
             "Slightly nutty, with good texture.",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Daffodil",
             "A traditional spring flower that makes a nice gift.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Dandelion",
             "Not the prettiest flower, but the leaves make a good salad.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Ginger",
             "This sharp, spicy root is said to increase vitality.",
-            "Foraging - Ginger Island"
+            "Foraging, -, Ginger Island"
           ],
           [
             "",
             "Hazelnut",
             "That's one big hazelnut!",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Holly",
             "The leaves and bright red berries make a popular winter decoration.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ],
           [
             "",
             "Leek",
             "A tasty relative of the onion.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
@@ -942,43 +983,43 @@
             "",
             "Magma Cap",
             "A very rare mushroom that lives next to pools of lava.",
-            "Foraging - Volcano Dungeon"
+            "Foraging, -, Volcano Dungeon"
           ],
           [
             "",
             "Morel",
             "Sought after for its unique nutty flavor.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Purple Mushroom",
             "A rare mushroom found deep in caves.",
-            "Foraging - The Mines"
+            "Foraging, -, The Mines"
           ],
           [
             "",
             "Salmonberry",
             "A spring-time berry with the flavor of the forest.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Snow Yam",
             "This little yam was hiding beneath the snow.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ],
           [
             "",
             "Wild Horseradish",
             "A spicy root found in the spring.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Winter Root",
             "A starchy tuber.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ]
         ]
       }
@@ -1013,7 +1054,7 @@
           ],
           [
             "",
-            "All Universal Hates (except Seafoam Pudding )"
+            "All, Universal Hates, (except, Seafoam Pudding, )"
           ]
         ]
       }
@@ -1031,19 +1072,19 @@
         ],
         "rows": [
           [
-            "Love N/A Like It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus Dislike N/A",
+            "Love, N/A, Like, It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, The Zuzu City Express, Wumbus, Dislike, N/A",
             "Love",
             "N/A",
             "Like",
-            "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus",
+            "It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, The Zuzu City Express, Wumbus",
             "Dislike",
             "N/A",
             "",
-            "Love Salmon Burger Stardrop Sorbet Like Chocolate Popcorn Fries Ice Cream Sandwich Jasmine Tea Nachos Personal Pizza Popcorn Salted Peanuts Star Cookie Truffle Popcorn Dislike Everything else",
+            "Love, Salmon Burger, Stardrop Sorbet, Like, Chocolate Popcorn, Fries, Ice Cream Sandwich, Jasmine Tea, Nachos, Personal Pizza, Popcorn, Salted Peanuts, Star Cookie, Truffle Popcorn, Dislike, Everything else",
             "Love",
-            "Salmon Burger Stardrop Sorbet",
+            "Salmon Burger, Stardrop Sorbet",
             "Like",
-            "Chocolate Popcorn Fries Ice Cream Sandwich Jasmine Tea Nachos Personal Pizza Popcorn Salted Peanuts Star Cookie Truffle Popcorn",
+            "Chocolate Popcorn, Fries, Ice Cream Sandwich, Jasmine Tea, Nachos, Personal Pizza, Popcorn, Salted Peanuts, Star Cookie, Truffle Popcorn",
             "Dislike",
             "Everything else"
           ],
@@ -1057,7 +1098,7 @@
             "Like"
           ],
           [
-            "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus"
+            "It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, The Zuzu City Express, Wumbus"
           ],
           [
             "Dislike"
@@ -1069,13 +1110,13 @@
             "Love"
           ],
           [
-            "Salmon Burger Stardrop Sorbet"
+            "Salmon Burger, Stardrop Sorbet"
           ],
           [
             "Like"
           ],
           [
-            "Chocolate Popcorn Fries Ice Cream Sandwich Jasmine Tea Nachos Personal Pizza Popcorn Salted Peanuts Star Cookie Truffle Popcorn"
+            "Chocolate Popcorn, Fries, Ice Cream Sandwich, Jasmine Tea, Nachos, Personal Pizza, Popcorn, Salted Peanuts, Star Cookie, Truffle Popcorn"
           ],
           [
             "Dislike"
@@ -1097,13 +1138,13 @@
             "Details"
           ],
           [
-            "Image Recipe Description Chowder I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy",
+            "Image, Recipe, Description, Chowder, I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH., -Willy",
             "Image",
             "Recipe",
             "Description",
             "",
             "Chowder",
-            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy"
+            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH., -Willy"
           ],
           [
             "Image",
@@ -1113,7 +1154,7 @@
           [
             "",
             "Chowder",
-            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy"
+            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH., -Willy"
           ]
         ]
       }
@@ -1129,13 +1170,13 @@
             "Details"
           ],
           [
-            "Image Recipe Description Escargot I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy",
+            "Image, Recipe, Description, Escargot, I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH., -Willy",
             "Image",
             "Recipe",
             "Description",
             "",
             "Escargot",
-            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy"
+            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH., -Willy"
           ],
           [
             "Image",
@@ -1145,7 +1186,7 @@
           [
             "",
             "Escargot",
-            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy"
+            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH., -Willy"
           ]
         ]
       }
@@ -1161,7 +1202,7 @@
             "Details"
           ],
           [
-            "Willy greets you outside the Fish Shop . He says he needs your help and asks you to come inside. Once inside, you see Crabs run amok, covering the Fish Shop floor. Before you can do anything to help, Gus enters the Fish Shop and offers to purchase all the crabs, minus a discount for the labor involved. Willy agrees, and Gus gathers the crabs. Afterward, Gus turns to you and says he's going to run a special on Crab Cakes for the next few days (but not to tell Willy). The cutscene ends with Willy saying goodbye to his \"sweet ladies\" as they are taken away to be killed and cooked. Gus will sell an unlimited amount of Crab Cakes at the Saloon for data-sort-value=\"550\"> 550g each starting on the day of the cutscene and for 3 days after. Mayor Lewis will comment that he's smelled crab \"all afternoon\" the day the event is viewed."
+            "Willy greets you outside the, Fish Shop, . He says he needs your help and asks you to come inside. Once inside, you see, Crabs, run amok, covering the Fish Shop floor. Before you can do anything to help,, Gus, enters the Fish Shop and offers to purchase all the crabs, minus a discount for the labor involved. Willy agrees, and Gus gathers the crabs. Afterward, Gus turns to you and says he's going to run a special on, Crab Cakes, for the next few days (but not to tell Willy). The cutscene ends with Willy saying goodbye to his \"sweet ladies\" as they are taken away to be killed and cooked., Gus will sell an unlimited amount of Crab Cakes at, the Saloon, for, data-sort-value=\"550\">, 550g, each starting on the day of the cutscene and for 3 days after. Mayor Lewis will comment that he's smelled crab \"all afternoon\" the day the event is viewed."
           ]
         ]
       }
@@ -1177,13 +1218,13 @@
             "Details"
           ],
           [
-            "Image Recipe Description Fish Stew I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy",
+            "Image, Recipe, Description, Fish Stew, I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH., -Willy",
             "Image",
             "Recipe",
             "Description",
             "",
             "Fish Stew",
-            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy"
+            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH., -Willy"
           ],
           [
             "Image",
@@ -1193,7 +1234,7 @@
           [
             "",
             "Fish Stew",
-            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy"
+            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH., -Willy"
           ]
         ]
       }
@@ -1209,13 +1250,13 @@
             "Details"
           ],
           [
-            "Image Recipe Description Lobster Bisque I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy",
+            "Image, Recipe, Description, Lobster Bisque, I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH., -Willy",
             "Image",
             "Recipe",
             "Description",
             "",
             "Lobster Bisque",
-            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy"
+            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH., -Willy"
           ],
           [
             "Image",
@@ -1225,7 +1266,7 @@
           [
             "",
             "Lobster Bisque",
-            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH. -Willy"
+            "I'd like to share an ol' cooking recipe my pappy used to make. It's important the fish is FRESH., -Willy"
           ]
         ]
       }
@@ -1241,7 +1282,7 @@
             "Regular"
           ],
           [
-            "First Meeting “ “Ahoy there! It's nice to see young folk movin' in to the valley. It's not very common these days.” Regular “ “Ahoy there, [son/lass]. Looks like decent weather for fishing, eh?” “ “Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it.” “ “A true angler has respect for the water... don't you forget that.” “ “Some fish come and go with the seasons. Others only come out at night or in the rain.” “ “*mumble* *mumble* ...Eh? I would tell you about my thoughts, but it's a fisherman's secret” “ “ There are rumors of some very rare fish in these parts... but only an experienced angler could stand a chance against them. You'll need the finest bait you can get if you want a rare fish to bite.” “ “If you really want to get the fish biting, make sure you put some bait on your hook.” “ “If the local fishing scene got a bit more lively, I might expand the shop's stock.” “ “If you purchase a high quality fishing rod, you'll be able to attach bait and tackle to the line. Bait causes fish to bite faster. Tackle can make your job a lot easier when reeling fish in. There are all kinds of tackle, with different perks. They're usually a little flimsy, so don't be surprised if your tackle breaks after a while.” 4+ Hearts, Friday “ “I'm a simple man...when my pipe is full, I'm happy. When my pipe is empty...well, then I just fill 'er up again.” 6+ Hearts “ “The ol' Man was a fisherman, you know. I grew up sailing between the fern islands, living from catch to catch. The fishing life is tough, but there's something about it that keeps you goin'.” 8+ Hearts “ “How's the fishing life going for ya? I try to fish as often as possible, but it's not easy when you've got a shop to run.” 10+ Hearts “ “Hey, it's my skipper, [Player]! I'd give you a discount on bait if I could afford it.” Green Rain Year 1 “ “Aye... I hope these weird rains don't bother the fish... It could ruin me life!” Year 2+ “ “If the fish like these rains, then I like 'em, too.” Green rain finished (next day) “ “Well, the fish seem as healthy as ever. In fact, I swear they've been biting with extra vigor!” Summer 19 “ “Tomorrow is the annual Trout Derby... Aye, it's a freshwater enthusiast's dream! Anglers from all over the world will be here to catch our beautiful Rainbow Trout... [I'd better see you out there, lad!/I hope to see you out there!] For the next two days, I'll only be manning the shop for one hour, starting at 9am. So if you really need somethin', you can come by then.” Winter 11 “ “Tomorrow, at the beach, is the start of a little gathering... called 'SquidFest'. Aye... tis' a difficult catch, the squid. But I trust that you've developed a knack for the sport, by now.” After getting married “ “Giving up the [bachelor/single] life, eh? Just don't forget to make time for fishing...” After catching the Angler “ “Ah, you caught the Angler, did ya? A good 'first step' into the world o' rare fish, that one.” After catching the Crimsonfish “ “So, you finally conquered the Crimsonfish! That fish has been taunting me for many years. He nearly nibbled through the wood under me house!” After catching the Legend “ “By the stem o' me pipe... You actually caught 'the Legend'. I never thought I'd see the day... Well, [lad/miss], you've done it... You're the best [fisherman/angler] this valley's seen in a long time...” After catching the Glacierfish “ “Ah, so you finally snagged the Glacierfish... That's one of the slipperiest fish I've ever encountered! How many tries did it take ya?” After catching the Mutant Carp “ “*sniff* *sniff*... Something tells me you've been fishin' in the sewers, [lad/miss]. It's an unconventional approach, to be sure. There's legend of gargantuan carp, twisted into monsters from the toxic sludge...” After filling a Fish Pond with 10 Crabs “ “*sniff*... Ah... That old familiar scent. You've been raisin' crabs, haven't ya? Yer a [man/lady] after me own heart, [Player]. Hah! Here, take this. I found it on the beach... Been savin' it fer a special occasion. It's not every day I discover a fellow crab enthusiast!”",
+            "First Meeting, “, “Ahoy there! It's nice to see young folk movin' in to the valley. It's not very common these days.”, Regular, “, “Ahoy there, [son/lass]. Looks like decent weather for fishing, eh?”, “, “Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it.”, “, “A true angler has respect for the water... don't you forget that.”, “, “Some fish come and go with the seasons. Others only come out at night or in the rain.”, “, “*mumble* *mumble* ...Eh? I would tell you about my thoughts, but it's a fisherman's secret”, “, “ There are rumors of some very rare fish in these parts... but only an experienced angler could stand a chance against them. You'll need the finest bait you can get if you want a rare fish to bite.”, “, “If you really want to get the fish biting, make sure you put some bait on your hook.”, “, “If the local fishing scene got a bit more lively, I might expand the shop's stock.”, “, “If you purchase a high quality fishing rod, you'll be able to attach bait and tackle to the line. Bait causes fish to bite faster. Tackle can make your job a lot easier when reeling fish in. There are all kinds of tackle, with different perks. They're usually a little flimsy, so don't be surprised if your tackle breaks after a while.”, 4+ Hearts, Friday, “, “I'm a simple man...when my pipe is full, I'm happy. When my pipe is empty...well, then I just fill 'er up again.”, 6+ Hearts, “, “The ol' Man was a fisherman, you know. I grew up sailing between the fern islands, living from catch to catch. The fishing life is tough, but there's something about it that keeps you goin'.”, 8+ Hearts, “, “How's the fishing life going for ya? I try to fish as often as possible, but it's not easy when you've got a shop to run.”, 10+ Hearts, “, “Hey, it's my skipper, [Player]! I'd give you a discount on bait if I could afford it.”, Green Rain, Year 1, “, “Aye... I hope these weird rains don't bother the fish... It could ruin me life!”, Year 2+, “, “If the fish like these rains, then I like 'em, too.”, Green rain finished (next day), “, “Well, the fish seem as healthy as ever. In fact, I swear they've been biting with extra vigor!”, Summer 19, “, “Tomorrow is the annual Trout Derby... Aye, it's a freshwater enthusiast's dream! Anglers from all over the world will be here to catch our beautiful Rainbow Trout... [I'd better see you out there, lad!/I hope to see you out there!] For the next two days, I'll only be manning the shop for one hour, starting at 9am. So if you really need somethin', you can come by then.”, Winter 11, “, “Tomorrow, at the beach, is the start of a little gathering... called 'SquidFest'. Aye... tis' a difficult catch, the squid. But I trust that you've developed a knack for the sport, by now.”, After getting married, “, “Giving up the [bachelor/single] life, eh? Just don't forget to make time for fishing...”, After catching the, Angler, “, “Ah, you caught the Angler, did ya? A good 'first step' into the world o' rare fish, that one.”, After catching the, Crimsonfish, “, “So, you finally conquered the Crimsonfish! That fish has been taunting me for many years. He nearly nibbled through the wood under me house!”, After catching the, Legend, “, “By the stem o' me pipe... You actually caught 'the Legend'. I never thought I'd see the day... Well, [lad/miss], you've done it... You're the best [fisherman/angler] this valley's seen in a long time...”, After catching the, Glacierfish, “, “Ah, so you finally snagged the Glacierfish... That's one of the slipperiest fish I've ever encountered! How many tries did it take ya?”, After catching the, Mutant Carp, “, “*sniff* *sniff*... Something tells me you've been fishin' in the sewers, [lad/miss]. It's an unconventional approach, to be sure. There's legend of gargantuan carp, twisted into monsters from the toxic sludge...”, After filling a, Fish Pond, with 10, Crabs, “, “*sniff*... Ah... That old familiar scent. You've been raisin' crabs, haven't ya? Yer a [man/lady] after me own heart, [Player]. Hah! Here, take this. I found it on the beach... Been savin' it fer a special occasion. It's not every day I discover a fellow crab enthusiast!”",
             "“",
             "“Ahoy there! It's nice to see young folk movin' in to the valley. It's not very common these days.”",
             "“",
@@ -1413,7 +1454,7 @@
             "Events"
           ],
           [
-            "Egg Festival Odd-numbered year “ “Sometimes I'll hide an egg too well and no one finds it... Well, until summer rolls around. Then the hot air starts to bring out the rotten smell... Hehe.” Even-numbered year “ “Aye... on rainy days, you'll find catfish in these waters. They're a challenging catch, but well worth the effort!” Desert Festival “ “Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it.” Flower Dance “ “I should've brought my fishing pole.” The Luau Odd-numbered year “ “Hi there, [Player]. Taking a breather? To tell you the truth, I'd rather be fishing right now.” Even-numbered year “ “Don't worry, I'll be back for the soup... I'm just enjoying a tender moment with me pipe!” Trout Derby Summer 20 “ “It's the big day! I've got all me equipment tuned to catch Trout... Good luck out there!” Summer 21 “ “How's the derby treatin' ya so far? I've found plenty o' Golden Tags, meself... but it's not over yet!” Dance of the Moonlight Jellies “ “Most night-fish would be scared of the light... these are strange ones.” Stardew Valley Fair “ “Are you setting up a grange display, [Player]? It's your chance to show off all the good produce from [farm name]!” Festival of Ice “ “Hey, [Player]. Ready for some ice fishing?” Yes. I'll do my best! (No effect on friendship .) \"That's the spirit!\" Yes, and I'm going to beat you! (No effect on friendship .) \"We'll see.\" To be honest, no. I'm bad at fishing. (No effect on friendship .) \"Well, then think of it as good practice!\" SquidFest Winter 12 “ “Don't give up just yet! There's more squid in these waters...” Winter 13 “ “It warms me ol' winter heart to see all these anglers gathered here, all for the love o' fishing...” Night Market Winter 15 (at the Stardrop Saloon ) “ “I can't get me a good night's sleep with that night market going on... eh, but that's okay. I'm flexible.” Winter 16 (at the Stardrop Saloon ) “ “Have you been on the deep-sea submarine? The captain's an old friend.” Winter 17 (at the Stardrop Saloon ) “ “Ah, nothin' like a hot beverage to wind down after a cold, dark day...” Feast of the Winter Star “ “Do you want to hear the Legend of the Winter Star?” Yes (No effect on friendship .) \"In the night sky of winter, there is a bright star only visible from this valley. No one knows why this is... but in times of old people would come from far and wide to see it.*They believed that anyone who laid eyes on the Winter Star would be blessed with good fortune. Some even claim that the mysterious fruit known as Stardrop is connected to the Winter Star in some way.\" No thanks (No effect on friendship .) \"Suit yourself.\" “ “\"I'm a simple man [Player]... I'm thankful for a solid roof over me head, and a hot can o' beans in the mornin'!”",
+            "Egg Festival, Odd-numbered year, “, “Sometimes I'll hide an egg too well and no one finds it... Well, until summer rolls around. Then the hot air starts to bring out the rotten smell... Hehe.”, Even-numbered year, “, “Aye... on rainy days, you'll find catfish in these waters. They're a challenging catch, but well worth the effort!”, Desert Festival, “, “Have you had much luck in the local waters? You look like you could be a strong angler if you set your mind to it.”, Flower Dance, “, “I should've brought my fishing pole.”, The Luau, Odd-numbered year, “, “Hi there, [Player]. Taking a breather? To tell you the truth, I'd rather be fishing right now.”, Even-numbered year, “, “Don't worry, I'll be back for the soup... I'm just enjoying a tender moment with me pipe!”, Trout Derby, Summer 20, “, “It's the big day! I've got all me equipment tuned to catch Trout... Good luck out there!”, Summer 21, “, “How's the derby treatin' ya so far? I've found plenty o' Golden Tags, meself... but it's not over yet!”, Dance of the Moonlight Jellies, “, “Most night-fish would be scared of the light... these are strange ones.”, Stardew Valley Fair, “, “Are you setting up a grange display, [Player]? It's your chance to show off all the good produce from [farm name]!”, Festival of Ice, “, “Hey, [Player]. Ready for some ice fishing?”, Yes. I'll do my best!, (No effect on, friendship, .), \"That's the spirit!\", Yes, and I'm going to beat you!, (No effect on, friendship, .), \"We'll see.\", To be honest, no. I'm bad at fishing., (No effect on, friendship, .), \"Well, then think of it as good practice!\", SquidFest, Winter 12, “, “Don't give up just yet! There's more squid in these waters...”, Winter 13, “, “It warms me ol' winter heart to see all these anglers gathered here, all for the love o' fishing...”, Night Market, Winter 15 (at, the Stardrop Saloon, ), “, “I can't get me a good night's sleep with that night market going on... eh, but that's okay. I'm flexible.”, Winter 16 (at, the Stardrop Saloon, ), “, “Have you been on the deep-sea submarine? The captain's an old friend.”, Winter 17 (at, the Stardrop Saloon, ), “, “Ah, nothin' like a hot beverage to wind down after a cold, dark day...”, Feast of the Winter Star, “, “Do you want to hear the Legend of the Winter Star?”, Yes, (No effect on, friendship, .), \"In the night sky of winter, there is a bright star only visible from this valley. No one knows why this is... but in times of old people would come from far and wide to see it.*They believed that anyone who laid eyes on the Winter Star would be blessed with good fortune. Some even claim that the mysterious fruit known as, Stardrop, is connected to the Winter Star in some way.\", No thanks, (No effect on, friendship, .), \"Suit yourself.\", “, “\"I'm a simple man [Player]... I'm thankful for a solid roof over me head, and a hot can o' beans in the mornin'!”",
             "“",
             "“Sometimes I'll hide an egg too well and no one finds it... Well, until summer rolls around. Then the hot air starts to bring out the rotten smell... Hehe.”",
             "“",
@@ -1538,19 +1579,19 @@
           ],
           [
             "Bachelors",
-            "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+            "Alex, •, Elliott, •, Harvey, •, Sam, •, Sebastian, •, Shane"
           ],
           [
             "Bachelorettes",
-            "Abigail • Emily • Haley • Leah • Maru • Penny"
+            "Abigail, •, Emily, •, Haley, •, Leah, •, Maru, •, Penny"
           ],
           [
             "Townspeople",
-            "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+            "Caroline, •, Clint, •, Demetrius, •, Evelyn, •, George, •, Gil, •, Gunther, •, Gus, •, Jas, •, Jodi, •, Kent, •, Lewis, •, Linus, •, Marlon, •, Marnie, •, Pam, •, Pierre, •, Robin, •, Vincent, •, Willy"
           ],
           [
             "Other",
-            "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+            "Birdie, •, Bouncer, •, Dwarf, •, Fizz, •, Governor, •, Grandpa, •, Henchman, •, Junimos, •, Krobus, •, Leo, •, Morris, •, Mr. Qi, •, Old Mariner, •, Professor Snail, •, Sandy, •, Wizard"
           ]
         ]
       }

@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Golden Chicken Well cared-for adult chickens lay eggs every day. Lives in the coop. Information Building Big Coop Purchase Price N/A Produce Golden Egg\nThe Golden Chicken is an animal that lives in a Big Coop . Golden Chickens can be hatched by placing a Golden Egg into an Incubator , taking 9,000m (5d 16h 40m) to incubate, or 4,500m (2d 21h 40m) with the Coopmaster Profession ."
+      "content": "The Golden Chicken is an animal that lives in a Big Coop . Golden Chickens can be hatched by placing a Golden Egg into an Incubator , taking 9,000m (5d 16h 40m) to incubate, or 4,500m (2d 21h 40m) with the Coopmaster Profession ."
     },
     {
       "heading": "Produce",
@@ -20,6 +20,38 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Golden Chicken"
+          ],
+          [
+            ""
+          ],
+          [
+            "Well cared-for adult chickens lay eggs every day. Lives in the coop."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Building",
+            "Big Coop"
+          ],
+          [
+            "Purchase Price",
+            "N/A"
+          ],
+          [
+            "Produce",
+            "Golden Egg"
+          ]
+        ]
+      }
+    },
     {
       "section": "Produce",
       "table": {
@@ -40,7 +72,7 @@
             "",
             "Golden Egg",
             "A very rare and special egg with a solid gold shell.",
-            "500g 625g 750g 1,000g",
+            "500g, 625g, 750g, 1,000g",
             "",
             "500g",
             "",
@@ -77,15 +109,15 @@
         ],
         "rows": [
           [
-            "Animals and Produce"
+            "Animals, and Produce"
           ],
           [
             "Coop",
-            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+            "Chicken, •, Dinosaur, •, Duck, •, Golden Chicken, •, Rabbit, •, Void Chicken"
           ],
           [
             "Barn",
-            "Cow • Goat • Sheep • Ostrich • Pig"
+            "Cow, •, Goat, •, Sheep, •, Ostrich, •, Pig"
           ],
           [
             "Fish Pond",
@@ -97,7 +129,7 @@
           ],
           [
             "Other",
-            "Cat • Dog • Horse • Turtle"
+            "Cat, •, Dog, •, Horse, •, Turtle"
           ]
         ]
       }

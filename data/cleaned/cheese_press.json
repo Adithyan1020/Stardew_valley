@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Cheese Press Turns milk into cheese. Information Source Crafting Sell Price Cannot be sold Crafting Recipe Source Farming (Level 6) Ingredients Wood (45) Stone (45) Hardwood (10) Copper Bar (1)\nThe Cheese Press is a type of Artisan Equipment used to make Artisan Goods . It takes Milk and turns it into Cheese .\nRegular quality Milk produces regular quality Cheese , and regular quality Goat Milk produces regular quality Goat Cheese . Large Milk and Large Goat Milk produce gold quality cheeses. Cheese and Goat Cheese can be aged in Casks to increase their value.\nA Cheese Press is the reward for completing the Animal Bundle in the Pantry ."
+      "content": "The Cheese Press is a type of Artisan Equipment used to make Artisan Goods . It takes Milk and turns it into Cheese .\nRegular quality Milk produces regular quality Cheese , and regular quality Goat Milk produces regular quality Goat Cheese . Large Milk and Large Goat Milk produce gold quality cheeses. Cheese and Goat Cheese can be aged in Casks to increase their value.\nA Cheese Press is the reward for completing the Animal Bundle in the Pantry ."
     },
     {
       "heading": "History",
@@ -12,6 +12,45 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Cheese Press"
+          ],
+          [
+            ""
+          ],
+          [
+            "Turns milk into cheese."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Crafting"
+          ],
+          [
+            "Sell Price",
+            "Cannot be sold"
+          ],
+          [
+            "Crafting"
+          ],
+          [
+            "Recipe Source",
+            "Farming, (Level 6)"
+          ],
+          [
+            "Ingredients",
+            "Wood, (45), Stone, (45), Hardwood, (10), Copper Bar, (1)"
+          ]
+        ]
+      }
+    },
     {
       "section": "Products",
       "table": {
@@ -38,14 +77,14 @@
             "",
             "Cheese",
             "It's your basic cheese.",
-            "Milk (1) or Large Milk (1)",
+            "Milk, (1), or, Large Milk, (1)",
             "200m (≈3h)",
-            "230g 345g",
+            "230g, 345g",
             "",
             "230g",
             "",
             "345g",
-            "125 56 225 101",
+            "125, 56, 225, 101",
             "",
             "125",
             "",
@@ -79,14 +118,14 @@
             "",
             "Goat Cheese",
             "Soft cheese made from goat's milk.",
-            "Goat Milk (1) or Large Goat Milk (1)",
+            "Goat Milk, (1), or, Large Goat Milk, (1)",
             "200m (≈3h)",
-            "400g 600g",
+            "400g, 600g",
             "",
             "400g",
             "",
             "600g",
-            "125 56 225 101",
+            "125, 56, 225, 101",
             "",
             "125",
             "",
@@ -131,33 +170,33 @@
           ],
           [
             "Artisan",
-            "Bee House • Cask • Cheese Press • Dehydrator • Fish Smoker • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar"
+            "Bee House, •, Cask, •, Cheese Press, •, Dehydrator, •, Fish Smoker, •, Keg, •, Loom, •, Mayonnaise Machine, •, Oil Maker, •, Preserves Jar"
           ],
           [
             "Refining",
-            "Bait Maker • Bone Mill • Charcoal Kiln • Crystalarium • Deluxe Worm Bin • Furnace • Geode Crusher • Heavy Furnace • Heavy Tapper • Lightning Rod • Mushroom Log • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin"
+            "Bait Maker, •, Bone Mill, •, Charcoal Kiln, •, Crystalarium, •, Deluxe Worm Bin, •, Furnace, •, Geode Crusher, •, Heavy Furnace, •, Heavy Tapper, •, Lightning Rod, •, Mushroom Log, •, Ostrich Incubator, •, Recycling Machine, •, Seed Maker, •, Slime Egg-Press, •, Slime Incubator, •, Solar Panel, •, Tapper, •, Wood Chipper, •, Worm Bin"
           ],
           [
             "Farming",
             "Fertilizer",
-            "Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil • Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer"
+            "Basic Fertilizer, •, Basic Retaining Soil, •, Deluxe Fertilizer, •, Deluxe Retaining Soil, •, Deluxe Speed-Gro, •, Hyper Speed-Gro, •, Quality Fertilizer, •, Quality Retaining Soil, •, Speed-Gro, •, Tree Fertilizer"
           ],
           [
             "Sprinklers",
-            "Iridium Sprinkler • Quality Sprinkler • Sprinkler"
+            "Iridium Sprinkler, •, Quality Sprinkler, •, Sprinkler"
           ],
           [
             "Other",
-            "Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow"
+            "Deluxe Scarecrow, •, Garden Pot, •, Rarecrow, •, Scarecrow"
           ],
           [
             "Fishing",
             "Bait",
-            "Bait • Challenge Bait • Deluxe Bait • Magic Bait • Magnet • Targeted Bait • Wild Bait"
+            "Bait, •, Challenge Bait, •, Deluxe Bait, •, Magic Bait, •, Magnet, •, Targeted Bait, •, Wild Bait"
           ],
           [
             "Tackle",
-            "Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Sonar Bobber • Spinner • Trap Bobber • Treasure Hunter"
+            "Barbed Hook, •, Cork Bobber, •, Curiosity Lure, •, Dressed Spinner, •, Lead Bobber, •, Quality Bobber, •, Sonar Bobber, •, Spinner, •, Trap Bobber, •, Treasure Hunter"
           ],
           [
             "Other",
@@ -165,23 +204,23 @@
           ],
           [
             "Bombs",
-            "Bomb • Cherry Bomb • Mega Bomb"
+            "Bomb, •, Cherry Bomb, •, Mega Bomb"
           ],
           [
             "Fences",
-            "Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence"
+            "Gate, •, Hardwood Fence, •, Iron Fence, •, Stone Fence, •, Wood Fence"
           ],
           [
             "Storage",
-            "Big Chest • Big Stone Chest • Chest • Junimo Chest • Mini-Fridge • Stone Chest"
+            "Big Chest, •, Big Stone Chest, •, Chest, •, Junimo Chest, •, Mini-Fridge, •, Stone Chest"
           ],
           [
             "Signs",
-            "Dark Sign • Stone Sign • Text Sign • Wood Sign"
+            "Dark Sign, •, Stone Sign, •, Text Sign, •, Wood Sign"
           ],
           [
             "Misc",
-            "Anvil • Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Forge • Mini-Jukebox • Mini-Shipping Bin • Sewing Machine • Staircase • Statue Of Blessings • Statue Of The Dwarf King • Telephone • Tent Kit • Tools • Workbench"
+            "Anvil, •, Coffee Maker, •, Cookout Kit, •, Deconstructor, •, Fairy Dust, •, Farm Computer, •, Hopper, •, Mini-Forge, •, Mini-Jukebox, •, Mini-Shipping Bin, •, Sewing Machine, •, Staircase, •, Statue Of Blessings, •, Statue Of The Dwarf King, •, Telephone, •, Tent Kit, •, Tools, •, Workbench"
           ]
         ]
       }

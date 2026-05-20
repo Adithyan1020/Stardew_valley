@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Duck Mayonnaise It's a rich, yellow mayonnaise. Information Source Artisan Goods Energy / Health 75 33 Sell Prices Base Rancher (+20%) Artisan (+40%) 375g 450g 525g Artisan Goods Equipment Mayonnaise Machine Processing Time 3h Ingredients Duck Egg (1)\nDuck Mayonnaise is an Artisan Good made by placing a Duck Egg into a Mayonnaise Machine , taking 3 hours."
+      "content": "Duck Mayonnaise is an Artisan Good made by placing a Duck Egg into a Mayonnaise Machine , taking 3 hours."
     },
     {
       "heading": "Bundles",
@@ -33,6 +33,195 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Duck Mayonnaise"
+          ],
+          [
+            ""
+          ],
+          [
+            "It's a rich, yellow mayonnaise."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Artisan Goods"
+          ],
+          [
+            "Energy, /, Health",
+            "75, 33",
+            "",
+            "75",
+            "",
+            "33"
+          ],
+          [
+            "",
+            "75",
+            "",
+            "33"
+          ],
+          [
+            "Sell Prices, Base, Rancher, (+20%), Artisan, (+40%), 375g, 450g, 525g",
+            "Sell Prices",
+            "Base",
+            "Rancher, (+20%)",
+            "Artisan, (+40%)",
+            "375g",
+            "",
+            "375g",
+            "450g",
+            "",
+            "450g",
+            "525g",
+            "",
+            "525g"
+          ],
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Rancher, (+20%)",
+            "Artisan, (+40%)"
+          ],
+          [
+            "375g",
+            "",
+            "375g",
+            "450g",
+            "",
+            "450g",
+            "525g",
+            "",
+            "525g"
+          ],
+          [
+            "",
+            "375g"
+          ],
+          [
+            "",
+            "450g"
+          ],
+          [
+            "",
+            "525g"
+          ],
+          [
+            "Artisan Goods"
+          ],
+          [
+            "Equipment",
+            "Mayonnaise Machine"
+          ],
+          [
+            "Processing Time",
+            "3h"
+          ],
+          [
+            "Ingredients",
+            "Duck Egg, (1)"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "75",
+            "",
+            "33"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Rancher, (+20%)",
+            "Artisan, (+40%)"
+          ],
+          [
+            "375g",
+            "",
+            "375g",
+            "450g",
+            "",
+            "450g",
+            "525g",
+            "",
+            "525g"
+          ],
+          [
+            "",
+            "375g"
+          ],
+          [
+            "",
+            "450g"
+          ],
+          [
+            "",
+            "525g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "375g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "450g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "525g"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Gifting",
       "table": {
         "headers": [
@@ -44,7 +233,7 @@
           ],
           [
             "Like",
-            "Abigail • Alex • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sandy • Shane • Willy • Wizard"
+            "Abigail, •, Alex, •, Clint, •, Demetrius, •, Dwarf, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Haley, •, Harvey, •, Jodi, •, Kent, •, Krobus, •, Leah, •, Leo, •, Lewis, •, Linus, •, Marnie, •, Maru, •, Pam, •, Penny, •, Pierre, •, Robin, •, Sandy, •, Shane, •, Willy, •, Wizard"
           ],
           [
             "Dislike",
@@ -52,7 +241,7 @@
           ],
           [
             "Hate",
-            "Jas • Sam • Sebastian • Vincent"
+            "Jas, •, Sam, •, Sebastian, •, Vincent"
           ]
         ]
       }
@@ -73,15 +262,15 @@
           ],
           [
             "Cask",
-            "Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine"
+            "Beer, •, Cheese, •, Goat Cheese, •, Mead, •, Pale Ale, •, Wine"
           ],
           [
             "Cheese Press",
-            "Cheese • Goat Cheese"
+            "Cheese, •, Goat Cheese"
           ],
           [
             "Keg",
-            "Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine"
+            "Beer, •, Coffee, •, Green Tea, •, Juice, •, Mead, •, Pale Ale, •, Wine"
           ],
           [
             "Loom",
@@ -89,15 +278,15 @@
           ],
           [
             "Mayonnaise Machine",
-            "Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise"
+            "Dinosaur Mayonnaise, •, Duck Mayonnaise, •, Mayonnaise, •, Void Mayonnaise"
           ],
           [
             "Oil Maker",
-            "Oil • Truffle Oil"
+            "Oil, •, Truffle Oil"
           ],
           [
             "Preserves Jar",
-            "Aged Roe • Caviar • Jellies and Pickles"
+            "Aged Roe, •, Caviar, •, Jellies and Pickles"
           ],
           [
             "Fish Smoker",
@@ -105,11 +294,11 @@
           ],
           [
             "Dehydrator",
-            "Dried Mushrooms • Dried Fruit • Raisins"
+            "Dried Mushrooms, •, Dried Fruit, •, Raisins"
           ],
           [
             "Misc",
-            "Maple Syrup • Oak Resin • Pine Tar • Mystic Syrup"
+            "Maple Syrup, •, Oak Resin, •, Pine Tar, •, Mystic Syrup"
           ]
         ]
       }

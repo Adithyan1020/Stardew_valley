@@ -125,40 +125,40 @@
           [
             "The spirits are very happy today! They will do their best to shower everyone with good fortune.",
             "",
-            "Luck (+0.1 or +0.125 with Special Charm)"
+            "Luck, (+0.1 or +0.125 with Special Charm)"
           ],
           [
             "",
-            "Luck (> +0.07 and < 0.1 (or 0.125 with Special Charm))"
+            "Luck, (> +0.07 and < 0.1 (or 0.125 with Special Charm))"
           ],
           [
             "The spirits are in good humor today. I think you'll have a little extra luck.",
             "",
-            "Luck (> +0.02 and ≤ +0.07)"
+            "Luck, (> +0.02 and ≤ +0.07)"
           ],
           [
             "The spirits feel neutral today. The day is in your hands.",
             "",
-            "Luck (≥ -0.02 and ≤ +0.02, but not 0)"
+            "Luck, (≥ -0.02 and ≤ +0.02, but not 0)"
           ],
           [
             "This is rare. The spirits feel absolutely neutral today.",
             "",
-            "Luck (0)"
+            "Luck, (0)"
           ],
           [
-            "The spirits are somewhat annoyed today. Luck will not be on your side. The spirits are somewhat mildly perturbed today. Luck will not be on your side.",
+            "The spirits are somewhat annoyed today. Luck will not be on your side., The spirits are somewhat mildly perturbed today. Luck will not be on your side.",
             "",
-            "Luck (≥ -0.07 and < -0.02)"
+            "Luck, (≥ -0.07 and < -0.02)"
           ],
           [
             "The spirits are very displeased today. They will do their best to make your life difficult.",
             "",
-            "Luck (> -0.1 (or -0.075 with Special Charm) and < -0.07)"
+            "Luck, (> -0.1 (or -0.075 with Special Charm) and < -0.07)"
           ],
           [
             "",
-            "Luck (-0.1 or -0.075 with Special Charm)"
+            "Luck, (-0.1 or -0.075 with Special Charm)"
           ]
         ]
       }
@@ -193,48 +193,48 @@
             "",
             "Banana Pudding",
             "A creamy dessert with a wonderful tropical flavor.",
-            "Banana (1) Milk (1) (Any) Sugar (1)",
-            "125 56",
-            "Mining (+1) Luck (+1) Defense (+1)",
+            "Banana, (1), Milk, (1), (Any), Sugar, (1)",
+            "125, 56",
+            "Mining, (+1), Luck, (+1), Defense, (+1)",
             "5m 1s",
-            "Island Trader for Bone Fragment (30)",
-            "data-sort-value=\"260\"> 260g"
+            "Island Trader, for, Bone Fragment, (30)",
+            "data-sort-value=\"260\">, 260g"
           ],
           [
             "",
             "Fried Eel",
             "Greasy but flavorful.",
-            "Eel (1) Oil (1)",
-            "75 33",
-            "Luck (+1)",
+            "Eel, (1), Oil, (1)",
+            "75, 33",
+            "Luck, (+1)",
             "7m",
-            "George (Mail - 3+ )",
-            "data-sort-value=\"120\"> 120g"
+            "George, (Mail - 3+, )",
+            "data-sort-value=\"120\">, 120g"
           ],
           [
             "",
             "Ginger Ale",
             "A zesty soda known for its soothing effect on the stomach.",
-            "Ginger (3) Sugar (1)",
-            "63 28",
-            "Luck (+1)",
+            "Ginger, (3), Sugar, (1)",
+            "63, 28",
+            "Luck, (+1)",
             "5m",
-            "Dwarf Shop in Volcano Dungeon for data-sort-value=\"1000\"> 1,000g",
-            "data-sort-value=\"200\"> 200g"
+            "Dwarf Shop, in Volcano Dungeon for, data-sort-value=\"1000\">, 1,000g",
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Lucky Lunch",
             "A special little meal.",
-            "Sea Cucumber (1) Tortilla (1) Blue Jazz (1)",
-            "100 45",
-            "Luck (+3)",
+            "Sea Cucumber, (1), Tortilla, (1), Blue Jazz, (1)",
+            "100, 45",
+            "Luck, (+3)",
             "11m 11s",
-            "The Queen of Sauce 28 Spring, Year 2",
+            "The Queen of Sauce, 28 Spring, Year 2",
             "",
             "The Queen of Sauce",
             "28 Spring, Year 2",
-            "data-sort-value=\"250\"> 250g"
+            "data-sort-value=\"250\">, 250g"
           ],
           [
             "",
@@ -247,26 +247,26 @@
             "",
             "Pumpkin Soup",
             "A seasonal favorite.",
-            "Pumpkin (1) Milk (1)",
-            "200 90",
-            "Defense (+2) Luck (+2)",
+            "Pumpkin, (1), Milk, (1)",
+            "200, 90",
+            "Defense, (+2), Luck, (+2)",
             "7m 41s",
-            "Robin (Mail - 7+ )",
-            "data-sort-value=\"300\"> 300g"
+            "Robin, (Mail - 7+, )",
+            "data-sort-value=\"300\">, 300g"
           ],
           [
             "",
             "Shrimp Cocktail",
             "A sumptuous appetizer made with freshly-caught shrimp.",
-            "Tomato (1) Shrimp (1) Wild Horseradish (1)",
-            "225 101",
-            "Fishing (+1) Luck (+1)",
+            "Tomato, (1), Shrimp, (1), Wild Horseradish, (1)",
+            "225, 101",
+            "Fishing, (+1), Luck, (+1)",
             "10m 2s",
-            "The Queen of Sauce 28 Winter, Year 2",
+            "The Queen of Sauce, 28 Winter, Year 2",
             "",
             "The Queen of Sauce",
             "28 Winter, Year 2",
-            "data-sort-value=\"160\"> 160g"
+            "data-sort-value=\"160\">, 160g"
           ],
           [
             "",
@@ -279,34 +279,34 @@
             "",
             "Spicy Eel",
             "It's really spicy! Be careful.",
-            "Eel (1) Hot Pepper (1)",
-            "115 51",
-            "Luck (+1) Speed (+1)",
+            "Eel, (1), Hot Pepper, (1)",
+            "115, 51",
+            "Luck, (+1), Speed, (+1)",
             "7m",
-            "George (Mail - 7+ )",
-            "data-sort-value=\"175\"> 175g"
+            "George, (Mail - 7+, )",
+            "data-sort-value=\"175\">, 175g"
           ],
           [
             "",
             "Magic Rock Candy",
             "A rare and powerful candy infused with the essence of the prismatic shard.",
             "N/A",
-            "500 225",
-            "Mining (+2) Luck (+5) Speed (+1) Defense (+5) Attack (+5)",
+            "500, 225",
+            "Mining, (+2), Luck, (+5), Speed, (+1), Defense, (+5), Attack, (+5)",
             "8m 24s",
             "N/A",
-            "data-sort-value=\"5000\"> 5,000g"
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Cave Jelly",
             "A rare jelly found in underground lakes.",
             "N/A",
-            "75 33",
-            "Luck (+1)",
+            "75, 33",
+            "Luck, (+1)",
             "7m",
             "N/A",
-            "data-sort-value=\"180\"> 180g"
+            "data-sort-value=\"180\">, 180g"
           ]
         ]
       }
@@ -339,11 +339,11 @@
             "",
             "Lucky Ring",
             "The lunar emblem is said to bring good luck to whoever wears it.",
-            "Increases Luck by +1.",
-            "Dropped as a special item in the Skull Cavern , or rarely by panning .",
+            "Increases, Luck, by +1.",
+            "Dropped as a, special item, in the, Skull Cavern, , or rarely by, panning, .",
             "N/A",
             "N/A",
-            "data-sort-value=\"100\"> 100g"
+            "data-sort-value=\"100\">, 100g"
           ]
         ]
       }
@@ -369,56 +369,56 @@
           [
             "",
             "Sour Salad",
-            "Luck (+3) Defense (+1)",
+            "Luck, (+3), Defense, (+1)",
             "7m",
             "Rare Fruit + Rich Marinara"
           ],
           [
             "",
             "Superfood Cake",
-            "Luck (+3) Mining (+1)",
+            "Luck, (+3), Mining, (+1)",
             "7m",
             "Rare Fruit + Mushroom Creme"
           ],
           [
             "",
             "Warrior Smoothie",
-            "Luck (+3) Attack (+1)",
+            "Luck, (+3), Attack, (+1)",
             "7m",
             "Rare Fruit + Pungent Garlic"
           ],
           [
             "",
             "Rumpled Fruit Skin",
-            "Luck (+3) Speed (+1)",
+            "Luck, (+3), Speed, (+1)",
             "7m",
             "Rare Fruit + Uncomfortably Hot Sauce"
           ],
           [
             "",
             "Sweet Bean Cake",
-            "Defense (+3) Luck (+1)",
+            "Defense, (+3), Luck, (+1)",
             "7m",
             "Hearty Beans + Cherry Syrup"
           ],
           [
             "",
             "Crystal Cake",
-            "Mining (+3) Luck (+1)",
+            "Mining, (+3), Luck, (+1)",
             "7m",
             "Cave Loaf + Cherry Syrup"
           ],
           [
             "",
             "Elf Quesadilla",
-            "Attack (+3) Luck (+1)",
+            "Attack, (+3), Luck, (+1)",
             "7m",
             "Extremely Sharp Cheddar + Cherry Syrup"
           ],
           [
             "",
             "Shrimp Donut",
-            "Fishing (+3) Luck (+1)",
+            "Fishing, (+3), Luck, (+1)",
             "7m",
             "Shrimp + Cherry Syrup"
           ]
@@ -433,15 +433,15 @@
         ],
         "rows": [
           [
-            "Skills & Stats"
+            "Skills, & Stats"
           ],
           [
             "Skills",
-            "Farming • Mining • Foraging • Fishing • Combat"
+            "Farming, •, Mining, •, Foraging, •, Fishing, •, Combat"
           ],
           [
             "Stats",
-            "Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight"
+            "Attack, •, Crit. Chance, •, Crit. Power, •, Defense, •, Immunity, •, Luck, •, Magnetism, •, Speed, •, Weight"
           ]
         ]
       }

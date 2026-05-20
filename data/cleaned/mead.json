@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Mead A fermented beverage made from honey. Drink in moderation. Information Source Artisan Goods Ginger Island Resort Buff(s) Tipsy Speed (−1) Buff Duration 30s Energy / Health 75 33 105 47 135 60 195 87 Sell Prices Base Artisan (+40%) 300g 375g 450g 600g 420g 525g 630g 840g Artisan Goods Equipment Keg Processing Time 10h Ingredients Honey (1)\nMead is an Artisan Good made from placing Honey inside a Keg , taking 10 hours. It is also available at the Ginger Island Resort for data-sort-value=\"800\"> 800g . Pam sells Mead in her shop at the Desert Festival for data-sort-value=\"20\"> 20 Calico Eggs . Unlike Wine and Juice however, the value of the Mead is not affected by the type of honey used. The sell price of Mead is data-sort-value=\"300\"> 300g , and only aging or the Artisan Profession can increase it. Several types of Flower Honey sell for more than Mead, so the player can actually lose gold by making Mead.\nMead can also be obtained for free from the bar in the Pirate Cove by speaking with the bartender while wearing the Pirate Hat , Deluxe Pirate Hat , Eye Patch , or Parrot Egg trinket. This can only be done once per night.\nWhen consumed, Mead causes a Tipsy buff that decreases Speed by 1."
+      "content": "Mead is an Artisan Good made from placing Honey inside a Keg , taking 10 hours. It is also available at the Ginger Island Resort for data-sort-value=\"800\"> 800g . Pam sells Mead in her shop at the Desert Festival for data-sort-value=\"20\"> 20 Calico Eggs . Unlike Wine and Juice however, the value of the Mead is not affected by the type of honey used. The sell price of Mead is data-sort-value=\"300\"> 300g , and only aging or the Artisan Profession can increase it. Several types of Flower Honey sell for more than Mead, so the player can actually lose gold by making Mead.\nMead can also be obtained for free from the bar in the Pirate Cove by speaking with the bartender while wearing the Pirate Hat , Deluxe Pirate Hat , Eye Patch , or Parrot Egg trinket. This can only be done once per night.\nWhen consumed, Mead causes a Tipsy buff that decreases Speed by 1."
     },
     {
       "heading": "Aged Values",
@@ -33,6 +33,343 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Mead"
+          ],
+          [
+            ""
+          ],
+          [
+            "A fermented beverage made from honey. Drink in moderation."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Artisan Goods, Ginger Island Resort"
+          ],
+          [
+            "Buff(s)",
+            "Tipsy, Speed, (−1)"
+          ],
+          [
+            "Buff Duration",
+            "30s"
+          ],
+          [
+            "Energy, /, Health",
+            "75, 33, 105, 47, 135, 60, 195, 87",
+            "",
+            "75",
+            "",
+            "33",
+            "",
+            "105",
+            "",
+            "47",
+            "",
+            "135",
+            "",
+            "60",
+            "",
+            "195",
+            "",
+            "87"
+          ],
+          [
+            "",
+            "75",
+            "",
+            "33"
+          ],
+          [
+            "",
+            "105",
+            "",
+            "47"
+          ],
+          [
+            "",
+            "135",
+            "",
+            "60"
+          ],
+          [
+            "",
+            "195",
+            "",
+            "87"
+          ],
+          [
+            "Sell Prices, Base, Artisan, (+40%), 300g, 375g, 450g, 600g, 420g, 525g, 630g, 840g",
+            "Sell Prices",
+            "Base",
+            "Artisan, (+40%)",
+            "300g, 375g, 450g, 600g",
+            "",
+            "300g",
+            "",
+            "375g",
+            "",
+            "450g",
+            "",
+            "600g",
+            "420g, 525g, 630g, 840g",
+            "",
+            "420g",
+            "",
+            "525g",
+            "",
+            "630g",
+            "",
+            "840g"
+          ],
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Artisan, (+40%)"
+          ],
+          [
+            "300g, 375g, 450g, 600g",
+            "",
+            "300g",
+            "",
+            "375g",
+            "",
+            "450g",
+            "",
+            "600g",
+            "420g, 525g, 630g, 840g",
+            "",
+            "420g",
+            "",
+            "525g",
+            "",
+            "630g",
+            "",
+            "840g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "375g"
+          ],
+          [
+            "",
+            "450g"
+          ],
+          [
+            "",
+            "600g"
+          ],
+          [
+            "",
+            "420g"
+          ],
+          [
+            "",
+            "525g"
+          ],
+          [
+            "",
+            "630g"
+          ],
+          [
+            "",
+            "840g"
+          ],
+          [
+            "Artisan Goods"
+          ],
+          [
+            "Equipment",
+            "Keg"
+          ],
+          [
+            "Processing Time",
+            "10h"
+          ],
+          [
+            "Ingredients",
+            "Honey, (1)"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "75",
+            "",
+            "33"
+          ],
+          [
+            "",
+            "105",
+            "",
+            "47"
+          ],
+          [
+            "",
+            "135",
+            "",
+            "60"
+          ],
+          [
+            "",
+            "195",
+            "",
+            "87"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Artisan, (+40%)"
+          ],
+          [
+            "300g, 375g, 450g, 600g",
+            "",
+            "300g",
+            "",
+            "375g",
+            "",
+            "450g",
+            "",
+            "600g",
+            "420g, 525g, 630g, 840g",
+            "",
+            "420g",
+            "",
+            "525g",
+            "",
+            "630g",
+            "",
+            "840g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "375g"
+          ],
+          [
+            "",
+            "450g"
+          ],
+          [
+            "",
+            "600g"
+          ],
+          [
+            "",
+            "420g"
+          ],
+          [
+            "",
+            "525g"
+          ],
+          [
+            "",
+            "630g"
+          ],
+          [
+            "",
+            "840g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "300g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "375g"
+          ],
+          [
+            "",
+            "450g"
+          ],
+          [
+            "",
+            "600g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "420g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "525g"
+          ],
+          [
+            "",
+            "630g"
+          ],
+          [
+            "",
+            "840g"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Aged Values",
       "table": {
         "headers": [
@@ -44,21 +381,21 @@
         "rows": [
           [
             "Normal Quality",
-            "Silver Quality (x 1.25)",
-            "Gold Quality (x 1.5)",
-            "Iridium Quality (x 2)"
+            "Silver Quality, (x 1.25)",
+            "Gold Quality, (x 1.5)",
+            "Iridium Quality, (x 2)"
           ],
           [
             "300g",
             "",
             "300g",
-            "375g Aged: 7 Days",
+            "375g, Aged: 7 Days",
             "",
             "375g",
-            "450g Aged: 7 Days Total: 14 Days",
+            "450g, Aged: 7 Days, Total: 14 Days",
             "",
             "450g",
-            "600g Aged: 14 Days Total: 28 Days",
+            "600g, Aged: 14 Days, Total: 28 Days",
             "",
             "600g"
           ],
@@ -93,15 +430,15 @@
           ],
           [
             "Love",
-            "Pam • Willy"
+            "Pam, •, Willy"
           ],
           [
             "Like",
-            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jodi • Kent • Krobus • Leah • Lewis • Linus • Marnie • Maru • Pierre • Robin • Sam • Sandy • Shane • Wizard"
+            "Abigail, •, Alex, •, Caroline, •, Clint, •, Demetrius, •, Dwarf, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Haley, •, Harvey, •, Jodi, •, Kent, •, Krobus, •, Leah, •, Lewis, •, Linus, •, Marnie, •, Maru, •, Pierre, •, Robin, •, Sam, •, Sandy, •, Shane, •, Wizard"
           ],
           [
             "Hate",
-            "Jas • Leo • Penny • Sebastian • Vincent"
+            "Jas, •, Leo, •, Penny, •, Sebastian, •, Vincent"
           ]
         ]
       }
@@ -122,15 +459,15 @@
           ],
           [
             "Cask",
-            "Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine"
+            "Beer, •, Cheese, •, Goat Cheese, •, Mead, •, Pale Ale, •, Wine"
           ],
           [
             "Cheese Press",
-            "Cheese • Goat Cheese"
+            "Cheese, •, Goat Cheese"
           ],
           [
             "Keg",
-            "Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine"
+            "Beer, •, Coffee, •, Green Tea, •, Juice, •, Mead, •, Pale Ale, •, Wine"
           ],
           [
             "Loom",
@@ -138,15 +475,15 @@
           ],
           [
             "Mayonnaise Machine",
-            "Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise"
+            "Dinosaur Mayonnaise, •, Duck Mayonnaise, •, Mayonnaise, •, Void Mayonnaise"
           ],
           [
             "Oil Maker",
-            "Oil • Truffle Oil"
+            "Oil, •, Truffle Oil"
           ],
           [
             "Preserves Jar",
-            "Aged Roe • Caviar • Jellies and Pickles"
+            "Aged Roe, •, Caviar, •, Jellies and Pickles"
           ],
           [
             "Fish Smoker",
@@ -154,11 +491,11 @@
           ],
           [
             "Dehydrator",
-            "Dried Mushrooms • Dried Fruit • Raisins"
+            "Dried Mushrooms, •, Dried Fruit, •, Raisins"
           ],
           [
             "Misc",
-            "Maple Syrup • Oak Resin • Pine Tar • Mystic Syrup"
+            "Maple Syrup, •, Oak Resin, •, Pine Tar, •, Mystic Syrup"
           ]
         ]
       }

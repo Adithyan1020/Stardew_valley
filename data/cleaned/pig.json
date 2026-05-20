@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Pig These pigs are trained to find truffles! Lives in the barn. Information Building Deluxe Barn Purchase Price data-sort-value=\"16000 \"> 16,000g Produce Truffle\nThe Pig is an animal that lives in a Deluxe Barn . Pigs can be purchased at Marnie's Ranch for data-sort-value=\"16000\"> 16,000g . Pigs can become pregnant and give birth ."
+      "content": "The Pig is an animal that lives in a Deluxe Barn . Pigs can be purchased at Marnie's Ranch for data-sort-value=\"16000\"> 16,000g . Pigs can become pregnant and give birth ."
     },
     {
       "heading": "Produce",
@@ -61,6 +61,38 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Pig"
+          ],
+          [
+            ""
+          ],
+          [
+            "These pigs are trained to find truffles! Lives in the barn."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Building",
+            "Deluxe Barn"
+          ],
+          [
+            "Purchase Price",
+            "data-sort-value=\"16000 \">, 16,000g"
+          ],
+          [
+            "Produce",
+            "Truffle"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Produce",
       "table": {
         "headers": [
@@ -80,7 +112,7 @@
             "",
             "Truffle",
             "A gourmet type of mushroom with a unique taste.",
-            "625g 781g 937g 1,250g",
+            "625g, 781g, 937g, 1,250g",
             "",
             "625g",
             "",
@@ -117,15 +149,15 @@
         ],
         "rows": [
           [
-            "Animals and Produce"
+            "Animals, and Produce"
           ],
           [
             "Coop",
-            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+            "Chicken, •, Dinosaur, •, Duck, •, Golden Chicken, •, Rabbit, •, Void Chicken"
           ],
           [
             "Barn",
-            "Cow • Goat • Sheep • Ostrich • Pig"
+            "Cow, •, Goat, •, Sheep, •, Ostrich, •, Pig"
           ],
           [
             "Fish Pond",
@@ -137,7 +169,7 @@
           ],
           [
             "Other",
-            "Cat • Dog • Horse • Turtle"
+            "Cat, •, Dog, •, Horse, •, Turtle"
           ]
         ]
       }

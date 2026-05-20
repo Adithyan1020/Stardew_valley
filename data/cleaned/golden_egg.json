@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Golden Egg A very rare and special egg with a solid gold shell. Information Source Golden Chicken Marnie's Ranch Qi's Walnut Room The Witch Fishing Treasure Chest (0.12%) Energy / Health 25 11 35 15 45 20 65 29 Sell Prices Base Rancher (+20%) 500g 625g 750g 1,000g 600g 750g 900g 1,200g Artisan Sell Prices Base Rancher (+20%) Artisan (+40%) 285g (×3) 342g (×3) 399g (×3)\nThe Golden Egg is an animal product obtained from Golden Chickens . They will produce a Golden \nEgg every day as long as they are fed.\nTo obtain Golden Eggs and Golden Chickens, Perfection must have been achieved. Progress can be tracked in Qi's Walnut Room .\nAfter reaching Perfection, the first Golden Egg can be obtained in four ways:\n- Marnie's Ranch for data-sort-value=\"100000\"> 100,000g .\n- Qi's Walnut Room for data-sort-value=\"100\"> 100 .\n- Random Event that occurs after the player goes to sleep. A golden witch will fly over a Coop and leave a Golden Egg inside.\n- Randomly from a Fishing Treasure Chest (0.12% chance).\nGolden Eggs can be put into an incubator in a Big or Deluxe Coop to hatch a Golden Chicken 6 days later, or 3 days with the Coopmaster Profession ."
+      "content": "The Golden Egg is an animal product obtained from Golden Chickens . They will produce a Golden \nEgg every day as long as they are fed.\nTo obtain Golden Eggs and Golden Chickens, Perfection must have been achieved. Progress can be tracked in Qi's Walnut Room .\nAfter reaching Perfection, the first Golden Egg can be obtained in four ways:\n- Marnie's Ranch for data-sort-value=\"100000\"> 100,000g .\n- Qi's Walnut Room for data-sort-value=\"100\"> 100 .\n- Random Event that occurs after the player goes to sleep. A golden witch will fly over a Coop and leave a Golden Egg inside.\n- Randomly from a Fishing Treasure Chest (0.12% chance).\nGolden Eggs can be put into an incubator in a Big or Deluxe Coop to hatch a Golden Chicken 6 days later, or 3 days with the Coopmaster Profession ."
     },
     {
       "heading": "Bundles",
@@ -33,6 +33,534 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Golden Egg"
+          ],
+          [
+            ""
+          ],
+          [
+            "A very rare and special egg with a solid gold shell."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Golden Chicken, Marnie's Ranch, Qi's Walnut Room, The Witch, Fishing Treasure Chest, (0.12%)"
+          ],
+          [
+            "Energy, /, Health",
+            "25, 11, 35, 15, 45, 20, 65, 29",
+            "",
+            "25",
+            "",
+            "11",
+            "",
+            "35",
+            "",
+            "15",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "65",
+            "",
+            "29"
+          ],
+          [
+            "",
+            "25",
+            "",
+            "11"
+          ],
+          [
+            "",
+            "35",
+            "",
+            "15"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "65",
+            "",
+            "29"
+          ],
+          [
+            "Sell Prices, Base, Rancher, (+20%), 500g, 625g, 750g, 1,000g, 600g, 750g, 900g, 1,200g",
+            "Sell Prices",
+            "Base",
+            "Rancher, (+20%)",
+            "500g, 625g, 750g, 1,000g",
+            "",
+            "500g",
+            "",
+            "625g",
+            "",
+            "750g",
+            "",
+            "1,000g",
+            "600g, 750g, 900g, 1,200g",
+            "",
+            "600g",
+            "",
+            "750g",
+            "",
+            "900g",
+            "",
+            "1,200g"
+          ],
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Rancher, (+20%)"
+          ],
+          [
+            "500g, 625g, 750g, 1,000g",
+            "",
+            "500g",
+            "",
+            "625g",
+            "",
+            "750g",
+            "",
+            "1,000g",
+            "600g, 750g, 900g, 1,200g",
+            "",
+            "600g",
+            "",
+            "750g",
+            "",
+            "900g",
+            "",
+            "1,200g"
+          ],
+          [
+            "",
+            "500g"
+          ],
+          [
+            "",
+            "625g"
+          ],
+          [
+            "",
+            "750g"
+          ],
+          [
+            "",
+            "1,000g"
+          ],
+          [
+            "",
+            "600g"
+          ],
+          [
+            "",
+            "750g"
+          ],
+          [
+            "",
+            "900g"
+          ],
+          [
+            "",
+            "1,200g"
+          ],
+          [
+            "Artisan Sell Prices, Base, Rancher, (+20%), Artisan, (+40%), 285g, (×3), 342g, (×3), 399g, (×3)",
+            "Artisan Sell Prices",
+            "Base",
+            "Rancher, (+20%)",
+            "Artisan, (+40%)",
+            "285g, (×3)",
+            "285g",
+            "",
+            "285g",
+            "(×3)",
+            "342g, (×3)",
+            "342g",
+            "",
+            "342g",
+            "(×3)",
+            "399g, (×3)",
+            "399g",
+            "",
+            "399g",
+            "(×3)"
+          ],
+          [
+            "Artisan Sell Prices"
+          ],
+          [
+            "Base",
+            "Rancher, (+20%)",
+            "Artisan, (+40%)"
+          ],
+          [
+            "285g, (×3)",
+            "285g",
+            "",
+            "285g",
+            "(×3)",
+            "342g, (×3)",
+            "342g",
+            "",
+            "342g",
+            "(×3)",
+            "399g, (×3)",
+            "399g",
+            "",
+            "399g",
+            "(×3)"
+          ],
+          [
+            "285g",
+            "",
+            "285g",
+            "(×3)"
+          ],
+          [
+            "",
+            "285g"
+          ],
+          [
+            "342g",
+            "",
+            "342g",
+            "(×3)"
+          ],
+          [
+            "",
+            "342g"
+          ],
+          [
+            "399g",
+            "",
+            "399g",
+            "(×3)"
+          ],
+          [
+            "",
+            "399g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "25",
+            "",
+            "11"
+          ],
+          [
+            "",
+            "35",
+            "",
+            "15"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "65",
+            "",
+            "29"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Rancher, (+20%)"
+          ],
+          [
+            "500g, 625g, 750g, 1,000g",
+            "",
+            "500g",
+            "",
+            "625g",
+            "",
+            "750g",
+            "",
+            "1,000g",
+            "600g, 750g, 900g, 1,200g",
+            "",
+            "600g",
+            "",
+            "750g",
+            "",
+            "900g",
+            "",
+            "1,200g"
+          ],
+          [
+            "",
+            "500g"
+          ],
+          [
+            "",
+            "625g"
+          ],
+          [
+            "",
+            "750g"
+          ],
+          [
+            "",
+            "1,000g"
+          ],
+          [
+            "",
+            "600g"
+          ],
+          [
+            "",
+            "750g"
+          ],
+          [
+            "",
+            "900g"
+          ],
+          [
+            "",
+            "1,200g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "500g"
+          ],
+          [
+            "",
+            "625g"
+          ],
+          [
+            "",
+            "750g"
+          ],
+          [
+            "",
+            "1,000g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "600g"
+          ],
+          [
+            "",
+            "750g"
+          ],
+          [
+            "",
+            "900g"
+          ],
+          [
+            "",
+            "1,200g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Artisan Sell Prices"
+          ],
+          [
+            "Base",
+            "Rancher, (+20%)",
+            "Artisan, (+40%)"
+          ],
+          [
+            "285g, (×3)",
+            "285g",
+            "",
+            "285g",
+            "(×3)",
+            "342g, (×3)",
+            "342g",
+            "",
+            "342g",
+            "(×3)",
+            "399g, (×3)",
+            "399g",
+            "",
+            "399g",
+            "(×3)"
+          ],
+          [
+            "285g",
+            "",
+            "285g",
+            "(×3)"
+          ],
+          [
+            "",
+            "285g"
+          ],
+          [
+            "342g",
+            "",
+            "342g",
+            "(×3)"
+          ],
+          [
+            "",
+            "342g"
+          ],
+          [
+            "399g",
+            "",
+            "399g",
+            "(×3)"
+          ],
+          [
+            "",
+            "399g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "285g",
+            "",
+            "285g",
+            "(×3)"
+          ],
+          [
+            "",
+            "285g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "285g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "342g",
+            "",
+            "342g",
+            "(×3)"
+          ],
+          [
+            "",
+            "342g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "342g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "399g",
+            "",
+            "399g",
+            "(×3)"
+          ],
+          [
+            "",
+            "399g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "399g"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Gifting",
       "table": {
         "headers": [
@@ -44,15 +572,15 @@
           ],
           [
             "Like",
-            "Alex • Demetrius • Jodi • Kent • Leah • Linus • Marnie • Pierre • Sam • Shane"
+            "Alex, •, Demetrius, •, Jodi, •, Kent, •, Leah, •, Linus, •, Marnie, •, Pierre, •, Sam, •, Shane"
           ],
           [
             "Neutral",
-            "Caroline • Clint • Elliott • Emily • Evelyn • George • Gus • Harvey • Krobus • Leo • Lewis • Maru • Penny • Robin • Sandy • Willy"
+            "Caroline, •, Clint, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Harvey, •, Krobus, •, Leo, •, Lewis, •, Maru, •, Penny, •, Robin, •, Sandy, •, Willy"
           ],
           [
             "Dislike",
-            "Abigail • Dwarf • Haley • Jas • Pam • Vincent • Wizard"
+            "Abigail, •, Dwarf, •, Haley, •, Jas, •, Pam, •, Vincent, •, Wizard"
           ],
           [
             "Hate",
@@ -85,9 +613,9 @@
           ],
           [
             "",
-            "Mayonnaise (3)",
+            "Mayonnaise, (3)",
             "It looks spreadable.",
-            "Golden Egg (1)",
+            "Golden Egg, (1)",
             "Mayonnaise Machine",
             "3 Hours",
             "285g",
@@ -131,26 +659,26 @@
             "",
             "Fried Egg",
             "Sunny-side up.",
-            "Egg (1)",
-            "50 22",
+            "Egg, (1)",
+            "50, 22",
             "N/A",
             "N/A",
             "Starter",
-            "data-sort-value=\"35\"> 35g"
+            "data-sort-value=\"35\">, 35g"
           ],
           [
             "",
             "Omelet",
             "It's super fluffy.",
-            "Egg (1) Milk (1)",
-            "100 45",
+            "Egg, (1), Milk, (1)",
+            "100, 45",
             "N/A",
             "N/A",
-            "The Queen of Sauce 28 Spring, Year 1 Stardrop Saloon for data-sort-value=\"100\"> 100g",
+            "The Queen of Sauce, 28 Spring, Year 1, Stardrop Saloon, for, data-sort-value=\"100\">, 100g",
             "",
             "The Queen of Sauce",
             "28 Spring, Year 1",
-            "data-sort-value=\"125\"> 125g"
+            "data-sort-value=\"125\">, 125g"
           ],
           [
             "",
@@ -163,15 +691,15 @@
             "",
             "Pancakes",
             "A double stack of fluffy, soft pancakes.",
-            "Wheat Flour (1) Egg (1)",
-            "90 40",
-            "Foraging (+2)",
+            "Wheat Flour, (1), Egg, (1)",
+            "90, 40",
+            "Foraging, (+2)",
             "11m 11s",
-            "The Queen of Sauce 14 Summer, Year 1 Stardrop Saloon for data-sort-value=\"100\"> 100g",
+            "The Queen of Sauce, 14 Summer, Year 1, Stardrop Saloon, for, data-sort-value=\"100\">, 100g",
             "",
             "The Queen of Sauce",
             "14 Summer, Year 1",
-            "data-sort-value=\"80\"> 80g"
+            "data-sort-value=\"80\">, 80g"
           ],
           [
             "",
@@ -184,15 +712,15 @@
             "",
             "Chocolate Cake",
             "Rich and moist with a thick fudge icing.",
-            "Wheat Flour (1) Sugar (1) Egg (1)",
-            "150 67",
+            "Wheat Flour, (1), Sugar, (1), Egg, (1)",
+            "150, 67",
             "N/A",
             "N/A",
-            "The Queen of Sauce 14 Winter, Year 1",
+            "The Queen of Sauce, 14 Winter, Year 1",
             "",
             "The Queen of Sauce",
             "14 Winter, Year 1",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
@@ -205,15 +733,15 @@
             "",
             "Pink Cake",
             "There's little heart candies on top.",
-            "Melon (1) Wheat Flour (1) Sugar (1) Egg (1)",
-            "250 112",
+            "Melon, (1), Wheat Flour, (1), Sugar, (1), Egg, (1)",
+            "250, 112",
             "N/A",
             "N/A",
-            "The Queen of Sauce 21 Summer, Year 2",
+            "The Queen of Sauce, 21 Summer, Year 2",
             "",
             "The Queen of Sauce",
             "21 Summer, Year 2",
-            "data-sort-value=\"480\"> 480g"
+            "data-sort-value=\"480\">, 480g"
           ],
           [
             "",
@@ -226,37 +754,37 @@
             "",
             "Cookie",
             "Very chewy.",
-            "Wheat Flour (1) Sugar (1) Egg (1)",
-            "90 40",
+            "Wheat Flour, (1), Sugar, (1), Egg, (1)",
+            "90, 40",
             "N/A",
             "N/A",
-            "Evelyn (4-heart event)",
-            "data-sort-value=\"140\"> 140g"
+            "Evelyn, (4-heart event)",
+            "data-sort-value=\"140\">, 140g"
           ],
           [
             "",
             "Blueberry Tart",
             "It's subtle and refreshing.",
-            "Blueberry (1) Wheat Flour (1) Sugar (1) Egg (1)",
-            "125 56",
+            "Blueberry, (1), Wheat Flour, (1), Sugar, (1), Egg, (1)",
+            "125, 56",
             "N/A",
             "N/A",
-            "Pierre (Mail - 3+ )",
-            "data-sort-value=\"150\"> 150g"
+            "Pierre, (Mail - 3+, )",
+            "data-sort-value=\"150\">, 150g"
           ],
           [
             "",
             "Crab Cakes",
             "Crab, bread crumbs, and egg formed into patties then fried to a golden brown.",
-            "Crab (1) Wheat Flour (1) Egg (1) Oil (1)",
-            "225 101",
-            "Speed (+1) Defense (+1)",
+            "Crab, (1), Wheat Flour, (1), Egg, (1), Oil, (1)",
+            "225, 101",
+            "Speed, (+1), Defense, (+1)",
             "16m 47s",
-            "The Queen of Sauce 21 Fall, Year 2",
+            "The Queen of Sauce, 21 Fall, Year 2",
             "",
             "The Queen of Sauce",
             "21 Fall, Year 2",
-            "data-sort-value=\"275\"> 275g"
+            "data-sort-value=\"275\">, 275g"
           ],
           [
             "",
@@ -276,15 +804,15 @@
         ],
         "rows": [
           [
-            "Animals and Produce"
+            "Animals, and Produce"
           ],
           [
             "Coop",
-            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+            "Chicken, •, Dinosaur, •, Duck, •, Golden Chicken, •, Rabbit, •, Void Chicken"
           ],
           [
             "Barn",
-            "Cow • Goat • Sheep • Ostrich • Pig"
+            "Cow, •, Goat, •, Sheep, •, Ostrich, •, Pig"
           ],
           [
             "Fish Pond",
@@ -296,7 +824,7 @@
           ],
           [
             "Other",
-            "Cat • Dog • Horse • Turtle"
+            "Cat, •, Dog, •, Horse, •, Turtle"
           ]
         ]
       }

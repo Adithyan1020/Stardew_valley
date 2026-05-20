@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Dwarf Information Birthday Summer 22 Lives In The Mines Address Eastern Cave Marriage No Loved Gifts Amethyst Aquamarine Emerald Jade Lava Eel Lemon Stone Omni Geode Ruby Topaz\nThe Dwarf is a valley resident who lives in the Mines . Initially the way is blocked off by an unbreakable rock, just inside the entrance. After upgrading to at least a steel pickaxe , the stone can be broken. A cherry bomb (or stronger bomb) will also break the rock.\nThe Dwarf will start out speaking Dwarvish, which is unreadable by the player. To understand Dwarvish, the 4 Dwarvish scrolls must be acquired from within the mines. After donating them to the museum , Gunther will reward the player with the Dwarvish Translation Guide to use which allows for understanding the Dwarf's speech. Purchases from the Dwarf's shop cannot be made and friendship cannot be affected with the Dwarf until Dwarvish is understood."
+      "content": "The Dwarf is a valley resident who lives in the Mines . Initially the way is blocked off by an unbreakable rock, just inside the entrance. After upgrading to at least a steel pickaxe , the stone can be broken. A cherry bomb (or stronger bomb) will also break the rock.\nThe Dwarf will start out speaking Dwarvish, which is unreadable by the player. To understand Dwarvish, the 4 Dwarvish scrolls must be acquired from within the mines. After donating them to the museum , Gunther will reward the player with the Dwarvish Translation Guide to use which allows for understanding the Dwarf's speech. Purchases from the Dwarf's shop cannot be made and friendship cannot be affected with the Dwarf until Dwarvish is understood."
     },
     {
       "heading": "Schedule",
@@ -54,6 +54,43 @@
         "headers": [],
         "rows": [
           [
+            "Dwarf"
+          ],
+          [
+            ""
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Birthday",
+            "Summer, 22"
+          ],
+          [
+            "Lives In",
+            "The Mines"
+          ],
+          [
+            "Address",
+            "Eastern Cave"
+          ],
+          [
+            "Marriage",
+            "No"
+          ],
+          [
+            "Loved Gifts",
+            "Amethyst, Aquamarine, Emerald, Jade, Lava Eel, Lemon Stone, Omni Geode, Ruby, Topaz"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
             "“",
             "“Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that. But I wonder where it came from? And where did it all go? I guess some questions will never be answered...”"
           ],
@@ -83,67 +120,67 @@
             "",
             "Dwarvish Safety Manual",
             "Bombs deal 25% less damage to you.",
-            "data-sort-value=\"4000\"> 4,000g"
+            "data-sort-value=\"4000\">, 4,000g"
           ],
           [
             "",
-            "Big Stone Chest (Recipe)",
-            "A recipe to make Big Stone Chest",
-            "data-sort-value=\"5000\"> 5,000g"
+            "Big Stone Chest, (Recipe)",
+            "A recipe to make, Big Stone Chest",
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Life Elixir",
             "Restores health to full.",
-            "data-sort-value=\"2000\"> 2,000g"
+            "data-sort-value=\"2000\">, 2,000g"
           ],
           [
             "",
             "Oil of Garlic",
             "Drink this and weaker monsters will avoid you.",
-            "data-sort-value=\"3000\"> 3,000g"
+            "data-sort-value=\"3000\">, 3,000g"
           ],
           [
             "",
             "Cherry Bomb",
             "Generates a small explosion. Stand back!",
-            "data-sort-value=\"450\"> 450g"
+            "data-sort-value=\"450\">, 450g"
           ],
           [
             "",
             "Bomb",
             "Generates an explosion. Watch out!",
-            "data-sort-value=\"1000\"> 1,000g"
+            "data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "Mega Bomb",
             "Generates a powerful explosion. Use with extreme caution.",
-            "data-sort-value=\"1600\"> 1,600g"
+            "data-sort-value=\"1600\">, 1,600g"
           ],
           [
             "",
             "Miner's Treat",
             "This should keep your energy up.",
-            "data-sort-value=\"1000\"> 1,000g"
+            "data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "Rarecrow #6",
             "Collect them all! (6 of 8)",
-            "data-sort-value=\"2500\"> 2,500g"
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "",
             "Stone Cairn",
             "A decorative piece for your farm.",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
-            "Weathered Floor Recipe",
-            "Blueprints for crafting Weathered Floor",
-            "data-sort-value=\"500\"> 500g"
+            "Weathered Floor, Recipe",
+            "Blueprints for crafting, Weathered Floor",
+            "data-sort-value=\"500\">, 500g"
           ]
         ]
       }
@@ -167,7 +204,7 @@
         "rows": [
           [
             "“",
-            "“Oh! I've read about this tradition... it's a 'birthday gift', isn't it? So, is it part of the tradition to give out garbage like this?”"
+            "“Oh! I've read about this tradition... it's a 'birthday gift', isn't it?, So, is it part of the tradition to give out garbage like this?”"
           ]
         ]
       }
@@ -226,7 +263,7 @@
           ],
           [
             "",
-            "All Universal Loves"
+            "All, Universal Loves"
           ],
           [
             "",
@@ -327,7 +364,7 @@
           ],
           [
             "",
-            "All Universal Likes All Artifacts"
+            "All, Universal Likes, All, Artifacts"
           ],
           [
             "",
@@ -339,7 +376,7 @@
             "",
             "Quartz",
             "A clear crystal commonly found in caves and mines.",
-            "Foraging - The Mines"
+            "Foraging, -, The Mines"
           ]
         ]
       }
@@ -375,7 +412,7 @@
         "rows": [
           [
             "“",
-            "“Ah, 'milk'... *slurp*... How interesting. Remind me, again... where exactly does this juice come from? ...!!! *sploosh*”"
+            "“Ah, 'milk'... *slurp*... How interesting. Remind me, again... where exactly does this juice come from?, ...!!! *sploosh*”"
           ]
         ]
       }
@@ -398,7 +435,7 @@
           ],
           [
             "",
-            "All Universal Neutrals All Fruit (except Fruit Tree fruit & Salmonberry ) All Milk"
+            "All, Universal Neutrals, All, Fruit, (except, Fruit Tree fruit, &, Salmonberry, ), All Milk"
           ],
           [
             "",
@@ -457,97 +494,97 @@
           ],
           [
             "",
-            "All Universal Dislikes (except Artifacts , Cave Carrot , Lava Eel , Lemon Stone , Omni Geode , Solar Essence , & Void Essence ) All Eggs*"
+            "All, Universal Dislikes, (except, Artifacts, ,, Cave Carrot, ,, Lava Eel, ,, Lemon Stone, ,, Omni Geode, ,, Solar Essence, , &, Void Essence, ), All Eggs*"
           ],
           [
             "",
             "Chanterelle",
             "A tasty mushroom with a fruity smell and slightly peppery flavor.",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Common Mushroom",
             "Slightly nutty, with good texture.",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Daffodil",
             "A traditional spring flower that makes a nice gift.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Dandelion",
             "Not the prettiest flower, but the leaves make a good salad.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Ginger",
             "This sharp, spicy root is said to increase vitality.",
-            "Foraging - Ginger Island"
+            "Foraging, -, Ginger Island"
           ],
           [
             "",
             "Hazelnut",
             "That's one big hazelnut!",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Holly",
             "The leaves and bright red berries make a popular winter decoration.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ],
           [
             "",
             "Leek",
             "A tasty relative of the onion.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Magma Cap",
             "A very rare mushroom that lives next to pools of lava.",
-            "Foraging - Volcano Dungeon"
+            "Foraging, -, Volcano Dungeon"
           ],
           [
             "",
             "Morel",
             "Sought after for its unique nutty flavor.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Purple Mushroom",
             "A rare mushroom found deep in caves.",
-            "Foraging - The Mines"
+            "Foraging, -, The Mines"
           ],
           [
             "",
             "Salmonberry",
             "A spring-time berry with the flavor of the forest.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Snow Yam",
             "This little yam was hiding beneath the snow.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ],
           [
             "",
             "Wild Horseradish",
             "A spicy root found in the spring.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Winter Root",
             "A starchy tuber.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ]
         ]
       }
@@ -594,7 +631,7 @@
           ],
           [
             "",
-            "All Universal Hates"
+            "All, Universal Hates"
           ]
         ]
       }
@@ -612,19 +649,19 @@
         ],
         "rows": [
           [
-            "Love It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus Like N/A Dislike N/A",
+            "Love, It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, The Zuzu City Express, Wumbus, Like, N/A, Dislike, N/A",
             "Love",
-            "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus",
+            "It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, The Zuzu City Express, Wumbus",
             "Like",
             "N/A",
             "Dislike",
             "N/A",
             "",
-            "Love Rock Candy Stardrop Sorbet Like Cotton Candy Ice Cream Sandwich Jawbreaker Salmon Burger Sour Slimes Star Cookie Dislike Everything else",
+            "Love, Rock Candy, Stardrop Sorbet, Like, Cotton Candy, Ice Cream Sandwich, Jawbreaker, Salmon Burger, Sour Slimes, Star Cookie, Dislike, Everything else",
             "Love",
-            "Rock Candy Stardrop Sorbet",
+            "Rock Candy, Stardrop Sorbet",
             "Like",
-            "Cotton Candy Ice Cream Sandwich Jawbreaker Salmon Burger Sour Slimes Star Cookie",
+            "Cotton Candy, Ice Cream Sandwich, Jawbreaker, Salmon Burger, Sour Slimes, Star Cookie",
             "Dislike",
             "Everything else"
           ],
@@ -632,7 +669,7 @@
             "Love"
           ],
           [
-            "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus"
+            "It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, The Zuzu City Express, Wumbus"
           ],
           [
             "Like"
@@ -650,13 +687,13 @@
             "Love"
           ],
           [
-            "Rock Candy Stardrop Sorbet"
+            "Rock Candy, Stardrop Sorbet"
           ],
           [
             "Like"
           ],
           [
-            "Cotton Candy Ice Cream Sandwich Jawbreaker Salmon Burger Sour Slimes Star Cookie"
+            "Cotton Candy, Ice Cream Sandwich, Jawbreaker, Salmon Burger, Sour Slimes, Star Cookie"
           ],
           [
             "Dislike"
@@ -678,7 +715,7 @@
             "Details"
           ],
           [
-            "The Dwarf finds Krobus in the Sewers and blames the Shadow People for the death of their family. Krobus retorts by saying that he only resorted to violence after the dwarves drove them from their ancestral homeland. Krobus gives an apology for what happened to the Dwarf's family but the Dwarf doesn't accept it. They both start fighting. The player descends into the Sewers and gets between them. The Dwarf yells out, \"Let me at him! He's despicable.\" Krobus retorts, \"Come and get it, shrimpy.\" Suddenly, the Wizard appears and stops the fight. He reminds them that \"The Elemental Wars have long been finished.\" and tells them to make peace for the sake of the humans that live around them. The Dwarf consents to this and promises to stay away from the Sewers. Krobus once again apologizes for the past and states that he has no personal gripe with the Dwarf. The Wizard casts a 'Seal of Promise' to finalize the agreement."
+            "The Dwarf finds Krobus in the Sewers and blames the Shadow People for the death of their family. Krobus retorts by saying that he only resorted to violence after the dwarves drove them from their ancestral homeland. Krobus gives an apology for what happened to the Dwarf's family but the Dwarf doesn't accept it. They both start fighting. The player descends into the Sewers and gets between them. The Dwarf yells out, \"Let me at him! He's despicable.\" Krobus retorts, \"Come and get it, shrimpy.\" Suddenly, the, Wizard, appears and stops the fight. He reminds them that \"The Elemental Wars have long been finished.\" and tells them to make peace for the sake of the humans that live around them. The Dwarf consents to this and promises to stay away from the Sewers. Krobus once again apologizes for the past and states that he has no personal gripe with the Dwarf. The Wizard casts a 'Seal of Promise' to finalize the agreement."
           ]
         ]
       }
@@ -694,7 +731,7 @@
             "First Meeting"
           ],
           [
-            "“ “Hey, you're pretty good at mining, for a human.”",
+            "“, “Hey, you're pretty good at mining, for a human.”",
             "“",
             "“Hey, you're pretty good at mining, for a human.”"
           ],
@@ -716,11 +753,11 @@
             "Regular"
           ],
           [
-            "“ “I got all this stuff from the surface. I just take it from your people during the night. Hmm? What is this concept you call \"private property\"?” “ “Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin. ...And a ramekin of cave carrot brulee to sweeten the night.\nWhat?” “ “Hey, wanna buy something?” “ “I feel most comfortable underground. The deeper underground the better.” “ “You've never seen a dwarf before, have you?” “ “It's dangerous in the mines. Why don't you buy a few things from my shop to ensure your safety?” “ “One day you'll have to tell me about this beverage you call \"milk\"” “ “You're not a spy sent by the Shadow People, are you? I'm keeping my eye on you.” “ “Most humans fear the unknown... that's why I've hidden my shop here. Your mining skills prove you're trustworthy.” 6+ Hearts “ “Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that. But I wonder where it came from? And where did it all go? I guess some questions will never be answered...” 8+ Hearts “ “The mines can be a treacherous place. Be careful, friend.” Rain “ “Rain... It's almost mythical to us. Some of us dwarves live our entire lives without ever experiencing it.” Green Rain “ “I can't see the color green very well. I guess it's part of living underground for so long.” After reaching the bottom of the Mines “ “You know, you're pretty good at mining, for a human.” After reaching Ginger Island North “ “If you enter the volcano on Ginger Island, you might encounter others like me. Don't be alarmed! We're peaceful with humans.” After reaching the Volcano Caldera “ “You found the legendary Dwarvish Forge? Incredible... I've never seen it, myself. The machinery is so old, none of my people understand how it works. But it's definitely Dwarvish technology.” After catching a Stonefish “ “Oh, you caught a Stonefish? I know them very well. We sometimes keep them as pets.” After catching an Ice Pip “ “Oh, you caught an Ice Pip? They're energetic little fish, despite the frigid environment they live in. My people avoid the frozen areas, though... too cold!” After catching a Lava Eel “ “Oh, you caught a Lava Eel? Very good! Lava Eel fishing is a big part of our culture. They're considered a delicacy!”",
+            "“, “I got all this stuff from the surface. I just take it from your people during the night. Hmm? What is this concept you call \"private property\"?”, “, “Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin., ...And a ramekin of cave carrot brulee to sweeten the night.\nWhat?”, “, “Hey, wanna buy something?”, “, “I feel most comfortable underground. The deeper underground the better.”, “, “You've never seen a dwarf before, have you?”, “, “It's dangerous in the mines. Why don't you buy a few things from my shop to ensure your safety?”, “, “One day you'll have to tell me about this beverage you call \"milk\"”, “, “You're not a spy sent by the Shadow People, are you? I'm keeping my eye on you.”, “, “Most humans fear the unknown... that's why I've hidden my shop here. Your mining skills prove you're trustworthy.”, 6+ Hearts, “, “Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that., But I wonder where it came from? And where did it all go? I guess some questions will never be answered...”, 8+ Hearts, “, “The mines can be a treacherous place. Be careful, friend.”, Rain, “, “Rain... It's almost mythical to us. Some of us dwarves live our entire lives without ever experiencing it.”, Green Rain, “, “I can't see the color green very well. I guess it's part of living underground for so long.”, After reaching the bottom of, the Mines, “, “You know, you're pretty good at mining, for a human.”, After reaching, Ginger Island, North, “, “If you enter the volcano on Ginger Island, you might encounter others like me. Don't be alarmed! We're peaceful with humans.”, After reaching the, Volcano Caldera, “, “You found the legendary Dwarvish Forge? Incredible... I've never seen it, myself. The machinery is so old, none of my people understand how it works. But it's definitely Dwarvish technology.”, After catching a, Stonefish, “, “Oh, you caught a Stonefish? I know them very well. We sometimes keep them as pets.”, After catching an, Ice Pip, “, “Oh, you caught an Ice Pip? They're energetic little fish, despite the frigid environment they live in. My people avoid the frozen areas, though... too cold!”, After catching a, Lava Eel, “, “Oh, you caught a Lava Eel? Very good! Lava Eel fishing is a big part of our culture. They're considered a delicacy!”",
             "“",
             "“I got all this stuff from the surface. I just take it from your people during the night. Hmm? What is this concept you call \"private property\"?”",
             "“",
-            "“Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin. ...And a ramekin of cave carrot brulee to sweeten the night.\nWhat?”",
+            "“Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin., ...And a ramekin of cave carrot brulee to sweeten the night.\nWhat?”",
             "“",
             "“Hey, wanna buy something?”",
             "“",
@@ -736,7 +773,7 @@
             "“",
             "“Most humans fear the unknown... that's why I've hidden my shop here. Your mining skills prove you're trustworthy.”",
             "“",
-            "“Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that. But I wonder where it came from? And where did it all go? I guess some questions will never be answered...”",
+            "“Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that., But I wonder where it came from? And where did it all go? I guess some questions will never be answered...”",
             "“",
             "“The mines can be a treacherous place. Be careful, friend.”",
             "“",
@@ -763,7 +800,7 @@
           ],
           [
             "“",
-            "“Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin. ...And a ramekin of cave carrot brulee to sweeten the night.\nWhat?”"
+            "“Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin., ...And a ramekin of cave carrot brulee to sweeten the night.\nWhat?”"
           ],
           [
             "“",
@@ -795,7 +832,7 @@
           ],
           [
             "“",
-            "“Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that. But I wonder where it came from? And where did it all go? I guess some questions will never be answered...”"
+            "“Long ago, my people knew the secrets of advanced technology. The archaeological evidence proves that., But I wonder where it came from? And where did it all go? I guess some questions will never be answered...”"
           ],
           [
             "“",
@@ -848,19 +885,19 @@
           ],
           [
             "Bachelors",
-            "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+            "Alex, •, Elliott, •, Harvey, •, Sam, •, Sebastian, •, Shane"
           ],
           [
             "Bachelorettes",
-            "Abigail • Emily • Haley • Leah • Maru • Penny"
+            "Abigail, •, Emily, •, Haley, •, Leah, •, Maru, •, Penny"
           ],
           [
             "Townspeople",
-            "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+            "Caroline, •, Clint, •, Demetrius, •, Evelyn, •, George, •, Gil, •, Gunther, •, Gus, •, Jas, •, Jodi, •, Kent, •, Lewis, •, Linus, •, Marlon, •, Marnie, •, Pam, •, Pierre, •, Robin, •, Vincent, •, Willy"
           ],
           [
             "Other",
-            "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+            "Birdie, •, Bouncer, •, Dwarf, •, Fizz, •, Governor, •, Grandpa, •, Henchman, •, Junimos, •, Krobus, •, Leo, •, Morris, •, Mr. Qi, •, Old Mariner, •, Professor Snail, •, Sandy, •, Wizard"
           ]
         ]
       }

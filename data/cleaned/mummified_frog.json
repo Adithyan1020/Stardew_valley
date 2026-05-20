@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Mummified Frog This ancient frog may have lived in the jungle canopy. Information Source Ginger Island Jungle Dangerous Mines (Floors 41-69) Sell Price data-sort-value=\"100\"> 100g\nThe Mummified Frog is an item that can be obtained by cutting jungle weeds in the Ginger Island jungle or in floors 40 – 69 of the Dangerous Mines . Jungle weeds normally have a 1% chance to drop a Mummified Frog, except for the first Mummified Frog found after unlocking the Island Field Office , which has a 10% chance instead."
+      "content": "The Mummified Frog is an item that can be obtained by cutting jungle weeds in the Ginger Island jungle or in floors 40 – 69 of the Dangerous Mines . Jungle weeds normally have a 1% chance to drop a Mummified Frog, except for the first Mummified Frog found after unlocking the Island Field Office , which has a 10% chance instead."
     },
     {
       "heading": "Donations",
@@ -29,6 +29,34 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Mummified Frog"
+          ],
+          [
+            ""
+          ],
+          [
+            "This ancient frog may have lived in the jungle canopy."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Ginger Island, Jungle, Dangerous Mines, (Floors 41-69)"
+          ],
+          [
+            "Sell Price",
+            "data-sort-value=\"100\">, 100g"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Gifting",
       "table": {
         "headers": [
@@ -40,7 +68,7 @@
           ],
           [
             "Hate",
-            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+            "Abigail, •, Alex, •, Caroline, •, Clint, •, Demetrius, •, Dwarf, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Haley, •, Harvey, •, Jas, •, Jodi, •, Kent, •, Krobus, •, Leah, •, Leo, •, Lewis, •, Linus, •, Marnie, •, Maru, •, Pam, •, Penny, •, Pierre, •, Robin, •, Sam, •, Sandy, •, Sebastian, •, Shane, •, Vincent, •, Willy, •, Wizard"
           ]
         ]
       }

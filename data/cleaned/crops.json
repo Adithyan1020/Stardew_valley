@@ -306,7 +306,7 @@
             "Example: Cranberries"
           ],
           [
-            "Max Harvests = 5 Sell Price per Harvest = 2 berries × data-sort-value=\"75\"> 75g = data-sort-value=\"150\"> 150g Seed Price = data-sort-value=\"240\"> 240g Growing Days = 7 + ((5 − 1) × 5) = 27 Gold per Day = (5 × 150 − 240) / 27 = data-sort-value=\"18.89\"> 18.89g"
+            "Max Harvests = 5, Sell Price per Harvest = 2 berries ×, data-sort-value=\"75\">, 75g, =, data-sort-value=\"150\">, 150g, Seed Price =, data-sort-value=\"240\">, 240g, Growing Days = 7 + ((5 − 1) × 5) = 27, Gold per Day = (5 × 150 − 240) / 27 =, data-sort-value=\"18.89\">, 18.89g"
           ]
         ]
       }
@@ -338,13 +338,13 @@
             "Used In"
           ],
           [
-            "Jazz Seeds Pierre's : data-sort-value=\"30\"> 30g JojaMart : data-sort-value=\"37\"> 37g",
+            "Jazz Seeds, Pierre's, :, data-sort-value=\"30\">, 30g, JojaMart, :, data-sort-value=\"37\">, 37g",
             "",
             "",
             "",
             "",
             "",
-            "50g 62g 75g 100g",
+            "50g, 62g, 75g, 100g",
             "",
             "50g",
             "",
@@ -353,7 +353,7 @@
             "75g",
             "",
             "100g",
-            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "data-sort-value=\"18\", 45, 20, 63, 28, 81, 36, 117, 52",
             "",
             "45",
             "",
@@ -418,7 +418,7 @@
             "2 days",
             "2 days",
             "Total: 7 days",
-            "≈ data-sort-value=\"2.86\"> 2.86g /d"
+            "≈, data-sort-value=\"2.86\">, 2.86g, /d"
           ]
         ]
       }
@@ -451,7 +451,7 @@
             "",
             "",
             "",
-            "35g 43g 52g 70g",
+            "35g, 43g, 52g, 70g",
             "",
             "35g",
             "",
@@ -460,7 +460,7 @@
             "52g",
             "",
             "70g",
-            "data-sort-value=\"30\" 75 33 105 47 135 60 195 87",
+            "data-sort-value=\"30\", 75, 33, 105, 47, 135, 60, 195, 87",
             "",
             "75",
             "",
@@ -523,7 +523,7 @@
             "1 day",
             "1 day",
             "Total: 3 days",
-            "≈ data-sort-value=\"11.67\"> 11.67g /d"
+            "≈, data-sort-value=\"11.67\">, 11.67g, /d"
           ]
         ]
       }
@@ -557,14 +557,14 @@
             "Used In"
           ],
           [
-            "Cauliflower Seeds Pierre's : data-sort-value=\"80\"> 80g JojaMart : data-sort-value=\"100\"> 100g",
+            "Cauliflower Seeds, Pierre's, :, data-sort-value=\"80\">, 80g, JojaMart, :, data-sort-value=\"100\">, 100g",
             "",
             "",
             "",
             "",
             "",
             "",
-            "175g 218g 262g 350g",
+            "175g, 218g, 262g, 350g",
             "",
             "175g",
             "",
@@ -573,7 +573,7 @@
             "262g",
             "",
             "350g",
-            "data-sort-value=\"30\" 75 33 105 47 135 60 195 87",
+            "data-sort-value=\"30\", 75, 33, 105, 47, 135, 60, 195, 87",
             "",
             "75",
             "",
@@ -590,7 +590,7 @@
             "195",
             "",
             "87",
-            "Cheese Cauliflower Spring Crops Bundle \"Jodi's Request\" Quest Maru (Loved gift)"
+            "Cheese Cauliflower, Spring Crops Bundle, \"Jodi's Request\" Quest, Maru, (Loved gift)"
           ],
           [
             "",
@@ -639,7 +639,7 @@
             "4 days",
             "1 day",
             "Total: 12 days",
-            "≈ data-sort-value=\"7.92\"> 7.92g /d"
+            "≈, data-sort-value=\"7.92\">, 7.92g, /d"
           ]
         ]
       }
@@ -673,7 +673,7 @@
             "Used In"
           ],
           [
-            "Coffee Bean Traveling Cart : data-sort-value=\"2500\"> 2,500g Dust Sprite (1% chance)",
+            "Coffee Bean, Traveling Cart, :, data-sort-value=\"2500\">, 2,500g, Dust Sprite, (1% chance)",
             "",
             "",
             "",
@@ -681,7 +681,7 @@
             "",
             "",
             "",
-            "15g 18g 22g 30g",
+            "15g, 18g, 22g, 30g",
             "",
             "15g",
             "",
@@ -716,8 +716,8 @@
             "3 days",
             "2 days",
             "Total: 10 days",
-            "Regrowth: 2 days",
-            "data-sort-value=\"-20.74\"> -20.74g /d data-sort-value=\"20.77\"> 20.77g /d data-sort-value=\"25.56\"> 25.56g /d"
+            "Regrowth:, 2 days",
+            "data-sort-value=\"-20.74\">, -20.74g, /d, data-sort-value=\"20.77\">, 20.77g, /d, data-sort-value=\"25.56\">, 25.56g, /d"
           ]
         ]
       }
@@ -749,13 +749,13 @@
             "Used In"
           ],
           [
-            "Garlic Seeds Pierre's : data-sort-value=\"40\"> 40g",
+            "Garlic Seeds, Pierre's, :, data-sort-value=\"40\">, 40g",
             "",
             "",
             "",
             "",
             "",
-            "60g 75g 90g 120g",
+            "60g, 75g, 90g, 120g",
             "",
             "60g",
             "",
@@ -764,7 +764,7 @@
             "90g",
             "",
             "120g",
-            "data-sort-value=\"8\" 20 9 28 12 36 16 52 23",
+            "data-sort-value=\"8\", 20, 9, 28, 12, 36, 16, 52, 23",
             "",
             "20",
             "",
@@ -781,7 +781,7 @@
             "52",
             "",
             "23",
-            "Escargot Fiddlehead Risotto Oil of Garlic"
+            "Escargot, Fiddlehead Risotto, Oil of Garlic"
           ],
           [
             "",
@@ -829,7 +829,7 @@
             "1 day",
             "1 day",
             "Total: 4 days",
-            "data-sort-value=\"5\"> 5g /d"
+            "data-sort-value=\"5\">, 5g, /d"
           ]
         ]
       }
@@ -863,7 +863,7 @@
             "Used In"
           ],
           [
-            "Bean Starter Pierre's : data-sort-value=\"60\"> 60g JojaMart : data-sort-value=\"75\"> 75g",
+            "Bean Starter, Pierre's, :, data-sort-value=\"60\">, 60g, JojaMart, :, data-sort-value=\"75\">, 75g",
             "",
             "",
             "",
@@ -871,7 +871,7 @@
             "",
             "",
             "",
-            "40g 50g 60g 80g",
+            "40g, 50g, 60g, 80g",
             "",
             "40g",
             "",
@@ -880,7 +880,7 @@
             "60g",
             "",
             "80g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -897,7 +897,7 @@
             "65",
             "",
             "29",
-            "Bean Hotpot Spring Crops Bundle"
+            "Bean Hotpot, Spring Crops Bundle"
           ],
           [
             "",
@@ -947,7 +947,7 @@
             "4 days",
             "Total: 10 days",
             "Regrowth: 3 days",
-            "data-sort-value=\"7.20\"> 7.2g /d"
+            "data-sort-value=\"7.20\">, 7.2g, /d"
           ]
         ]
       }
@@ -979,13 +979,13 @@
             "Used In"
           ],
           [
-            "Kale Seeds Pierre's : data-sort-value=\"70\"> 70g JojaMart : data-sort-value=\"87\"> 87g",
+            "Kale Seeds, Pierre's, :, data-sort-value=\"70\">, 70g, JojaMart, :, data-sort-value=\"87\">, 87g",
             "",
             "",
             "",
             "",
             "",
-            "110g 137g 165g 220g",
+            "110g, 137g, 165g, 220g",
             "",
             "110g",
             "",
@@ -994,7 +994,7 @@
             "165g",
             "",
             "220g",
-            "data-sort-value=\"20\" 50 22 70 31 90 40 130 58",
+            "data-sort-value=\"20\", 50, 22, 70, 31, 90, 40, 130, 58",
             "",
             "50",
             "",
@@ -1011,7 +1011,7 @@
             "130",
             "",
             "58",
-            "Salmon Dinner Stir Fry"
+            "Salmon Dinner, Stir Fry"
           ],
           [
             "",
@@ -1059,7 +1059,7 @@
             "2 days",
             "1 day",
             "Total: 6 days",
-            "≈ data-sort-value=\"6.67\"> 6.67g /d"
+            "≈, data-sort-value=\"6.67\">, 6.67g, /d"
           ]
         ]
       }
@@ -1091,13 +1091,13 @@
             "Used In"
           ],
           [
-            "Parsnip Seeds Pierre's : data-sort-value=\"20\"> 20g JojaMart : data-sort-value=\"25\"> 25g",
+            "Parsnip Seeds, Pierre's, :, data-sort-value=\"20\">, 20g, JojaMart, :, data-sort-value=\"25\">, 25g",
             "",
             "",
             "",
             "",
             "",
-            "35g 43g 52g 70g",
+            "35g, 43g, 52g, 70g",
             "",
             "35g",
             "",
@@ -1106,7 +1106,7 @@
             "52g",
             "",
             "70g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -1123,7 +1123,7 @@
             "65",
             "",
             "29",
-            "Farmer's Lunch Parsnip Soup Spring Crops Bundle Quality Crops Bundle Pam (Loved gift)"
+            "Farmer's Lunch, Parsnip Soup, Spring Crops Bundle, Quality Crops Bundle, Pam, (Loved gift)"
           ],
           [
             "",
@@ -1171,7 +1171,7 @@
             "1 day",
             "1 day",
             "Total: 4 days",
-            "data-sort-value=\"3.75\"> 3.75g /d"
+            "data-sort-value=\"3.75\">, 3.75g, /d"
           ]
         ]
       }
@@ -1205,14 +1205,14 @@
             "Used In"
           ],
           [
-            "Potato Seeds Pierre's : data-sort-value=\"50\"> 50g JojaMart : data-sort-value=\"62\"> 62g",
+            "Potato Seeds, Pierre's, :, data-sort-value=\"50\">, 50g, JojaMart, :, data-sort-value=\"62\">, 62g",
             "",
             "",
             "",
             "",
             "",
             "",
-            "80g 100g 120g 160g",
+            "80g, 100g, 120g, 160g",
             "",
             "80g",
             "",
@@ -1221,7 +1221,7 @@
             "120g",
             "",
             "160g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -1238,7 +1238,7 @@
             "65",
             "",
             "29",
-            "Hashbrowns Spring Crops Bundle"
+            "Hashbrowns, Spring Crops Bundle"
           ],
           [
             "",
@@ -1287,7 +1287,7 @@
             "2 days",
             "1 day",
             "Total: 6 days",
-            "data-sort-value=\"5.0\"> 5g /d ≈ data-sort-value=\"8.33\"> 8.33g /d"
+            "data-sort-value=\"5.0\">, 5g, /d, ≈, data-sort-value=\"8.33\">, 8.33g, /d"
           ]
         ]
       }
@@ -1321,14 +1321,14 @@
             "Used In"
           ],
           [
-            "Rhubarb Seeds Oasis : data-sort-value=\"100\"> 100g",
+            "Rhubarb Seeds, Oasis, :, data-sort-value=\"100\">, 100g",
             "",
             "",
             "",
             "",
             "",
             "",
-            "220g 275g 330g 440g",
+            "220g, 275g, 330g, 440g",
             "",
             "220g",
             "",
@@ -1363,7 +1363,7 @@
             "3 days",
             "4 days",
             "Total: 13 days",
-            "≈ data-sort-value=\"9.23\"> 9.23g /d"
+            "≈, data-sort-value=\"9.23\">, 9.23g, /d"
           ]
         ]
       }
@@ -1397,7 +1397,7 @@
             "Used in"
           ],
           [
-            "Strawberry Seeds Egg Festival : data-sort-value=\"100\"> 100g",
+            "Strawberry Seeds, Egg Festival, :, data-sort-value=\"100\">, 100g",
             "",
             "",
             "",
@@ -1405,7 +1405,7 @@
             "",
             "",
             "",
-            "120g 150g 180g 240g",
+            "120g, 150g, 180g, 240g",
             "",
             "120g",
             "",
@@ -1414,7 +1414,7 @@
             "180g",
             "",
             "240g",
-            "data-sort-value=\"20\" 50 22 70 31 90 40 130 58",
+            "data-sort-value=\"20\", 50, 22, 70, 31, 90, 40, 130, 58",
             "",
             "50",
             "",
@@ -1431,7 +1431,7 @@
             "130",
             "",
             "58",
-            "Demetrius (Loved gift) Maru (Loved gift)"
+            "Demetrius, (Loved gift), Maru, (Loved gift)"
           ],
           [
             "",
@@ -1480,8 +1480,8 @@
             "2 days",
             "2 days",
             "Total: 8 days",
-            "Regrowth: 4 days",
-            "≈ data-sort-value=\"20.83\"> 20.83g /d ≈ data-sort-value=\"11.67\"> 11.67g /d"
+            "Regrowth:, 4 days",
+            "≈, data-sort-value=\"20.83\">, 20.83g, /d, ≈, data-sort-value=\"11.67\">, 11.67g, /d"
           ]
         ]
       }
@@ -1513,13 +1513,13 @@
             "Used in"
           ],
           [
-            "Tulip Bulb Pierre's : data-sort-value=\"20\"> 20g JojaMart : data-sort-value=\"25\"> 25g",
+            "Tulip Bulb, Pierre's, :, data-sort-value=\"20\">, 20g, JojaMart, :, data-sort-value=\"25\">, 25g",
             "",
             "",
             "",
             "",
             "",
-            "30g 37g 45g 60g",
+            "30g, 37g, 45g, 60g",
             "",
             "30g",
             "",
@@ -1528,7 +1528,7 @@
             "45g",
             "",
             "60g",
-            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "data-sort-value=\"18\", 45, 20, 63, 28, 81, 36, 117, 52",
             "",
             "45",
             "",
@@ -1545,7 +1545,7 @@
             "117",
             "",
             "52",
-            "Evelyn (Loved gift)"
+            "Evelyn, (Loved gift)"
           ],
           [
             "",
@@ -1593,7 +1593,7 @@
             "2 days",
             "2 days",
             "Total: 6 days",
-            "≈ data-sort-value=\"1.67\"> 1.67g /d"
+            "≈, data-sort-value=\"1.67\">, 1.67g, /d"
           ]
         ]
       }
@@ -1625,13 +1625,13 @@
             "Used In"
           ],
           [
-            "Rice Shoot Pierre's : data-sort-value=\"40\"> 40g",
+            "Rice Shoot, Pierre's, :, data-sort-value=\"40\">, 40g",
             "",
             "",
             "",
             "",
             "",
-            "30g 37g 45g 60g",
+            "30g, 37g, 45g, 60g",
             "",
             "30g",
             "",
@@ -1640,7 +1640,7 @@
             "45g",
             "",
             "60g",
-            "data-sort-value=\"1\" 3 1 4 1 5 2 7 3",
+            "data-sort-value=\"1\", 3, 1, 4, 1, 5, 2, 7, 3",
             "",
             "3",
             "",
@@ -1701,11 +1701,11 @@
           ],
           [
             "1 day",
-            "2 days 1 day",
-            "2 days 1 day",
+            "2 days, 1 day",
+            "2 days, 1 day",
             "3 days",
-            "Total: 8 days Total: 6 days",
-            "data-sort-value=\"-1.25\"> -1.25g /d ≈ data-sort-value=\"-1.67\"> -1.67g /d"
+            "Total: 8 days, Total: 6 days",
+            "data-sort-value=\"-1.25\">, -1.25g, /d, ≈, data-sort-value=\"-1.67\">, -1.67g, /d"
           ]
         ]
       }
@@ -1739,7 +1739,7 @@
             "Used In"
           ],
           [
-            "Blueberry Seeds Pierre's : data-sort-value=\"80\"> 80g",
+            "Blueberry Seeds, Pierre's, :, data-sort-value=\"80\">, 80g",
             "",
             "",
             "",
@@ -1747,7 +1747,7 @@
             "",
             "",
             "",
-            "50g 62g 75g 100g",
+            "50g, 62g, 75g, 100g",
             "",
             "50g",
             "",
@@ -1756,7 +1756,7 @@
             "75g",
             "",
             "100g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -1773,7 +1773,7 @@
             "65",
             "",
             "29",
-            "Blueberry Tart Fruit Salad Summer Crops Bundle"
+            "Blueberry Tart, Fruit Salad, Summer Crops Bundle"
           ],
           [
             "",
@@ -1823,7 +1823,7 @@
             "2 days",
             "Total: 13 days",
             "Regrowth: 4 days",
-            "data-sort-value=\"20.8\"> 20.8g /d"
+            "data-sort-value=\"20.8\">, 20.8g, /d"
           ]
         ]
       }
@@ -1857,7 +1857,7 @@
             "Used In"
           ],
           [
-            "Corn Seeds Pierre's : data-sort-value=\"150\"> 150g JojaMart : data-sort-value=\"187\"> 187g",
+            "Corn Seeds, Pierre's, :, data-sort-value=\"150\">, 150g, JojaMart, :, data-sort-value=\"187\">, 187g",
             "",
             "",
             "",
@@ -1865,7 +1865,7 @@
             "",
             "",
             "",
-            "50g 62g 75g 100g",
+            "50g, 62g, 75g, 100g",
             "",
             "50g",
             "",
@@ -1874,7 +1874,7 @@
             "75g",
             "",
             "100g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -1891,7 +1891,7 @@
             "65",
             "",
             "29",
-            "Tortilla Oil Fall Crops Bundle Quality Crops Bundle"
+            "Tortilla, Oil, Fall Crops Bundle, Quality Crops Bundle"
           ],
           [
             "",
@@ -1940,8 +1940,8 @@
             "3 days",
             "3 days",
             "Total: 14 days",
-            "Regrowth: 4 days",
-            "≈ data-sort-value=\"1.92\"> 1.92g /d ≈ data-sort-value=\"7.41\"> 7.41g /d"
+            "Regrowth:, 4 days",
+            "≈, data-sort-value=\"1.92\">, 1.92g, /d, ≈, data-sort-value=\"7.41\">, 7.41g, /d"
           ]
         ]
       }
@@ -1975,7 +1975,7 @@
             "Used In"
           ],
           [
-            "Hops Starter Pierre's : data-sort-value=\"60\"> 60g JojaMart : data-sort-value=\"75\"> 75g",
+            "Hops Starter, Pierre's, :, data-sort-value=\"60\">, 60g, JojaMart, :, data-sort-value=\"75\">, 75g",
             "",
             "",
             "",
@@ -1983,7 +1983,7 @@
             "",
             "",
             "",
-            "25g 31g 37g 50g",
+            "25g, 31g, 37g, 50g",
             "",
             "25g",
             "",
@@ -1992,7 +1992,7 @@
             "37g",
             "",
             "50g",
-            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "data-sort-value=\"18\", 45, 20, 63, 28, 81, 36, 117, 52",
             "",
             "45",
             "",
@@ -2059,7 +2059,7 @@
             "4 days",
             "Total: 11 days",
             "Regrowth: 1 day",
-            "≈ data-sort-value=\"13.52\"> 13.52g /d"
+            "≈, data-sort-value=\"13.52\">, 13.52g, /d"
           ]
         ]
       }
@@ -2093,7 +2093,7 @@
             "Used In"
           ],
           [
-            "Pepper Seeds Pierre's : data-sort-value=\"40\"> 40g JojaMart : data-sort-value=\"50\"> 50g",
+            "Pepper Seeds, Pierre's, :, data-sort-value=\"40\">, 40g, JojaMart, :, data-sort-value=\"50\">, 50g",
             "",
             "",
             "",
@@ -2101,7 +2101,7 @@
             "",
             "",
             "",
-            "40g 50g 60g 80g",
+            "40g, 50g, 60g, 80g",
             "",
             "40g",
             "",
@@ -2110,7 +2110,7 @@
             "60g",
             "",
             "80g",
-            "data-sort-value=\"5\" 13 5 18 8 23 10 33 14",
+            "data-sort-value=\"5\", 13, 5, 18, 8, 23, 10, 33, 14",
             "",
             "13",
             "",
@@ -2127,7 +2127,7 @@
             "33",
             "",
             "14",
-            "Pepper Poppers Spicy Eel Tropical Curry Summer Crops Bundle \"Knee Therapy\" Quest Lewis (Loved gift) Shane (Loved gift)"
+            "Pepper Poppers, Spicy Eel, Tropical Curry, Summer Crops Bundle, \"Knee Therapy\" Quest, Lewis, (Loved gift), Shane, (Loved gift)"
           ],
           [
             "",
@@ -2177,7 +2177,7 @@
             "1 day",
             "Total: 5 days",
             "Regrowth: 3 days",
-            "≈ data-sort-value=\"10.77\"> 10.77g /d"
+            "≈, data-sort-value=\"10.77\">, 10.77g, /d"
           ]
         ]
       }
@@ -2211,14 +2211,14 @@
             "Used In"
           ],
           [
-            "Melon Seeds Pierre's : data-sort-value=\"80\"> 80g JojaMart : data-sort-value=\"100\"> 100g",
+            "Melon Seeds, Pierre's, :, data-sort-value=\"80\">, 80g, JojaMart, :, data-sort-value=\"100\">, 100g",
             "",
             "",
             "",
             "",
             "",
             "",
-            "250g 312g 375g 500g",
+            "250g, 312g, 375g, 500g",
             "",
             "250g",
             "",
@@ -2227,7 +2227,7 @@
             "375g",
             "",
             "500g",
-            "data-sort-value=\"45\" 113 50 158 71 203 91 293 131",
+            "data-sort-value=\"45\", 113, 50, 158, 71, 203, 91, 293, 131",
             "",
             "113",
             "",
@@ -2244,7 +2244,7 @@
             "293",
             "",
             "131",
-            "Fruit Salad Pink Cake Summer Crops Bundle Quality Crops Bundle \"Crop Research\" Quest Penny (Loved gift)"
+            "Fruit Salad, Pink Cake, Summer Crops Bundle, Quality Crops Bundle, \"Crop Research\" Quest, Penny, (Loved gift)"
           ],
           [
             "",
@@ -2293,7 +2293,7 @@
             "3 days",
             "3 days",
             "Total: 12 days",
-            "≈ data-sort-value=\"14.17\"> 14.17g /d"
+            "≈, data-sort-value=\"14.17\">, 14.17g, /d"
           ]
         ]
       }
@@ -2325,13 +2325,13 @@
             "Used In"
           ],
           [
-            "Poppy Seeds Pierre's : data-sort-value=\"100\"> 100g JojaMart : data-sort-value=\"125\"> 125g",
+            "Poppy Seeds, Pierre's, :, data-sort-value=\"100\">, 100g, JojaMart, :, data-sort-value=\"125\">, 125g",
             "",
             "",
             "",
             "",
             "",
-            "140g 175g 210g 280g",
+            "140g, 175g, 210g, 280g",
             "",
             "140g",
             "",
@@ -2340,7 +2340,7 @@
             "210g",
             "",
             "280g",
-            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "data-sort-value=\"18\", 45, 20, 63, 28, 81, 36, 117, 52",
             "",
             "45",
             "",
@@ -2357,7 +2357,7 @@
             "117",
             "",
             "52",
-            "Poppyseed Muffin Chef's Bundle Penny (Loved gift)"
+            "Poppyseed Muffin, Chef's Bundle, Penny, (Loved gift)"
           ],
           [
             "",
@@ -2405,7 +2405,7 @@
             "2 days",
             "2 days",
             "Total: 7 days",
-            "≈ data-sort-value=\"5.71\"> 5.71g /d"
+            "≈, data-sort-value=\"5.71\">, 5.71g, /d"
           ]
         ]
       }
@@ -2437,13 +2437,13 @@
             "Used In"
           ],
           [
-            "Radish Seeds Pierre's : data-sort-value=\"40\"> 40g JojaMart : data-sort-value=\"50\"> 50g",
+            "Radish Seeds, Pierre's, :, data-sort-value=\"40\">, 40g, JojaMart, :, data-sort-value=\"50\">, 50g",
             "",
             "",
             "",
             "",
             "",
-            "90g 112g 135g 180g",
+            "90g, 112g, 135g, 180g",
             "",
             "90g",
             "",
@@ -2452,7 +2452,7 @@
             "135g",
             "",
             "180g",
-            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "data-sort-value=\"18\", 45, 20, 63, 28, 81, 36, 117, 52",
             "",
             "45",
             "",
@@ -2469,7 +2469,7 @@
             "117",
             "",
             "52",
-            "Radish Salad Red Plate"
+            "Radish Salad, Red Plate"
           ],
           [
             "",
@@ -2517,7 +2517,7 @@
             "2 days",
             "1 day",
             "Total: 6 days",
-            "≈ data-sort-value=\"8.33\"> 8.33g /d"
+            "≈, data-sort-value=\"8.33\">, 8.33g, /d"
           ]
         ]
       }
@@ -2551,14 +2551,14 @@
             "Used In"
           ],
           [
-            "Red Cabbage Seeds Pierre's : data-sort-value=\"100\"> 100g",
+            "Red Cabbage Seeds, Pierre's, :, data-sort-value=\"100\">, 100g",
             "",
             "",
             "",
             "",
             "",
             "",
-            "260g 325g 390g 520g",
+            "260g, 325g, 390g, 520g",
             "",
             "260g",
             "",
@@ -2567,7 +2567,7 @@
             "390g",
             "",
             "520g",
-            "data-sort-value=\"30\" 75 33 105 47 135 60 195 87",
+            "data-sort-value=\"30\", 75, 33, 105, 47, 135, 60, 195, 87",
             "",
             "75",
             "",
@@ -2584,7 +2584,7 @@
             "195",
             "",
             "87",
-            "Coleslaw Fish Taco Red Plate Dye Bundle"
+            "Coleslaw, Fish Taco, Red Plate, Dye Bundle"
           ],
           [
             "",
@@ -2633,7 +2633,7 @@
             "2 days",
             "2 days",
             "Total: 9 days",
-            "≈ data-sort-value=\"17.78\"> 17.78g /d"
+            "≈, data-sort-value=\"17.78\">, 17.78g, /d"
           ]
         ]
       }
@@ -2667,14 +2667,14 @@
             "Used in"
           ],
           [
-            "Starfruit Seeds Oasis : data-sort-value=\"400\"> 400g",
+            "Starfruit Seeds, Oasis, :, data-sort-value=\"400\">, 400g",
             "",
             "",
             "",
             "",
             "",
             "",
-            "750g 937g 1,125g 1,500g",
+            "750g, 937g, 1,125g, 1,500g",
             "",
             "750g",
             "",
@@ -2683,7 +2683,7 @@
             "1,125g",
             "",
             "1,500g",
-            "data-sort-value=\"50\" 125 56 175 78 225 101 325 146",
+            "data-sort-value=\"50\", 125, 56, 175, 78, 225, 101, 325, 146",
             "",
             "125",
             "",
@@ -2700,7 +2700,7 @@
             "325",
             "",
             "146",
-            "Junimo Hut \"A Soldier's Star\" Quest"
+            "Junimo Hut, \"A Soldier's Star\" Quest"
           ],
           [
             "",
@@ -2749,7 +2749,7 @@
             "3 days",
             "3 days",
             "Total: 13 days",
-            "≈ data-sort-value=\"26.92\"> 26.92g /d"
+            "≈, data-sort-value=\"26.92\">, 26.92g, /d"
           ]
         ]
       }
@@ -2781,13 +2781,13 @@
             "Used in"
           ],
           [
-            "Spangle Seeds Pierre's : data-sort-value=\"50\"> 50g JojaMart : data-sort-value=\"62\"> 62g",
+            "Spangle Seeds, Pierre's, :, data-sort-value=\"50\">, 50g, JojaMart, :, data-sort-value=\"62\">, 62g",
             "",
             "",
             "",
             "",
             "",
-            "90g 112g 135g 180g",
+            "90g, 112g, 135g, 180g",
             "",
             "90g",
             "",
@@ -2796,7 +2796,7 @@
             "135g",
             "",
             "180g",
-            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "data-sort-value=\"18\", 45, 20, 63, 28, 81, 36, 117, 52",
             "",
             "45",
             "",
@@ -2813,7 +2813,7 @@
             "117",
             "",
             "52",
-            "Caroline (Loved gift)"
+            "Caroline, (Loved gift)"
           ],
           [
             "",
@@ -2861,7 +2861,7 @@
             "3 days",
             "2 days",
             "Total: 8 days",
-            "data-sort-value=\"5\"> 5g /d"
+            "data-sort-value=\"5\">, 5g, /d"
           ]
         ]
       }
@@ -2901,7 +2901,7 @@
             "",
             "",
             "",
-            "45g 56g 67g 90g",
+            "45g, 56g, 67g, 90g",
             "",
             "45g",
             "",
@@ -2910,7 +2910,7 @@
             "67g",
             "",
             "90g",
-            "data-sort-value=\"25\" 63 28 88 39 113 50 163 73",
+            "data-sort-value=\"25\", 63, 28, 88, 39, 113, 50, 163, 73",
             "",
             "63",
             "",
@@ -2976,7 +2976,7 @@
             "1 day",
             "Total: 6 days",
             "Regrowth: 3 days",
-            "≈ data-sort-value=\"13.33\"> 13.33g /d"
+            "≈, data-sort-value=\"13.33\">, 13.33g, /d"
           ]
         ]
       }
@@ -3008,13 +3008,13 @@
             "Used In"
           ],
           [
-            "Sunflower Seeds Pierre's : data-sort-value=\"200\"> 200g JojaMart : data-sort-value=\"125\"> 125g",
+            "Sunflower Seeds, Pierre's, :, data-sort-value=\"200\">, 200g, JojaMart, :, data-sort-value=\"125\">, 125g",
             "",
             "",
             "",
             "",
             "",
-            "80g 100g 120g 160g",
+            "80g, 100g, 120g, 160g",
             "",
             "80g",
             "",
@@ -3023,7 +3023,7 @@
             "120g",
             "",
             "160g",
-            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "data-sort-value=\"18\", 45, 20, 63, 28, 81, 36, 117, 52",
             "",
             "45",
             "",
@@ -3040,7 +3040,7 @@
             "117",
             "",
             "52",
-            "Oil Dye Bundle Haley (Loved gift)"
+            "Oil, Dye Bundle, Haley, (Loved gift)"
           ],
           [
             "",
@@ -3088,7 +3088,7 @@
             "3 days",
             "2 days",
             "Total: 8 days",
-            "data-sort-value=\"-15\"> -15g /d data-sort-value=\"-5.63\"> -5.63g /d"
+            "data-sort-value=\"-15\">, -15g, /d, data-sort-value=\"-5.63\">, -5.63g, /d"
           ]
         ]
       }
@@ -3122,7 +3122,7 @@
             "Used In"
           ],
           [
-            "Tomato Seeds Pierre's : data-sort-value=\"50\"> 50g JojaMart : data-sort-value=\"62\"> 62g",
+            "Tomato Seeds, Pierre's, :, data-sort-value=\"50\">, 50g, JojaMart, :, data-sort-value=\"62\">, 62g",
             "",
             "",
             "",
@@ -3130,7 +3130,7 @@
             "",
             "",
             "",
-            "60g 75g 90g 120g",
+            "60g, 75g, 90g, 120g",
             "",
             "60g",
             "",
@@ -3139,7 +3139,7 @@
             "90g",
             "",
             "120g",
-            "data-sort-value=\"8\" 20 9 28 12 36 16 52 23",
+            "data-sort-value=\"8\", 20, 9, 28, 12, 36, 16, 52, 23",
             "",
             "20",
             "",
@@ -3156,7 +3156,7 @@
             "52",
             "",
             "23",
-            "Bruschetta Eggplant Parmesan Fish Stew Pizza Spaghetti Vegetable Medley Summer Crops Bundle"
+            "Bruschetta, Eggplant Parmesan, Fish Stew, Pizza, Spaghetti, Vegetable Medley, Summer Crops Bundle"
           ],
           [
             "",
@@ -3206,7 +3206,7 @@
             "3 days",
             "Total: 11 days",
             "Regrowth: 4 days",
-            "≈ data-sort-value=\"9.26\"> 9.26g /d"
+            "≈, data-sort-value=\"9.26\">, 9.26g, /d"
           ]
         ]
       }
@@ -3238,13 +3238,13 @@
             "Used In"
           ],
           [
-            "Wheat Seeds Pierre's : data-sort-value=\"10\"> 10g JojaMart : data-sort-value=\"12\"> 12g",
+            "Wheat Seeds, Pierre's, :, data-sort-value=\"10\">, 10g, JojaMart, :, data-sort-value=\"12\">, 12g",
             "",
             "",
             "",
             "",
             "",
-            "25g 31g 37g 50g",
+            "25g, 31g, 37g, 50g",
             "",
             "25g",
             "",
@@ -3254,7 +3254,7 @@
             "",
             "50g",
             "Inedible",
-            "Beer Wheat Flour Fodder Bundle"
+            "Beer, Wheat Flour, Fodder Bundle"
           ],
           [
             "",
@@ -3278,7 +3278,7 @@
             "1 day",
             "1 day",
             "Total: 4 days",
-            "data-sort-value=\"3.75\"> 3.75g /d"
+            "data-sort-value=\"3.75\">, 3.75g, /d"
           ]
         ]
       }
@@ -3310,13 +3310,13 @@
             "Used In"
           ],
           [
-            "Amaranth Seeds Pierre's : data-sort-value=\"70\"> 70g JojaMart : data-sort-value=\"87\"> 87g",
+            "Amaranth Seeds, Pierre's, :, data-sort-value=\"70\">, 70g, JojaMart, :, data-sort-value=\"87\">, 87g",
             "",
             "",
             "",
             "",
             "",
-            "150g 187g 225g 300g",
+            "150g, 187g, 225g, 300g",
             "",
             "150g",
             "",
@@ -3325,7 +3325,7 @@
             "225g",
             "",
             "300g",
-            "data-sort-value=\"20\" 50 22 70 31 90 40 130 58",
+            "data-sort-value=\"20\", 50, 22, 70, 31, 90, 40, 130, 58",
             "",
             "50",
             "",
@@ -3342,7 +3342,7 @@
             "130",
             "",
             "58",
-            "Salmon Dinner \"Cow's Delight\" Quest"
+            "Salmon Dinner, \"Cow's Delight\" Quest"
           ],
           [
             "",
@@ -3390,7 +3390,7 @@
             "2 days",
             "2 days",
             "Total: 7 days",
-            "≈ data-sort-value=\"11.43\"> 11.43g /d"
+            "≈, data-sort-value=\"11.43\">, 11.43g, /d"
           ]
         ]
       }
@@ -3424,14 +3424,14 @@
             "Used In"
           ],
           [
-            "Artichoke Seeds Pierre's : data-sort-value=\"30\"> 30g",
+            "Artichoke Seeds, Pierre's, :, data-sort-value=\"30\">, 30g",
             "",
             "",
             "",
             "",
             "",
             "",
-            "160g 200g 240g 320g",
+            "160g, 200g, 240g, 320g",
             "",
             "160g",
             "",
@@ -3440,7 +3440,7 @@
             "240g",
             "",
             "320g",
-            "data-sort-value=\"12\" 30 13 42 18 54 24 78 35",
+            "data-sort-value=\"12\", 30, 13, 42, 18, 54, 24, 78, 35",
             "",
             "30",
             "",
@@ -3457,7 +3457,7 @@
             "78",
             "",
             "35",
-            "Artichoke Dip Super Meal"
+            "Artichoke Dip, Super Meal"
           ],
           [
             "",
@@ -3506,7 +3506,7 @@
             "2 days",
             "1 day",
             "Total: 8 days",
-            "data-sort-value=\"16.25\"> 16.25g /d"
+            "data-sort-value=\"16.25\">, 16.25g, /d"
           ]
         ]
       }
@@ -3538,13 +3538,13 @@
             "Used In"
           ],
           [
-            "Beet Seeds Oasis : data-sort-value=\"20\"> 20g",
+            "Beet Seeds, Oasis, :, data-sort-value=\"20\">, 20g",
             "",
             "",
             "",
             "",
             "",
-            "100g 125g 150g 200g",
+            "100g, 125g, 150g, 200g",
             "",
             "100g",
             "",
@@ -3553,7 +3553,7 @@
             "150g",
             "",
             "200g",
-            "data-sort-value=\"12\" 30 13 42 18 54 24 78 35",
+            "data-sort-value=\"12\", 30, 13, 42, 18, 54, 24, 78, 35",
             "",
             "30",
             "",
@@ -3570,7 +3570,7 @@
             "78",
             "",
             "35",
-            "Vegetable Medley Sugar \"The Mysterious Qi\" Quest Evelyn (Loved gift)"
+            "Vegetable Medley, Sugar, \"The Mysterious Qi\" Quest, Evelyn, (Loved gift)"
           ],
           [
             "",
@@ -3618,7 +3618,7 @@
             "2 days",
             "2 days",
             "Total: 6 days",
-            "≈ data-sort-value=\"13.33\"> 13.33g /d"
+            "≈, data-sort-value=\"13.33\">, 13.33g, /d"
           ]
         ]
       }
@@ -3650,13 +3650,13 @@
             "Used In"
           ],
           [
-            "Bok Choy Seeds Pierre's : data-sort-value=\"50\"> 50g JojaMart : data-sort-value=\"62\"> 62g",
+            "Bok Choy Seeds, Pierre's, :, data-sort-value=\"50\">, 50g, JojaMart, :, data-sort-value=\"62\">, 62g",
             "",
             "",
             "",
             "",
             "",
-            "80g 100g 120g 160g",
+            "80g, 100g, 120g, 160g",
             "",
             "80g",
             "",
@@ -3665,7 +3665,7 @@
             "120g",
             "",
             "160g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -3730,7 +3730,7 @@
             "1 day",
             "1 day",
             "Total: 4 days",
-            "data-sort-value=\"7.50\"> 7.5g /d"
+            "data-sort-value=\"7.50\">, 7.5g, /d"
           ]
         ]
       }
@@ -3767,7 +3767,7 @@
             "",
             "",
             "",
-            "70g 87g 105g 140g",
+            "70g, 87g, 105g, 140g",
             "",
             "70g",
             "",
@@ -3776,7 +3776,7 @@
             "105g",
             "",
             "140g",
-            "data-sort-value=\"25\" 63 28 88 39 113 50 163 73",
+            "data-sort-value=\"25\", 63, 28, 88, 39, 113, 50, 163, 73",
             "",
             "63",
             "",
@@ -3841,7 +3841,7 @@
             "2 days",
             "Total: 8 days",
             "Regrowth: 4 days",
-            "≈ data-sort-value=\"14.58\"> 14.58g /d"
+            "≈, data-sort-value=\"14.58\">, 14.58g, /d"
           ]
         ]
       }
@@ -3875,7 +3875,7 @@
             "Used In"
           ],
           [
-            "Cranberry Seeds Pierre's : data-sort-value=\"240\"> 240g JojaMart : data-sort-value=\"300\"> 300g",
+            "Cranberry Seeds, Pierre's, :, data-sort-value=\"240\">, 240g, JojaMart, :, data-sort-value=\"300\">, 300g",
             "",
             "",
             "",
@@ -3883,7 +3883,7 @@
             "",
             "",
             "",
-            "75g 93g 112g 150g",
+            "75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -3892,7 +3892,7 @@
             "112g",
             "",
             "150g",
-            "data-sort-value=\"15\" 38 17 53 23 68 30 98 44",
+            "data-sort-value=\"15\", 38, 17, 53, 23, 68, 30, 98, 44",
             "",
             "38",
             "",
@@ -3909,7 +3909,7 @@
             "98",
             "",
             "44",
-            "Cranberry Candy Cranberry Sauce Stuffing Super Meal"
+            "Cranberry Candy, Cranberry Sauce, Stuffing, Super Meal"
           ],
           [
             "",
@@ -3959,7 +3959,7 @@
             "2 days",
             "Total: 7 days",
             "Regrowth: 5 days",
-            "≈ data-sort-value=\"18.89\"> 18.89g /d"
+            "≈, data-sort-value=\"18.89\">, 18.89g, /d"
           ]
         ]
       }
@@ -3993,7 +3993,7 @@
             "Used In"
           ],
           [
-            "Eggplant Seeds Pierre's : data-sort-value=\"20\"> 20g JojaMart : data-sort-value=\"25\"> 25g",
+            "Eggplant Seeds, Pierre's, :, data-sort-value=\"20\">, 20g, JojaMart, :, data-sort-value=\"25\">, 25g",
             "",
             "",
             "",
@@ -4001,7 +4001,7 @@
             "",
             "",
             "",
-            "60g 75g 90g 120g",
+            "60g, 75g, 90g, 120g",
             "",
             "60g",
             "",
@@ -4010,7 +4010,7 @@
             "90g",
             "",
             "120g",
-            "data-sort-value=\"8\" 20 9 28 12 36 16 52 23",
+            "data-sort-value=\"8\", 20, 9, 28, 12, 36, 16, 52, 23",
             "",
             "20",
             "",
@@ -4027,7 +4027,7 @@
             "52",
             "",
             "23",
-            "Eggplant Parmesan Survival Burger Fall Crops Bundle"
+            "Eggplant Parmesan, Survival Burger, Fall Crops Bundle"
           ],
           [
             "",
@@ -4077,7 +4077,7 @@
             "1 day",
             "Total: 5 days",
             "Regrowth: 5 days",
-            "data-sort-value=\"11.20\"> 11.2g /d"
+            "data-sort-value=\"11.20\">, 11.2g, /d"
           ]
         ]
       }
@@ -4109,13 +4109,13 @@
             "Used in"
           ],
           [
-            "Fairy Seeds Pierre's : data-sort-value=\"200\"> 200g JojaMart : data-sort-value=\"250\"> 250g",
+            "Fairy Seeds, Pierre's, :, data-sort-value=\"200\">, 200g, JojaMart, :, data-sort-value=\"250\">, 250g",
             "",
             "",
             "",
             "",
             "",
-            "290g 362g 435g 580g",
+            "290g, 362g, 435g, 580g",
             "",
             "290g",
             "",
@@ -4124,7 +4124,7 @@
             "435g",
             "",
             "580g",
-            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "data-sort-value=\"18\", 45, 20, 63, 28, 81, 36, 117, 52",
             "",
             "45",
             "",
@@ -4141,7 +4141,7 @@
             "117",
             "",
             "52",
-            "Fairy Dust Evelyn (Loved gift) Jas (Loved gift)"
+            "Fairy Dust, Evelyn, (Loved gift), Jas, (Loved gift)"
           ],
           [
             "",
@@ -4189,7 +4189,7 @@
             "4 days",
             "3 days",
             "Total: 12 days",
-            "data-sort-value=\"7.50\"> 7.5g /d"
+            "data-sort-value=\"7.50\">, 7.5g, /d"
           ]
         ]
       }
@@ -4223,7 +4223,7 @@
             "Used In"
           ],
           [
-            "Grape Starter Pierre's : data-sort-value=\"60\"> 60g JojaMart : data-sort-value=\"75\"> 75g",
+            "Grape Starter, Pierre's, :, data-sort-value=\"60\">, 60g, JojaMart, :, data-sort-value=\"75\">, 75g",
             "",
             "",
             "",
@@ -4231,7 +4231,7 @@
             "",
             "",
             "",
-            "80g 100g 120g 160g",
+            "80g, 100g, 120g, 160g",
             "",
             "80g",
             "",
@@ -4240,7 +4240,7 @@
             "120g",
             "",
             "160g",
-            "data-sort-value=\"15\" 38 17 53 23 68 30 98 44",
+            "data-sort-value=\"15\", 38, 17, 53, 23, 68, 30, 98, 44",
             "",
             "38",
             "",
@@ -4257,7 +4257,7 @@
             "98",
             "",
             "44",
-            "Summer Seeds Summer Foraging Bundle Vincent (Loved gift)"
+            "Summer Seeds, Summer Foraging Bundle, Vincent, (Loved gift)"
           ],
           [
             "",
@@ -4307,7 +4307,7 @@
             "3 days",
             "Total: 10 days",
             "Regrowth: 3 days",
-            "data-sort-value=\"16.80\"> 16.8g /d"
+            "data-sort-value=\"16.80\">, 16.8g, /d"
           ]
         ]
       }
@@ -4341,14 +4341,14 @@
             "Used In"
           ],
           [
-            "Pumpkin Seeds Pierre's : data-sort-value=\"100\"> 100g JojaMart : data-sort-value=\"125\"> 125g",
+            "Pumpkin Seeds, Pierre's, :, data-sort-value=\"100\">, 100g, JojaMart, :, data-sort-value=\"125\">, 125g",
             "",
             "",
             "",
             "",
             "",
             "",
-            "320g 400g 480g 640g",
+            "320g, 400g, 480g, 640g",
             "",
             "320g",
             "",
@@ -4358,7 +4358,7 @@
             "",
             "640g",
             "Inedible",
-            "Autumn's Bounty Pumpkin Pie Pumpkin Soup Jack-O-Lantern Fall Crops Bundle Quality Crops Bundle \"Carving Pumpkins\" Quest Abigail (Loved gift) Krobus (Loved gift) Willy (Loved gift)"
+            "Autumn's Bounty, Pumpkin Pie, Pumpkin Soup, Jack-O-Lantern, Fall Crops Bundle, Quality Crops Bundle, \"Carving Pumpkins\" Quest, Abigail, (Loved gift), Krobus, (Loved gift), Willy, (Loved gift)"
           ],
           [
             "",
@@ -4383,7 +4383,7 @@
             "4 days",
             "3 days",
             "Total: 13 days",
-            "≈ data-sort-value=\"16.92\"> 16.92g /d"
+            "≈, data-sort-value=\"16.92\">, 16.92g, /d"
           ]
         ]
       }
@@ -4415,13 +4415,13 @@
             "Used In"
           ],
           [
-            "Yam Seeds Pierre's : data-sort-value=\"60\"> 60g JojaMart : data-sort-value=\"75\"> 75g",
+            "Yam Seeds, Pierre's, :, data-sort-value=\"60\">, 60g, JojaMart, :, data-sort-value=\"75\">, 75g",
             "",
             "",
             "",
             "",
             "",
-            "160g 200g 240g 320g",
+            "160g, 200g, 240g, 320g",
             "",
             "160g",
             "",
@@ -4430,7 +4430,7 @@
             "240g",
             "",
             "320g",
-            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "data-sort-value=\"18\", 45, 20, 63, 28, 81, 36, 117, 52",
             "",
             "45",
             "",
@@ -4447,7 +4447,7 @@
             "117",
             "",
             "52",
-            "Autumn's Bounty Glazed Yams Fall Crops Bundle Linus (Loved gift)"
+            "Autumn's Bounty, Glazed Yams, Fall Crops Bundle, Linus, (Loved gift)"
           ],
           [
             "",
@@ -4495,7 +4495,7 @@
             "3 days",
             "3 days",
             "Total: 10 days",
-            "data-sort-value=\"10\"> 10g /d"
+            "data-sort-value=\"10\">, 10g, /d"
           ]
         ]
       }
@@ -4534,7 +4534,7 @@
             "",
             "",
             "",
-            "60g 75g 90g 120g",
+            "60g, 75g, 90g, 120g",
             "",
             "60g",
             "",
@@ -4543,7 +4543,7 @@
             "90g",
             "",
             "120g",
-            "data-sort-value=\"25\" 63 28 88 39 113 50 163 73",
+            "data-sort-value=\"25\", 63, 28, 88, 39, 113, 50, 163, 73",
             "",
             "63",
             "",
@@ -4608,7 +4608,7 @@
             "2 days",
             "1 day",
             "Total: 7 days",
-            "≈ data-sort-value=\"8.57\"> 8.57g /d"
+            "≈, data-sort-value=\"8.57\">, 8.57g, /d"
           ]
         ]
       }
@@ -4640,7 +4640,7 @@
             "Energy / Health"
           ],
           [
-            "Ancient Seeds Crafting Recipe : Free",
+            "Ancient Seeds, Crafting Recipe, : Free",
             "",
             "",
             "",
@@ -4648,7 +4648,7 @@
             "",
             "",
             "",
-            "550g 687g 825g 1,100g",
+            "550g, 687g, 825g, 1,100g",
             "",
             "550g",
             "",
@@ -4683,7 +4683,7 @@
             "5 days",
             "Total: 28 days",
             "Regrowth: 7 days",
-            "≈ data-sort-value=\"57.14\"> 57.14g /d*"
+            "≈, data-sort-value=\"57.14\">, 57.14g, /d*"
           ]
         ]
       }
@@ -4717,7 +4717,7 @@
             "Used in"
           ],
           [
-            "Cactus Seeds Oasis : data-sort-value=\"150\"> 150g",
+            "Cactus Seeds, Oasis, :, data-sort-value=\"150\">, 150g",
             "",
             "",
             "",
@@ -4725,7 +4725,7 @@
             "",
             "",
             "",
-            "75g 93g 112g 150g",
+            "75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -4734,7 +4734,7 @@
             "112g",
             "",
             "150g",
-            "data-sort-value=\"30\" 75 33 105 47 135 60 195 87",
+            "data-sort-value=\"30\", 75, 33, 105, 47, 135, 60, 195, 87",
             "",
             "75",
             "",
@@ -4751,7 +4751,7 @@
             "195",
             "",
             "87",
-            "Exotic Foraging Bundle Linus (Loved gift) Pam (Loved gift) Sam (Loved gift)"
+            "Exotic Foraging Bundle, Linus, (Loved gift), Pam, (Loved gift), Sam, (Loved gift)"
           ],
           [
             "",
@@ -4801,7 +4801,7 @@
             "3 days",
             "Total: 12 days",
             "Regrowth: 3 days",
-            "≈ data-sort-value=\"11.11\"> 11.11g /d ≈ data-sort-value=\"24.11\"> 24.11g /d"
+            "≈, data-sort-value=\"11.11\">, 11.11g, /d, ≈, data-sort-value=\"24.11\">, 24.11g, /d"
           ]
         ]
       }
@@ -4833,13 +4833,13 @@
             "Used in"
           ],
           [
-            "Fiber Seeds Crafting Recipe : Free",
+            "Fiber Seeds, Crafting Recipe, : Free",
             "",
             "",
             "",
             "",
             "",
-            "data-sort-value=\"1\"> 1g each",
+            "data-sort-value=\"1\">, 1g, each",
             "Inedible",
             "Crafting"
           ],
@@ -4867,23 +4867,23 @@
           ],
           [
             "Spring",
-            "Tulip Bulb • Jazz Seeds"
+            "Tulip Bulb, •, Jazz Seeds"
           ],
           [
             "Summer",
-            "Sunflower Seeds • Spangle Seeds • Poppy Seeds"
+            "Sunflower Seeds, •, Spangle Seeds, •, Poppy Seeds"
           ],
           [
             "Fall",
-            "Sunflower Seeds • Fairy Seeds"
+            "Sunflower Seeds, •, Fairy Seeds"
           ],
           [
             "Winter",
-            "Any of the above ( Greenhouse and indoor Garden Pot only)."
+            "Any of the above (, Greenhouse, and indoor, Garden Pot, only)."
           ],
           [
             "Ginger Island",
-            "Sunflower Seeds • Spangle Seeds • Poppy Seeds"
+            "Sunflower Seeds, •, Spangle Seeds, •, Poppy Seeds"
           ]
         ]
       }
@@ -4902,23 +4902,23 @@
           ],
           [
             "Spring",
-            "Cauliflower Seeds • Parsnip Seeds • Potato Seeds"
+            "Cauliflower Seeds, •, Parsnip Seeds, •, Potato Seeds"
           ],
           [
             "Summer",
-            "Corn Seeds • Pepper Seeds • Radish Seeds • Wheat Seeds"
+            "Corn Seeds, •, Pepper Seeds, •, Radish Seeds, •, Wheat Seeds"
           ],
           [
             "Fall",
-            "Artichoke Seeds • Corn Seeds • Eggplant Seeds • Pumpkin Seeds"
+            "Artichoke Seeds, •, Corn Seeds, •, Eggplant Seeds, •, Pumpkin Seeds"
           ],
           [
             "Winter",
-            "Any of the above ( Greenhouse and indoor Garden Pot only)."
+            "Any of the above (, Greenhouse, and indoor, Garden Pot, only)."
           ],
           [
             "Ginger Island",
-            "Blueberry Seeds • Melon Seeds • Pineapple Seeds • Rhubarb Seeds"
+            "Blueberry Seeds, •, Melon Seeds, •, Pineapple Seeds, •, Rhubarb Seeds"
           ]
         ]
       }
@@ -4952,7 +4952,7 @@
             "Used In"
           ],
           [
-            "Pineapple Seeds Island Trader : Magma Cap (1)",
+            "Pineapple Seeds, Island Trader, :, Magma Cap, (1)",
             "",
             "",
             "",
@@ -4960,7 +4960,7 @@
             "",
             "",
             "",
-            "300g 375g 450g 600g",
+            "300g, 375g, 450g, 600g",
             "",
             "300g",
             "",
@@ -4969,7 +4969,7 @@
             "450g",
             "",
             "600g",
-            "data-sort-value=\"55\" 138 62 193 86 248 111 358 161",
+            "data-sort-value=\"55\", 138, 62, 193, 86, 248, 111, 358, 161",
             "",
             "138",
             "",
@@ -5036,7 +5036,7 @@
             "3 days",
             "Total: 14 days",
             "Regrowth: 7 days",
-            "≈ data-sort-value=\"28.57\"> 28.57g /d"
+            "≈, data-sort-value=\"28.57\">, 28.57g, /d"
           ]
         ]
       }
@@ -5068,13 +5068,13 @@
             "Used In"
           ],
           [
-            "Taro Tuber Island Trader : Bone Fragment (2)",
+            "Taro Tuber, Island Trader, :, Bone Fragment, (2)",
             "",
             "",
             "",
             "",
             "",
-            "100g 125g 150g 200g",
+            "100g, 125g, 150g, 200g",
             "",
             "100g",
             "",
@@ -5083,7 +5083,7 @@
             "150g",
             "",
             "200g",
-            "data-sort-value=\"15\" 38 17 53 23 68 30 98 44",
+            "data-sort-value=\"15\", 38, 17, 53, 23, 68, 30, 98, 44",
             "",
             "38",
             "",
@@ -5143,12 +5143,12 @@
             "44"
           ],
           [
-            "1 day 1 day",
-            "2 days 1 day",
-            "3 days 2 days",
-            "4 days 3 days",
-            "Total: 10 days Total: 7 days",
-            "data-sort-value=\"10\"> 10g /d ≈ data-sort-value=\"14.29\"> 14.29g /d"
+            "1 day, 1 day",
+            "2 days, 1 day",
+            "3 days, 2 days",
+            "4 days, 3 days",
+            "Total: 10 days, Total: 7 days",
+            "data-sort-value=\"10\">, 10g, /d, ≈, data-sort-value=\"14.29\">, 14.29g, /d"
           ]
         ]
       }
@@ -5180,14 +5180,14 @@
             "Energy / Health"
           ],
           [
-            "Rare Seed Traveling Cart : data-sort-value=\"1000\"> 1,000g",
+            "Rare Seed, Traveling Cart, :, data-sort-value=\"1000\">, 1,000g",
             "",
             "",
             "",
             "",
             "",
             "",
-            "3,000g 3,750g 4,500g 6,000g",
+            "3,000g, 3,750g, 4,500g, 6,000g",
             "",
             "3,000g",
             "",
@@ -5221,7 +5221,7 @@
             "6 days",
             "6 days",
             "Total: 24 days",
-            "≈ data-sort-value=\"83.33\"> 83.33g /d*"
+            "≈, data-sort-value=\"83.33\">, 83.33g, /d*"
           ]
         ]
       }
@@ -5251,7 +5251,7 @@
             "Used in"
           ],
           [
-            "Tea Sapling Crafting Recipe : Free",
+            "Tea Sapling, Crafting Recipe, : Free",
             "",
             "",
             "",
@@ -5270,7 +5270,7 @@
           [
             "10 days",
             "10 days",
-            "Up to and including 21st of the season",
+            "Up to and including, 21st of the season",
             "Total: 20 days",
             "Regrowth: 1 day"
           ]
@@ -5289,15 +5289,15 @@
           ],
           [
             "Spring",
-            "Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice"
+            "Blue Jazz, •, Carrot, •, Cauliflower, •, Coffee Bean, •, Garlic, •, Green Bean, •, Kale, •, Parsnip, •, Potato, •, Rhubarb, •, Strawberry, •, Tulip, •, Unmilled Rice"
           ],
           [
             "Summer",
-            "Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat"
+            "Blueberry, •, Coffee Bean, •, Corn, •, Hops, •, Hot Pepper, •, Melon, •, Poppy, •, Radish, •, Red Cabbage, •, Starfruit, •, Summer Spangle, •, Summer Squash, •, Sunflower, •, Tomato, •, Wheat"
           ],
           [
             "Fall",
-            "Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam"
+            "Amaranth, •, Artichoke, •, Beet, •, Bok Choy, •, Broccoli, •, Corn, •, Cranberries, •, Eggplant, •, Fairy Rose, •, Grape, •, Pumpkin, •, Sunflower, •, Wheat, •, Yam"
           ],
           [
             "Winter",
@@ -5305,7 +5305,7 @@
           ],
           [
             "Special",
-            "Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves"
+            "Ancient Fruit, •, Cactus Fruit, •, Pineapple, •, Qi Fruit, •, Sweet Gem Berry, •, Taro Root, •, Tea Leaves"
           ]
         ]
       }

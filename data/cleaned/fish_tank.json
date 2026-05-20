@@ -44,19 +44,19 @@
           ],
           [
             "Decorations",
-            "Small/Modern: 1 Others: 1 of each type",
-            "Anchor Ancient Sword Clay Coral Hardwood Joja Cola Lucky Purple Shorts Nautilus Shell Pearl Pineapple Rainbow Shell Seaweed Stone Treasure Chest"
+            "Small/Modern: 1, Others: 1 of each type",
+            "Anchor, Ancient Sword, Clay, Coral, Hardwood, Joja Cola, Lucky Purple Shorts, Nautilus Shell, Pearl, Pineapple, Rainbow Shell, Seaweed, Stone, Treasure Chest"
           ],
           [
             "Bottom Creatures",
             "Limited amount, depending on type of fish tank",
-            "Moving: Blobfish Crab Crayfish Flounder Frog Lobster Sandfish Snail Stonefish",
-            "Stationary: Clam Cockle Mussel Periwinkle Oyster Sea Cucumber Sea Urchin Super Cucumber"
+            "Moving:, Blobfish, Crab, Crayfish, Flounder, Frog, Lobster, Sandfish, Snail, Stonefish",
+            "Stationary:, Clam, Cockle, Mussel, Periwinkle, Oyster, Sea Cucumber, Sea Urchin, Super Cucumber"
           ],
           [
             "Swimming Creatures",
             "Limited amount, depending on type of fish tank",
-            "Shrimp All other fish"
+            "Shrimp, All other fish"
           ]
         ]
       }
@@ -85,8 +85,8 @@
           ],
           [
             "Small Fish Tank",
-            "data-sort-value=\"500\"> 500g",
-            "data-sort-value=\"0\"> 0g",
+            "data-sort-value=\"500\">, 500g",
+            "data-sort-value=\"0\">, 0g",
             "N/A",
             "1",
             "1",
@@ -95,7 +95,7 @@
           [
             "Modern Fish Tank",
             "N/A",
-            "data-sort-value=\"0\"> 0g",
+            "data-sort-value=\"0\">, 0g",
             "N/A",
             "1",
             "1",
@@ -103,8 +103,8 @@
           ],
           [
             "Large Fish Tank",
-            "data-sort-value=\"2000\"> 2,000g",
-            "data-sort-value=\"0\"> 0g",
+            "data-sort-value=\"2000\">, 2,000g",
+            "data-sort-value=\"0\">, 0g",
             "N/A",
             "3",
             "3",
@@ -121,8 +121,8 @@
           ],
           [
             "Deluxe Fish Tank",
-            "data-sort-value=\"5000\"> 5,000g",
-            "data-sort-value=\"0\"> 0g",
+            "data-sort-value=\"5000\">, 5,000g",
+            "data-sort-value=\"0\">, 0g",
             "N/A",
             "4",
             "4",
@@ -141,7 +141,7 @@
             "Aquatic Sanctuary",
             "N/A",
             "N/A",
-            "data-sort-value=\"20\"> 20",
+            "data-sort-value=\"20\">, 20",
             "6",
             "6",
             "7"
@@ -160,7 +160,7 @@
             "Details"
           ],
           [
-            "It's possible to place a hat on a Sea Urchin in any fish tank by selecting the hat and right-clicking on the tank."
+            "It's possible to place a, hat, on a, Sea Urchin, in any fish tank by selecting the hat and right-clicking on the tank."
           ]
         ]
       }

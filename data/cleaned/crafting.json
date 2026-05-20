@@ -82,28 +82,28 @@
             "",
             "Cherry Bomb",
             "Generates a small explosion. Stand back!",
-            "Copper Ore (4) Coal (1)",
+            "Copper Ore, (4), Coal, (1)",
             "3",
-            "Mining Level 1",
-            "data-sort-value=\"50\"> 50g"
+            "Mining, Level 1",
+            "data-sort-value=\"50\">, 50g"
           ],
           [
             "",
             "Bomb",
             "Generates an explosion. Watch out!",
-            "Iron Ore (4) Coal (1)",
+            "Iron Ore, (4), Coal, (1)",
             "5",
-            "Mining Level 6",
-            "data-sort-value=\"50\"> 50g"
+            "Mining, Level 6",
+            "data-sort-value=\"50\">, 50g"
           ],
           [
             "",
             "Mega Bomb",
             "Generates a powerful explosion. Use with extreme caution.",
-            "Gold Ore (4) Solar Essence (1) Void Essence (1)",
+            "Gold Ore, (4), Solar Essence, (1), Void Essence, (1)",
             "6-8",
-            "Mining Level 8",
-            "data-sort-value=\"50\"> 50g"
+            "Mining, Level 8",
+            "data-sort-value=\"50\">, 50g"
           ]
         ]
       }
@@ -138,7 +138,7 @@
             "Allows you to pass through a fence.",
             "360",
             "12.9",
-            "Wood (10)",
+            "Wood, (10)",
             "Starter"
           ],
           [
@@ -147,7 +147,7 @@
             "Keeps grass and animals contained!",
             "48-52",
             "1.7-1.9",
-            "Wood (2)",
+            "Wood, (2)",
             "Starter"
           ],
           [
@@ -156,17 +156,17 @@
             "Lasts longer than a wood fence.",
             "106-109",
             "3.8-3.9",
-            "Stone (2)",
-            "Farming Level 2"
+            "Stone, (2)",
+            "Farming, Level 2"
           ],
           [
             "",
-            "Iron Fence (10)",
+            "Iron Fence, (10)",
             "Lasts longer than a stone fence.",
             "223-226",
             "8.0-8.1",
-            "Iron Bar (1)",
-            "Farming Level 4"
+            "Iron Bar, (1)",
+            "Farming, Level 4"
           ],
           [
             "",
@@ -174,8 +174,8 @@
             "The most durable type of fence.",
             "502-505",
             "17.9-18.0",
-            "Hardwood (1)",
-            "Farming Level 6"
+            "Hardwood, (1)",
+            "Farming, Level 6"
           ]
         ]
       }
@@ -202,22 +202,22 @@
             "",
             "Sprinkler",
             "Waters the 4 adjacent tiles every morning.",
-            "Copper Bar (1) Iron Bar (1)",
-            "Farming Level 2"
+            "Copper Bar, (1), Iron Bar, (1)",
+            "Farming, Level 2"
           ],
           [
             "",
             "Quality Sprinkler",
             "Waters the 8 adjacent tiles every morning.",
-            "Iron Bar (1) Gold Bar (1) Refined Quartz (1)",
-            "Farming Level 6"
+            "Iron Bar, (1), Gold Bar, (1), Refined Quartz, (1)",
+            "Farming, Level 6"
           ],
           [
             "",
             "Iridium Sprinkler",
             "Waters the 24 adjacent tiles every morning.",
-            "Gold Bar (1) Iridium Bar (1) Battery Pack (1)",
-            "Farming Level 9"
+            "Gold Bar, (1), Iridium Bar, (1), Battery Pack, (1)",
+            "Farming, Level 9"
           ]
         ]
       }
@@ -244,71 +244,71 @@
             "",
             "Mayonnaise Machine",
             "Turns eggs into mayonnaise.",
-            "Wood (15) Stone (15) Earth Crystal (1) Copper Bar (1)",
-            "Farming Level 2"
+            "Wood, (15), Stone, (15), Earth Crystal, (1), Copper Bar, (1)",
+            "Farming, Level 2"
           ],
           [
             "",
             "Bee House",
             "Place outside and wait for delicious honey! (Except in Winter).",
-            "Wood (40) Coal (8) Iron Bar (1) Maple Syrup (1)",
-            "Farming Level 3"
+            "Wood, (40), Coal, (8), Iron Bar, (1), Maple Syrup, (1)",
+            "Farming, Level 3"
           ],
           [
             "",
             "Preserves Jar",
             "Turns vegetables into pickles and fruit into jam.",
-            "Wood (50) Stone (40) Coal (8)",
-            "Farming Level 4"
+            "Wood, (50), Stone, (40), Coal, (8)",
+            "Farming, Level 4"
           ],
           [
             "",
             "Cheese Press",
             "Turns milk into cheese.",
-            "Wood (45) Stone (45) Hardwood (10) Copper Bar (1)",
-            "Farming Level 6"
+            "Wood, (45), Stone, (45), Hardwood, (10), Copper Bar, (1)",
+            "Farming, Level 6"
           ],
           [
             "",
             "Loom",
             "Turns raw wool into fine cloth.",
-            "Wood (60) Fiber (30) Pine Tar (1)",
-            "Farming Level 7"
+            "Wood, (60), Fiber, (30), Pine Tar, (1)",
+            "Farming, Level 7"
           ],
           [
             "",
             "Keg",
             "Place a fruit or vegetable in here. Eventually it will turn into a beverage.",
-            "Wood (30) Copper Bar (1) Iron Bar (1) Oak Resin (1)",
-            "Farming Level 8"
+            "Wood, (30), Copper Bar, (1), Iron Bar, (1), Oak Resin, (1)",
+            "Farming, Level 8"
           ],
           [
             "",
             "Oil Maker",
             "Makes gourmet truffle oil.",
-            "Slime (50) Hardwood (20) Gold Bar (1)",
-            "Farming Level 8"
+            "Slime, (50), Hardwood, (20), Gold Bar, (1)",
+            "Farming, Level 8"
           ],
           [
             "",
             "Cask",
             "Use in the cellar to age products like wine and cheese.",
-            "Wood (20) Hardwood (1)",
-            "Farmhouse cellar upgrade"
+            "Wood, (20), Hardwood, (1)",
+            "Farmhouse, cellar upgrade"
           ],
           [
             "",
             "Fish Smoker",
             "Place fish inside with a piece of coal to create smoked fish, which is worth double. The quality of the fish is preserved.",
-            "Hardwood (10) Sea Jelly (1) River Jelly (1) Cave Jelly (1)",
-            "Fish Shop for data-sort-value=\"10000\"> 10,000g"
+            "Hardwood, (10), Sea Jelly, (1), River Jelly, (1), Cave Jelly, (1)",
+            "Fish Shop, for, data-sort-value=\"10000\">, 10,000g"
           ],
           [
             "",
             "Dehydrator",
             "Place 5 pieces of fruit or edible mushrooms inside to dry them.",
-            "Wood (30) Clay (2) Fire Quartz (1)",
-            "Pierre's for data-sort-value=\"10000\"> 10,000g"
+            "Wood, (30), Clay, (2), Fire Quartz, (1)",
+            "Pierre's, for, data-sort-value=\"10000\">, 10,000g"
           ]
         ]
       }
@@ -335,71 +335,71 @@
             "",
             "Basic Fertilizer",
             "Improves soil quality a little, increasing your chance to grow quality crops. Mix into tilled soil.",
-            "Sap (2)",
-            "Farming Level 1"
+            "Sap, (2)",
+            "Farming, Level 1"
           ],
           [
             "",
-            "Quality Fertilizer (2)",
+            "Quality Fertilizer, (2)",
             "Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.",
-            "Sap (4) Any Fish (1)",
-            "Farming Level 9"
+            "Sap, (4), Any, Fish, (1)",
+            "Farming, Level 9"
           ],
           [
             "",
-            "Deluxe Fertilizer (5)",
+            "Deluxe Fertilizer, (5)",
             "Greatly improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.",
-            "Iridium Bar (1) Sap (40)",
-            "Purchase from Mr Qi for data-sort-value=\"20\"> 20"
+            "Iridium Bar, (1), Sap, (40)",
+            "Purchase from, Mr Qi, for, data-sort-value=\"20\">, 20"
           ],
           [
             "",
-            "Speed-Gro (5)",
+            "Speed-Gro, (5)",
             "Stimulates leaf production. Guaranteed to increase growth rate by at least 10%. Mix into tilled soil.",
-            "Pine Tar (1) Moss (5)",
-            "Farming Level 3"
+            "Pine Tar, (1), Moss, (5)",
+            "Farming, Level 3"
           ],
           [
             "",
-            "Deluxe Speed-Gro (5)",
+            "Deluxe Speed-Gro, (5)",
             "Stimulates leaf production. Guaranteed to increase growth rate by at least 25%. Mix into tilled soil.",
-            "Oak Resin (1) Bone Fragment (5)",
-            "Farming Level 8"
+            "Oak Resin, (1), Bone Fragment, (5)",
+            "Farming, Level 8"
           ],
           [
             "",
             "Hyper Speed-Gro",
             "Greatly stimulates leaf production. Guaranteed to increase growth rate by at least 33%. Mix into tilled soil.",
-            "Radioactive Ore (1) Bone Fragment (3) Solar Essence (1)",
-            "Purchase from Mr Qi for data-sort-value=\"30\"> 30"
+            "Radioactive Ore, (1), Bone Fragment, (3), Solar Essence, (1)",
+            "Purchase from, Mr Qi, for, data-sort-value=\"30\">, 30"
           ],
           [
             "",
             "Basic Retaining Soil",
             "This soil has a chance of staying watered overnight. Mix into tilled soil.",
-            "Stone (2)",
-            "Farming Level 4"
+            "Stone, (2)",
+            "Farming, Level 4"
           ],
           [
             "",
-            "Quality Retaining Soil (2)",
+            "Quality Retaining Soil, (2)",
             "This soil has a good chance of staying watered overnight. Mix into tilled soil.",
-            "Stone (3) Clay (1)",
-            "Farming Level 7"
+            "Stone, (3), Clay, (1)",
+            "Farming, Level 7"
           ],
           [
             "",
             "Deluxe Retaining Soil",
             "This soil has a 100% chance of staying watered overnight. Mix into tilled soil.",
-            "Stone (5) Fiber (3) Clay (1)",
-            "Purchase from Island Trader for Cinder Shard (50)"
+            "Stone, (5), Fiber, (3), Clay, (1)",
+            "Purchase from, Island Trader, for, Cinder Shard, (50)"
           ],
           [
             "",
             "Tree Fertilizer",
             "Sprinkle on a wild tree to ensure rapid growth, even in winter. Doesn't work on fruit trees.",
-            "Fiber (5) Stone (5)",
-            "Foraging Level 7"
+            "Fiber, (5), Stone, (5)",
+            "Foraging, Level 7"
           ]
         ]
       }
@@ -424,72 +424,72 @@
           ],
           [
             "",
-            "Wild Seeds (Sp) ( Spring Seeds )",
-            "An assortment of wild spring seeds. (Note: The crafted item is called \"Spring Seeds.\" The recipe produces 10 seeds per craft.)",
-            "Wild Horseradish (1) Daffodil (1) Leek (1) Dandelion (1)",
-            "Foraging Level 1"
+            "Wild Seeds (Sp), (, Spring Seeds, )",
+            "An assortment of wild spring seeds., (Note: The crafted item is called \"Spring Seeds.\" The recipe produces 10 seeds per craft.)",
+            "Wild Horseradish, (1), Daffodil, (1), Leek, (1), Dandelion, (1)",
+            "Foraging, Level 1"
           ],
           [
             "",
-            "Wild Seeds (Su) ( Summer Seeds )",
-            "An assortment of wild summer seeds. (Note: The crafted item is called \"Summer Seeds.\" The recipe produces 10 seeds per craft.)",
-            "Spice Berry (1) Grape (1) Sweet Pea (1)",
-            "Foraging Level 4"
+            "Wild Seeds (Su), (, Summer Seeds, )",
+            "An assortment of wild summer seeds., (Note: The crafted item is called \"Summer Seeds.\" The recipe produces 10 seeds per craft.)",
+            "Spice Berry, (1), Grape, (1), Sweet Pea, (1)",
+            "Foraging, Level 4"
           ],
           [
             "",
-            "Wild Seeds (Fa) ( Fall Seeds )",
-            "An assortment of wild fall seeds. (Note: The crafted item is called \"Fall Seeds.\" The recipe produces 10 seeds per craft.)",
-            "Common Mushroom (1) Wild Plum (1) Hazelnut (1) Blackberry (1)",
-            "Foraging Level 6"
+            "Wild Seeds (Fa), (, Fall Seeds, )",
+            "An assortment of wild fall seeds., (Note: The crafted item is called \"Fall Seeds.\" The recipe produces 10 seeds per craft.)",
+            "Common Mushroom, (1), Wild Plum, (1), Hazelnut, (1), Blackberry, (1)",
+            "Foraging, Level 6"
           ],
           [
             "",
-            "Wild Seeds (Wi) ( Winter Seeds )",
-            "An assortment of wild winter seeds. (Note: The crafted item is called \"Winter Seeds.\" The recipe produces 10 seeds per craft.)",
-            "Winter Root (1) Crystal Fruit (1) Snow Yam (1) Crocus (1)",
-            "Foraging Level 7"
+            "Wild Seeds (Wi), (, Winter Seeds, )",
+            "An assortment of wild winter seeds., (Note: The crafted item is called \"Winter Seeds.\" The recipe produces 10 seeds per craft.)",
+            "Winter Root, (1), Crystal Fruit, (1), Snow Yam, (1), Crocus, (1)",
+            "Foraging, Level 7"
           ],
           [
             "",
             "Ancient Seeds",
             "Could these still grow?",
-            "Ancient Seed (1)",
-            "Donating Ancient Seed to museum"
+            "Ancient Seed, (1)",
+            "Donating, Ancient Seed, to, museum"
           ],
           [
             "",
             "Grass Starter",
             "Place this on your farm to start a new patch of grass.",
-            "Fiber (10)",
-            "Purchase from Pierre's for data-sort-value=\"1000\"> 1,000g"
+            "Fiber, (10)",
+            "Purchase from, Pierre's, for, data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "Blue Grass Starter",
             "Place this on your farm to plant a clump of blue grass.",
-            "Fiber (25) Moss (10) Mystic Syrup (1)",
-            "Qi's Walnut Room for data-sort-value=\"40\"> 40"
+            "Fiber, (25), Moss, (10), Mystic Syrup, (1)",
+            "Qi's Walnut Room, for, data-sort-value=\"40\">, 40"
           ],
           [
             "",
             "Tea Sapling",
             "Takes 20 days to mature. Produces tea leaves during the final week of each season, except winter. No watering necessary!",
-            "Wild Seeds (Any) (2) Fiber (5) Wood (5)",
-            "Mail the day after Caroline 's 2-heart event"
+            "Wild Seeds (Any) (2), Fiber, (5), Wood, (5)",
+            "Mail the day after, Caroline, 's 2-heart event"
           ],
           [
             "",
-            "Fiber Seeds (4)",
+            "Fiber Seeds, (4)",
             "Plant these in any season. Does not require watering. Harvest with the scythe. Takes 7 days to grow.",
-            "Mixed Seeds (1) Sap (5) Clay (1)",
-            "Linus ( Special Order )"
+            "Mixed Seeds, (1), Sap, (5), Clay, (1)",
+            "Linus, (, Special Order, )"
           ],
           [
             "",
             "Mystic Tree Seed",
             "This can be planted to grow a special tree.",
-            "Acorn (5) Maple Seed (5) Pine Cone (5) Mahogany Seed (5)",
+            "Acorn, (5), Maple Seed, (5), Pine Cone, (5), Mahogany Seed, (5)",
             "Foraging Mastery"
           ]
         ]
@@ -517,92 +517,92 @@
             "",
             "Wood Floor",
             "Place on the ground to create paths or to decorate your floors.",
-            "Wood (1)",
-            "Carpenter's Shop for data-sort-value=\"100\"> 100g"
+            "Wood, (1)",
+            "Carpenter's Shop, for, data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Rustic Plank Floor",
             "Place on the ground to create paths or to decorate your floors.",
-            "Wood (1)",
-            "Carpenter's Shop for data-sort-value=\"200\"> 200g"
+            "Wood, (1)",
+            "Carpenter's Shop, for, data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Straw Floor",
             "Place on the ground to create paths or to spruce up your floors.",
-            "Wood (1) Fiber (1)",
-            "Carpenter's Shop for data-sort-value=\"200\"> 200g"
+            "Wood, (1), Fiber, (1)",
+            "Carpenter's Shop, for, data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Weathered Floor",
             "Place on the ground to create paths or to spruce up your floors.",
-            "Wood (1)",
-            "Dwarf ( data-sort-value=\"500\"> 500g )"
+            "Wood, (1)",
+            "Dwarf, (, data-sort-value=\"500\">, 500g, )"
           ],
           [
             "",
-            "Crystal Floor (5)",
+            "Crystal Floor, (5)",
             "Place on the ground to create paths or to spruce up your floors.",
-            "Refined Quartz (1)",
-            "Krobus ( data-sort-value=\"500\"> 500g )"
+            "Refined Quartz, (1)",
+            "Krobus, (, data-sort-value=\"500\">, 500g, )"
           ],
           [
             "",
             "Stone Floor",
             "Place on the ground to create paths or to spruce up your floors.",
-            "Stone (1)",
-            "Carpenter's Shop for data-sort-value=\"100\"> 100g"
+            "Stone, (1)",
+            "Carpenter's Shop, for, data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Stone Walkway Floor",
             "Place on the ground to create paths or to decorate your floors.",
-            "Stone (1)",
-            "Carpenter's Shop for data-sort-value=\"200\"> 200g"
+            "Stone, (1)",
+            "Carpenter's Shop, for, data-sort-value=\"200\">, 200g"
           ],
           [
             "",
-            "Brick Floor (5)",
+            "Brick Floor, (5)",
             "Place on the ground to create paths or to decorate your floors.",
-            "Clay (2) Stone (5)",
-            "Carpenter's Shop for data-sort-value=\"500\"> 500g"
+            "Clay, (2), Stone, (5)",
+            "Carpenter's Shop, for, data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Wood Path",
             "Place on the ground to create paths or to spruce up your floors.",
-            "Wood (1)",
+            "Wood, (1)",
             "Starter"
           ],
           [
             "",
             "Gravel Path",
             "Place on the ground to create paths or to spruce up your floors.",
-            "Stone (1)",
+            "Stone, (1)",
             "Starter"
           ],
           [
             "",
             "Cobblestone Path",
             "Place on the ground to create paths or to spruce up your floors.",
-            "Stone (1)",
+            "Stone, (1)",
             "Starter"
           ],
           [
             "",
             "Stepping Stone Path",
             "Place on the ground to create paths or to spruce up your floors.",
-            "Stone (1)",
-            "Carpenter's Shop for data-sort-value=\"100\"> 100g"
+            "Stone, (1)",
+            "Carpenter's Shop, for, data-sort-value=\"100\">, 100g"
           ],
           [
             "",
-            "Crystal Path (5)",
+            "Crystal Path, (5)",
             "Place on the ground to create paths or to spruce up your floors.",
-            "Refined Quartz (1)",
-            "Carpenter's Shop for data-sort-value=\"200\"> 200g"
+            "Refined Quartz, (1)",
+            "Carpenter's Shop, for, data-sort-value=\"200\">, 200g"
           ]
         ]
       }
@@ -629,106 +629,106 @@
             "",
             "Spinner",
             "The shape makes it spin around in the water. Slightly increases the bite-rate when fishing.",
-            "Iron Bar (2)",
-            "Fishing Level 6"
+            "Iron Bar, (2)",
+            "Fishing, Level 6"
           ],
           [
             "",
             "Trap Bobber",
             "Causes fish to escape slower when you aren't reeling them in.",
-            "Copper Bar (1) Sap (10)",
-            "Fishing Level 6"
+            "Copper Bar, (1), Sap, (10)",
+            "Fishing, Level 6"
           ],
           [
             "",
             "Sonar Bobber",
             "Shows what fish is on the line before it's caught.",
-            "Iron Bar (1) Refined Quartz (2)",
-            "Fishing Level 6"
+            "Iron Bar, (1), Refined Quartz, (2)",
+            "Fishing, Level 6"
           ],
           [
             "",
             "Cork Bobber",
             "Slightly increases the size of your \"fishing bar\".",
-            "Wood (10) Hardwood (5) Slime (10)",
-            "Fishing Level 7"
+            "Wood, (10), Hardwood, (5), Slime, (10)",
+            "Fishing, Level 7"
           ],
           [
             "",
             "Quality Bobber",
             "Boosts the quality of fish that you catch.",
-            "Copper Bar (1) Sap (20) Solar Essence (5)",
-            "Willy ( Special Order )"
+            "Copper Bar, (1), Sap, (20), Solar Essence, (5)",
+            "Willy, (, Special Order, )"
           ],
           [
             "",
             "Treasure Hunter",
             "Fish don't escape while collecting treasures. Also slightly increases the chance to find treasures.",
-            "Gold Bar (2)",
-            "Fishing Level 7"
+            "Gold Bar, (2)",
+            "Fishing, Level 7"
           ],
           [
             "",
             "Dressed Spinner",
             "The metal tab and colorful streamers create an enticing spectacle for fish. Increases the bite-rate when fishing.",
-            "Iron Bar (2) Cloth (1)",
-            "Fishing Level 8"
+            "Iron Bar, (2), Cloth, (1)",
+            "Fishing, Level 8"
           ],
           [
             "",
             "Barbed Hook",
             "Makes your catch more secure, causing the \"fishing bar\" to cling to your catch. Works best on slow, weak fish.",
-            "Copper Bar (1) Iron Bar (1) Gold Bar (1)",
-            "Fishing Level 8"
+            "Copper Bar, (1), Iron Bar, (1), Gold Bar, (1)",
+            "Fishing, Level 8"
           ],
           [
             "",
-            "Magnet (3)",
+            "Magnet, (3)",
             "Increases the chance of finding treasures when fishing. However, fish aren't crazy about the taste.",
-            "Iron Bar (1)",
-            "Fishing Level 9"
+            "Iron Bar, (1)",
+            "Fishing, Level 9"
           ],
           [
             "",
-            "Bait (5)",
+            "Bait, (5)",
             "Causes fish to bite faster. Must first be attached to a fishing rod.",
-            "Bug Meat (1)",
-            "Fishing Level 2"
+            "Bug Meat, (1)",
+            "Fishing, Level 2"
           ],
           [
             "",
-            "Deluxe Bait (5)",
+            "Deluxe Bait, (5)",
             "Causes fish to bite even faster and increases size of the \"fishing bar\".",
-            "Bait (5) Moss (2)",
-            "Fishing Level 4"
+            "Bait, (5), Moss, (2)",
+            "Fishing, Level 4"
           ],
           [
             "",
-            "Wild Bait (5)",
+            "Wild Bait, (5)",
             "A unique recipe from Linus that gives you a chance to catch two fish at once.",
-            "Fiber (10) Bug Meat (5) Slime (5)",
-            "Linus 4-heart event"
+            "Fiber, (10), Bug Meat, (5), Slime, (5)",
+            "Linus, 4-heart event"
           ],
           [
             "",
-            "Magic Bait (5)",
+            "Magic Bait, (5)",
             "Allows you to catch fish from any season, time, or weather, from whichever type of water you cast into.",
-            "Radioactive Ore (1) Bug Meat (3)",
-            "Purchase from Mr Qi for data-sort-value=\"20\"> 20"
+            "Radioactive Ore, (1), Bug Meat, (3)",
+            "Purchase from, Mr Qi, for, data-sort-value=\"20\">, 20"
           ],
           [
             "",
-            "Challenge Bait (5)",
+            "Challenge Bait, (5)",
             "A \"perfect\" catch yields triple the fish. However, each time a fish escapes the \"fishing bar\", the catch is reduced.",
-            "Bone Fragment (5) Moss (2)",
+            "Bone Fragment, (5), Moss, (2)",
             "Fishing Mastery"
           ],
           [
             "",
             "Crab Pot",
             "Place it in the water, load it with bait, and check the next day to see if you've caught anything. Works in streams, lakes, and the ocean.",
-            "Wood (40) Iron Bar (3) With Trapper profession: Wood (25) Copper Bar (2)",
-            "Fishing Level 3"
+            "Wood, (40), Iron Bar, (3), With, Trapper, profession:, Wood, (25), Copper Bar, (2)",
+            "Fishing, Level 3"
           ]
         ]
       }
@@ -755,50 +755,50 @@
             "",
             "Sturdy Ring",
             "Cuts the duration of negative status effects in half.",
-            "Copper Bar (2) Bug Meat (25) Slime (25)",
-            "Combat Level 1"
+            "Copper Bar, (2), Bug Meat, (25), Slime, (25)",
+            "Combat, Level 1"
           ],
           [
             "",
             "Warrior Ring",
             "Occasionally infuses the wearer with \"warrior energy\" after slaying a monster.",
-            "Iron Bar (10) Coal (25) Frozen Tear (10)",
-            "Combat Level 4"
+            "Iron Bar, (10), Coal, (25), Frozen Tear, (10)",
+            "Combat, Level 4"
           ],
           [
             "",
             "Ring of Yoba",
             "Occasionally shields the wearer from damage.",
-            "Gold Bar (5) Iron Bar (5) Diamond (1)",
-            "Combat Level 7"
+            "Gold Bar, (5), Iron Bar, (5), Diamond, (1)",
+            "Combat, Level 7"
           ],
           [
             "",
             "Thorns Ring",
             "When enemies damage you, they will take damage themselves.",
-            "Bone Fragment (50) Stone (50) Gold Bar (1)",
-            "Combat Level 7"
+            "Bone Fragment, (50), Stone, (50), Gold Bar, (1)",
+            "Combat, Level 7"
           ],
           [
             "",
             "Glowstone Ring",
             "Emits a constant light, and also increases your radius for collecting items.",
-            "Solar Essence (5) Iron Bar (5)",
-            "Mining Level 4"
+            "Solar Essence, (5), Iron Bar, (5)",
+            "Mining, Level 4"
           ],
           [
             "",
             "Iridium Band",
             "Glows, attracts items, and increases attack damage by 10%.",
-            "Iridium Bar (5) Solar Essence (50) Void Essence (50)",
-            "Combat Level 9"
+            "Iridium Bar, (5), Solar Essence, (50), Void Essence, (50)",
+            "Combat, Level 9"
           ],
           [
             "",
             "Wedding Ring",
-            "An old Zuzu City tradition... It's used to ask for another farmer's hand in marriage. Note: This recipe is available only in Multiplayer .",
-            "Iridium Bar (5) Prismatic Shard (1)",
-            "Traveling Cart for data-sort-value=\"500\"> 500g"
+            "An old Zuzu City tradition... It's used to ask for another farmer's hand in marriage., Note: This recipe is available only in, Multiplayer, .",
+            "Iridium Bar, (5), Prismatic Shard, (1)",
+            "Traveling Cart, for, data-sort-value=\"500\">, 500g"
           ]
         ]
       }
@@ -829,37 +829,37 @@
             "",
             "Field Snack",
             "A quick snack to fuel the hungry forager.",
-            "Acorn (1) Maple Seed (1) Pine Cone (1)",
+            "Acorn, (1), Maple Seed, (1), Pine Cone, (1)",
             "45",
             "18",
-            "Foraging Level 1"
+            "Foraging, Level 1"
           ],
           [
             "",
             "Bug Steak",
             "The last resort of the hungry cave diver.",
-            "Bug Meat (10)",
+            "Bug Meat, (10)",
             "45",
             "30",
-            "Combat Level 1"
+            "Combat, Level 1"
           ],
           [
             "",
             "Life Elixir",
             "Restores health to full.",
-            "Red Mushroom (1) Purple Mushroom (1) Morel (1) Chanterelle (1)",
+            "Red Mushroom, (1), Purple Mushroom, (1), Morel, (1), Chanterelle, (1)",
             "0",
             "100%",
-            "Combat Level 2"
+            "Combat, Level 2"
           ],
           [
             "",
             "Oil of Garlic",
             "Drink this and weaker monsters will avoid you.",
-            "Garlic (10) Oil (1)",
+            "Garlic, (10), Oil, (1)",
             "200",
             "80",
-            "Combat Level 6"
+            "Combat, Level 6"
           ]
         ]
       }
@@ -886,63 +886,63 @@
             "",
             "Monster Musk",
             "Spray this on to draw more monsters out of hiding.",
-            "Bat Wing (30) Slime (30)",
-            "Wizard ( Special Order )"
+            "Bat Wing, (30), Slime, (30)",
+            "Wizard, (, Special Order, )"
           ],
           [
             "",
             "Fairy Dust",
             "Sprinkle on kegs, furnaces, and other refining equipment to instantly receive their product.",
-            "Diamond (1) Fairy Rose (1)",
-            "The Pirate's Wife Quest"
+            "Diamond, (1), Fairy Rose, (1)",
+            "The Pirate's Wife, Quest"
           ],
           [
             "",
             "Warp Totem: Beach",
             "Warp directly to the beach. Consumed on use.",
-            "Hardwood (1) Coral (2) Fiber (10)",
-            "Foraging Level 6"
+            "Hardwood, (1), Coral, (2), Fiber, (10)",
+            "Foraging, Level 6"
           ],
           [
             "",
             "Warp Totem: Mountains",
             "Warp directly to the mountains. Consumed on use.",
-            "Hardwood (1) Iron Bar (1) Stone (25)",
-            "Foraging Level 7"
+            "Hardwood, (1), Iron Bar, (1), Stone, (25)",
+            "Foraging, Level 7"
           ],
           [
             "",
             "Warp Totem: Farm",
             "Warp directly to your house. Consumed on use.",
-            "Hardwood (1) Honey (1) Fiber (20)",
-            "Foraging Level 8"
+            "Hardwood, (1), Honey, (1), Fiber, (20)",
+            "Foraging, Level 8"
           ],
           [
             "",
             "Warp Totem: Desert",
             "Warp directly to Calico Desert. Consumed on use.",
-            "Hardwood (2) Coconut (1) Iridium Ore (4)",
-            "Desert Trader for Iridium Bar (10)"
+            "Hardwood, (2), Coconut, (1), Iridium Ore, (4)",
+            "Desert Trader, for, Iridium Bar, (10)"
           ],
           [
             "",
             "Warp Totem: Island",
             "Warp directly to Ginger Island. Consumed on use.",
-            "Hardwood (5) Dragon Tooth (1) Ginger (1)",
-            "Volcano Dwarf shop for data-sort-value=\"10000\"> 10,000g"
+            "Hardwood, (5), Dragon Tooth, (1), Ginger, (1)",
+            "Volcano Dwarf shop, for, data-sort-value=\"10000\">, 10,000g"
           ],
           [
             "",
             "Rain Totem",
             "Activate to greatly increase the chance for rain tomorrow. Consumed on use.",
-            "Hardwood (1) Truffle Oil (1) Pine Tar (5)",
-            "Foraging Level 9"
+            "Hardwood, (1), Truffle Oil, (1), Pine Tar, (5)",
+            "Foraging, Level 9"
           ],
           [
             "",
             "Treasure Totem",
             "Use on diggable terrain to summon a ring of treasure spots.",
-            "Hardwood (5) Mystic Syrup (1) Moss (10)",
+            "Hardwood, (5), Mystic Syrup, (1), Moss, (10)",
             "Foraging Mastery"
           ]
         ]
@@ -970,92 +970,92 @@
             "",
             "Torch",
             "Provides a modest amount of light.",
-            "Wood (1) Sap (2)",
+            "Wood, (1), Sap, (2)",
             "Starter"
           ],
           [
             "",
             "Campfire",
             "Provides a moderate amount of light.",
-            "Stone (10) Wood (10) Fiber (10)",
+            "Stone, (10), Wood, (10), Fiber, (10)",
             "Starter"
           ],
           [
             "",
             "Wooden Brazier",
             "Provides a moderate amount of light.",
-            "Wood (10) Coal (1) Fiber (5)",
-            "Carpenter's Shop for data-sort-value=\"250\"> 250g"
+            "Wood, (10), Coal, (1), Fiber, (5)",
+            "Carpenter's Shop, for, data-sort-value=\"250\">, 250g"
           ],
           [
             "",
             "Stone Brazier",
             "Provides a moderate amount of light.",
-            "Stone (10) Coal (1) Fiber (5)",
-            "Carpenter's Shop for data-sort-value=\"400\"> 400g"
+            "Stone, (10), Coal, (1), Fiber, (5)",
+            "Carpenter's Shop, for, data-sort-value=\"400\">, 400g"
           ],
           [
             "",
             "Gold Brazier",
             "Provides a moderate amount of light.",
-            "Gold Bar (1) Coal (1) Fiber (5)",
-            "Carpenter's Shop for data-sort-value=\"1000\"> 1,000g"
+            "Gold Bar, (1), Coal, (1), Fiber, (5)",
+            "Carpenter's Shop, for, data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "Carved Brazier",
             "Provides a moderate amount of light.",
-            "Hardwood (10) Coal (1)",
-            "Carpenter's Shop for data-sort-value=\"2000\"> 2,000g"
+            "Hardwood, (10), Coal, (1)",
+            "Carpenter's Shop, for, data-sort-value=\"2000\">, 2,000g"
           ],
           [
             "",
             "Stump Brazier",
             "Provides a moderate amount of light.",
-            "Hardwood (5) Coal (1)",
-            "Carpenter's Shop for data-sort-value=\"800\"> 800g"
+            "Hardwood, (5), Coal, (1)",
+            "Carpenter's Shop, for, data-sort-value=\"800\">, 800g"
           ],
           [
             "",
             "Barrel Brazier",
             "Provides a moderate amount of light.",
-            "Wood (50) Solar Essence (1) Coal (1)",
-            "Carpenter's Shop for data-sort-value=\"800\"> 800g"
+            "Wood, (50), Solar Essence, (1), Coal, (1)",
+            "Carpenter's Shop, for, data-sort-value=\"800\">, 800g"
           ],
           [
             "",
             "Skull Brazier",
             "Provides a moderate amount of light.",
-            "Bone Fragment (10)",
-            "Carpenter's Shop for data-sort-value=\"3000\"> 3,000g"
+            "Bone Fragment, (10)",
+            "Carpenter's Shop, for, data-sort-value=\"3000\">, 3,000g"
           ],
           [
             "",
             "Marble Brazier",
             "Provides a moderate amount of light.",
-            "Marble (1) Aquamarine (1) Stone (100)",
-            "Carpenter's Shop for data-sort-value=\"5000\"> 5,000g"
+            "Marble, (1), Aquamarine, (1), Stone, (100)",
+            "Carpenter's Shop, for, data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Wood Lamp-post",
             "Provides a good amount of light.",
-            "Wood (50) Battery Pack (1)",
-            "Carpenter's Shop for data-sort-value=\"500\"> 500g"
+            "Wood, (50), Battery Pack, (1)",
+            "Carpenter's Shop, for, data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Iron Lamp-post",
             "Provides a good amount of light.",
-            "Iron Bar (1) Battery Pack (1)",
-            "Carpenter's Shop for data-sort-value=\"1000\"> 1,000g"
+            "Iron Bar, (1), Battery Pack, (1)",
+            "Carpenter's Shop, for, data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "Jack-O-Lantern",
             "A whimsical fall decoration.",
-            "Pumpkin (1) Torch (1)",
-            "Pierre 's stand at Spirit's Eve festival ( data-sort-value=\"2000\"> 2,000g )"
+            "Pumpkin, (1), Torch, (1)",
+            "Pierre, 's stand at, Spirit's Eve, festival (, data-sort-value=\"2000\">, 2,000g, )"
           ]
         ]
       }
@@ -1082,134 +1082,134 @@
             "",
             "Charcoal Kiln",
             "Turns 10 pieces of wood into one piece of coal.",
-            "Wood (20) Copper Bar (2)",
-            "Foraging Level 2"
+            "Wood, (20), Copper Bar, (2)",
+            "Foraging, Level 2"
           ],
           [
             "",
             "Crystalarium",
             "Insert a gem of your choice and it will grow copies.",
-            "Stone (99) Gold Bar (5) Iridium Bar (2) Battery Pack (1)",
-            "Mining Level 9"
+            "Stone, (99), Gold Bar, (5), Iridium Bar, (2), Battery Pack, (1)",
+            "Mining, Level 9"
           ],
           [
             "",
             "Furnace",
             "Turns ore and coal into metal bars.",
-            "Copper Ore (20) Stone (25)",
-            "Clint (Morning after collecting 1+ Copper Ore )"
+            "Copper Ore, (20), Stone, (25)",
+            "Clint, (Morning after collecting 1+, Copper Ore, )"
           ],
           [
             "",
             "Heavy Furnace",
             "It's more efficient than a regular furnace. Requires 25 pieces of ore and 3 coal per use.",
-            "Furnace (2) Iron Bar (3) Stone (50)",
+            "Furnace, (2), Iron Bar, (3), Stone, (50)",
             "Mining Mastery"
           ],
           [
             "",
             "Lightning Rod",
             "Collects energy from lightning storms and turns it into battery packs.",
-            "Iron Bar (1) Refined Quartz (1) Bat Wing (5)",
-            "Foraging Level 6"
+            "Iron Bar, (1), Refined Quartz, (1), Bat Wing, (5)",
+            "Foraging, Level 6"
           ],
           [
             "",
             "Solar Panel",
             "Slowly generates batteries when left in the sun.",
-            "Refined Quartz (10) Iron Bar (5) Gold Bar (5)",
-            "Caroline ( Special Order )"
+            "Refined Quartz, (10), Iron Bar, (5), Gold Bar, (5)",
+            "Caroline, (, Special Order, )"
           ],
           [
             "",
             "Recycling Machine",
             "Turns fishing trash into resources.",
-            "Wood (25) Stone (25) Iron Bar (1)",
-            "Fishing Level 4"
+            "Wood, (25), Stone, (25), Iron Bar, (1)",
+            "Fishing, Level 4"
           ],
           [
             "",
             "Seed Maker",
             "Place crops inside to produce a varying amount of seeds. Doesn't work with fruit tree crops.",
-            "Wood (25) Coal (10) Gold Bar (1)",
-            "Farming Level 9"
+            "Wood, (25), Coal, (10), Gold Bar, (1)",
+            "Farming, Level 9"
           ],
           [
             "",
             "Slime Incubator",
             "Hatches slimes eggs into slimes. Allows you to raise slimes outdoors.",
-            "Iridium Bar (2) Slime (100)",
-            "Combat Level 8"
+            "Iridium Bar, (2), Slime, (100)",
+            "Combat, Level 8"
           ],
           [
             "",
             "Ostrich Incubator",
             "Hatches ostrich eggs into baby ostriches. Place in a barn.",
-            "Bone Fragment (50) Hardwood (50) Cinder Shard (20)",
-            "Complete the Island Field Office Collection"
+            "Bone Fragment, (50), Hardwood, (50), Cinder Shard, (20)",
+            "Complete the, Island Field Office, Collection"
           ],
           [
             "",
             "Slime Egg-Press",
             "Compresses 100 pieces of slime into a slime egg. It's a miracle of science!",
-            "Coal (25) Fire Quartz (1) Battery Pack (1)",
-            "Combat Level 6"
+            "Coal, (25), Fire Quartz, (1), Battery Pack, (1)",
+            "Combat, Level 6"
           ],
           [
             "",
             "Tapper",
             "Place on a maple, oak, or pine tree and wait for the reservoir to fill with product!",
-            "Wood (40) Copper Bar (2)",
-            "Foraging Level 4"
+            "Wood, (40), Copper Bar, (2)",
+            "Foraging, Level 4"
           ],
           [
             "",
             "Heavy Tapper",
             "Place on a maple, oak, or pine tree and wait for the reservoir to fill with product! Works twice as fast as a normal tapper.",
-            "Hardwood (30) Radioactive Bar (1)",
-            "Purchase from Mr Qi for data-sort-value=\"20\"> 20"
+            "Hardwood, (30), Radioactive Bar, (1)",
+            "Purchase from, Mr Qi, for, data-sort-value=\"20\">, 20"
           ],
           [
             "",
             "Worm Bin",
             "Produces bait on a regular basis. The worms are self-sufficient.",
-            "Hardwood (15) Gold Bar (1) Iron Bar (1) Fiber (50)",
-            "Fishing Level 4"
+            "Hardwood, (15), Gold Bar, (1), Iron Bar, (1), Fiber, (50)",
+            "Fishing, Level 4"
           ],
           [
             "",
             "Deluxe Worm Bin",
             "Produces Deluxe Bait on a regular basis. The worms are self-sufficient.",
-            "Worm Bin (1) Moss (30)",
-            "Fishing Level 8"
+            "Worm Bin, (1), Moss, (30)",
+            "Fishing, Level 8"
           ],
           [
             "",
             "Bone Mill",
             "Turns bone items into fertilizers.",
-            "Bone Fragment (10) Clay (3) Stone (20)",
-            "Gunther ( Special Order )"
+            "Bone Fragment, (10), Clay, (3), Stone, (20)",
+            "Gunther, (, Special Order, )"
           ],
           [
             "",
             "Geode Crusher",
             "Breaks geodes open automatically.",
-            "Gold Bar (2) Stone (50) Diamond (1)",
-            "Clint ( Special Order )"
+            "Gold Bar, (2), Stone, (50), Diamond, (1)",
+            "Clint, (, Special Order, )"
           ],
           [
             "",
             "Mushroom Log",
             "Grows mushrooms every so often. The more wild trees are nearby, the better it works.",
-            "Hardwood (10) Moss (10)",
-            "Foraging (Level 4)"
+            "Hardwood, (10), Moss, (10)",
+            "Foraging, (Level 4)"
           ],
           [
             "",
             "Bait Maker",
             "Place a fish inside to create targeted bait.",
-            "Iron Bar (3) Coral (3) Sea Urchin (1)",
-            "Fishing (Level 6)"
+            "Iron Bar, (3), Coral, (3), Sea Urchin, (1)",
+            "Fishing, (Level 6)"
           ]
         ]
       }
@@ -1236,29 +1236,29 @@
             "",
             "Tub o' Flowers",
             "Flowers planted in an oak barrel. Blooms in spring and summer.",
-            "Wood (15) Tulip Bulb (1) Jazz Seeds (1) Poppy Seeds (1) Spangle Seeds (1)",
-            "Pierre 's stand at Flower Dance ( data-sort-value=\"2000\"> 2,000g )"
+            "Wood, (15), Tulip Bulb, (1), Jazz Seeds, (1), Poppy Seeds, (1), Spangle Seeds, (1)",
+            "Pierre, 's stand at, Flower Dance, (, data-sort-value=\"2000\">, 2,000g, )"
           ],
           [
             "",
             "Wicked Statue",
             "There's something unsettling about the looks of this statue.",
-            "Stone (25) Coal (5)",
-            "Krobus ' Shop ( data-sort-value=\"1000\"> 1,000g )"
+            "Stone, (25), Coal, (5)",
+            "Krobus, ' Shop (, data-sort-value=\"1000\">, 1,000g, )"
           ],
           [
             "",
             "Flute Block",
             "Plays a flute sound when you walk past.",
-            "Wood (10) Copper Ore (2) Fiber (20)",
-            "Robin 6-heart event"
+            "Wood, (10), Copper Ore, (2), Fiber, (20)",
+            "Robin, 6-heart event"
           ],
           [
             "",
             "Drum Block",
             "Plays a drum sound when you walk past.",
-            "Stone (10) Copper Ore (2) Fiber (20)",
-            "Robin 6-heart event"
+            "Stone, (10), Copper Ore, (2), Fiber, (20)",
+            "Robin, 6-heart event"
           ]
         ]
       }
@@ -1285,29 +1285,29 @@
             "",
             "Chest",
             "A place to store your items.",
-            "Wood (50)",
+            "Wood, (50)",
             "Starter"
           ],
           [
             "",
             "Stone Chest",
             "A place to store your items.",
-            "Stone (50)",
-            "Robin special order"
+            "Stone, (50)",
+            "Robin, special order"
           ],
           [
             "",
             "Big Chest",
             "It can store almost twice as much as a regular chest.",
-            "Wood (120) Copper Bar (2)",
-            "Carpenter's Shop for data-sort-value=\"5000\"> 5,000g"
+            "Wood, (120), Copper Bar, (2)",
+            "Carpenter's Shop, for, data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Big Stone Chest",
             "It can store almost twice as much as a regular chest.",
-            "Stone (250)",
-            "Dwarf ( data-sort-value=\"5000\"> 5,000g )"
+            "Stone, (250)",
+            "Dwarf, (, data-sort-value=\"5000\">, 5,000g, )"
           ]
         ]
       }
@@ -1334,28 +1334,28 @@
             "",
             "Wood Sign",
             "Use an item on this to change what's displayed. The item won't be consumed.",
-            "Wood (25)",
+            "Wood, (25)",
             "Starter"
           ],
           [
             "",
             "Stone Sign",
             "Use an item on this to change what's displayed. The item won't be consumed.",
-            "Stone (25)",
+            "Stone, (25)",
             "Starter"
           ],
           [
             "",
             "Dark Sign",
             "Use an item on this to change what's displayed. The item won't be consumed.",
-            "Bat Wing (5) Bone Fragment (5)",
-            "Krobus (Mail - 3+ )"
+            "Bat Wing, (5), Bone Fragment, (5)",
+            "Krobus, (Mail - 3+, )"
           ],
           [
             "",
             "Text Sign",
             "You can write a custom message on this sign.",
-            "Wood (25)",
+            "Wood, (25)",
             "Starter"
           ]
         ]
@@ -1383,119 +1383,119 @@
             "",
             "Garden Pot",
             "Grows crops from any season when indoors. Outdoors, it can only house seasonal crops.",
-            "Clay (1) Stone (10) Refined Quartz (1)",
-            "Evelyn cutscene after completing the Greenhouse"
+            "Clay, (1), Stone, (10), Refined Quartz, (1)",
+            "Evelyn, cutscene after completing the, Greenhouse"
           ],
           [
             "",
             "Scarecrow",
             "Prevents crows from attacking your crops. Has a limited radius (about 8 \"tiles\").",
-            "Wood (50) Coal (1) Fiber (20)",
-            "Farming Level 1"
+            "Wood, (50), Coal, (1), Fiber, (20)",
+            "Farming, Level 1"
           ],
           [
             "",
             "Deluxe Scarecrow",
             "Prevents crows from attacking your crops. Has a large radius (about 16 \"tiles\").",
-            "Wood (50) Fiber (40) Iridium Ore (1)",
-            "Mail the day after collecting all rarecrows"
+            "Wood, (50), Fiber, (40), Iridium Ore, (1)",
+            "Mail the day after collecting all, rarecrows"
           ],
           [
             "",
             "Staircase",
             "Use this to move down a level in the mines.",
-            "Stone (99)",
-            "Mining Level 2"
+            "Stone, (99)",
+            "Mining, Level 2"
           ],
           [
             "",
-            "Explosive Ammo (5)",
+            "Explosive Ammo, (5)",
             "Fire this with the slingshot.",
-            "Iron Bar (1) Coal (2)",
-            "Combat Level 8"
+            "Iron Bar, (1), Coal, (2)",
+            "Combat, Level 8"
           ],
           [
             "",
             "Transmute (Fe)",
             "A bar of pure iron.",
-            "Copper Bar (3)",
-            "Mining Level 4"
+            "Copper Bar, (3)",
+            "Mining, Level 4"
           ],
           [
             "",
             "Transmute (Au)",
             "A bar of pure gold.",
-            "Iron Bar (2)",
-            "Mining Level 7"
+            "Iron Bar, (2)",
+            "Mining, Level 7"
           ],
           [
             "",
             "Mini-Jukebox",
             "Allows you to play your favorite tunes.",
-            "Iron Bar (2) Battery Pack (1)",
-            "Gus 5-Heart Event"
+            "Iron Bar, (2), Battery Pack, (1)",
+            "Gus, 5-Heart Event"
           ],
           [
             "",
             "Mini-Obelisk",
             "Place two on the farm to warp between them.",
-            "Hardwood (30) Solar Essence (20) Gold Bar (3)",
-            "Wizard special order"
+            "Hardwood, (30), Solar Essence, (20), Gold Bar, (3)",
+            "Wizard, special order"
           ],
           [
             "",
             "Farm Computer",
             "Scans the farm and displays useful information.",
-            "Dwarf Gadget (1) Battery Pack (1) Refined Quartz (10)",
-            "Demetrius special order"
+            "Dwarf Gadget, (1), Battery Pack, (1), Refined Quartz, (10)",
+            "Demetrius, special order"
           ],
           [
             "",
             "Hopper",
             "Items placed inside will automatically be loaded into the machine in front of it.",
-            "Hardwood (10) Iridium Bar (1) Radioactive Bar (1)",
-            "Purchase from Mr Qi for data-sort-value=\"50\"> 50"
+            "Hardwood, (10), Iridium Bar, (1), Radioactive Bar, (1)",
+            "Purchase from, Mr Qi, for, data-sort-value=\"50\">, 50"
           ],
           [
             "",
             "Cookout Kit",
             "Use this to create a cooking campfire, allowing you to cook on-the-go!",
-            "Wood (15) Fiber (10) Coal (3)",
-            "Foraging Level 3"
+            "Wood, (15), Fiber, (10), Coal, (3)",
+            "Foraging, Level 3"
           ],
           [
             "",
             "Tent Kit",
             "Use this to deploy a one-time-use tent for sleeping. Can only be used outdoors.",
-            "Hardwood (10) Fiber (25) Cloth (1)",
-            "Foraging Level 8"
+            "Hardwood, (10), Fiber, (25), Cloth, (1)",
+            "Foraging, Level 8"
           ],
           [
             "",
             "Statue Of The Dwarf King",
             "Choose from two mining-related powers each day.",
-            "Iridium Bar (20)",
+            "Iridium Bar, (20)",
             "Mining Mastery"
           ],
           [
             "",
             "Statue Of Blessings",
             "Touching the statue gives a unique blessing every day.",
-            "Sap (999) Fiber (999) Stone (999) Moss (333)",
+            "Sap, (999), Fiber, (999), Stone, (999), Moss, (333)",
             "Farming Mastery"
           ],
           [
             "",
             "Anvil",
             "Allows you to re-forge trinkets, randomizing their stats. Costs 3 iridium bars per use.",
-            "Iron Bar (50)",
+            "Iron Bar, (50)",
             "Combat Mastery"
           ],
           [
             "",
             "Mini-Forge",
             "Now, you can use a dwarvish forge from the convenience of your home.",
-            "Dragon Tooth (5) Iron Bar (10) Gold Bar (10) Iridium Bar (5)",
+            "Dragon Tooth, (5), Iron Bar, (10), Gold Bar, (10), Iridium Bar, (5)",
             "Combat Mastery"
           ]
         ]

@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Furnace Turns ore and coal into metal bars. Information Source Crafting Sell Price Cannot be sold Crafting Recipe Source Clint in cutscene after collecting 1+ Copper Ore Ingredients Stone (25) Copper Ore (20)\nThe Furnace smelts ore into bars, which are used in several crafting recipes.\nClint gives the player the blueprint for the Furnace in a cutscene the morning after collecting at least 1 Copper Ore . Exit the farmhouse between 6am and 11:30am to trigger the cutscene. The Copper Ore can come from anywhere, including from a fishing treasure chest or from purchasing it from Clint directly.\nIf you have not yet met Clint when he comes to give you the blueprint, the meeting will count as an introduction.\nOne furnace is the reward for completing the Blacksmith's Bundle in the Boiler Room or Engineer's Bundle in the Boiler Room (Remixed) .\nThe furnace will occasionally make the same sound as placing down wallpaper or flooring .\nIf the furnace is broken while an item is smelting inside it, then the item will be deleted."
+      "content": "The Furnace smelts ore into bars, which are used in several crafting recipes.\nClint gives the player the blueprint for the Furnace in a cutscene the morning after collecting at least 1 Copper Ore . Exit the farmhouse between 6am and 11:30am to trigger the cutscene. The Copper Ore can come from anywhere, including from a fishing treasure chest or from purchasing it from Clint directly.\nIf you have not yet met Clint when he comes to give you the blueprint, the meeting will count as an introduction.\nOne furnace is the reward for completing the Blacksmith's Bundle in the Boiler Room or Engineer's Bundle in the Boiler Room (Remixed) .\nThe furnace will occasionally make the same sound as placing down wallpaper or flooring .\nIf the furnace is broken while an item is smelting inside it, then the item will be deleted."
     },
     {
       "heading": "Smelting",
@@ -20,6 +20,45 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Furnace"
+          ],
+          [
+            ""
+          ],
+          [
+            "Turns ore and coal into metal bars."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Crafting"
+          ],
+          [
+            "Sell Price",
+            "Cannot be sold"
+          ],
+          [
+            "Crafting"
+          ],
+          [
+            "Recipe Source",
+            "Clint, in cutscene after collecting 1+, Copper Ore"
+          ],
+          [
+            "Ingredients",
+            "Stone, (25), Copper Ore, (20)"
+          ]
+        ]
+      }
+    },
     {
       "section": "Smelting",
       "table": {
@@ -37,52 +76,52 @@
             "Sells For"
           ],
           [
-            "Bouquet (1)",
-            "Wilted Bouquet (1)",
+            "Bouquet, (1)",
+            "Wilted Bouquet, (1)",
             "≤10m",
-            "data-sort-value=\"100\"> 100g"
+            "data-sort-value=\"100\">, 100g"
           ],
           [
-            "Copper Ore (5)",
-            "Copper Bar (1)",
+            "Copper Ore, (5)",
+            "Copper Bar, (1)",
             "30m",
-            "data-sort-value=\"60\"> 60g"
+            "data-sort-value=\"60\">, 60g"
           ],
           [
-            "Quartz (1)",
-            "Refined Quartz (1)",
+            "Quartz, (1)",
+            "Refined Quartz, (1)",
             "90m (1h 30m)",
-            "data-sort-value=\"50\"> 50g"
+            "data-sort-value=\"50\">, 50g"
           ],
           [
-            "Fire Quartz (1)",
-            "Refined Quartz (3)",
+            "Fire Quartz, (1)",
+            "Refined Quartz, (3)",
             "90m (1h 30m)",
-            "data-sort-value=\"50\"> 50g (x3)"
+            "data-sort-value=\"50\">, 50g, (x3)"
           ],
           [
-            "Iron Ore (5)",
-            "Iron Bar (1)",
+            "Iron Ore, (5)",
+            "Iron Bar, (1)",
             "120m (2h)",
-            "data-sort-value=\"120\"> 120g"
+            "data-sort-value=\"120\">, 120g"
           ],
           [
-            "Gold Ore (5)",
-            "Gold Bar (1)",
+            "Gold Ore, (5)",
+            "Gold Bar, (1)",
             "300m (5h)",
-            "data-sort-value=\"250\"> 250g"
+            "data-sort-value=\"250\">, 250g"
           ],
           [
-            "Iridium Ore (5)",
-            "Iridium Bar (1)",
+            "Iridium Ore, (5)",
+            "Iridium Bar, (1)",
             "480m (8h)",
-            "data-sort-value=\"1000\"> 1,000g"
+            "data-sort-value=\"1000\">, 1,000g"
           ],
           [
-            "Radioactive Ore (5)",
-            "Radioactive Bar (1)",
+            "Radioactive Ore, (5)",
+            "Radioactive Bar, (1)",
             "560m (9h 20m)",
-            "data-sort-value=\"3000\"> 3,000g"
+            "data-sort-value=\"3000\">, 3,000g"
           ]
         ]
       }
@@ -109,7 +148,7 @@
             "",
             "Heavy Furnace",
             "It's more efficient than a regular furnace. Requires 25 pieces of ore and 3 coal per use.",
-            "Furnace (2) Iron Bar (3) Stone (50)",
+            "Furnace, (2), Iron Bar, (3), Stone, (50)",
             "Mining Mastery"
           ]
         ]
@@ -127,33 +166,33 @@
           ],
           [
             "Artisan",
-            "Bee House • Cask • Cheese Press • Dehydrator • Fish Smoker • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar"
+            "Bee House, •, Cask, •, Cheese Press, •, Dehydrator, •, Fish Smoker, •, Keg, •, Loom, •, Mayonnaise Machine, •, Oil Maker, •, Preserves Jar"
           ],
           [
             "Refining",
-            "Bait Maker • Bone Mill • Charcoal Kiln • Crystalarium • Deluxe Worm Bin • Furnace • Geode Crusher • Heavy Furnace • Heavy Tapper • Lightning Rod • Mushroom Log • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin"
+            "Bait Maker, •, Bone Mill, •, Charcoal Kiln, •, Crystalarium, •, Deluxe Worm Bin, •, Furnace, •, Geode Crusher, •, Heavy Furnace, •, Heavy Tapper, •, Lightning Rod, •, Mushroom Log, •, Ostrich Incubator, •, Recycling Machine, •, Seed Maker, •, Slime Egg-Press, •, Slime Incubator, •, Solar Panel, •, Tapper, •, Wood Chipper, •, Worm Bin"
           ],
           [
             "Farming",
             "Fertilizer",
-            "Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil • Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer"
+            "Basic Fertilizer, •, Basic Retaining Soil, •, Deluxe Fertilizer, •, Deluxe Retaining Soil, •, Deluxe Speed-Gro, •, Hyper Speed-Gro, •, Quality Fertilizer, •, Quality Retaining Soil, •, Speed-Gro, •, Tree Fertilizer"
           ],
           [
             "Sprinklers",
-            "Iridium Sprinkler • Quality Sprinkler • Sprinkler"
+            "Iridium Sprinkler, •, Quality Sprinkler, •, Sprinkler"
           ],
           [
             "Other",
-            "Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow"
+            "Deluxe Scarecrow, •, Garden Pot, •, Rarecrow, •, Scarecrow"
           ],
           [
             "Fishing",
             "Bait",
-            "Bait • Challenge Bait • Deluxe Bait • Magic Bait • Magnet • Targeted Bait • Wild Bait"
+            "Bait, •, Challenge Bait, •, Deluxe Bait, •, Magic Bait, •, Magnet, •, Targeted Bait, •, Wild Bait"
           ],
           [
             "Tackle",
-            "Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Sonar Bobber • Spinner • Trap Bobber • Treasure Hunter"
+            "Barbed Hook, •, Cork Bobber, •, Curiosity Lure, •, Dressed Spinner, •, Lead Bobber, •, Quality Bobber, •, Sonar Bobber, •, Spinner, •, Trap Bobber, •, Treasure Hunter"
           ],
           [
             "Other",
@@ -161,23 +200,23 @@
           ],
           [
             "Bombs",
-            "Bomb • Cherry Bomb • Mega Bomb"
+            "Bomb, •, Cherry Bomb, •, Mega Bomb"
           ],
           [
             "Fences",
-            "Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence"
+            "Gate, •, Hardwood Fence, •, Iron Fence, •, Stone Fence, •, Wood Fence"
           ],
           [
             "Storage",
-            "Big Chest • Big Stone Chest • Chest • Junimo Chest • Mini-Fridge • Stone Chest"
+            "Big Chest, •, Big Stone Chest, •, Chest, •, Junimo Chest, •, Mini-Fridge, •, Stone Chest"
           ],
           [
             "Signs",
-            "Dark Sign • Stone Sign • Text Sign • Wood Sign"
+            "Dark Sign, •, Stone Sign, •, Text Sign, •, Wood Sign"
           ],
           [
             "Misc",
-            "Anvil • Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Forge • Mini-Jukebox • Mini-Shipping Bin • Sewing Machine • Staircase • Statue Of Blessings • Statue Of The Dwarf King • Telephone • Tent Kit • Tools • Workbench"
+            "Anvil, •, Coffee Maker, •, Cookout Kit, •, Deconstructor, •, Fairy Dust, •, Farm Computer, •, Hopper, •, Mini-Forge, •, Mini-Jukebox, •, Mini-Shipping Bin, •, Sewing Machine, •, Staircase, •, Statue Of Blessings, •, Statue Of The Dwarf King, •, Telephone, •, Tent Kit, •, Tools, •, Workbench"
           ]
         ]
       }

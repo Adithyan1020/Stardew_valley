@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Caroline Information Birthday Winter 7 Lives In Pelican Town Address Pierre's General Store Family Pierre (Husband) Abigail (Daughter) Marriage No Clinic Visit Fall 25 Loved Gifts Fish Taco Green Tea Summer Spangle Tropical Curry\nCaroline is a villager who lives in Pelican Town ."
+      "content": "Caroline is a villager who lives in Pelican Town ."
     },
     {
       "heading": "Schedule",
@@ -74,6 +74,51 @@
         "headers": [],
         "rows": [
           [
+            "Caroline"
+          ],
+          [
+            ""
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Birthday",
+            "Winter, 7"
+          ],
+          [
+            "Lives In",
+            "Pelican Town"
+          ],
+          [
+            "Address",
+            "Pierre's General Store"
+          ],
+          [
+            "Family",
+            "Pierre, (Husband), Abigail, (Daughter)"
+          ],
+          [
+            "Marriage",
+            "No"
+          ],
+          [
+            "Clinic Visit",
+            "Fall, 25"
+          ],
+          [
+            "Loved Gifts",
+            "Fish Taco, Green Tea, Summer Spangle, Tropical Curry"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
             "“",
             "“My husband runs the general store here. And have you met my daughter, Abigail? She's the pale one with the purple hair.”"
           ],
@@ -95,7 +140,7 @@
           ],
           [
             "10:40 AM",
-            "Boards the bus to Calico Desert to attend the Desert Festival ."
+            "Boards the, bus, to, Calico Desert, to attend the, Desert Festival, ."
           ],
           [
             "11:00 AM",
@@ -120,11 +165,11 @@
           ],
           [
             "11:10 AM",
-            "Boards the bus to Calico Desert ."
+            "Boards the, bus, to, Calico Desert, ."
           ],
           [
             "11:30 AM",
-            "Arrives at her booth ."
+            "Arrives at her, booth, ."
           ],
           [
             "12:00 AM",
@@ -145,7 +190,7 @@
           ],
           [
             "8:00 AM",
-            "In the kitchen of Pierre's General Store ."
+            "In the kitchen of, Pierre's General Store, ."
           ],
           [
             "10:00 AM",
@@ -153,7 +198,7 @@
           ],
           [
             "12:00 PM",
-            "Walks to Harvey's Clinic and stands in waiting room."
+            "Walks to, Harvey's Clinic, and stands in waiting room."
           ],
           [
             "1:30 PM",
@@ -182,7 +227,7 @@
           ],
           [
             "8:00 AM",
-            "In the kitchen of Pierre's General Store ."
+            "In the kitchen of, Pierre's General Store, ."
           ],
           [
             "12:00 PM",
@@ -190,11 +235,11 @@
           ],
           [
             "1:30 PM",
-            "Goes to stand in the town square ."
+            "Goes to stand in the, town square, ."
           ],
           [
             "4:00 PM",
-            "Leaves the town square to attend the Night Market ."
+            "Leaves the town square to attend the, Night Market, ."
           ],
           [
             "11:30 PM",
@@ -215,7 +260,7 @@
           ],
           [
             "All day",
-            "In the living room ."
+            "In the, living room, ."
           ]
         ]
       }
@@ -232,7 +277,7 @@
           ],
           [
             "8:00 AM",
-            "In the kitchen of Pierre's General Store ."
+            "In the kitchen of, Pierre's General Store, ."
           ],
           [
             "12:00 PM",
@@ -302,7 +347,7 @@
           ],
           [
             "8:00 AM",
-            "In the kitchen of Pierre's General Store ."
+            "In the kitchen of, Pierre's General Store, ."
           ],
           [
             "10:00 AM",
@@ -310,7 +355,7 @@
           ],
           [
             "12:00 PM",
-            "Walks to the fountain to the west of the Community Center ."
+            "Walks to the fountain to the west of the, Community Center, ."
           ],
           [
             "5:00 PM",
@@ -335,7 +380,7 @@
           ],
           [
             "8:00 AM",
-            "In the kitchen of Pierre's General Store ."
+            "In the kitchen of, Pierre's General Store, ."
           ],
           [
             "10:00 AM",
@@ -343,7 +388,7 @@
           ],
           [
             "12:00 PM",
-            "Goes to the Museum to read between some bookshelves."
+            "Goes to the, Museum, to read between some bookshelves."
           ],
           [
             "5:00 PM",
@@ -368,11 +413,11 @@
           ],
           [
             "8:00 AM",
-            "In the kitchen of Pierre's General Store ."
+            "In the kitchen of, Pierre's General Store, ."
           ],
           [
             "11:00 AM",
-            "Walks to Community Center and stands in the reading area in the main room."
+            "Walks to, Community Center, and stands in the reading area in the main room."
           ],
           [
             "5:00 PM",
@@ -409,7 +454,7 @@
           ],
           [
             "2:40 PM",
-            "Leaves home to stand below the tree south of the Community Center ."
+            "Leaves home to stand below the tree south of the, Community Center, ."
           ],
           [
             "6:30 PM",
@@ -434,7 +479,7 @@
           ],
           [
             "8:00 AM",
-            "In the kitchen of Pierre's General Store ."
+            "In the kitchen of, Pierre's General Store, ."
           ],
           [
             "10:00 AM",
@@ -446,7 +491,7 @@
           ],
           [
             "1:30 PM",
-            "Leaves home to stand in town square with Jodi."
+            "Leaves home to stand in, town square, with Jodi."
           ],
           [
             "4:00 PM",
@@ -527,27 +572,27 @@
           ],
           [
             "",
-            "All Universal Loves"
+            "All, Universal Loves"
           ],
           [
             "",
             "Fish Taco",
             "It smells delicious.",
             "Cooking",
-            "Tuna (1) Tortilla (1) Red Cabbage (1) Mayonnaise (1)"
+            "Tuna, (1), Tortilla, (1), Red Cabbage, (1), Mayonnaise, (1)"
           ],
           [
             "",
             "Green Tea",
             "A pleasant, energizing beverage made from lightly processed tea leaves.",
             "Keg",
-            "Tea Leaves (1)"
+            "Tea Leaves, (1)"
           ],
           [
             "",
             "Summer Spangle",
             "A tropical bloom that thrives in the humid summer air. Has a sweet, tangy aroma.",
-            "Farming - Summer",
+            "Farming, -, Summer",
             ""
           ],
           [
@@ -555,7 +600,7 @@
             "Tropical Curry",
             "An exotic, fragrant curry served in a pineapple bowl.",
             "Cooking",
-            "Coconut (1) Pineapple (1) Hot Pepper (1)"
+            "Coconut, (1), Pineapple, (1), Hot Pepper, (1)"
           ]
         ]
       }
@@ -579,7 +624,7 @@
         "rows": [
           [
             "“",
-            "“Oh, you've been foraging! Thank you! I'll make a spicy cocktail sauce with this. That'll put some hair on Pierre's chest.”"
+            "“Oh, you've been foraging! Thank you!, I'll make a spicy cocktail sauce with this. That'll put some hair on Pierre's chest.”"
           ]
         ]
       }
@@ -602,13 +647,13 @@
           ],
           [
             "",
-            "All Universal Likes (except Amaranth , Duck Mayonnaise , & Mayonnaise )"
+            "All, Universal Likes, (except, Amaranth, ,, Duck Mayonnaise, , &, Mayonnaise, )"
           ],
           [
             "",
             "Daffodil",
             "A traditional spring flower that makes a nice gift.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
@@ -620,7 +665,7 @@
             "",
             "Wild Horseradish",
             "A spicy root found in the spring.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ]
         ]
       }
@@ -655,7 +700,7 @@
           ],
           [
             "",
-            "All Universal Neutrals (except Tea Leaves ) All Eggs (except Void Egg )* All Fruit (except pre-1.5 Fruit Tree Fruit & Salmonberry ) All Milk"
+            "All, Universal Neutrals, (except, Tea Leaves, ), All Eggs, (except, Void Egg, )*, All, Fruit, (except, pre-1.5, Fruit Tree Fruit, &, Salmonberry, ), All Milk"
           ]
         ]
       }
@@ -690,31 +735,31 @@
           ],
           [
             "",
-            "All Universal Dislikes"
+            "All, Universal Dislikes"
           ],
           [
             "",
             "Amaranth",
             "A purple grain cultivated by an ancient civilization.",
-            "Farming - Fall"
+            "Farming, -, Fall"
           ],
           [
             "",
             "Chanterelle",
             "A tasty mushroom with a fruity smell and slightly peppery flavor.",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Common Mushroom",
             "Slightly nutty, with good texture.",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Dandelion",
             "Not the prettiest flower, but the leaves make a good salad.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
@@ -726,31 +771,31 @@
             "",
             "Ginger",
             "This sharp, spicy root is said to increase vitality.",
-            "Foraging - Ginger Island"
+            "Foraging, -, Ginger Island"
           ],
           [
             "",
             "Hazelnut",
             "That's one big hazelnut!",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Holly",
             "The leaves and bright red berries make a popular winter decoration.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ],
           [
             "",
             "Leek",
             "A tasty relative of the onion.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Magma Cap",
             "A very rare mushroom that lives next to pools of lava.",
-            "Foraging - Volcano Dungeon"
+            "Foraging, -, Volcano Dungeon"
           ],
           [
             "",
@@ -762,25 +807,25 @@
             "",
             "Morel",
             "Sought after for its unique nutty flavor.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Purple Mushroom",
             "A rare mushroom found deep in caves.",
-            "Foraging - The Mines"
+            "Foraging, -, The Mines"
           ],
           [
             "",
             "Snow Yam",
             "This little yam was hiding beneath the snow.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ],
           [
             "",
             "Winter Root",
             "A starchy tuber.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ]
         ]
       }
@@ -815,19 +860,19 @@
           ],
           [
             "",
-            "All Universal Hates"
+            "All, Universal Hates"
           ],
           [
             "",
             "Quartz",
             "A clear crystal commonly found in caves and mines.",
-            "Foraging - The Mines"
+            "Foraging, -, The Mines"
           ],
           [
             "",
             "Salmonberry",
             "A spring-time berry with the flavor of the forest.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ]
         ]
       }
@@ -845,19 +890,19 @@
         ],
         "rows": [
           [
-            "Love Journey Of The Prairie King: The Motion Picture The Brave Little Sapling Like It Howls In The Rain Mysterium Natural Wonders: Exploring Our Vibrant World The Miracle At Coldstar Ranch The Zuzu City Express Dislike Wumbus",
+            "Love, Journey Of The Prairie King: The Motion Picture, The Brave Little Sapling, Like, It Howls In The Rain, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Miracle At Coldstar Ranch, The Zuzu City Express, Dislike, Wumbus",
             "Love",
-            "Journey Of The Prairie King: The Motion Picture The Brave Little Sapling",
+            "Journey Of The Prairie King: The Motion Picture, The Brave Little Sapling",
             "Like",
-            "It Howls In The Rain Mysterium Natural Wonders: Exploring Our Vibrant World The Miracle At Coldstar Ranch The Zuzu City Express",
+            "It Howls In The Rain, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Miracle At Coldstar Ranch, The Zuzu City Express",
             "Dislike",
             "Wumbus",
             "",
-            "Love Jasmine Tea Stardrop Sorbet Truffle Popcorn Dislike Black Licorice Cotton Candy Fries Jawbreaker Joja Cola JojaCorn Nachos Personal Pizza Rock Candy Sour Slimes Like Everything else",
+            "Love, Jasmine Tea, Stardrop Sorbet, Truffle Popcorn, Dislike, Black Licorice, Cotton Candy, Fries, Jawbreaker, Joja Cola, JojaCorn, Nachos, Personal Pizza, Rock Candy, Sour Slimes, Like, Everything else",
             "Love",
-            "Jasmine Tea Stardrop Sorbet Truffle Popcorn",
+            "Jasmine Tea, Stardrop Sorbet, Truffle Popcorn",
             "Dislike",
-            "Black Licorice Cotton Candy Fries Jawbreaker Joja Cola JojaCorn Nachos Personal Pizza Rock Candy Sour Slimes",
+            "Black Licorice, Cotton Candy, Fries, Jawbreaker, Joja Cola, JojaCorn, Nachos, Personal Pizza, Rock Candy, Sour Slimes",
             "Like",
             "Everything else"
           ],
@@ -865,13 +910,13 @@
             "Love"
           ],
           [
-            "Journey Of The Prairie King: The Motion Picture The Brave Little Sapling"
+            "Journey Of The Prairie King: The Motion Picture, The Brave Little Sapling"
           ],
           [
             "Like"
           ],
           [
-            "It Howls In The Rain Mysterium Natural Wonders: Exploring Our Vibrant World The Miracle At Coldstar Ranch The Zuzu City Express"
+            "It Howls In The Rain, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Miracle At Coldstar Ranch, The Zuzu City Express"
           ],
           [
             "Dislike"
@@ -883,13 +928,13 @@
             "Love"
           ],
           [
-            "Jasmine Tea Stardrop Sorbet Truffle Popcorn"
+            "Jasmine Tea, Stardrop Sorbet, Truffle Popcorn"
           ],
           [
             "Dislike"
           ],
           [
-            "Black Licorice Cotton Candy Fries Jawbreaker Joja Cola JojaCorn Nachos Personal Pizza Rock Candy Sour Slimes"
+            "Black Licorice, Cotton Candy, Fries, Jawbreaker, Joja Cola, JojaCorn, Nachos, Personal Pizza, Rock Candy, Sour Slimes"
           ],
           [
             "Like"
@@ -911,19 +956,19 @@
             "Details"
           ],
           [
-            "Item Description Cauliflower Parsnip Potato Dear (Name), Here's a vegetable from the little garden I keep out back. You probably have more veggies than you know what to do with, but oh well. -Caroline",
+            "Item, Description, Cauliflower, Parsnip, Potato, Dear (Name),, Here's a vegetable from the little garden I keep out back. You probably have more veggies than you know what to do with, but oh well., -Caroline",
             "Item",
             "Description",
-            "Cauliflower Parsnip Potato",
-            "Dear (Name), Here's a vegetable from the little garden I keep out back. You probably have more veggies than you know what to do with, but oh well. -Caroline"
+            "Cauliflower, Parsnip, Potato",
+            "Dear (Name),, Here's a vegetable from the little garden I keep out back. You probably have more veggies than you know what to do with, but oh well., -Caroline"
           ],
           [
             "Item",
             "Description"
           ],
           [
-            "Cauliflower Parsnip Potato",
-            "Dear (Name), Here's a vegetable from the little garden I keep out back. You probably have more veggies than you know what to do with, but oh well. -Caroline"
+            "Cauliflower, Parsnip, Potato",
+            "Dear (Name),, Here's a vegetable from the little garden I keep out back. You probably have more veggies than you know what to do with, but oh well., -Caroline"
           ]
         ]
       }
@@ -939,7 +984,7 @@
             "Details"
           ],
           [
-            "Caroline is excited to show you her new \"private\" sunroom. She asks what you think of it. It's beautiful! (No effect on friendship .) It's very relaxing. (No effect on friendship .) It's too hot in here... (No effect on friendship .) Not as good as my farm! (No effect on friendship .) Caroline continues telling you how peaceful her sunroom sanctuary is, and offers you a cup of her home-grown Green Tea . You can choose \"yes\" or \"no\" without penalty. In either case, a surrealistic cutscene plays, after which Caroline says \"Feel free to come here and relax any time you want, okay?\" The sunroom is then unlocked and can be visited any time the house is open. Inside is a Tea Bush that can be harvested to obtain Tea Leaves once each day, during the last week of any season. The next day, Caroline sends a letter in the mail with the recipe to make Tea Saplings ."
+            "Caroline is excited to show you her new \"private\" sunroom. She asks what you think of it., It's beautiful!, (No effect on, friendship, .), It's very relaxing., (No effect on, friendship, .), It's too hot in here..., (No effect on, friendship, .), Not as good as my farm!, (No effect on, friendship, .), Caroline continues telling you how peaceful her sunroom sanctuary is, and offers you a cup of her home-grown, Green Tea, . You can choose \"yes\" or \"no\" without penalty. In either case, a surrealistic cutscene plays, after which Caroline says \"Feel free to come here and relax any time you want, okay?\", The sunroom is then unlocked and can be visited any time the house is open. Inside is a, Tea Bush, that can be harvested to obtain, Tea Leaves, once each day, during the last week of any season., The next day, Caroline sends a letter in the mail with the recipe to make, Tea Saplings, ."
           ]
         ]
       }
@@ -955,13 +1000,13 @@
             "Details"
           ],
           [
-            "Image Recipe Description Parsnip Soup Nothing is more satisfying than cooking with fresh vegetables from your own garden! I've enclosed a recipe to help you out. Take care, -Caroline",
+            "Image, Recipe, Description, Parsnip Soup, Nothing is more satisfying than cooking with fresh vegetables from your own garden! I've enclosed a recipe to help you out. Take care,, -Caroline",
             "Image",
             "Recipe",
             "Description",
             "",
             "Parsnip Soup",
-            "Nothing is more satisfying than cooking with fresh vegetables from your own garden! I've enclosed a recipe to help you out. Take care, -Caroline"
+            "Nothing is more satisfying than cooking with fresh vegetables from your own garden! I've enclosed a recipe to help you out. Take care,, -Caroline"
           ],
           [
             "Image",
@@ -971,7 +1016,7 @@
           [
             "",
             "Parsnip Soup",
-            "Nothing is more satisfying than cooking with fresh vegetables from your own garden! I've enclosed a recipe to help you out. Take care, -Caroline"
+            "Nothing is more satisfying than cooking with fresh vegetables from your own garden! I've enclosed a recipe to help you out. Take care,, -Caroline"
           ]
         ]
       }
@@ -987,7 +1032,7 @@
             "Details"
           ],
           [
-            "As you enter the store, you hear Caroline and Abigail having an argument in the kitchen. Abigail: \"Stop telling me how to live my life!\" Caroline: \"Hey, cut it out! We're letting you live here free of charge until you finish school. It seems like you don't appreciate that at all!\" Abigail: \"Stop trying to make me feel guilty. I appreciate that you and Dad are helping me out, but expecting me to dress the way you want is ridiculous. I'm not a little girl anymore, Mom.\" Caroline: (pause) \"...You're right. I'm sorry.\" Abigail turns towards the door where you're hiding, and asks if someone is there. You run away, and Abigail swears the house is haunted. Abigail comes out, and says \"Urgghh... Sorry... I was fighting with my Mom earlier.\""
+            "As you enter the store, you hear Caroline and Abigail having an argument in the kitchen., Abigail: \"Stop telling me how to live my life!\", Caroline: \"Hey, cut it out! We're letting you live here free of charge until you finish school. It seems like you don't appreciate that at all!\", Abigail: \"Stop trying to make me feel guilty. I appreciate that you and Dad are helping me out, but expecting me to dress the way you want is ridiculous. I'm not a little girl anymore, Mom.\", Caroline:, (pause), \"...You're right. I'm sorry.\", Abigail turns towards the door where you're hiding, and asks if someone is there. You run away, and Abigail swears the house is haunted. Abigail comes out, and says \"Urgghh... Sorry... I was fighting with my Mom earlier.\""
           ]
         ]
       }
@@ -1003,13 +1048,13 @@
             "Details"
           ],
           [
-            "Note that the recipe is called Vegetable Stew in the letter, but cooking the recipe creates Vegetable Medley . Image Recipe Description Vegetable Stew Nothing is more satisfying than cooking with fresh vegetables from your own garden! I've enclosed a recipe to help you out. Take care, -Caroline",
+            "Note that the recipe is called, Vegetable Stew, in the letter, but cooking the recipe creates, Vegetable Medley, ., Image, Recipe, Description, Vegetable Stew, Nothing is more satisfying than cooking with fresh vegetables from your own garden! I've enclosed a recipe to help you out. Take care,, -Caroline",
             "Image",
             "Recipe",
             "Description",
             "",
             "Vegetable Stew",
-            "Nothing is more satisfying than cooking with fresh vegetables from your own garden! I've enclosed a recipe to help you out. Take care, -Caroline"
+            "Nothing is more satisfying than cooking with fresh vegetables from your own garden! I've enclosed a recipe to help you out. Take care,, -Caroline"
           ],
           [
             "Image",
@@ -1019,7 +1064,7 @@
           [
             "",
             "Vegetable Stew",
-            "Nothing is more satisfying than cooking with fresh vegetables from your own garden! I've enclosed a recipe to help you out. Take care, -Caroline"
+            "Nothing is more satisfying than cooking with fresh vegetables from your own garden! I've enclosed a recipe to help you out. Take care,, -Caroline"
           ]
         ]
       }
@@ -1035,9 +1080,9 @@
             "Regular"
           ],
           [
-            "First Meeting “ “Hello! You must be [Player], the new farmer. I'm Caroline. My husband runs the general store here. And have you met my daughter, Abigail ? She's the pale one with the purple hair.” Regular “ “I wish Abby wouldn't spend so much time in her room.” “ “I've seen wild horseradish in the forest. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.” “ “Hi there. Do you have everything you need for the farm? If not, we might be able to help you out. We carry a variety of useful items.” “ “Hmmm... I wonder if I can get Pierre to cook dinner tonight.” “ “Hmmm... what am I going to make for dinner tonight? Maybe I'll just get take-out from the Saloon.” “ “It's a fine-looking day. On days like this I like to help Evelyn with the public gardens. She's strong for her age, but I think she appreciates all the help she can get.” “ “Is it just me, or does Abigail have an unhealthy interest in doom and gloom? Maybe I'm just too old to understand.” “ “Abby's always had a strange interest in the occult. I'm not sure where she gets it from...” “ “Today I'm just going to relax and think positively. Do you ever take a day off?” If sold low quality crops to Pierre “ “Oh, [Player]... This is embarrassing. I threw one of your [items] you sold us into my compost bin. Now the whole thing smells horrendous. Where did you find that thing again?” If sold high quality crops to Pierre “ “Oh, [Player]... This is embarrassing. I threw one of your [items] you sold us into my compost bin. But on the bright side, the worms are really loving it! They've never looked happier!” Player married to Abigail “ “Hi, [Player]. Are you enjoying the married life? I hope so!” “ “Dinner's been a lot quieter since Abigail moved out... No, not because she used to chew with her mouth open!” “ “How's Abigail's health? She's always been such a pale girl. Hopefully the farm lifestyle puts a little color in her cheeks.” “ “Abby was taking online classes here, but I don't think her heart was really in it... She's a free spirit, like I was before I met Pierre. She's probably having the time of her life on your farm.” “ “I'm so happy for you two! Welcome to the family!” 6+ Hearts “ “When we first moved here, I took a while to settle down... I wasn't ready for the domestic life. Pierre's a bit traditional... but he's a good man. He's ambitious, but he always puts his family first.” “ “Stardew Valley is nice, but I wish I knew more people. I'm glad that we've become friends.” “ “Time seems to go by faster and faster the older you get...” “ “You know, I used to want to be a farmer myself. Well, more like a rancher. I always loved movies about the wild west when I was a girl.” “ “Are you excited for the new year? I predict that you'll be super-successful on your farm.” 8+ Hearts “ “When we first moved to Pelican Town I would take secret walks to the Wizard's Tower . Don't tell Pierre, he has jealousy issues. Abigail was born about a year after we moved to Pelican Town. I wonder if she'll ever experience life outside the valley?” Summer “ “On Wednesdays the shop is closed. Keep that in mind if you're going to need anything.” “ “I've been seeing wild fruits in the forest lately. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.” “ “Hi there. Do you have everything you need for the farm? If not, we might be able to help you out. We carry a variety of useful items.” “ “Is it just me, or does Abigail look a little pale? Maybe I'm just worrying about her too much.” “ “Time seems to go by faster and faster the older you get...” Rain “ “My garden is happy today. ...and our water bill will be lower this month.” Green Rain Year 1 “ “I've never seen green rain before... It must not be too dangerous if you made it here!” Year 2+ “ “Ah, the special rain is back! This year, I'm going to make the most of it! This calls for a cup of green tea!” Fall “ “Fall is Abby's favorite season, so I'm hoping she'll come out of her room more often.” “ “I've seen edible mushrooms in the forest. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.” “ “Is it just me, or does Abigail play too many video games? Maybe I'm a little old-fashioned.” Fall 25 Check-up “ “It's my annual check-up today. At least I don't have to walk very far.” “ “You're here to see the doctor too? What happened?” “ “Excuse me, I have to say some things to Doctor Harvey in private...” Winter “ “Winter is harsh, but you can dig up some roots if you're lucky. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.” “ “Even though it's cold, I still check on the public garden beds every now and then. I just want to make sure they aren't damaged too much before spring returns.” “ “Don't you think Abby would look better with her natural hair color? She used to have light chestnut-colored hair.” Tuesdays Aerobics “ “Hmm... Should I wear something special to the aerobics meet-up today?” “ “Don't look! I'm all red and sweaty.” “ “You're looking really fit, Jodi! Those dumbbells do wonders, don't they?” “ “Mmff... I think I've earned some cookies today. *crunch*.” Fridays Museum “ “Finally... A little time to myself.” Sundays when the townsfolk are using the altar room “ “It was the previous owners who built the altar room. We aren't religious, but we let the other townsfolk use it if they want.” At Ginger Island “ “Willy gave us each a piece of his fish jerky. I'm still chewing on it.” “ “The water is so warm here compared to the valley. It's really pleasant!” “ “I told Gus to surprise me, and he made an iced green tea with mango zest. How nice!” “ “Hi [Player]. Are you here to relax, or to do work?” “ “I'll sleep well tonight!”",
+            "First Meeting, “, “Hello! You must be [Player], the new farmer. I'm Caroline. My, husband, runs the general store here. And have you met my daughter,, Abigail, ? She's the pale one with the purple hair.”, Regular, “, “I wish Abby wouldn't spend so much time in her room.”, “, “I've seen wild horseradish in the forest. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.”, “, “Hi there. Do you have everything you need for the farm? If not, we might be able to help you out. We carry a variety of useful items.”, “, “Hmmm... I wonder if I can get Pierre to cook dinner tonight.”, “, “Hmmm... what am I going to make for dinner tonight? Maybe I'll just get take-out from the Saloon.”, “, “It's a fine-looking day. On days like this I like to help Evelyn with the public gardens. She's strong for her age, but I think she appreciates all the help she can get.”, “, “Is it just me, or does Abigail have an unhealthy interest in doom and gloom? Maybe I'm just too old to understand.”, “, “Abby's always had a strange interest in the occult. I'm not sure where she gets it from...”, “, “Today I'm just going to relax and think positively. Do you ever take a day off?”, If sold low quality crops to Pierre, “, “Oh, [Player]... This is embarrassing. I threw one of your [items] you sold us into my compost bin. Now the whole thing smells horrendous. Where did you find that thing again?”, If sold high quality crops to Pierre, “, “Oh, [Player]... This is embarrassing. I threw one of your [items] you sold us into my compost bin. But on the bright side, the worms are really loving it! They've never looked happier!”, Player married to, Abigail, “, “Hi, [Player]. Are you enjoying the married life? I hope so!”, “, “Dinner's been a lot quieter since Abigail moved out... No, not because she used to chew with her mouth open!”, “, “How's Abigail's health? She's always been such a pale girl. Hopefully the farm lifestyle puts a little color in her cheeks.”, “, “Abby was taking online classes here, but I don't think her heart was really in it... She's a free spirit, like I was before I met Pierre. She's probably having the time of her life on your farm.”, “, “I'm so happy for you two! Welcome to the family!”, 6+ Hearts, “, “When we first moved here, I took a while to settle down... I wasn't ready for the domestic life. Pierre's a bit traditional... but he's a good man. He's ambitious, but he always puts his family first.”, “, “Stardew Valley is nice, but I wish I knew more people. I'm glad that we've become friends.”, “, “Time seems to go by faster and faster the older you get...”, “, “You know, I used to want to be a farmer myself. Well, more like a rancher. I always loved movies about the wild west when I was a girl.”, “, “Are you excited for the new year? I predict that you'll be super-successful on your farm.”, 8+ Hearts, “, “When we first moved to Pelican Town I would take secret walks to the, Wizard's Tower, . Don't tell Pierre, he has jealousy issues. Abigail was born about a year after we moved to Pelican Town. I wonder if she'll ever experience life outside the valley?”, Summer, “, “On Wednesdays the shop is closed. Keep that in mind if you're going to need anything.”, “, “I've been seeing wild fruits in the forest lately. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.”, “, “Hi there. Do you have everything you need for the farm? If not, we might be able to help you out. We carry a variety of useful items.”, “, “Is it just me, or does Abigail look a little pale? Maybe I'm just worrying about her too much.”, “, “Time seems to go by faster and faster the older you get...”, Rain, “, “My garden is happy today., ...and our water bill will be lower this month.”, Green Rain, Year 1, “, “I've never seen green rain before... It must not be too dangerous if you made it here!”, Year 2+, “, “Ah, the special rain is back! This year, I'm going to make the most of it! This calls for a cup of green tea!”, Fall, “, “Fall is Abby's favorite season, so I'm hoping she'll come out of her room more often.”, “, “I've seen edible mushrooms in the forest. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.”, “, “Is it just me, or does Abigail play too many video games? Maybe I'm a little old-fashioned.”, Fall 25 Check-up, “, “It's my annual check-up today. At least I don't have to walk very far.”, “, “You're here to see the doctor too? What happened?”, “, “Excuse me, I have to say some things to Doctor Harvey in private...”, Winter, “, “Winter is harsh, but you can dig up some roots if you're lucky. Foraging can be a fun way to earn some cash. Or you can use what you find as gifts or food.”, “, “Even though it's cold, I still check on the public garden beds every now and then. I just want to make sure they aren't damaged too much before spring returns.”, “, “Don't you think Abby would look better with her natural hair color? She used to have light chestnut-colored hair.”, Tuesdays Aerobics, “, “Hmm... Should I wear something special to the aerobics meet-up today?”, “, “Don't look! I'm all red and sweaty.”, “, “You're looking really fit, Jodi! Those dumbbells do wonders, don't they?”, “, “Mmff... I think I've earned some cookies today. *crunch*.”, Fridays Museum, “, “Finally... A little time to myself.”, Sundays when the townsfolk are using the altar room, “, “It was the previous owners who built the altar room. We aren't religious, but we let the other townsfolk use it if they want.”, At Ginger Island, “, “Willy gave us each a piece of his fish jerky. I'm still chewing on it.”, “, “The water is so warm here compared to the valley. It's really pleasant!”, “, “I told Gus to surprise me, and he made an iced green tea with mango zest. How nice!”, “, “Hi [Player]. Are you here to relax, or to do work?”, “, “I'll sleep well tonight!”",
             "“",
-            "“Hello! You must be [Player], the new farmer. I'm Caroline. My husband runs the general store here. And have you met my daughter, Abigail ? She's the pale one with the purple hair.”",
+            "“Hello! You must be [Player], the new farmer. I'm Caroline. My, husband, runs the general store here. And have you met my daughter,, Abigail, ? She's the pale one with the purple hair.”",
             "“",
             "“I wish Abby wouldn't spend so much time in her room.”",
             "“",
@@ -1081,7 +1126,7 @@
             "“",
             "“Are you excited for the new year? I predict that you'll be super-successful on your farm.”",
             "“",
-            "“When we first moved to Pelican Town I would take secret walks to the Wizard's Tower . Don't tell Pierre, he has jealousy issues. Abigail was born about a year after we moved to Pelican Town. I wonder if she'll ever experience life outside the valley?”",
+            "“When we first moved to Pelican Town I would take secret walks to the, Wizard's Tower, . Don't tell Pierre, he has jealousy issues. Abigail was born about a year after we moved to Pelican Town. I wonder if she'll ever experience life outside the valley?”",
             "“",
             "“On Wednesdays the shop is closed. Keep that in mind if you're going to need anything.”",
             "“",
@@ -1093,7 +1138,7 @@
             "“",
             "“Time seems to go by faster and faster the older you get...”",
             "“",
-            "“My garden is happy today. ...and our water bill will be lower this month.”",
+            "“My garden is happy today., ...and our water bill will be lower this month.”",
             "“",
             "“I've never seen green rain before... It must not be too dangerous if you made it here!”",
             "“",
@@ -1141,7 +1186,7 @@
           ],
           [
             "“",
-            "“Hello! You must be [Player], the new farmer. I'm Caroline. My husband runs the general store here. And have you met my daughter, Abigail ? She's the pale one with the purple hair.”"
+            "“Hello! You must be [Player], the new farmer. I'm Caroline. My, husband, runs the general store here. And have you met my daughter,, Abigail, ? She's the pale one with the purple hair.”"
           ],
           [
             "“",
@@ -1229,7 +1274,7 @@
           ],
           [
             "“",
-            "“When we first moved to Pelican Town I would take secret walks to the Wizard's Tower . Don't tell Pierre, he has jealousy issues. Abigail was born about a year after we moved to Pelican Town. I wonder if she'll ever experience life outside the valley?”"
+            "“When we first moved to Pelican Town I would take secret walks to the, Wizard's Tower, . Don't tell Pierre, he has jealousy issues. Abigail was born about a year after we moved to Pelican Town. I wonder if she'll ever experience life outside the valley?”"
           ],
           [
             "“",
@@ -1253,7 +1298,7 @@
           ],
           [
             "“",
-            "“My garden is happy today. ...and our water bill will be lower this month.”"
+            "“My garden is happy today., ...and our water bill will be lower this month.”"
           ],
           [
             "“",
@@ -1357,7 +1402,7 @@
             "Events"
           ],
           [
-            "Egg Festival Odd-numbered year “ “Abby's always loved the egg hunt, ever since she was a tiny girl.” Even-numbered year “ “It may be a little boring, but these festivals are a good chance to connect with our neighbors.” Desert Festival Even-numbered year “ “This weather is just perfect. I can't tell where my skin ends and the air begins.” Flower Dance “ “I wish Pierre would spend this time with the family...” The Luau Even-numbered year “ “Gus used my potatoes to make several dishes for the buffet. So, what kind of ingredient are you adding to the soup?” Stardew Valley Fair “ “Pierre is very serious about his grange display. He's been setting aside the best-looking produce for weeks in preparation. Hey, best of luck to you if you enter!” Spirit's Eve “ “I get scared very easily. I'll leave the haunted maze to the younger people.” Festival of Ice “ “How's winter coming along for you, [Player]?” Night Market “ “I'm getting all my holiday shopping done tonight! Let me know if you see Pierre coming...” Feast of the Winter Star “ “Ooohh... I've had too much nog.”",
+            "Egg Festival, Odd-numbered year, “, “Abby's always loved the egg hunt, ever since she was a tiny girl.”, Even-numbered year, “, “It may be a little boring, but these festivals are a good chance to connect with our neighbors.”, Desert Festival, Even-numbered year, “, “This weather is just perfect. I can't tell where my skin ends and the air begins.”, Flower Dance, “, “I wish Pierre would spend this time with the family...”, The Luau, Even-numbered year, “, “Gus used my potatoes to make several dishes for the buffet., So, what kind of ingredient are you adding to the soup?”, Stardew Valley Fair, “, “Pierre is very serious about his grange display. He's been setting aside the best-looking produce for weeks in preparation. Hey, best of luck to you if you enter!”, Spirit's Eve, “, “I get scared very easily. I'll leave the haunted maze to the younger people.”, Festival of Ice, “, “How's winter coming along for you, [Player]?”, Night Market, “, “I'm getting all my holiday shopping done tonight! Let me know if you see Pierre coming...”, Feast of the Winter Star, “, “Ooohh... I've had too much nog.”",
             "“",
             "“Abby's always loved the egg hunt, ever since she was a tiny girl.”",
             "“",
@@ -1367,7 +1412,7 @@
             "“",
             "“I wish Pierre would spend this time with the family...”",
             "“",
-            "“Gus used my potatoes to make several dishes for the buffet. So, what kind of ingredient are you adding to the soup?”",
+            "“Gus used my potatoes to make several dishes for the buffet., So, what kind of ingredient are you adding to the soup?”",
             "“",
             "“Pierre is very serious about his grange display. He's been setting aside the best-looking produce for weeks in preparation. Hey, best of luck to you if you enter!”",
             "“",
@@ -1397,7 +1442,7 @@
           ],
           [
             "“",
-            "“Gus used my potatoes to make several dishes for the buffet. So, what kind of ingredient are you adding to the soup?”"
+            "“Gus used my potatoes to make several dishes for the buffet., So, what kind of ingredient are you adding to the soup?”"
           ],
           [
             "“",
@@ -1434,19 +1479,19 @@
           ],
           [
             "Bachelors",
-            "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+            "Alex, •, Elliott, •, Harvey, •, Sam, •, Sebastian, •, Shane"
           ],
           [
             "Bachelorettes",
-            "Abigail • Emily • Haley • Leah • Maru • Penny"
+            "Abigail, •, Emily, •, Haley, •, Leah, •, Maru, •, Penny"
           ],
           [
             "Townspeople",
-            "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+            "Caroline, •, Clint, •, Demetrius, •, Evelyn, •, George, •, Gil, •, Gunther, •, Gus, •, Jas, •, Jodi, •, Kent, •, Lewis, •, Linus, •, Marlon, •, Marnie, •, Pam, •, Pierre, •, Robin, •, Vincent, •, Willy"
           ],
           [
             "Other",
-            "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+            "Birdie, •, Bouncer, •, Dwarf, •, Fizz, •, Governor, •, Grandpa, •, Henchman, •, Junimos, •, Krobus, •, Leo, •, Morris, •, Mr. Qi, •, Old Mariner, •, Professor Snail, •, Sandy, •, Wizard"
           ]
         ]
       }

@@ -7,10 +7,6 @@
       "content": "Fall is the third season players play through. It is followed by Winter and preceded by Summer . Some of the most valuable crops can grow during Fall. During this season the leaves of some trees will fall except for those that have been tapped."
     },
     {
-      "heading": "Events",
-      "content": "Penny Elliott Jodi Abigail Sandy Stardew Valley Fair Marnie Robin George Spirit's Eve"
-    },
-    {
       "heading": "Crops",
       "content": "The following Crops can be grown in Fall. Note that the \"Seed Price\" shown is the General Store price, unless otherwise indicated. \"Maximum Harvests per Season\" assumes no fertilizer is used and the Agriculturist profession is not chosen. \"Gold/Day\" assumes no fertilizer is used and the Tiller profession is not chosen. See the Crops page for the full calculation.\nArtichoke Seeds are available from year 2+."
     },
@@ -35,6 +31,50 @@
     {
       "section": "Events",
       "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "Penny",
+            "",
+            "",
+            "Elliott",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "Jodi",
+            "",
+            "Abigail",
+            ""
+          ],
+          [
+            "Sandy",
+            "Stardew Valley Fair",
+            "",
+            "Marnie",
+            "",
+            "",
+            "Robin"
+          ],
+          [
+            "",
+            "",
+            "George",
+            "",
+            "",
+            "Spirit's Eve",
+            ""
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Events",
+      "table": {
         "headers": [
           "Day",
           "Name",
@@ -45,7 +85,7 @@
         ],
         "rows": [
           [
-            "Festivals Day Name 16 Stardew Valley Fair 27 Spirit's Eve Other Day Event 8–11 Blackberry Season 2x randomly: 4, 7, 8, 9, 12, 19, 22, 25 Bookseller",
+            "Festivals, Day, Name, 16, Stardew Valley Fair, 27, Spirit's Eve, Other, Day, Event, 8–11, Blackberry, Season, 2x randomly:, 4, 7, 8, 9, 12, 19, 22, 25, Bookseller",
             "Day",
             "Name",
             "16",
@@ -55,11 +95,11 @@
             "Day",
             "Event",
             "8–11",
-            "Blackberry Season",
-            "2x randomly: 4, 7, 8, 9, 12, 19, 22, 25",
+            "Blackberry, Season",
+            "2x randomly:, 4, 7, 8, 9, 12, 19, 22, 25",
             "Bookseller",
             "",
-            "Birthdays Day Villager 02 Penny 05 Elliott 11 Jodi 13 Abigail 15 Sandy 18 Marnie 21 Robin 24 George",
+            "Birthdays, Day, Villager, 02, Penny, 05, Elliott, 11, Jodi, 13, Abigail, 15, Sandy, 18, Marnie, 21, Robin, 24, George",
             "Day",
             "Villager",
             "02",
@@ -97,10 +137,10 @@
           ],
           [
             "8–11",
-            "Blackberry Season"
+            "Blackberry, Season"
           ],
           [
-            "2x randomly: 4, 7, 8, 9, 12, 19, 22, 25",
+            "2x randomly:, 4, 7, 8, 9, 12, 19, 22, 25",
             "Bookseller"
           ],
           [
@@ -157,90 +197,90 @@
           [
             "Crop",
             "Seed Price",
-            "Days to Grow",
-            "Maximum Harvests per Season",
+            "Days, to Grow",
+            "Maximum Harvests, per Season",
             "Sells For",
             "Gold/Day"
           ],
           [
             "Amaranth",
-            "data-sort-value=\"70\"> 70g",
+            "data-sort-value=\"70\">, 70g",
             "7 days",
             "3",
-            "data-sort-value=\"150\"> 150g",
-            "≈ data-sort-value=\"11.43\"> 11.43g"
+            "data-sort-value=\"150\">, 150g",
+            "≈, data-sort-value=\"11.43\">, 11.43g"
           ],
           [
             "Artichoke",
-            "data-sort-value=\"30\"> 30g",
+            "data-sort-value=\"30\">, 30g",
             "8 days",
             "3",
-            "data-sort-value=\"160\"> 160g",
-            "data-sort-value=\"16.25\"> 16.25g"
+            "data-sort-value=\"160\">, 160g",
+            "data-sort-value=\"16.25\">, 16.25g"
           ],
           [
             "Beet",
-            "Oasis : data-sort-value=\"20\"> 20g",
+            "Oasis, :, data-sort-value=\"20\">, 20g",
             "6 days",
             "4",
-            "data-sort-value=\"100\"> 100g",
-            "≈ data-sort-value=\"13.33\"> 13.33g"
+            "data-sort-value=\"100\">, 100g",
+            "≈, data-sort-value=\"13.33\">, 13.33g"
           ],
           [
             "Bok Choy",
-            "data-sort-value=\"50\"> 50g",
+            "data-sort-value=\"50\">, 50g",
             "4 days",
             "6",
-            "data-sort-value=\"80\"> 80g",
-            "data-sort-value=\"7.50\"> 7.5g"
+            "data-sort-value=\"80\">, 80g",
+            "data-sort-value=\"7.50\">, 7.5g"
           ],
           [
             "Fairy Rose",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "12 days",
             "2",
-            "data-sort-value=\"290\"> 290g",
-            "data-sort-value=\"7.50\"> 7.5g"
+            "data-sort-value=\"290\">, 290g",
+            "data-sort-value=\"7.50\">, 7.5g"
           ],
           [
             "Pumpkin",
-            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100\">, 100g",
             "13 days",
             "2",
-            "data-sort-value=\"320\"> 320g",
-            "≈ data-sort-value=\"16.92\"> 16.92g"
+            "data-sort-value=\"320\">, 320g",
+            "≈, data-sort-value=\"16.92\">, 16.92g"
           ],
           [
             "Sunflower",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "8 days",
-            "Fall: 3 Summer and Fall: 6",
-            "data-sort-value=\"80\"> 80g",
-            "data-sort-value=\"-15\"> -15g"
+            "Fall: 3, Summer, and Fall: 6",
+            "data-sort-value=\"80\">, 80g",
+            "data-sort-value=\"-15\">, -15g"
           ],
           [
             "Sweet Gem Berry",
-            "Traveling Cart : data-sort-value=\"1000\"> 1,000g",
+            "Traveling Cart, :, data-sort-value=\"1000\">, 1,000g",
             "24 days",
             "1",
-            "data-sort-value=\"3000\"> 3,000g",
-            "≈ data-sort-value=\"83.33\"> 83.33g"
+            "data-sort-value=\"3000\">, 3,000g",
+            "≈, data-sort-value=\"83.33\">, 83.33g"
           ],
           [
             "Wheat",
-            "data-sort-value=\"10\"> 10g",
+            "data-sort-value=\"10\">, 10g",
             "4 days",
-            "Fall: 6 Summer and Fall: 13",
-            "data-sort-value=\"25\"> 25g",
-            "data-sort-value=\"3.75\"> 3.75g"
+            "Fall: 6, Summer, and Fall: 13",
+            "data-sort-value=\"25\">, 25g",
+            "data-sort-value=\"3.75\">, 3.75g"
           ],
           [
             "Yam",
-            "data-sort-value=\"60\"> 60g",
+            "data-sort-value=\"60\">, 60g",
             "10 days",
             "2",
-            "data-sort-value=\"160\"> 160g",
-            "data-sort-value=\"10\"> 10g"
+            "data-sort-value=\"160\">, 160g",
+            "data-sort-value=\"10\">, 10g"
           ]
         ]
       }
@@ -261,38 +301,38 @@
           [
             "Crop",
             "Seed Price",
-            "Days to Grow",
+            "Days, to Grow",
             "Regrowth",
-            "Maximum Harvests per Season",
+            "Maximum Harvests, per Season",
             "Sells For",
             "Gold/Day"
           ],
           [
             "Corn",
-            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"150\">, 150g",
             "14 days",
             "4 days",
-            "Fall: 4 Summer and Fall: 11",
-            "data-sort-value=\"50\"> 50g",
-            "Fall only: ≈ data-sort-value=\"1.92\"> 1.92g Summer and Fall: ≈ data-sort-value=\"7.41\"> 7.41g"
+            "Fall: 4, Summer, and Fall: 11",
+            "data-sort-value=\"50\">, 50g",
+            "Fall only: ≈, data-sort-value=\"1.92\">, 1.92g, Summer, and Fall: ≈, data-sort-value=\"7.41\">, 7.41g"
           ],
           [
             "Cranberries",
-            "data-sort-value=\"240\"> 240g",
+            "data-sort-value=\"240\">, 240g",
             "7 days",
             "5 days",
             "5",
-            "data-sort-value=\"75\"> 75g (x2)",
-            "≈ data-sort-value=\"18.89\"> 18.89g"
+            "data-sort-value=\"75\">, 75g, (x2)",
+            "≈, data-sort-value=\"18.89\">, 18.89g"
           ],
           [
             "Eggplant",
-            "data-sort-value=\"20\"> 20g",
+            "data-sort-value=\"20\">, 20g",
             "5 days",
             "5 days",
             "5",
-            "data-sort-value=\"60\"> 60g",
-            "data-sort-value=\"11.2\"> 11.2g"
+            "data-sort-value=\"60\">, 60g",
+            "data-sort-value=\"11.2\">, 11.2g"
           ],
           [
             "Broccoli",
@@ -300,17 +340,17 @@
             "8 days",
             "4 days",
             "5",
-            "data-sort-value=\"70\"> 70g",
-            "≈ data-sort-value=\"14.58\"> 14.58g"
+            "data-sort-value=\"70\">, 70g",
+            "≈, data-sort-value=\"14.58\">, 14.58g"
           ],
           [
             "Grape",
-            "data-sort-value=\"60\"> 60g",
+            "data-sort-value=\"60\">, 60g",
             "10 days",
             "3 days",
             "6",
-            "data-sort-value=\"80\"> 80g",
-            "data-sort-value=\"16.8\"> 16.8g"
+            "data-sort-value=\"80\">, 80g",
+            "data-sort-value=\"16.8\">, 16.8g"
           ]
         ]
       }
@@ -338,8 +378,8 @@
           [
             "",
             "Blackberry",
-            "Pelican Town (100%) Cindersap Forest (50%) Railroad (38%) On bushes during Blackberry Season ( Fall 8 - 11) Farm Cave (Fruit Bat option)",
-            "data-sort-value=\"20\" 20g 25g 30g 40g",
+            "Pelican Town, (100%), Cindersap Forest, (50%), Railroad, (38%), On bushes during Blackberry Season (, Fall, 8 - 11), Farm Cave, (Fruit Bat option)",
+            "data-sort-value=\"20\", 20g, 25g, 30g, 40g",
             "",
             "20g",
             "",
@@ -348,7 +388,7 @@
             "30g",
             "",
             "40g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -365,7 +405,7 @@
             "65",
             "",
             "29",
-            "Fall Foraging Bundle Fall Seeds Blackberry Cobbler Dried Fruit Jelly Wine"
+            "Fall Foraging Bundle, Fall Seeds, Blackberry Cobbler, Dried Fruit, Jelly, Wine"
           ],
           [
             "",
@@ -410,8 +450,8 @@
           [
             "",
             "Chanterelle",
-            "Secret Woods (38%) Forest Farm (25%) Farm Cave (Mushroom option)",
-            "data-sort-value=\"160\" 160g 200g 240g 320g",
+            "Secret Woods, (38%), Forest Farm, (25%), Farm Cave, (Mushroom option)",
+            "data-sort-value=\"160\", 160g, 200g, 240g, 320g",
             "",
             "160g",
             "",
@@ -420,7 +460,7 @@
             "240g",
             "",
             "320g",
-            "data-sort-value=\"30\" 75 33 105 47 135 60 195 87",
+            "data-sort-value=\"30\", 75, 33, 105, 47, 135, 60, 195, 87",
             "",
             "75",
             "",
@@ -437,7 +477,7 @@
             "195",
             "",
             "87",
-            "Life Elixir Dried Mushrooms Pickles"
+            "Life Elixir, Dried Mushrooms, Pickles"
           ],
           [
             "",
@@ -482,8 +522,8 @@
           [
             "",
             "Common Mushroom",
-            "Cindersap Forest (50%) Secret Woods (46%) Forest Farm (25%) Mountain (24%) Backwoods (24%) Farm Cave (Mushroom option)",
-            "data-sort-value=\"40\" 40g 50g 60g 80g",
+            "Cindersap Forest, (50%), Secret Woods, (46%), Forest Farm, (25%), Mountain, (24%), Backwoods, (24%), Farm Cave, (Mushroom option)",
+            "data-sort-value=\"40\", 40g, 50g, 60g, 80g",
             "",
             "40g",
             "",
@@ -492,7 +532,7 @@
             "60g",
             "",
             "80g",
-            "data-sort-value=\"15\" 38 17 53 23 68 30 98 44",
+            "data-sort-value=\"15\", 38, 17, 53, 23, 68, 30, 98, 44",
             "",
             "38",
             "",
@@ -509,7 +549,7 @@
             "98",
             "",
             "44",
-            "Fall Foraging Bundle Fall Seeds Fried Mushroom Tom Kha Soup Stir Fry Dried Mushrooms Pickles"
+            "Fall Foraging Bundle, Fall Seeds, Fried Mushroom, Tom Kha Soup, Stir Fry, Dried Mushrooms, Pickles"
           ],
           [
             "",
@@ -554,8 +594,8 @@
           [
             "",
             "Hazelnut",
-            "Backwoods (53%) Mountain (53%) Bus Stop (40%) Railroad (25%) Shaking Maple Trees on or after Fall 14",
-            "data-sort-value=\"90\" 90g 112g 135g 180g",
+            "Backwoods, (53%), Mountain, (53%), Bus Stop, (40%), Railroad, (25%), Shaking, Maple Trees, on or after, Fall, 14",
+            "data-sort-value=\"90\", 90g, 112g, 135g, 180g",
             "",
             "90g",
             "",
@@ -564,7 +604,7 @@
             "135g",
             "",
             "180g",
-            "data-sort-value=\"12\" 30 13 42 18 54 24 78 35",
+            "data-sort-value=\"12\", 30, 13, 42, 18, 54, 24, 78, 35",
             "",
             "30",
             "",
@@ -581,7 +621,7 @@
             "78",
             "",
             "35",
-            "Fall Foraging Bundle Fall Seeds Roasted Hazelnuts Stuffing Juice Pickles"
+            "Fall Foraging Bundle, Fall Seeds, Roasted Hazelnuts, Stuffing, Juice, Pickles"
           ],
           [
             "",
@@ -626,8 +666,8 @@
           [
             "",
             "Purple Mushroom",
-            "Forest Farm (25%) Farm Cave (Mushroom option)",
-            "data-sort-value=\"250\" 250g 312g 375g 500g",
+            "Forest Farm, (25%), Farm Cave, (Mushroom option)",
+            "data-sort-value=\"250\", 250g, 312g, 375g, 500g",
             "",
             "250g",
             "",
@@ -636,7 +676,7 @@
             "375g",
             "",
             "500g",
-            "data-sort-value=\"50\" 125 56 175 78 225 101 325 146",
+            "data-sort-value=\"50\", 125, 56, 175, 78, 225, 101, 325, 146",
             "",
             "125",
             "",
@@ -653,7 +693,7 @@
             "325",
             "",
             "146",
-            "Exotic Foraging Bundle Field Research Bundle Life Elixir Dried Mushrooms Pickles Wizard (loved gift)"
+            "Exotic Foraging Bundle, Field Research Bundle, Life Elixir, Dried Mushrooms, Pickles, Wizard, (loved gift)"
           ],
           [
             "",
@@ -698,8 +738,8 @@
           [
             "",
             "Red Mushroom",
-            "Forest Farm (25%) Secret Woods (15%) Farm Cave (Mushroom option)",
-            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "Forest Farm, (25%), Secret Woods, (15%), Farm Cave, (Mushroom option)",
+            "data-sort-value=\"75\", 75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -708,7 +748,7 @@
             "112g",
             "",
             "150g",
-            "data-sort-value=\"-20\" −50 0 −70 0 −90 0 −130 0",
+            "data-sort-value=\"-20\", −50, 0, −70, 0, −90, 0, −130, 0",
             "",
             "−50",
             "",
@@ -725,7 +765,7 @@
             "−130",
             "",
             "0",
-            "Exotic Foraging Bundle Dye Bundle Life Elixir"
+            "Exotic Foraging Bundle, Dye Bundle, Life Elixir"
           ],
           [
             "",
@@ -770,8 +810,8 @@
           [
             "",
             "Wild Plum",
-            "Bus Stop (60%) Railroad (38%) Backwoods (24%) Mountain (24%) Farm Cave (Fruit Bat option)",
-            "data-sort-value=\"80\" 80g 100g 120g 160g",
+            "Bus Stop, (60%), Railroad, (38%), Backwoods, (24%), Mountain, (24%), Farm Cave, (Fruit Bat option)",
+            "data-sort-value=\"80\", 80g, 100g, 120g, 160g",
             "",
             "80g",
             "",
@@ -780,7 +820,7 @@
             "120g",
             "",
             "160g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -797,7 +837,7 @@
             "65",
             "",
             "29",
-            "Fall Foraging Bundle Fall Seeds Plum Pudding Dried Fruit Jelly Wine"
+            "Fall Foraging Bundle, Fall Seeds, Plum Pudding, Dried Fruit, Jelly, Wine"
           ],
           [
             "",
@@ -882,7 +922,7 @@
             "",
             "Anchovy",
             "A small silver fish found in the ocean.",
-            "data-sort-value=\"30\" 30g 37g 45g 60g",
+            "data-sort-value=\"30\", 30g, 37g, 45g, 60g",
             "",
             "30g",
             "",
@@ -891,7 +931,7 @@
             "45g",
             "",
             "60g",
-            "data-sort-value=\"37\" 37g 46g 56g 75g",
+            "data-sort-value=\"37\", 37g, 46g, 56g, 75g",
             "",
             "37g",
             "",
@@ -900,7 +940,7 @@
             "56g",
             "",
             "75g",
-            "data-sort-value=\"45\" 45g 55g 67g 90g",
+            "data-sort-value=\"45\", 45g, 55g, 67g, 90g",
             "",
             "45g",
             "",
@@ -911,7 +951,7 @@
             "90g",
             "Ocean",
             "Anytime",
-            "Spring Fall",
+            "Spring, Fall",
             "Any",
             "1–17",
             "30 dart",
@@ -970,7 +1010,7 @@
             "",
             "Sardine",
             "A common ocean fish.",
-            "data-sort-value=\"40\" 40g 50g 60g 80g",
+            "data-sort-value=\"40\", 40g, 50g, 60g, 80g",
             "",
             "40g",
             "",
@@ -979,7 +1019,7 @@
             "60g",
             "",
             "80g",
-            "data-sort-value=\"50\" 50g 62g 75g 100g",
+            "data-sort-value=\"50\", 50g, 62g, 75g, 100g",
             "",
             "50g",
             "",
@@ -988,7 +1028,7 @@
             "75g",
             "",
             "100g",
-            "data-sort-value=\"60\" 60g 75g 90g 120g",
+            "data-sort-value=\"60\", 60g, 75g, 90g, 120g",
             "",
             "60g",
             "",
@@ -999,12 +1039,12 @@
             "120g",
             "Ocean",
             "6am – 7pm",
-            "Spring Fall Winter",
+            "Spring, Fall, Winter",
             "Any",
             "1–13",
             "30 dart",
             "13",
-            "Ocean Fish Bundle Dish O' The Sea"
+            "Ocean Fish Bundle, Dish O' The Sea"
           ],
           [
             "",
@@ -1058,7 +1098,7 @@
             "",
             "Smallmouth Bass",
             "A freshwater fish that is very sensitive to pollution.",
-            "data-sort-value=\"50\" 50g 62g 75g 100g",
+            "data-sort-value=\"50\", 50g, 62g, 75g, 100g",
             "",
             "50g",
             "",
@@ -1067,7 +1107,7 @@
             "75g",
             "",
             "100g",
-            "data-sort-value=\"62\" 62g 77g 93g 125g",
+            "data-sort-value=\"62\", 62g, 77g, 93g, 125g",
             "",
             "62g",
             "",
@@ -1076,7 +1116,7 @@
             "93g",
             "",
             "125g",
-            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "data-sort-value=\"75\", 75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -1085,9 +1125,9 @@
             "112g",
             "",
             "150g",
-            "Town River, Forest Pond",
+            "Town, River,, Forest, Pond",
             "Anytime",
-            "Spring Fall",
+            "Spring, Fall",
             "Any",
             "12–25",
             "28 mixed",
@@ -1146,7 +1186,7 @@
             "",
             "Salmon",
             "Swims upstream to lay its eggs.",
-            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "data-sort-value=\"75\", 75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -1155,7 +1195,7 @@
             "112g",
             "",
             "150g",
-            "data-sort-value=\"93\" 93g 116g 140g 187g",
+            "data-sort-value=\"93\", 93g, 116g, 140g, 187g",
             "",
             "93g",
             "",
@@ -1164,7 +1204,7 @@
             "140g",
             "",
             "187g",
-            "data-sort-value=\"112\" 112g 139g 168g 225g",
+            "data-sort-value=\"112\", 112g, 139g, 168g, 225g",
             "",
             "112g",
             "",
@@ -1173,7 +1213,7 @@
             "168g",
             "",
             "225g",
-            "Town River, Forest River, Forest Waterfalls",
+            "Town, River,, Forest, River,, Forest, Waterfalls",
             "6am – 7pm",
             "Fall",
             "Any",
@@ -1234,7 +1274,7 @@
             "",
             "Walleye",
             "A freshwater fish caught at night.",
-            "data-sort-value=\"105\" 105g 131g 157g 210g",
+            "data-sort-value=\"105\", 105g, 131g, 157g, 210g",
             "",
             "105g",
             "",
@@ -1243,7 +1283,7 @@
             "157g",
             "",
             "210g",
-            "data-sort-value=\"131\" 131g 163g 196g 262g",
+            "data-sort-value=\"131\", 131g, 163g, 196g, 262g",
             "",
             "131g",
             "",
@@ -1252,7 +1292,7 @@
             "196g",
             "",
             "262g",
-            "data-sort-value=\"157\" 157g 196g 235g 315g",
+            "data-sort-value=\"157\", 157g, 196g, 235g, 315g",
             "",
             "157g",
             "",
@@ -1261,14 +1301,14 @@
             "235g",
             "",
             "315g",
-            "Town River, Forest River, Forest Pond, Mountain Lake",
+            "Town, River,, Forest, River,, Forest, Pond,, Mountain, Lake",
             "12pm – 2am",
-            "Fall Winter with Rain Totem",
+            "Fall, Winter, with, Rain Totem",
             "Rain",
             "10–41",
             "45 smooth",
             "18",
-            "Night Fishing Bundle Quality Fish Bundle"
+            "Night Fishing Bundle, Quality Fish Bundle"
           ],
           [
             "",
@@ -1322,7 +1362,7 @@
             "",
             "Catfish",
             "An uncommon fish found in streams.",
-            "data-sort-value=\"200\" 200g 250g 300g 400g",
+            "data-sort-value=\"200\", 200g, 250g, 300g, 400g",
             "",
             "200g",
             "",
@@ -1331,7 +1371,7 @@
             "300g",
             "",
             "400g",
-            "data-sort-value=\"250\" 250g 312g 375g 500g",
+            "data-sort-value=\"250\", 250g, 312g, 375g, 500g",
             "",
             "250g",
             "",
@@ -1340,7 +1380,7 @@
             "375g",
             "",
             "500g",
-            "data-sort-value=\"300\" 300g 375g 450g 600g",
+            "data-sort-value=\"300\", 300g, 375g, 450g, 600g",
             "",
             "300g",
             "",
@@ -1349,14 +1389,14 @@
             "450g",
             "",
             "600g",
-            "Town River, Forest River, Secret Woods , Witch's Swamp",
+            "Town, River,, Forest, River,, Secret Woods, ,, Witch's Swamp",
             "6am – 12am",
-            "Spring Fall ( Spring & Summer in Secret Woods Pond ) Winter with Rain Totem",
+            "Spring, Fall, (, Spring, &, Summer, in, Secret Woods Pond, ), Winter, with, Rain Totem",
             "Rain",
             "12–73",
             "75 mixed",
             "28",
-            "River Fish Bundle Willy (loved gift)"
+            "River Fish Bundle, Willy, (loved gift)"
           ],
           [
             "",
@@ -1410,7 +1450,7 @@
             "",
             "Eel",
             "A long, slippery little fish.",
-            "data-sort-value=\"85\" 85g 106g 127g 170g",
+            "data-sort-value=\"85\", 85g, 106g, 127g, 170g",
             "",
             "85g",
             "",
@@ -1419,7 +1459,7 @@
             "127g",
             "",
             "170g",
-            "data-sort-value=\"106\" 106g 132g 158g 212g",
+            "data-sort-value=\"106\", 106g, 132g, 158g, 212g",
             "",
             "106g",
             "",
@@ -1428,7 +1468,7 @@
             "158g",
             "",
             "212g",
-            "data-sort-value=\"127\" 127g 159g 190g 255g",
+            "data-sort-value=\"127\", 127g, 159g, 190g, 255g",
             "",
             "127g",
             "",
@@ -1439,12 +1479,12 @@
             "255g",
             "Ocean",
             "4pm – 2am",
-            "Spring Fall",
+            "Spring, Fall",
             "Rain",
             "12–81",
             "70 smooth",
             "26",
-            "Night Fishing Bundle Fried Eel Spicy Eel"
+            "Night Fishing Bundle, Fried Eel, Spicy Eel"
           ],
           [
             "",
@@ -1498,7 +1538,7 @@
             "",
             "Red Snapper",
             "A popular fish with a nice red color.",
-            "data-sort-value=\"50\" 50g 62g 75g 100g",
+            "data-sort-value=\"50\", 50g, 62g, 75g, 100g",
             "",
             "50g",
             "",
@@ -1507,7 +1547,7 @@
             "75g",
             "",
             "100g",
-            "data-sort-value=\"62\" 62g 77g 93g 125g",
+            "data-sort-value=\"62\", 62g, 77g, 93g, 125g",
             "",
             "62g",
             "",
@@ -1516,7 +1556,7 @@
             "93g",
             "",
             "125g",
-            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "data-sort-value=\"75\", 75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -1527,7 +1567,7 @@
             "150g",
             "Ocean",
             "6am – 7pm",
-            "Summer Fall Winter with Rain Totem",
+            "Summer, Fall, Winter, with, Rain Totem",
             "Rain",
             "8–26",
             "40 mixed",
@@ -1586,7 +1626,7 @@
             "",
             "Sea Cucumber",
             "A slippery, slimy creature found on the ocean floor.",
-            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "data-sort-value=\"75\", 75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -1595,7 +1635,7 @@
             "112g",
             "",
             "150g",
-            "data-sort-value=\"93\" 93g 116g 140g 187g",
+            "data-sort-value=\"93\", 93g, 116g, 140g, 187g",
             "",
             "93g",
             "",
@@ -1604,7 +1644,7 @@
             "140g",
             "",
             "187g",
-            "data-sort-value=\"112\" 112g 139g 168g 225g",
+            "data-sort-value=\"112\", 112g, 139g, 168g, 225g",
             "",
             "112g",
             "",
@@ -1615,12 +1655,12 @@
             "225g",
             "Ocean",
             "6am – 7pm",
-            "Fall Winter",
+            "Fall, Winter",
             "Any",
             "3–21",
             "40 sinker",
             "16",
-            "Lucky Lunch Willy (loved gift)"
+            "Lucky Lunch, Willy, (loved gift)"
           ],
           [
             "",
@@ -1674,7 +1714,7 @@
             "",
             "Super Cucumber",
             "A rare, purple variety of sea cucumber.",
-            "data-sort-value=\"250\" 250g 312g 375g 500g",
+            "data-sort-value=\"250\", 250g, 312g, 375g, 500g",
             "",
             "250g",
             "",
@@ -1683,7 +1723,7 @@
             "375g",
             "",
             "500g",
-            "data-sort-value=\"312\" 312g 390g 468g 625g",
+            "data-sort-value=\"312\", 312g, 390g, 468g, 625g",
             "",
             "312g",
             "",
@@ -1692,7 +1732,7 @@
             "468g",
             "",
             "625g",
-            "data-sort-value=\"375\" 375g 468g 562g 750g",
+            "data-sort-value=\"375\", 375g, 468g, 562g, 750g",
             "",
             "375g",
             "",
@@ -1701,14 +1741,14 @@
             "562g",
             "",
             "750g",
-            "Ocean , Ginger Island Oceans",
+            "Ocean, ,, Ginger Island, Oceans",
             "6pm – 2am",
-            "Summer Fall ( All Seasons on Ginger Island )",
+            "Summer, Fall, (, All Seasons, on, Ginger Island, )",
             "Any",
             "12–37",
             "80 sinker",
             "29",
-            "Wizard (loved gift)"
+            "Wizard, (loved gift)"
           ],
           [
             "",
@@ -1762,7 +1802,7 @@
             "",
             "Tiger Trout",
             "A rare hybrid trout that cannot bear offspring of its own.",
-            "data-sort-value=\"150\" 150g 187g 225g 300g",
+            "data-sort-value=\"150\", 150g, 187g, 225g, 300g",
             "",
             "150g",
             "",
@@ -1771,7 +1811,7 @@
             "225g",
             "",
             "300g",
-            "data-sort-value=\"187\" 187g 233g 281g 375g",
+            "data-sort-value=\"187\", 187g, 233g, 281g, 375g",
             "",
             "187g",
             "",
@@ -1780,7 +1820,7 @@
             "281g",
             "",
             "375g",
-            "data-sort-value=\"225\" 225g 280g 337g 450g",
+            "data-sort-value=\"225\", 225g, 280g, 337g, 450g",
             "",
             "225g",
             "",
@@ -1789,9 +1829,9 @@
             "337g",
             "",
             "450g",
-            "Town River, Forest River",
+            "Town, River,, Forest, River",
             "6am – 7pm",
-            "Fall Winter",
+            "Fall, Winter",
             "Any",
             "10–21",
             "60 dart",
@@ -1850,7 +1890,7 @@
             "",
             "Tilapia",
             "A primarily vegetarian fish that prefers warm water.",
-            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "data-sort-value=\"75\", 75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -1859,7 +1899,7 @@
             "112g",
             "",
             "150g",
-            "data-sort-value=\"93\" 93g 116g 140g 187g",
+            "data-sort-value=\"93\", 93g, 116g, 140g, 187g",
             "",
             "93g",
             "",
@@ -1868,7 +1908,7 @@
             "140g",
             "",
             "187g",
-            "data-sort-value=\"112\" 112g 139g 168g 225g",
+            "data-sort-value=\"112\", 112g, 139g, 168g, 225g",
             "",
             "112g",
             "",
@@ -1877,9 +1917,9 @@
             "168g",
             "",
             "225g",
-            "Ocean , Ginger Island Rivers",
+            "Ocean, ,, Ginger Island, Rivers",
             "6am – 2pm",
-            "Summer Fall ( All Seasons on Ginger Island )",
+            "Summer, Fall, (, All Seasons, on, Ginger Island, )",
             "Any",
             "11–31",
             "50 mixed",
@@ -1938,7 +1978,7 @@
             "",
             "Albacore",
             "Prefers temperature \"edges\" where cool and warm water meet.",
-            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "data-sort-value=\"75\", 75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -1947,7 +1987,7 @@
             "112g",
             "",
             "150g",
-            "data-sort-value=\"93\" 93g 116g 140g 187g",
+            "data-sort-value=\"93\", 93g, 116g, 140g, 187g",
             "",
             "93g",
             "",
@@ -1956,7 +1996,7 @@
             "140g",
             "",
             "187g",
-            "data-sort-value=\"112\" 112g 139g 168g 225g",
+            "data-sort-value=\"112\", 112g, 139g, 168g, 225g",
             "",
             "112g",
             "",
@@ -1966,8 +2006,8 @@
             "",
             "225g",
             "Ocean",
-            "6am – 11am 6pm – 2am",
-            "Fall Winter",
+            "6am – 11am, 6pm – 2am",
+            "Fall, Winter",
             "Any",
             "20–41",
             "60 mixed",
@@ -2026,7 +2066,7 @@
             "",
             "Midnight Carp",
             "This shy fish only feels comfortable at night.",
-            "data-sort-value=\"150\" 150g 187g 225g 300g",
+            "data-sort-value=\"150\", 150g, 187g, 225g, 300g",
             "",
             "150g",
             "",
@@ -2035,7 +2075,7 @@
             "225g",
             "",
             "300g",
-            "data-sort-value=\"187\" 187g 233g 281g 375g",
+            "data-sort-value=\"187\", 187g, 233g, 281g, 375g",
             "",
             "187g",
             "",
@@ -2044,7 +2084,7 @@
             "281g",
             "",
             "375g",
-            "data-sort-value=\"225\" 225g 280g 337g 450g",
+            "data-sort-value=\"225\", 225g, 280g, 337g, 450g",
             "",
             "225g",
             "",
@@ -2053,9 +2093,9 @@
             "337g",
             "",
             "450g",
-            "Forest Pond, Mountain Lake, Ginger Island Rivers",
+            "Forest, Pond,, Mountain, Lake,, Ginger Island, Rivers",
             "10pm – 2am",
-            "Fall Winter ( All Seasons on Ginger Island )",
+            "Fall, Winter, (, All Seasons, on, Ginger Island, )",
             "Any",
             "12–53",
             "55 mixed",
@@ -2114,7 +2154,7 @@
             "",
             "Shad",
             "Lives in a school at sea, but returns to the rivers to spawn.",
-            "data-sort-value=\"60\" 60g 75g 90g 120g",
+            "data-sort-value=\"60\", 60g, 75g, 90g, 120g",
             "",
             "60g",
             "",
@@ -2123,7 +2163,7 @@
             "90g",
             "",
             "120g",
-            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "data-sort-value=\"75\", 75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -2132,7 +2172,7 @@
             "112g",
             "",
             "150g",
-            "data-sort-value=\"90\" 90g 112g 135g 180g",
+            "data-sort-value=\"90\", 90g, 112g, 135g, 180g",
             "",
             "90g",
             "",
@@ -2141,14 +2181,14 @@
             "135g",
             "",
             "180g",
-            "Town River, Forest River",
+            "Town, River,, Forest, River",
             "9am – 2am",
-            "Spring Summer Fall",
+            "Spring, Summer, Fall",
             "Rain",
             "20–49",
             "45 smooth",
             "18",
-            "River Fish Bundle Quality Fish Bundle"
+            "River Fish Bundle, Quality Fish Bundle"
           ],
           [
             "",
@@ -2202,7 +2242,7 @@
             "",
             "Angler",
             "Uses a bioluminescent dangler to attract prey.",
-            "data-sort-value=\"900\" 900g 1,125g 1,350g 1,800g",
+            "data-sort-value=\"900\", 900g, 1,125g, 1,350g, 1,800g",
             "",
             "900g",
             "",
@@ -2211,7 +2251,7 @@
             "1,350g",
             "",
             "1,800g",
-            "data-sort-value=\"1125\" 1,125g 1,406g 1,687g 2,250g",
+            "data-sort-value=\"1125\", 1,125g, 1,406g, 1,687g, 2,250g",
             "",
             "1,125g",
             "",
@@ -2220,7 +2260,7 @@
             "1,687g",
             "",
             "2,250g",
-            "data-sort-value=\"1350\" 1,350g 1,687g 2,025g 2,700g",
+            "data-sort-value=\"1350\", 1,350g, 1,687g, 2,025g, 2,700g",
             "",
             "1,350g",
             "",
@@ -2229,7 +2269,7 @@
             "2,025g",
             "",
             "2,700g",
-            "North of JojaMart on the wooden plank bridge. Requires level 3 fishing.",
+            "North of, JojaMart, on the wooden plank bridge. Requires level 3 fishing.",
             "Any",
             "Fall",
             "Any",
@@ -2301,7 +2341,7 @@
           ],
           [
             "Seasons",
-            "Spring • Summer • Fall • Winter"
+            "Spring, •, Summer, •, Fall, •, Winter"
           ]
         ]
       }

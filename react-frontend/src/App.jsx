@@ -38,7 +38,7 @@ const pixelShadow = `4px 4px 0px ${SDV_COLORS.shadowBrown}`;
 const innerShadow = `inset 2px 2px 0px rgba(255,255,255,0.3), inset -2px -2px 0px rgba(0,0,0,0.2)`;
 
 const SDV_PERSONAS = [
-  { name: "Farmer Claude", portrait: "🧑‍🌾", color: SDV_COLORS.grassGreen, desc: "Your helpful farm assistant" },
+  { name: "Farmer", portrait: "🧑‍🌾", color: SDV_COLORS.grassGreen, desc: "Your helpful farm assistant" },
   { name: "Robin", portrait: "👩‍🔧", color: SDV_COLORS.logBrown, desc: "Carpenter & builder" },
   { name: "Willy", portrait: "🎣", color: SDV_COLORS.windowBlue, desc: "The old fisherman" },
   { name: "Wizard", portrait: "🧙", color: SDV_COLORS.purple, desc: "Mysterious & wise" },
@@ -124,7 +124,7 @@ function MessageBubble({ msg, isLatest }) {
             marginBottom: 4, textShadow: `1px 1px 0 ${SDV_COLORS.shadowBrown}`,
             letterSpacing: 1,
           }}>
-            {msg.persona?.name || "Farmer Claude"}
+            {msg.persona?.name || "Farmer"}
           </div>
         )}
         <div style={{
@@ -306,12 +306,11 @@ export default function StardewChatbot() {
       <div style={{
         fontFamily: BODY_FONT,
         background: theme.sky,
-        border: `4px solid ${SDV_COLORS.uiBorder}`,
-        boxShadow: `6px 6px 0 ${SDV_COLORS.shadowBrown}`,
         borderRadius: 0,
         overflow: "hidden",
         display: "flex", flexDirection: "column",
-        height: 640,
+        height: "100vh",
+        boxSizing: "border-box",
         position: "relative",
       }}>
 

@@ -76,7 +76,7 @@
             "Sun",
             "",
             "",
-            "It's going to be clear and sunny all day. It's going to be a beautiful, sunny day tomorrow!"
+            "It's going to be clear and sunny all day., It's going to be a beautiful, sunny day tomorrow!"
           ],
           [
             "Rain",
@@ -112,13 +112,13 @@
             "Snow",
             "",
             "",
-            "Expect a few inches of snow tomorrow. Bundle up, folks. It's going to snow tomorrow!"
+            "Expect a few inches of snow tomorrow., Bundle up, folks. It's going to snow tomorrow!"
           ],
           [
             "Festival",
             "",
             "",
-            "It's going to be clear and sunny tomorrow... perfect weather for the Festival !"
+            "It's going to be clear and sunny tomorrow... perfect weather for the, Festival, !"
           ],
           [
             "Wedding Day",

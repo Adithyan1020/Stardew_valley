@@ -44,63 +44,63 @@
             "",
             "Spinner",
             "The shape makes it spin around in the water. Slightly increases the bite-rate when fishing.",
-            "Reduces maximum delay before a nibble by 3.75 seconds. Unlocks at Fishing level 6",
-            "data-sort-value=\"500\"> 500g",
-            "Iron Bar (2)"
+            "Reduces maximum delay before a nibble by 3.75 seconds., Unlocks at Fishing level 6",
+            "data-sort-value=\"500\">, 500g",
+            "Iron Bar, (2)"
           ],
           [
             "",
             "Dressed Spinner",
             "The metal tab and colorful streamers create an enticing spectacle for fish. Increases the bite-rate when fishing.",
-            "Reduces maximum delay before a nibble by 7.5 seconds. Unlocks at Fishing level 8; can be found in fishing treasure chests beginning at Fishing level 6",
-            "data-sort-value=\"1000\"> 1,000g",
-            "Iron Bar (2) Cloth (1)"
+            "Reduces maximum delay before a nibble by 7.5 seconds., Unlocks at Fishing level 8; can be found in fishing treasure chests beginning at Fishing level 6",
+            "data-sort-value=\"1000\">, 1,000g",
+            "Iron Bar, (2), Cloth, (1)"
           ],
           [
             "",
             "Trap Bobber",
             "Causes fish to escape slower when you aren't reeling them in.",
-            "The progress bar at the right decreases 33% slower when the fish isn't within the fishing bar. Unlocks at Fishing level 6",
-            "data-sort-value=\"500\"> 500g",
-            "Copper Bar (1) Sap (10)"
+            "The progress bar at the right decreases 33% slower when the fish isn't within the fishing bar., Unlocks at Fishing level 6",
+            "data-sort-value=\"500\">, 500g",
+            "Copper Bar, (1), Sap, (10)"
           ],
           [
             "",
             "Cork Bobber",
             "Slightly increases the size of your \"fishing bar\".",
-            "The increase of the bar size is a constant 24 pixels. Unlocks at Fishing level 7",
-            "data-sort-value=\"750\"> 750g",
-            "Wood (10) Hardwood (5) Slime (10)"
+            "The increase of the bar size is a constant 24 pixels., Unlocks at Fishing level 7",
+            "data-sort-value=\"750\">, 750g",
+            "Wood, (10), Hardwood, (5), Slime, (10)"
           ],
           [
             "",
             "Lead Bobber",
             "Adds weight to your \"fishing bar\", preventing it from bouncing along the bottom.",
-            "This is perhaps not helpful as it is easy to prevent the bar from bouncing by clicking to slow it down right before it hits the bottom. Unlocks at Fishing level 6",
-            "data-sort-value=\"200\"> 200g",
+            "This is perhaps not helpful as it is easy to prevent the bar from bouncing by clicking to slow it down right before it hits the bottom., Unlocks at Fishing level 6",
+            "data-sort-value=\"200\">, 200g",
             "N/A"
           ],
           [
             "",
             "Treasure Hunter",
             "Fish don't escape while collecting treasures. Also slightly increases the chance to find treasures.",
-            "Increases treasure chance by 5%. While collecting a treasure chest, the progress bar will remain steady if the fish isn't within the fishing bar. If it is, it will still go up like usual. The player will get a perfect catch as long as the fish is only outside of the fishing bar while a treasure chest is being collected. Unlocks at Fishing level 7",
-            "data-sort-value=\"750\"> 750g",
-            "Gold Bar (2)"
+            "Increases treasure chance by 5%. While collecting a treasure chest, the progress bar will remain steady if the fish isn't within the fishing bar. If it is, it will still go up like usual. The player will get a perfect catch as long as the fish is only outside of the fishing bar while a treasure chest is being collected., Unlocks at Fishing level 7",
+            "data-sort-value=\"750\">, 750g",
+            "Gold Bar, (2)"
           ],
           [
             "",
             "Barbed Hook",
             "Makes your catch more secure, causing the \"fishing bar\" to cling to your catch. Works best on slow, weak fish.",
-            "Makes the player's fishing bar \"cling\" to the fish, automatically going up or down to try to stay on the middle of the fish. It will only try to move when the bar is actually on the fish. The player can still manually control the bar but it's rather difficult, especially with slower fish. The more the fish darts up and down, the easier it is to move the fishing bar manually and the less effective the Barbed Hook is. Unlocks at Fishing level 8",
-            "data-sort-value=\"1000\"> 1,000g",
-            "Copper Bar (1) Iron Bar (1) Gold Bar (1)"
+            "Makes the player's fishing bar \"cling\" to the fish, automatically going up or down to try to stay on the middle of the fish. It will only try to move when the bar is actually on the fish. The player can still manually control the bar but it's rather difficult, especially with slower fish. The more the fish darts up and down, the easier it is to move the fishing bar manually and the less effective the Barbed Hook is., Unlocks at Fishing level 8",
+            "data-sort-value=\"1000\">, 1,000g",
+            "Copper Bar, (1), Iron Bar, (1), Gold Bar, (1)"
           ],
           [
             "",
             "Curiosity Lure",
             "Increases your chance to catch rare fish.",
-            "Most useful when trying to catch fish that spawn rarely, such as the Ice Pip , Mutant Carp , and Legend . Can be obtained through breaking boxes and barrels in the Quarry Mine , Skull Cavern , or Volcano Dungeon or dropped from Mummies and special monsters in Skull Cavern",
+            "Most useful when trying to catch fish that spawn rarely, such as the, Ice Pip, ,, Mutant Carp, , and, Legend, ., Can be obtained through breaking boxes and barrels in the, Quarry Mine, ,, Skull Cavern, , or, Volcano Dungeon, or dropped from, Mummies, and special monsters in Skull Cavern",
             "N/A",
             "N/A"
           ],
@@ -108,17 +108,17 @@
             "",
             "Quality Bobber",
             "Boosts the quality of fish that you catch.",
-            "Increases the quality of the fish caught by one level. This is an alternative way to catch iridium quality fish, aside from getting a perfect catch. Can be crafted by the recipe received from Willy after completing the Juicy Bugs Wanted! special order",
+            "Increases the quality of the fish caught by one level. This is an alternative way to catch iridium quality fish, aside from getting a perfect catch., Can be crafted by the recipe received from Willy after completing the, Juicy Bugs Wanted!, special order",
             "N/A",
-            "Copper Bar (1) Sap (20) Solar Essence (5)"
+            "Copper Bar, (1), Sap, (20), Solar Essence, (5)"
           ],
           [
             "",
             "Sonar Bobber",
             "Shows what fish is on the line before it's caught.",
-            "Reveals the fish being hooked while the player is hooking the fish. Unlocks at Fishing level 6",
-            "data-sort-value=\"500\"> 500g",
-            "Iron Bar (1) Refined Quartz (2)"
+            "Reveals the fish being hooked while the player is hooking the fish., Unlocks at Fishing level 6",
+            "data-sort-value=\"500\">, 500g",
+            "Iron Bar, (1), Refined Quartz, (2)"
           ]
         ]
       }
@@ -134,7 +134,7 @@
             "Details"
           ],
           [
-            "Putting Lucky Purple Shorts in the tackle slot of a fishing rod changes the bobber style to a unique Lucky Purple Shorts bobber. If placed in the first slot of an Advanced Iridium Rod , the shorts prevent the tackle in the second slot from losing durability. This cannot be done with Trimmed Lucky Purple Shorts."
+            "Putting, Lucky Purple Shorts, in the tackle slot of a fishing rod changes the, bobber style, to a unique Lucky Purple Shorts bobber. If placed in the first slot of an, Advanced Iridium Rod, , the shorts prevent the tackle in the second slot from losing durability. This cannot be done with Trimmed Lucky Purple Shorts."
           ]
         ]
       }
@@ -151,33 +151,33 @@
           ],
           [
             "Artisan",
-            "Bee House • Cask • Cheese Press • Dehydrator • Fish Smoker • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar"
+            "Bee House, •, Cask, •, Cheese Press, •, Dehydrator, •, Fish Smoker, •, Keg, •, Loom, •, Mayonnaise Machine, •, Oil Maker, •, Preserves Jar"
           ],
           [
             "Refining",
-            "Bait Maker • Bone Mill • Charcoal Kiln • Crystalarium • Deluxe Worm Bin • Furnace • Geode Crusher • Heavy Furnace • Heavy Tapper • Lightning Rod • Mushroom Log • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin"
+            "Bait Maker, •, Bone Mill, •, Charcoal Kiln, •, Crystalarium, •, Deluxe Worm Bin, •, Furnace, •, Geode Crusher, •, Heavy Furnace, •, Heavy Tapper, •, Lightning Rod, •, Mushroom Log, •, Ostrich Incubator, •, Recycling Machine, •, Seed Maker, •, Slime Egg-Press, •, Slime Incubator, •, Solar Panel, •, Tapper, •, Wood Chipper, •, Worm Bin"
           ],
           [
             "Farming",
             "Fertilizer",
-            "Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil • Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer"
+            "Basic Fertilizer, •, Basic Retaining Soil, •, Deluxe Fertilizer, •, Deluxe Retaining Soil, •, Deluxe Speed-Gro, •, Hyper Speed-Gro, •, Quality Fertilizer, •, Quality Retaining Soil, •, Speed-Gro, •, Tree Fertilizer"
           ],
           [
             "Sprinklers",
-            "Iridium Sprinkler • Quality Sprinkler • Sprinkler"
+            "Iridium Sprinkler, •, Quality Sprinkler, •, Sprinkler"
           ],
           [
             "Other",
-            "Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow"
+            "Deluxe Scarecrow, •, Garden Pot, •, Rarecrow, •, Scarecrow"
           ],
           [
             "Fishing",
             "Bait",
-            "Bait • Challenge Bait • Deluxe Bait • Magic Bait • Magnet • Targeted Bait • Wild Bait"
+            "Bait, •, Challenge Bait, •, Deluxe Bait, •, Magic Bait, •, Magnet, •, Targeted Bait, •, Wild Bait"
           ],
           [
             "Tackle",
-            "Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Sonar Bobber • Spinner • Trap Bobber • Treasure Hunter"
+            "Barbed Hook, •, Cork Bobber, •, Curiosity Lure, •, Dressed Spinner, •, Lead Bobber, •, Quality Bobber, •, Sonar Bobber, •, Spinner, •, Trap Bobber, •, Treasure Hunter"
           ],
           [
             "Other",
@@ -185,23 +185,23 @@
           ],
           [
             "Bombs",
-            "Bomb • Cherry Bomb • Mega Bomb"
+            "Bomb, •, Cherry Bomb, •, Mega Bomb"
           ],
           [
             "Fences",
-            "Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence"
+            "Gate, •, Hardwood Fence, •, Iron Fence, •, Stone Fence, •, Wood Fence"
           ],
           [
             "Storage",
-            "Big Chest • Big Stone Chest • Chest • Junimo Chest • Mini-Fridge • Stone Chest"
+            "Big Chest, •, Big Stone Chest, •, Chest, •, Junimo Chest, •, Mini-Fridge, •, Stone Chest"
           ],
           [
             "Signs",
-            "Dark Sign • Stone Sign • Text Sign • Wood Sign"
+            "Dark Sign, •, Stone Sign, •, Text Sign, •, Wood Sign"
           ],
           [
             "Misc",
-            "Anvil • Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Forge • Mini-Jukebox • Mini-Shipping Bin • Sewing Machine • Staircase • Statue Of Blessings • Statue Of The Dwarf King • Telephone • Tent Kit • Tools • Workbench"
+            "Anvil, •, Coffee Maker, •, Cookout Kit, •, Deconstructor, •, Fairy Dust, •, Farm Computer, •, Hopper, •, Mini-Forge, •, Mini-Jukebox, •, Mini-Shipping Bin, •, Sewing Machine, •, Staircase, •, Statue Of Blessings, •, Statue Of The Dwarf King, •, Telephone, •, Tent Kit, •, Tools, •, Workbench"
           ]
         ]
       }

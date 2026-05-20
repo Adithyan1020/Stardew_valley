@@ -65,9 +65,9 @@
             "Cherry Bomb",
             "Staircase",
             "Miner's Treat",
-            "Glowstone Ring Transmute (Fe)",
-            "Miner +1 ore per vein .",
-            "Geologist Chance for gems to appear in pairs. (50% chance per mining node . Also applies to geodes spawned from breaking rocks.)"
+            "Glowstone Ring, Transmute (Fe)",
+            "Miner, +1 ore per, vein, .",
+            "Geologist, Chance for, gems, to appear in pairs., (50% chance per, mining node, . Also applies to, geodes, spawned from breaking rocks.)"
           ],
           [
             ""
@@ -92,12 +92,12 @@
             "Transmute (Au)",
             "Mega Bomb",
             "Crystalarium",
-            "Blacksmith Metal bars worth 50% more. (Applies to Copper , Iron , Gold , Iridium , & Radioactive Bars)",
-            "Excavator Chance to find geodes doubled. (Applies to all 4 types of geodes)"
+            "Blacksmith, Metal bars worth 50% more., (Applies to, Copper, ,, Iron, ,, Gold, ,, Iridium, , &, Radioactive, Bars)",
+            "Excavator, Chance to find, geodes, doubled., (Applies to all 4 types of geodes)"
           ],
           [
-            "Prospector Chance to find coal doubled.",
-            "Gemologist Gems worth 30% more. (applies to Minerals and Gems )"
+            "Prospector, Chance to find, coal, doubled.",
+            "Gemologist, Gems worth 30% more., (applies to, Minerals and Gems, )"
           ]
         ]
       }
@@ -115,48 +115,48 @@
             "Experience"
           ],
           [
-            "Any Rock (outside the Mines )",
-            "1 If coal is dropped: 1 or 6"
+            "Any Rock (outside, the Mines, )",
+            "1, If coal is dropped: 1 or 6"
           ],
           [
             "Boulder",
             "0"
           ],
           [
-            "Rock, except for the rocks below (inside the Mines and the Volcano Dungeon )",
-            "0 If coal/ore dropped: 5"
+            "Rock, except for the rocks below (inside, the Mines, and the, Volcano Dungeon, )",
+            "0, If coal/ore dropped: 5"
           ],
           [
-            "Either of these dark gray rocks (inside the Mines ) Any of these 3 rocks (inside the Mines when dangerous and inside the Volcano Dungeon )",
-            "3 If coal is dropped: 4"
+            "Either of these dark gray rocks (inside, the Mines, ), Any of these 3 rocks (inside, the Mines, when dangerous and inside the, Volcano Dungeon, )",
+            "3, If coal is dropped: 4"
           ],
           [
             "Amethyst Node",
-            "16 Multiple spawns: 8"
+            "16, Multiple spawns: 8"
           ],
           [
             "Aquamarine Node",
-            "40 Multiple spawns: 20"
+            "40, Multiple spawns: 20"
           ],
           [
             "Diamond Node",
-            "150 Multiple spawns: 100"
+            "150, Multiple spawns: 100"
           ],
           [
             "Emerald Node",
-            "80 Multiple spawns: 50"
+            "80, Multiple spawns: 50"
           ],
           [
             "Jade Node",
-            "40 Multiple spawns: 20"
+            "40, Multiple spawns: 20"
           ],
           [
             "Ruby Node",
-            "80 Multiple spawns: 50"
+            "80, Multiple spawns: 50"
           ],
           [
             "Topaz Node",
-            "16 Multiple spawns: 8"
+            "16, Multiple spawns: 8"
           ],
           [
             "Gem Node",
@@ -254,117 +254,117 @@
             "Amethyst Node",
             "Amethyst",
             "Any floor",
-            "Skull Cavern , Quarry"
+            "Skull Cavern, ,, Quarry"
           ],
           [
             "",
             "Aquamarine Node",
             "Aquamarine",
-            "Any floor after reaching the bottom of the Mines ; floor 40+ otherwise",
-            "Skull Cavern , Quarry"
+            "Any floor after reaching the bottom of, the Mines, ; floor 40+ otherwise",
+            "Skull Cavern, ,, Quarry"
           ],
           [
             "",
             "Copper Node",
             "Copper Ore",
             "Any floor",
-            "Skull Cavern , Quarry , Quarry Mine , Hill-top and Four Corners farm maps, Volcano Dungeon"
+            "Skull Cavern, ,, Quarry, ,, Quarry Mine, ,, Hill-top, and, Four Corners, farm maps,, Volcano Dungeon"
           ],
           [
             "",
             "Diamond Node",
             "Diamond",
             "Floor 50+",
-            "Skull Cavern , Quarry , Volcano Dungeon"
+            "Skull Cavern, ,, Quarry, ,, Volcano Dungeon"
           ],
           [
             "",
             "Emerald Node",
             "Emerald",
-            "Any floor after reaching the bottom of the Mines ; floor 80+ otherwise",
-            "Skull Cavern , Quarry"
+            "Any floor after reaching the bottom of, the Mines, ; floor 80+ otherwise",
+            "Skull Cavern, ,, Quarry"
           ],
           [
             "",
             "Gem Node",
-            "Amethyst , Aquamarine , Diamond , Emerald , Jade , Ruby , or Topaz",
+            "Amethyst, ,, Aquamarine, ,, Diamond, ,, Emerald, ,, Jade, ,, Ruby, , or, Topaz",
             "Any floor",
-            "Skull Cavern , Quarry , Volcano Dungeon"
+            "Skull Cavern, ,, Quarry, ,, Volcano Dungeon"
           ],
           [
             "",
             "Gold Node",
             "Gold Ore",
             "Floor 80+",
-            "Skull Cavern (10% chance of spawning at floors 60-79, 75% chance of spawning at floors 80+) Quarry Hill-top and Four Corners farm maps after Mining Skill level 7 Volcano Dungeon"
+            "Skull Cavern, (10% chance of spawning at floors 60-79, 75% chance of spawning at floors 80+), Quarry, Hill-top, and, Four Corners, farm maps after Mining Skill level 7, Volcano Dungeon"
           ],
           [
             "",
             "Iridium Node",
-            "Iridium Ore , and a 3.5% chance for 1 Prismatic Shard",
+            "Iridium Ore, , and a 3.5% chance for 1, Prismatic Shard",
             "N/A",
-            "Skull Cavern Quarry Hill-top and Four Corners farm maps at Mining Skill level 10 only Volcano Dungeon"
+            "Skull Cavern, Quarry, Hill-top, and, Four Corners, farm maps at Mining Skill level 10 only, Volcano Dungeon"
           ],
           [
             "",
             "Iron Node",
             "Iron Ore",
             "Floors 40-79",
-            "Quarry Skull Cavern Quarry Mine Hill-top and Four Corners farm maps after Mining Skill level 4 Volcano Dungeon"
+            "Quarry, Skull Cavern, Quarry Mine, Hill-top, and, Four Corners, farm maps after Mining Skill level 4, Volcano Dungeon"
           ],
           [
             "",
             "Jade Node",
             "Jade",
-            "Any floor after reaching the bottom of the Mines ; floor 40+ otherwise",
-            "Skull Cavern , Quarry"
+            "Any floor after reaching the bottom of, the Mines, ; floor 40+ otherwise",
+            "Skull Cavern, ,, Quarry"
           ],
           [
             "",
             "Mystic Stone",
-            "1-3 Iridium Ore , 1-4 Gold Ore , and a 25% chance of 1 Prismatic Shard",
+            "1-3, Iridium Ore, , 1-4, Gold Ore, , and a 25% chance of 1, Prismatic Shard",
             "Floor 100+",
-            "Skull Cavern , Quarry , Volcano Dungeon"
+            "Skull Cavern, ,, Quarry, ,, Volcano Dungeon"
           ],
           [
             "",
             "Ruby Node",
             "Ruby",
-            "Any floor after reaching the bottom of the Mines ; floor 80+ otherwise",
-            "Skull Cavern , Quarry , Volcano Dungeon"
+            "Any floor after reaching the bottom of, the Mines, ; floor 80+ otherwise",
+            "Skull Cavern, ,, Quarry, ,, Volcano Dungeon"
           ],
           [
             "",
             "Topaz Node",
             "Topaz",
             "Any floor",
-            "Skull Cavern , Quarry"
+            "Skull Cavern, ,, Quarry"
           ],
           [
             "",
             "Geode Node",
             "Geode",
             "N/A",
-            "Hill-top and Four Corners farm maps"
+            "Hill-top, and, Four Corners, farm maps"
           ],
           [
             "",
             "Frozen Geode Node",
             "Frozen Geode",
             "N/A",
-            "Hill-top and Four Corners farm maps after Mining Skill level 5"
+            "Hill-top, and, Four Corners, farm maps after Mining Skill level 5"
           ],
           [
             "",
             "Magma Geode Node",
             "Magma Geode",
             "N/A",
-            "Hill-top and Four Corners farm maps after Mining Skill level 8"
+            "Hill-top, and, Four Corners, farm maps after Mining Skill level 8"
           ],
           [
             "",
             "Bone Node",
-            "Bone Fragments , and a chance for Fossilized Leg , Fossilized Ribs , Prehistoric Scapula , Prehistoric Tibia , Prehistoric Skull , Skeletal Hand , Prehistoric Rib , Prehistoric Vertebra , Skeletal Tail , Nautilus Fossil , Amphibian Fossil , Palm Fossil or Trilobite",
+            "Bone Fragments, , and a chance for, Fossilized Leg, ,, Fossilized Ribs, ,, Prehistoric Scapula, ,, Prehistoric Tibia, ,, Prehistoric Skull, ,, Skeletal Hand, ,, Prehistoric Rib, ,, Prehistoric Vertebra, ,, Skeletal Tail, ,, Nautilus Fossil, ,, Amphibian Fossil, ,, Palm Fossil, or, Trilobite",
             "N/A",
             "Ginger Island Dig Site"
           ],
@@ -393,7 +393,7 @@
             "",
             "Radioactive Node",
             "Radioactive Ore",
-            "Any floor when the Mines are in a \" Dangerous \" state. Cannot spawn on floors that are a multiple of 5.",
+            "Any floor when, the Mines, are in a \", Dangerous, \" state. Cannot spawn on floors that are a multiple of 5.",
             "Dangerous Skull Cavern"
           ],
           [
@@ -408,14 +408,14 @@
             "Calico Egg Node",
             "Calico Egg",
             "N/A",
-            "Skull Cavern while the Desert Festival is going on"
+            "Skull Cavern, while the, Desert Festival, is going on"
           ],
           [
             "",
             "Coal Node",
             "Coal",
             "N/A",
-            "Quarry , Quarry Mine , Volcano Dungeon"
+            "Quarry, ,, Quarry Mine, ,, Volcano Dungeon"
           ]
         ]
       }
@@ -450,59 +450,59 @@
             "",
             "Banana Pudding",
             "A creamy dessert with a wonderful tropical flavor.",
-            "Banana (1) Milk (1) (Any) Sugar (1)",
-            "125 56",
-            "Mining (+1) Luck (+1) Defense (+1)",
+            "Banana, (1), Milk, (1), (Any), Sugar, (1)",
+            "125, 56",
+            "Mining, (+1), Luck, (+1), Defense, (+1)",
             "5m 1s",
-            "Island Trader for Bone Fragment (30)",
-            "data-sort-value=\"260\"> 260g"
+            "Island Trader, for, Bone Fragment, (30)",
+            "data-sort-value=\"260\">, 260g"
           ],
           [
             "",
             "Eggplant Parmesan",
             "Tangy, cheesy, and wonderful.",
-            "Eggplant (1) Tomato (1)",
-            "175 78",
-            "Mining (+1) Defense (+3)",
+            "Eggplant, (1), Tomato, (1)",
+            "175, 78",
+            "Mining, (+1), Defense, (+3)",
             "4m 39s",
-            "Lewis (Mail - 7+ )",
-            "data-sort-value=\"200\"> 200g"
+            "Lewis, (Mail - 7+, )",
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Cranberry Sauce",
             "A festive treat.",
-            "Cranberries (1) Sugar (1)",
-            "125 56",
-            "Mining (+2)",
+            "Cranberries, (1), Sugar, (1)",
+            "125, 56",
+            "Mining, (+2)",
             "3m 30s",
-            "Gus (Mail - 7+ )",
-            "data-sort-value=\"120\"> 120g"
+            "Gus, (Mail - 7+, )",
+            "data-sort-value=\"120\">, 120g"
           ],
           [
             "",
             "Miner's Treat",
             "This should keep your energy up.",
-            "Cave Carrot (2) Sugar (1) Milk (1)",
-            "125 56",
-            "Mining (+3) Magnetism (+32)",
+            "Cave Carrot, (2), Sugar, (1), Milk, (1)",
+            "125, 56",
+            "Mining, (+3), Magnetism, (+32)",
             "5m 35s",
-            "Mining Level 3",
-            "data-sort-value=\"200\"> 200g"
+            "Mining, Level 3",
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Maple Bar",
             "It's a sweet doughnut topped with a rich maple glaze.",
-            "Maple Syrup (1) Sugar (1) Wheat Flour (1)",
-            "225 101",
-            "Farming (+1) Fishing (+1) Mining (+1)",
+            "Maple Syrup, (1), Sugar, (1), Wheat Flour, (1)",
+            "225, 101",
+            "Farming, (+1), Fishing, (+1), Mining, (+1)",
             "16m 47s",
-            "The Queen of Sauce 14 Summer, Year 2",
+            "The Queen of Sauce, 14 Summer, Year 2",
             "",
             "The Queen of Sauce",
             "14 Summer, Year 2",
-            "data-sort-value=\"300\"> 300g"
+            "data-sort-value=\"300\">, 300g"
           ],
           [
             "",
@@ -516,22 +516,22 @@
             "Magic Rock Candy",
             "A rare and powerful candy infused with the essence of the prismatic shard.",
             "N/A",
-            "500 225",
-            "Mining (+2) Luck (+5) Speed (+1) Defense (+5) Attack (+5)",
+            "500, 225",
+            "Mining, (+2), Luck, (+5), Speed, (+1), Defense, (+5), Attack, (+5)",
             "8m 24s",
             "N/A",
-            "data-sort-value=\"5000\"> 5,000g"
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Squid Ink Ravioli",
             "Temporarily protects from debuffs.",
-            "Squid Ink (1) Wheat Flour (1) Tomato (1)",
-            "125 56",
-            "Mining (+1) Squid Ink Ravioli Buff",
-            "4m 39s (Mining) 2m 59s (Squid Ink Ravioli Buff)",
-            "Combat Level 9",
-            "data-sort-value=\"150\"> 150g"
+            "Squid Ink, (1), Wheat Flour, (1), Tomato, (1)",
+            "125, 56",
+            "Mining, (+1), Squid Ink Ravioli Buff",
+            "4m 39s (Mining), 2m 59s (Squid Ink, Ravioli Buff)",
+            "Combat, Level 9",
+            "data-sort-value=\"150\">, 150g"
           ]
         ]
       }
@@ -557,56 +557,56 @@
           [
             "",
             "Mountain Chili",
-            "Mining (+3) Defense (+1)",
+            "Mining, (+3), Defense, (+1)",
             "7m",
             "Cave Loaf + Rich Marinara"
           ],
           [
             "",
             "Crystal Cake",
-            "Mining (+3) Luck (+1)",
+            "Mining, (+3), Luck, (+1)",
             "7m",
             "Cave Loaf + Cherry Syrup"
           ],
           [
             "",
             "Cave Kebab",
-            "Mining (+3) Attack (+1)",
+            "Mining, (+3), Attack, (+1)",
             "7m",
             "Cave Loaf + Pungent Garlic"
           ],
           [
             "",
             "Hot Log",
-            "Mining (+3) Speed (+1)",
+            "Mining, (+3), Speed, (+1)",
             "7m",
             "Cave Loaf + Uncomfortably Hot Sauce"
           ],
           [
             "",
             "Earthy Mousse",
-            "Defense (+3) Mining (+1)",
+            "Defense, (+3), Mining, (+1)",
             "7m",
             "Hearty Beans + Mushroom Creme"
           ],
           [
             "",
             "Superfood Cake",
-            "Luck (+3) Mining (+1)",
+            "Luck, (+3), Mining, (+1)",
             "7m",
             "Rare Fruit + Mushroom Creme"
           ],
           [
             "",
             "Stuffed Mushrooms",
-            "Attack (+3) Mining (+1)",
+            "Attack, (+3), Mining, (+1)",
             "7m",
             "Extremely Sharp Cheddar + Mushroom Creme"
           ],
           [
             "",
             "Rainforest Shrimp",
-            "Fishing (+3) Mining (+1)",
+            "Fishing, (+3), Mining, (+1)",
             "7m",
             "Shrimp + Mushroom Creme"
           ]
@@ -621,15 +621,15 @@
         ],
         "rows": [
           [
-            "Skills & Stats"
+            "Skills, & Stats"
           ],
           [
             "Skills",
-            "Farming • Mining • Foraging • Fishing • Combat"
+            "Farming, •, Mining, •, Foraging, •, Fishing, •, Combat"
           ],
           [
             "Stats",
-            "Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight"
+            "Attack, •, Crit. Chance, •, Crit. Power, •, Defense, •, Immunity, •, Luck, •, Magnetism, •, Speed, •, Weight"
           ]
         ]
       }

@@ -2,6 +2,8 @@
 
 A full-stack AI Assistant for Stardew Valley that uses **Retrieval-Augmented Generation (RAG)** to provide highly accurate, hallucination-free answers about the game. It scrapes the Stardew Valley Wiki, embeds the data into a vector database, and uses LangChain + Groq to answer user queries through a modern web interface.
 
+![Stardew Valley AI Assistant Screenshot](./screenshot.png)
+
 ## 🌟 Features
 * **Accurate Knowledge Base**: Answers are sourced directly from the Stardew Valley Wiki using RAG, preventing the AI from making up facts.
 * **Modern Web Interface**: A beautiful, glassmorphism-styled frontend designed for Stardew Valley fans.

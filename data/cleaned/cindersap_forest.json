@@ -71,43 +71,43 @@
           [
             "",
             "Marnie's Ranch",
-            "Located in the northeast corner of the map, this is where the player can purchase animals and animal related goods. Marnie lives here with her niece and nephew, Jas and Shane .",
-            "Marnie Jas Shane"
+            "Located in the northeast corner of the map, this is where the player can purchase animals and animal related goods., Marnie, lives here with her niece and nephew,, Jas, and, Shane, .",
+            "Marnie, Jas, Shane"
           ],
           [
             "",
             "Leah's Cottage",
-            "Located to the south of the path to Pelican Town, this is where Leah lives.",
+            "Located to the south of the path to Pelican Town, this is where, Leah, lives.",
             "Leah"
           ],
           [
             "",
             "Abandoned House",
-            "Located to the southwest of the pond, this run-down building will open up shop when Achievements start to be earned. Once open for business, the Hat Mouse will sell the player hats based on the achievements they've unlocked.",
+            "Located to the southwest of the pond, this run-down building will open up shop when, Achievements, start to be earned. Once open for business, the, Hat Mouse, will sell the player, hats, based on the achievements they've unlocked.",
             "Hat Mouse"
           ],
           [
             "",
             "Wizard's Tower",
-            "Located on the western side of the map, this is where the Wizard lives. It can be entered after unlocking the \"Meet The Wizard\" quest.",
+            "Located on the western side of the map, this is where the, Wizard, lives. It can be entered after unlocking the, \"Meet The Wizard\", quest.",
             "Wizard"
           ],
           [
             "",
             "Big Tree",
-            "Located to the north of Cindersap Forest, between the lake and Marnie's Ranch. After a strong wind storm fells the tree, it transforms into the Giant Stump and unlocks \"The Giant Stump\" quest.",
+            "Located to the north of Cindersap Forest, between the lake and Marnie's Ranch. After a, strong wind storm, fells the tree, it transforms into the, Giant Stump, and unlocks, \"The Giant Stump\", quest.",
             ""
           ],
           [
             "",
             "Secret Woods",
-            "Located next to the northwest corner of the forest. It can be entered after removing a Large Log blocking the entrance, which is possible once the Axe has been upgraded to steel or better.",
+            "Located next to the northwest corner of the forest. It can be entered after removing a, Large Log, blocking the entrance, which is possible once the, Axe, has been upgraded to steel or better.",
             ""
           ],
           [
             "",
             "Traveling Cart",
-            "Appears every Friday and Sunday from 6:00am to 8:00pm along the northern edge of the map and the Traveling Merchant will sell the player a wide selection of random goods.",
+            "Appears every Friday and Sunday from 6:00am to 8:00pm along the northern edge of the map and the, Traveling Merchant, will sell the player a wide selection of random goods.",
             "Traveling Merchant"
           ],
           [
@@ -130,15 +130,15 @@
             "Details"
           ],
           [
-            "Spring Summer Fall Winter Anchovy Bream Carp Catfish Daffodil Dandelion Eel Herring Largemouth Bass Leek Sardine Seaweed Smallmouth Bass Sunfish Wild Horseradish Bream Carp Grape Largemouth Bass Octopus Pike Pufferfish Rainbow Trout Red Mullet Red Snapper Sardine Spice Berry Sunfish Super Cucumber Sweet Pea Tuna Anchovy Blackberry Bream Carp Catfish Common Mushroom Eel Hazelnut Largemouth Bass Red Snapper Salmon Sardine Sea Cucumber Smallmouth Bass Super Cucumber Walleye Wild Plum Bream Catfish Crocus Crystal Fruit Herring Largemouth Bass Perch Pike Red Mullet Red Snapper Sardine Sea Cucumber Snow Yam Squid Tuna Walleye Winter Root",
+            "Spring, Summer, Fall, Winter, Anchovy, Bream, Carp, Catfish, Daffodil, Dandelion, Eel, Herring, Largemouth Bass, Leek, Sardine, Seaweed, Smallmouth Bass, Sunfish, Wild Horseradish, Bream, Carp, Grape, Largemouth Bass, Octopus, Pike, Pufferfish, Rainbow Trout, Red Mullet, Red Snapper, Sardine, Spice Berry, Sunfish, Super Cucumber, Sweet Pea, Tuna, Anchovy, Blackberry, Bream, Carp, Catfish, Common Mushroom, Eel, Hazelnut, Largemouth Bass, Red Snapper, Salmon, Sardine, Sea Cucumber, Smallmouth Bass, Super Cucumber, Walleye, Wild Plum, Bream, Catfish, Crocus, Crystal Fruit, Herring, Largemouth Bass, Perch, Pike, Red Mullet, Red Snapper, Sardine, Sea Cucumber, Snow Yam, Squid, Tuna, Walleye, Winter Root",
             "Spring",
             "Summer",
             "Fall",
             "Winter",
-            "Anchovy Bream Carp Catfish Daffodil Dandelion Eel Herring Largemouth Bass Leek Sardine Seaweed Smallmouth Bass Sunfish Wild Horseradish",
-            "Bream Carp Grape Largemouth Bass Octopus Pike Pufferfish Rainbow Trout Red Mullet Red Snapper Sardine Spice Berry Sunfish Super Cucumber Sweet Pea Tuna",
-            "Anchovy Blackberry Bream Carp Catfish Common Mushroom Eel Hazelnut Largemouth Bass Red Snapper Salmon Sardine Sea Cucumber Smallmouth Bass Super Cucumber Walleye Wild Plum",
-            "Bream Catfish Crocus Crystal Fruit Herring Largemouth Bass Perch Pike Red Mullet Red Snapper Sardine Sea Cucumber Snow Yam Squid Tuna Walleye Winter Root"
+            "Anchovy, Bream, Carp, Catfish, Daffodil, Dandelion, Eel, Herring, Largemouth Bass, Leek, Sardine, Seaweed, Smallmouth Bass, Sunfish, Wild Horseradish",
+            "Bream, Carp, Grape, Largemouth Bass, Octopus, Pike, Pufferfish, Rainbow Trout, Red Mullet, Red Snapper, Sardine, Spice Berry, Sunfish, Super Cucumber, Sweet Pea, Tuna",
+            "Anchovy, Blackberry, Bream, Carp, Catfish, Common Mushroom, Eel, Hazelnut, Largemouth Bass, Red Snapper, Salmon, Sardine, Sea Cucumber, Smallmouth Bass, Super Cucumber, Walleye, Wild Plum",
+            "Bream, Catfish, Crocus, Crystal Fruit, Herring, Largemouth Bass, Perch, Pike, Red Mullet, Red Snapper, Sardine, Sea Cucumber, Snow Yam, Squid, Tuna, Walleye, Winter Root"
           ],
           [
             "Spring",
@@ -147,10 +147,10 @@
             "Winter"
           ],
           [
-            "Anchovy Bream Carp Catfish Daffodil Dandelion Eel Herring Largemouth Bass Leek Sardine Seaweed Smallmouth Bass Sunfish Wild Horseradish",
-            "Bream Carp Grape Largemouth Bass Octopus Pike Pufferfish Rainbow Trout Red Mullet Red Snapper Sardine Spice Berry Sunfish Super Cucumber Sweet Pea Tuna",
-            "Anchovy Blackberry Bream Carp Catfish Common Mushroom Eel Hazelnut Largemouth Bass Red Snapper Salmon Sardine Sea Cucumber Smallmouth Bass Super Cucumber Walleye Wild Plum",
-            "Bream Catfish Crocus Crystal Fruit Herring Largemouth Bass Perch Pike Red Mullet Red Snapper Sardine Sea Cucumber Snow Yam Squid Tuna Walleye Winter Root"
+            "Anchovy, Bream, Carp, Catfish, Daffodil, Dandelion, Eel, Herring, Largemouth Bass, Leek, Sardine, Seaweed, Smallmouth Bass, Sunfish, Wild Horseradish",
+            "Bream, Carp, Grape, Largemouth Bass, Octopus, Pike, Pufferfish, Rainbow Trout, Red Mullet, Red Snapper, Sardine, Spice Berry, Sunfish, Super Cucumber, Sweet Pea, Tuna",
+            "Anchovy, Blackberry, Bream, Carp, Catfish, Common Mushroom, Eel, Hazelnut, Largemouth Bass, Red Snapper, Salmon, Sardine, Sea Cucumber, Smallmouth Bass, Super Cucumber, Walleye, Wild Plum",
+            "Bream, Catfish, Crocus, Crystal Fruit, Herring, Largemouth Bass, Perch, Pike, Red Mullet, Red Snapper, Sardine, Sea Cucumber, Snow Yam, Squid, Tuna, Walleye, Winter Root"
           ]
         ]
       }
@@ -502,7 +502,7 @@
           ],
           [
             "Locations",
-            "Backwoods • Beach • Bus Stop • Calico Desert • Cindersap Forest • Farm • Farm Cave • Farm Pond • Graveyard • Ginger Island • Mastery Cave • Minecart • Mines • Mountain • Mutant Bug Lair • Pelican Town • Quarry • Quarry Mine • Railroad • Secret Woods • Sewers • Skull Cavern • Summit • Tunnel • Volcano Dungeon • Witch's Swamp"
+            "Backwoods, •, Beach, •, Bus Stop, •, Calico Desert, •, Cindersap Forest, •, Farm, •, Farm Cave, •, Farm Pond, •, Graveyard, •, Ginger Island, •, Mastery Cave, •, Minecart, •, Mines, •, Mountain, •, Mutant Bug Lair, •, Pelican Town, •, Quarry, •, Quarry Mine, •, Railroad, •, Secret Woods, •, Sewers, •, Skull Cavern, •, Summit, •, Tunnel, •, Volcano Dungeon, •, Witch's Swamp"
           ]
         ]
       }

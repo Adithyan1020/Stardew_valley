@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Governor Information Birthday Unknown Address Unknown Marriage No Loved Gifts N/A\nThe Governor is the governor of the region that Pelican Town is a part of. He attends the Luau annually and tastes the local food. The Governor is also referenced in the Lobster Bisque episode of The Queen of Sauce and can appear in the Movie Theater lobby."
+      "content": "The Governor is the governor of the region that Pelican Town is a part of. He attends the Luau annually and tastes the local food. The Governor is also referenced in the Lobster Bisque episode of The Queen of Sauce and can appear in the Movie Theater lobby."
     },
     {
       "heading": "Quotes",
@@ -12,6 +12,39 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Governor"
+          ],
+          [
+            ""
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Birthday",
+            "Unknown"
+          ],
+          [
+            "Address",
+            "Unknown"
+          ],
+          [
+            "Marriage",
+            "No"
+          ],
+          [
+            "Loved Gifts",
+            "N/A"
+          ]
+        ]
+      }
+    },
     {
       "section": "Introduction",
       "table": {
@@ -34,7 +67,7 @@
         "rows": [
           [
             "“",
-            "“What a lovely occasion... It's always a joy to visit Stardew Valley. I must speak to the missus about purchasing a vacation home here.”"
+            "“What a lovely occasion... It's always a joy to visit Stardew Valley., I must speak to the missus about purchasing a vacation home here.”"
           ]
         ]
       }
@@ -87,19 +120,19 @@
           ],
           [
             "Bachelors",
-            "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+            "Alex, •, Elliott, •, Harvey, •, Sam, •, Sebastian, •, Shane"
           ],
           [
             "Bachelorettes",
-            "Abigail • Emily • Haley • Leah • Maru • Penny"
+            "Abigail, •, Emily, •, Haley, •, Leah, •, Maru, •, Penny"
           ],
           [
             "Townspeople",
-            "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+            "Caroline, •, Clint, •, Demetrius, •, Evelyn, •, George, •, Gil, •, Gunther, •, Gus, •, Jas, •, Jodi, •, Kent, •, Lewis, •, Linus, •, Marlon, •, Marnie, •, Pam, •, Pierre, •, Robin, •, Vincent, •, Willy"
           ],
           [
             "Other",
-            "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+            "Birdie, •, Bouncer, •, Dwarf, •, Fizz, •, Governor, •, Grandpa, •, Henchman, •, Junimos, •, Krobus, •, Leo, •, Morris, •, Mr. Qi, •, Old Mariner, •, Professor Snail, •, Sandy, •, Wizard"
           ]
         ]
       }

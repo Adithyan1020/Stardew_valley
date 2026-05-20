@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Movie Theater Open Hours: 9:00am to 9:00pm Closed: Most festival days Address: Abandoned JojaMart or Joja Warehouse\nThe Movie Theater is a building that allows players to watch movies, alone or with a guest, once every week. It is unlocked either by completing the Community Center or all community upgrades offered by Morris .\nIf players choose to restore the Community Center, the night before the first rainy or stormy day after restoring the Center, there is a cutscene of a lightning bolt striking the doors to the abandoned JojaMart . Afterwards, the player may enter the abandoned JojaMart and find the Missing Bundle . The night after completing the Missing Bundle, the Junimos will build a Movie Theater.\nIf players choose the Joja route, they can purchase the Movie Theater from Morris for data-sort-value=\"500000\"> 500,000g after completing all other community upgrades . The Joja Warehouse will then become a Movie Theater.\nPlayers must purchase a Movie Ticket for data-sort-value=\"1000\"> 1,000g to enter the Movie Theater. A second Movie Ticket can also be purchased for data-sort-value=\"1000\"> 1,000g and given to a villager in the same way a gift is given. This will invite the villager to attend the movie with the player. To see the movie with the villager, enter the theater on the same day the ticket is gifted; otherwise, the ticket is forgotten.\nIn a Multiplayer game, it is possible to watch a movie with other players. To do this, all participating players must gather in the lobby before the movie starts. A message suggesting you will watch the movie by yourself still displays when entering the building, regardless of other players being present."
+      "content": "The Movie Theater is a building that allows players to watch movies, alone or with a guest, once every week. It is unlocked either by completing the Community Center or all community upgrades offered by Morris .\nIf players choose to restore the Community Center, the night before the first rainy or stormy day after restoring the Center, there is a cutscene of a lightning bolt striking the doors to the abandoned JojaMart . Afterwards, the player may enter the abandoned JojaMart and find the Missing Bundle . The night after completing the Missing Bundle, the Junimos will build a Movie Theater.\nIf players choose the Joja route, they can purchase the Movie Theater from Morris for data-sort-value=\"500000\"> 500,000g after completing all other community upgrades . The Joja Warehouse will then become a Movie Theater.\nPlayers must purchase a Movie Ticket for data-sort-value=\"1000\"> 1,000g to enter the Movie Theater. A second Movie Ticket can also be purchased for data-sort-value=\"1000\"> 1,000g and given to a villager in the same way a gift is given. This will invite the villager to attend the movie with the player. To see the movie with the villager, enter the theater on the same day the ticket is gifted; otherwise, the ticket is forgotten.\nIn a Multiplayer game, it is possible to watch a movie with other players. To do this, all participating players must gather in the lobby before the movie starts. A message suggesting you will watch the movie by yourself still displays when entering the building, regardless of other players being present."
     },
     {
       "heading": "Movies",
@@ -45,6 +45,35 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Movie Theater"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            "Open Hours:",
+            "9:00am to 9:00pm"
+          ],
+          [
+            "Closed:",
+            "Most, festival, days"
+          ],
+          [
+            "Address:",
+            "Abandoned, JojaMart, or, Joja Warehouse"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Movies",
       "table": {
         "headers": [
@@ -70,73 +99,73 @@
             "",
             "The Brave Little Sapling",
             "An animated family comedy about a little sprout on a magical adventure to become a tree!",
-            "Spring , Y1",
-            "Caroline , Dwarf , Jas , Penny , Sandy , Vincent",
-            "Abigail , Alex , Clint , Demetrius , Elliott , Emily , Evelyn , George , Gus , Haley , Harvey , Jodi , Kent , Leah , Leo , Lewis , Marnie , Maru , Pam , Pierre , Robin , Sam , Willy",
-            "Krobus , Linus , Sebastian , Shane , Wizard"
+            "Spring, , Y1",
+            "Caroline, ,, Dwarf, ,, Jas, ,, Penny, ,, Sandy, ,, Vincent",
+            "Abigail, ,, Alex, ,, Clint, ,, Demetrius, ,, Elliott, ,, Emily, ,, Evelyn, ,, George, ,, Gus, ,, Haley, ,, Harvey, ,, Jodi, ,, Kent, ,, Leah, ,, Leo, ,, Lewis, ,, Marnie, ,, Maru, ,, Pam, ,, Pierre, ,, Robin, ,, Sam, ,, Willy",
+            "Krobus, ,, Linus, ,, Sebastian, ,, Shane, ,, Wizard"
           ],
           [
             "",
             "Journey Of The Prairie King: The Motion Picture",
             "The beloved video game comes to the silver screen!",
-            "Summer , Y1",
-            "Caroline , Dwarf , Jas , Robin , Sandy , Vincent",
-            "Abigail , Alex , Clint , Demetrius , Emily , Evelyn , Gus , Jodi , Kent , Leo , Lewis , Marnie , Maru , Pam , Penny , Pierre , Sam , Sebastian , Shane , Willy",
-            "Elliott , George , Haley , Harvey , Krobus , Leah , Linus , Wizard"
+            "Summer, , Y1",
+            "Caroline, ,, Dwarf, ,, Jas, ,, Robin, ,, Sandy, ,, Vincent",
+            "Abigail, ,, Alex, ,, Clint, ,, Demetrius, ,, Emily, ,, Evelyn, ,, Gus, ,, Jodi, ,, Kent, ,, Leo, ,, Lewis, ,, Marnie, ,, Maru, ,, Pam, ,, Penny, ,, Pierre, ,, Sam, ,, Sebastian, ,, Shane, ,, Willy",
+            "Elliott, ,, George, ,, Haley, ,, Harvey, ,, Krobus, ,, Leah, ,, Linus, ,, Wizard"
           ],
           [
             "",
             "Mysterium",
             "Peer behind the midnight veil... You must experience to believe!",
-            "Fall , Y1",
-            "Abigail , Dwarf , Elliott , Leah , Sandy , Sebastian , Wizard",
-            "Alex , Caroline , Clint , Demetrius , Haley , Jodi , Krobus , Leo , Marnie , Maru , Pam , Pierre , Robin , Sam , Shane , Willy",
-            "Emily , Evelyn , George , Gus , Harvey , Jas , Kent , Lewis , Linus , Penny , Vincent"
+            "Fall, , Y1",
+            "Abigail, ,, Dwarf, ,, Elliott, ,, Leah, ,, Sandy, ,, Sebastian, ,, Wizard",
+            "Alex, ,, Caroline, ,, Clint, ,, Demetrius, ,, Haley, ,, Jodi, ,, Krobus, ,, Leo, ,, Marnie, ,, Maru, ,, Pam, ,, Pierre, ,, Robin, ,, Sam, ,, Shane, ,, Willy",
+            "Emily, ,, Evelyn, ,, George, ,, Gus, ,, Harvey, ,, Jas, ,, Kent, ,, Lewis, ,, Linus, ,, Penny, ,, Vincent"
           ],
           [
             "",
             "The Miracle At Coldstar Ranch",
             "Against all odds, a family keeps the spirit of the Winter Star alive...",
-            "Winter , Y1",
-            "Dwarf , Emily , Evelyn , Gus , Harvey , Marnie , Sandy",
-            "Alex , Caroline , Clint , Elliott , George , Haley , Jas , Jodi , Kent , Leah , Leo , Lewis , Maru , Pam , Penny , Pierre , Robin , Willy",
-            "Abigail , Demetrius , Krobus , Linus , Sam , Sebastian , Shane , Vincent , Wizard"
+            "Winter, , Y1",
+            "Dwarf, ,, Emily, ,, Evelyn, ,, Gus, ,, Harvey, ,, Marnie, ,, Sandy",
+            "Alex, ,, Caroline, ,, Clint, ,, Elliott, ,, George, ,, Haley, ,, Jas, ,, Jodi, ,, Kent, ,, Leah, ,, Leo, ,, Lewis, ,, Maru, ,, Pam, ,, Penny, ,, Pierre, ,, Robin, ,, Willy",
+            "Abigail, ,, Demetrius, ,, Krobus, ,, Linus, ,, Sam, ,, Sebastian, ,, Shane, ,, Vincent, ,, Wizard"
           ],
           [
             "",
             "Natural Wonders: Exploring Our Vibrant World",
             "Take a tour through the lands of the Ferngill Republic... from The Fern Islands to Zuzu City, this world is full of life!",
-            "Spring , Y2",
-            "Demetrius , Dwarf , Jas , Leo , Lewis , Maru , Sandy",
-            "Abigail , Caroline , Clint , Elliott , Emily , Evelyn , George , Gus , Haley , Harvey , Jodi , Kent , Leah , Marnie , Pam , Penny , Pierre , Robin , Sam , Sebastian , Shane , Willy",
-            "Alex , Krobus , Linus , Vincent , Wizard"
+            "Spring, , Y2",
+            "Demetrius, ,, Dwarf, ,, Jas, ,, Leo, ,, Lewis, ,, Maru, ,, Sandy",
+            "Abigail, ,, Caroline, ,, Clint, ,, Elliott, ,, Emily, ,, Evelyn, ,, George, ,, Gus, ,, Haley, ,, Harvey, ,, Jodi, ,, Kent, ,, Leah, ,, Marnie, ,, Pam, ,, Penny, ,, Pierre, ,, Robin, ,, Sam, ,, Sebastian, ,, Shane, ,, Willy",
+            "Alex, ,, Krobus, ,, Linus, ,, Vincent, ,, Wizard"
           ],
           [
             "",
             "Wumbus",
             "An absurd sci-fi comedy centered around the life and times of a lumpy guy from another star.",
-            "Summer , Y2",
-            "Alex , Demetrius , Dwarf , Gus , Jas , Maru , Pierre , Sam , Sandy , Shane , Vincent",
-            "Abigail , Clint , Elliott , Emily , Evelyn , George , Harvey , Jodi , Kent , Leah , Leo , Lewis , Marnie , Pam , Penny , Robin , Sebastian , Willy",
-            "Caroline , Haley , Krobus , Linus , Wizard"
+            "Summer, , Y2",
+            "Alex, ,, Demetrius, ,, Dwarf, ,, Gus, ,, Jas, ,, Maru, ,, Pierre, ,, Sam, ,, Sandy, ,, Shane, ,, Vincent",
+            "Abigail, ,, Clint, ,, Elliott, ,, Emily, ,, Evelyn, ,, George, ,, Harvey, ,, Jodi, ,, Kent, ,, Leah, ,, Leo, ,, Lewis, ,, Marnie, ,, Pam, ,, Penny, ,, Robin, ,, Sebastian, ,, Willy",
+            "Caroline, ,, Haley, ,, Krobus, ,, Linus, ,, Wizard"
           ],
           [
             "",
             "It Howls In The Rain",
             "A group of youngsters set out to discover the source of a mysterious sound. (Parental Supervision Required)",
-            "Fall , Y2",
-            "Abigail , Alex , Dwarf , Sandy , Sebastian , Shane",
-            "Caroline , Clint , Demetrius , Gus , Haley , Jodi , Leo , Marnie , Maru , Pam , Pierre , Robin , Sam , Willy",
-            "Elliott , Emily , Evelyn , George , Harvey , Jas , Kent , Krobus , Leah , Lewis , Linus , Penny , Vincent , Wizard"
+            "Fall, , Y2",
+            "Abigail, ,, Alex, ,, Dwarf, ,, Sandy, ,, Sebastian, ,, Shane",
+            "Caroline, ,, Clint, ,, Demetrius, ,, Gus, ,, Haley, ,, Jodi, ,, Leo, ,, Marnie, ,, Maru, ,, Pam, ,, Pierre, ,, Robin, ,, Sam, ,, Willy",
+            "Elliott, ,, Emily, ,, Evelyn, ,, George, ,, Harvey, ,, Jas, ,, Kent, ,, Krobus, ,, Leah, ,, Lewis, ,, Linus, ,, Penny, ,, Vincent, ,, Wizard"
           ],
           [
             "",
             "The Zuzu City Express",
             "A beloved movie classic, carefully restored for modern theaters.",
-            "Winter , Y2",
-            "Dwarf , Evelyn , George , Harvey , Jodi , Sandy",
-            "Alex , Caroline , Elliott , Emily , Gus , Haley , Jas , Kent , Leah , Leo , Lewis , Marnie , Maru , Pam , Penny , Pierre , Robin , Willy",
-            "Abigail , Clint , Demetrius , Krobus , Linus , Sam , Sebastian , Shane , Vincent , Wizard"
+            "Winter, , Y2",
+            "Dwarf, ,, Evelyn, ,, George, ,, Harvey, ,, Jodi, ,, Sandy",
+            "Alex, ,, Caroline, ,, Elliott, ,, Emily, ,, Gus, ,, Haley, ,, Jas, ,, Kent, ,, Leah, ,, Leo, ,, Lewis, ,, Marnie, ,, Maru, ,, Pam, ,, Penny, ,, Pierre, ,, Robin, ,, Willy",
+            "Abigail, ,, Clint, ,, Demetrius, ,, Krobus, ,, Linus, ,, Sam, ,, Sebastian, ,, Shane, ,, Vincent, ,, Wizard"
           ]
         ]
       }
@@ -167,206 +196,206 @@
             "",
             "Apple Slices",
             "Crunchy and sweet little slices.",
-            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100\">, 100g",
             "Harvey",
-            "Abigail , Alex , Caroline , Demetrius , Elliott , Emily , Evelyn , Haley , Jas , Kent , Leah , Leo , Lewis , Linus , Marnie , Maru , Penny , Pierre , Robin , Sandy , Sebastian , Vincent",
-            "Clint , Dwarf , George , Gus , Jodi , Krobus , Pam , Sam , Shane , Willy , Wizard"
+            "Abigail, ,, Alex, ,, Caroline, ,, Demetrius, ,, Elliott, ,, Emily, ,, Evelyn, ,, Haley, ,, Jas, ,, Kent, ,, Leah, ,, Leo, ,, Lewis, ,, Linus, ,, Marnie, ,, Maru, ,, Penny, ,, Pierre, ,, Robin, ,, Sandy, ,, Sebastian, ,, Vincent",
+            "Clint, ,, Dwarf, ,, George, ,, Gus, ,, Jodi, ,, Krobus, ,, Pam, ,, Sam, ,, Shane, ,, Willy, ,, Wizard"
           ],
           [
             "",
             "Black Licorice",
             "A chewy candy with an intense, pungent flavor.",
-            "data-sort-value=\"25\"> 25g",
-            "George , Krobus , Wizard",
+            "data-sort-value=\"25\">, 25g",
+            "George, ,, Krobus, ,, Wizard",
             "Leo",
-            "Everyone other than George , Krobus , Leo , and the Wizard"
+            "Everyone other than, George, ,, Krobus, ,, Leo, , and the, Wizard"
           ],
           [
             "",
             "Cappuccino Mousse Cake",
             "A small chocolate cake glazed with a cappuccino mousse.",
-            "data-sort-value=\"220\"> 220g",
-            "Elliott , Evelyn , Gus , Haley",
-            "Abigail , Alex , Caroline , Clint , Demetrius , Emily , Harvey , Jas , Jodi , Kent , Leah , Leo , Lewis , Linus , Marnie , Maru , Penny , Pierre , Robin , Sandy , Vincent",
-            "Dwarf , George , Krobus , Pam , Sam , Sebastian , Shane , Willy , Wizard"
+            "data-sort-value=\"220\">, 220g",
+            "Elliott, ,, Evelyn, ,, Gus, ,, Haley",
+            "Abigail, ,, Alex, ,, Caroline, ,, Clint, ,, Demetrius, ,, Emily, ,, Harvey, ,, Jas, ,, Jodi, ,, Kent, ,, Leah, ,, Leo, ,, Lewis, ,, Linus, ,, Marnie, ,, Maru, ,, Penny, ,, Pierre, ,, Robin, ,, Sandy, ,, Vincent",
+            "Dwarf, ,, George, ,, Krobus, ,, Pam, ,, Sam, ,, Sebastian, ,, Shane, ,, Willy, ,, Wizard"
           ],
           [
             "",
             "Chocolate Popcorn",
             "It's normal popcorn... but with a chocolate coating.",
-            "data-sort-value=\"130\"> 130g",
+            "data-sort-value=\"130\">, 130g",
             "Jodi",
-            "Abigail , Alex , Caroline , Clint , Demetrius , Elliott , Emily , Evelyn , Gus , Haley , Jas , Kent , Leah , Leo , Lewis , Linus , Marnie , Maru , Pam , Penny , Pierre , Robin , Sam , Sandy , Sebastian , Shane , Vincent , Willy",
-            "Dwarf , George , Harvey , Krobus , Wizard"
+            "Abigail, ,, Alex, ,, Caroline, ,, Clint, ,, Demetrius, ,, Elliott, ,, Emily, ,, Evelyn, ,, Gus, ,, Haley, ,, Jas, ,, Kent, ,, Leah, ,, Leo, ,, Lewis, ,, Linus, ,, Marnie, ,, Maru, ,, Pam, ,, Penny, ,, Pierre, ,, Robin, ,, Sam, ,, Sandy, ,, Sebastian, ,, Shane, ,, Vincent, ,, Willy",
+            "Dwarf, ,, George, ,, Harvey, ,, Krobus, ,, Wizard"
           ],
           [
             "",
             "Cotton Candy",
             "A large pink cloud of spun sugar.",
-            "data-sort-value=\"50\"> 50g",
-            "Penny , Sandy",
-            "Abigail , Clint , Demetrius , Dwarf , Emily , Evelyn , Haley , Jas , Leah , Leo , Lewis , Linus , Marnie , Maru , Pam , Pierre , Sam , Sebastian , Shane , Vincent , Wizard",
-            "Alex , Caroline , Elliott , George , Gus , Harvey , Jodi , Kent , Krobus , Robin , Willy"
+            "data-sort-value=\"50\">, 50g",
+            "Penny, ,, Sandy",
+            "Abigail, ,, Clint, ,, Demetrius, ,, Dwarf, ,, Emily, ,, Evelyn, ,, Haley, ,, Jas, ,, Leah, ,, Leo, ,, Lewis, ,, Linus, ,, Marnie, ,, Maru, ,, Pam, ,, Pierre, ,, Sam, ,, Sebastian, ,, Shane, ,, Vincent, ,, Wizard",
+            "Alex, ,, Caroline, ,, Elliott, ,, George, ,, Gus, ,, Harvey, ,, Jodi, ,, Kent, ,, Krobus, ,, Robin, ,, Willy"
           ],
           [
             "",
             "Fries",
             "Thin slices of potato, deep fried and then lightly salted.",
-            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100\">, 100g",
             "Clint",
-            "Abigail , Alex , Demetrius , George , Gus , Jodi , Kent , Krobus , Lewis , Leo , Linus , Maru , Pam , Penny , Pierre , Robin , Sam , Sandy , Sebastian , Shane , Vincent , Willy",
-            "Caroline , Dwarf , Elliott , Emily , Evelyn , Haley , Harvey , Jas , Leah , Marnie , Wizard"
+            "Abigail, ,, Alex, ,, Demetrius, ,, George, ,, Gus, ,, Jodi, ,, Kent, ,, Krobus, ,, Lewis, ,, Leo, ,, Linus, ,, Maru, ,, Pam, ,, Penny, ,, Pierre, ,, Robin, ,, Sam, ,, Sandy, ,, Sebastian, ,, Shane, ,, Vincent, ,, Willy",
+            "Caroline, ,, Dwarf, ,, Elliott, ,, Emily, ,, Evelyn, ,, Haley, ,, Harvey, ,, Jas, ,, Leah, ,, Marnie, ,, Wizard"
           ],
           [
             "",
             "Hummus Snack Pack",
             "It's crunchy and healthy.",
-            "data-sort-value=\"90\"> 90g",
+            "data-sort-value=\"90\">, 90g",
             "Shane",
-            "Alex , Caroline , Elliott , Emily , Evelyn , Haley , Harvey , Kent , Krobus , Leah , Leo , Lewis , Linus , Marnie , Maru , Penny , Pierre , Robin , Sandy , Sebastian",
-            "Abigail , Clint , Demetrius , Dwarf , George , Gus , Jas , Jodi , Pam , Sam , Vincent , Willy , Wizard"
+            "Alex, ,, Caroline, ,, Elliott, ,, Emily, ,, Evelyn, ,, Haley, ,, Harvey, ,, Kent, ,, Krobus, ,, Leah, ,, Leo, ,, Lewis, ,, Linus, ,, Marnie, ,, Maru, ,, Penny, ,, Pierre, ,, Robin, ,, Sandy, ,, Sebastian",
+            "Abigail, ,, Clint, ,, Demetrius, ,, Dwarf, ,, George, ,, Gus, ,, Jas, ,, Jodi, ,, Pam, ,, Sam, ,, Vincent, ,, Willy, ,, Wizard"
           ],
           [
             "",
             "Ice Cream Sandwich",
             "Vanilla ice cream sandwiched between two chocolate cookies.",
-            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"150\">, 150g",
             "Marnie",
-            "Everyone other than George , Harvey , Krobus , and Marnie",
-            "George , Harvey , Krobus"
+            "Everyone other than, George, ,, Harvey, ,, Krobus, , and, Marnie",
+            "George, ,, Harvey, ,, Krobus"
           ],
           [
             "",
             "Jasmine Tea",
             "Green tea flavored with aromatic jasmine flowers.",
-            "data-sort-value=\"50\"> 50g",
-            "Caroline , Harvey , Lewis , Sebastian",
-            "Alex , Elliott , Emily , Haley , Jodi , Kent , Krobus , Leah , Leo , Lewis , Linus , Linus , Marnie , Maru , Penny , Pierre , Robin , Sandy , Shane , Willy , Wizard",
-            "Abigail , Clint , Demetrius , Dwarf , Evelyn , George , Gus , Jas , Pam , Sam , Vincent"
+            "data-sort-value=\"50\">, 50g",
+            "Caroline, ,, Harvey, ,, Lewis, ,, Sebastian",
+            "Alex, ,, Elliott, ,, Emily, ,, Haley, ,, Jodi, ,, Kent, ,, Krobus, ,, Leah, ,, Leo, ,, Lewis, ,, Linus, ,, Linus, ,, Marnie, ,, Maru, ,, Penny, ,, Pierre, ,, Robin, ,, Sandy, ,, Shane, ,, Willy, ,, Wizard",
+            "Abigail, ,, Clint, ,, Demetrius, ,, Dwarf, ,, Evelyn, ,, George, ,, Gus, ,, Jas, ,, Pam, ,, Sam, ,, Vincent"
           ],
           [
             "",
             "Jawbreaker",
             "It's a big, hard candy that lasts the whole movie!",
-            "data-sort-value=\"250\"> 250g",
+            "data-sort-value=\"250\">, 250g",
             "Vincent",
-            "Abigail , Clint , Demetrius , Dwarf , Emily , Evelyn , Haley , Jas , Leah , Leo , Lewis , Linus , Marnie , Maru , Pam , Penny , Pierre , Sam , Sandy , Sebastian , Shane , Wizard",
-            "Alex , Caroline , Elliott , George , Gus , Harvey , Jodi , Kent , Krobus , Robin , Willy"
+            "Abigail, ,, Clint, ,, Demetrius, ,, Dwarf, ,, Emily, ,, Evelyn, ,, Haley, ,, Jas, ,, Leah, ,, Leo, ,, Lewis, ,, Linus, ,, Marnie, ,, Maru, ,, Pam, ,, Penny, ,, Pierre, ,, Sam, ,, Sandy, ,, Sebastian, ,, Shane, ,, Wizard",
+            "Alex, ,, Caroline, ,, Elliott, ,, George, ,, Gus, ,, Harvey, ,, Jodi, ,, Kent, ,, Krobus, ,, Robin, ,, Willy"
           ],
           [
             "",
             "Joja Cola",
             "An extra-large cup of Joja's flagship soda.",
-            "data-sort-value=\"40\"> 40g",
+            "data-sort-value=\"40\">, 40g",
             "Shane",
-            "Leo , Pam , Sam",
-            "Everyone other than Leo , Pam , Sam , and Shane"
+            "Leo, ,, Pam, ,, Sam",
+            "Everyone other than, Leo, ,, Pam, ,, Sam, , and, Shane"
           ],
           [
             "",
             "JojaCorn",
             "Joja's patented corn food, slathered in plenty of \"butter sauce\".",
-            "data-sort-value=\"10\"> 10g",
+            "data-sort-value=\"10\">, 10g",
             "Shane",
-            "Leo , Pam",
-            "Everyone other than Leo , Pam , and Shane"
+            "Leo, ,, Pam",
+            "Everyone other than, Leo, ,, Pam, , and, Shane"
           ],
           [
             "",
             "Kale Smoothie",
             "It's loaded with vitamins and fiber.",
-            "data-sort-value=\"120\"> 120g",
+            "data-sort-value=\"120\">, 120g",
             "Emily",
-            "Alex , Caroline , Elliott , Evelyn , Haley , Harvey , Kent , Krobus , Leah , Leo , Lewis , Linus , Marnie , Maru , Penny , Pierre , Robin , Sandy",
-            "Abigail , Clint , Demetrius , Dwarf , George , Gus , Jas , Jodi , Pam , Sam , Sebastian , Shane , Vincent , Willy , Wizard"
+            "Alex, ,, Caroline, ,, Elliott, ,, Evelyn, ,, Haley, ,, Harvey, ,, Kent, ,, Krobus, ,, Leah, ,, Leo, ,, Lewis, ,, Linus, ,, Marnie, ,, Maru, ,, Penny, ,, Pierre, ,, Robin, ,, Sandy",
+            "Abigail, ,, Clint, ,, Demetrius, ,, Dwarf, ,, George, ,, Gus, ,, Jas, ,, Jodi, ,, Pam, ,, Sam, ,, Sebastian, ,, Shane, ,, Vincent, ,, Willy, ,, Wizard"
           ],
           [
             "",
             "Nachos",
             "Gooey, spicy cheese on top of freshly fried tortilla chips.",
-            "data-sort-value=\"100\"> 100g",
-            "Pam , Shane",
-            "Abigail , Alex , Clint , Demetrius , George , Gus , Jodi , Kent , Krobus , Leo , Lewis , Linus , Maru , Penny , Pierre , Robin , Sam , Sandy , Sebastian , Vincent , Willy",
-            "Caroline , Dwarf , Elliott , Emily , Evelyn , Haley , Harvey , Jas , Leah , Marnie , Wizard"
+            "data-sort-value=\"100\">, 100g",
+            "Pam, ,, Shane",
+            "Abigail, ,, Alex, ,, Clint, ,, Demetrius, ,, George, ,, Gus, ,, Jodi, ,, Kent, ,, Krobus, ,, Leo, ,, Lewis, ,, Linus, ,, Maru, ,, Penny, ,, Pierre, ,, Robin, ,, Sam, ,, Sandy, ,, Sebastian, ,, Vincent, ,, Willy",
+            "Caroline, ,, Dwarf, ,, Elliott, ,, Emily, ,, Evelyn, ,, Haley, ,, Harvey, ,, Jas, ,, Leah, ,, Marnie, ,, Wizard"
           ],
           [
             "",
             "Panzanella Salad",
             "A summer salad of bread and tomatoes.",
-            "data-sort-value=\"200\"> 200g",
-            "Gus , Leah",
-            "Alex , Caroline , Elliott , Emily , Evelyn , Haley , Harvey , Kent , Krobus , Leo , Lewis , Linus , Marnie , Maru , Penny , Pierre , Robin , Sandy",
-            "Abigail , Clint , Demetrius , Dwarf , George , Jas , Jodi , Pam , Sam , Sebastian , Shane , Vincent , Willy , Wizard"
+            "data-sort-value=\"200\">, 200g",
+            "Gus, ,, Leah",
+            "Alex, ,, Caroline, ,, Elliott, ,, Emily, ,, Evelyn, ,, Haley, ,, Harvey, ,, Kent, ,, Krobus, ,, Leo, ,, Lewis, ,, Linus, ,, Marnie, ,, Maru, ,, Penny, ,, Pierre, ,, Robin, ,, Sandy",
+            "Abigail, ,, Clint, ,, Demetrius, ,, Dwarf, ,, George, ,, Jas, ,, Jodi, ,, Pam, ,, Sam, ,, Sebastian, ,, Shane, ,, Vincent, ,, Willy, ,, Wizard"
           ],
           [
             "",
             "Personal Pizza",
             "A pizza small enough to enjoy as a snack.",
-            "data-sort-value=\"150\"> 150g",
-            "Pierre , Sam , Shane",
-            "Abigail , Alex , Clint , Demetrius , George , Gus , Robin , Jas , Jodi , Kent , Krobus , Leo , Lewis , Linus , Marnie , Maru , Pam , Penny , Robin , Sandy , Sebastian , Vincent , Willy",
-            "Caroline , Dwarf , Elliott , Emily , Evelyn , Haley , Harvey , Leah , Wizard"
+            "data-sort-value=\"150\">, 150g",
+            "Pierre, ,, Sam, ,, Shane",
+            "Abigail, ,, Alex, ,, Clint, ,, Demetrius, ,, George, ,, Gus, ,, Robin, ,, Jas, ,, Jodi, ,, Kent, ,, Krobus, ,, Leo, ,, Lewis, ,, Linus, ,, Marnie, ,, Maru, ,, Pam, ,, Penny, ,, Robin, ,, Sandy, ,, Sebastian, ,, Vincent, ,, Willy",
+            "Caroline, ,, Dwarf, ,, Elliott, ,, Emily, ,, Evelyn, ,, Haley, ,, Harvey, ,, Leah, ,, Wizard"
           ],
           [
             "",
             "Popcorn",
             "Popped kernels of corn, dusted lightly with salt and drizzled with butter.",
-            "data-sort-value=\"120\"> 120g",
-            "Demetrius , Kent",
-            "Abigail , Alex , Caroline , Clint , George , Gus , Jodi , Krobus , Leo , Lewis , Linus , Marnie , Maru , Pam , Penny , Pierre , Robin , Sam , Sandy , Sebastian , Shane , Vincent , Willy",
-            "Dwarf , Elliott , Emily , Evelyn , Haley , Harvey , Jas , Leah , Wizard"
+            "data-sort-value=\"120\">, 120g",
+            "Demetrius, ,, Kent",
+            "Abigail, ,, Alex, ,, Caroline, ,, Clint, ,, George, ,, Gus, ,, Jodi, ,, Krobus, ,, Leo, ,, Lewis, ,, Linus, ,, Marnie, ,, Maru, ,, Pam, ,, Penny, ,, Pierre, ,, Robin, ,, Sam, ,, Sandy, ,, Sebastian, ,, Shane, ,, Vincent, ,, Willy",
+            "Dwarf, ,, Elliott, ,, Emily, ,, Evelyn, ,, Haley, ,, Harvey, ,, Jas, ,, Leah, ,, Wizard"
           ],
           [
             "",
             "Rock Candy",
             "Flavored sugar crystals attached to a convenient stick.",
-            "data-sort-value=\"90\"> 90g",
-            "Abigail , Dwarf",
-            "Clint , Demetrius , Emily , Evelyn , Haley , Jas , Leah , Leo , Lewis , Linus , Marnie , Maru , Pam , Penny , Pierre , Sam , Sandy , Sebastian , Shane , Vincent , Wizard",
-            "Alex , Caroline , Elliott , George , Gus , Harvey , Jodi , Kent , Krobus , Robin , Willy"
+            "data-sort-value=\"90\">, 90g",
+            "Abigail, ,, Dwarf",
+            "Clint, ,, Demetrius, ,, Emily, ,, Evelyn, ,, Haley, ,, Jas, ,, Leah, ,, Leo, ,, Lewis, ,, Linus, ,, Marnie, ,, Maru, ,, Pam, ,, Penny, ,, Pierre, ,, Sam, ,, Sandy, ,, Sebastian, ,, Shane, ,, Vincent, ,, Wizard",
+            "Alex, ,, Caroline, ,, Elliott, ,, George, ,, Gus, ,, Harvey, ,, Jodi, ,, Kent, ,, Krobus, ,, Robin, ,, Willy"
           ],
           [
             "",
             "Salmon Burger",
             "A thick slab of salmon on a lightly toasted sesame seed bun.",
-            "data-sort-value=\"150\"> 150g",
-            "Alex , Linus , Willy",
-            "Everyone other than Alex , Linus , and Willy",
+            "data-sort-value=\"150\">, 150g",
+            "Alex, ,, Linus, ,, Willy",
+            "Everyone other than, Alex, ,, Linus, , and, Willy",
             "N/A"
           ],
           [
             "",
             "Salted Peanuts",
             "A classic salty treat.",
-            "data-sort-value=\"120\"> 120g",
+            "data-sort-value=\"120\">, 120g",
             "Robin",
-            "Abigail , Alex , Caroline , Clint , Demetrius , George , Gus , Jodi , Kent , Krobus , Leo , Lewis , Linus , Maru , Pam , Penny , Pierre , Sam , Sandy , Sebastian , Shane , Vincent , Willy",
-            "Dwarf , Elliott , Emily , Evelyn , Haley , Harvey , Jas , Leah , Marnie , Wizard"
+            "Abigail, ,, Alex, ,, Caroline, ,, Clint, ,, Demetrius, ,, George, ,, Gus, ,, Jodi, ,, Kent, ,, Krobus, ,, Leo, ,, Lewis, ,, Linus, ,, Maru, ,, Pam, ,, Penny, ,, Pierre, ,, Sam, ,, Sandy, ,, Sebastian, ,, Shane, ,, Vincent, ,, Willy",
+            "Dwarf, ,, Elliott, ,, Emily, ,, Evelyn, ,, Haley, ,, Harvey, ,, Jas, ,, Leah, ,, Marnie, ,, Wizard"
           ],
           [
             "",
             "Sour Slimes",
             "Tiny gummy slimes of assorted colors. They're sprinkled with an extremely sour powder.",
-            "data-sort-value=\"80\"> 80g",
+            "data-sort-value=\"80\">, 80g",
             "Jas",
-            "Abigail , Clint , Demetrius , Dwarf , Emily , Evelyn , George , Haley , Harvey , Krobus , Leah , Leo , Linus , Marnie , Maru , Pam , Pierre , Sam , Sebastian , Shane , Vincent , Wizard",
-            "Alex , Caroline , Elliott , Gus , Jodi , Kent , Lewis , Penny , Robin , Sandy , Willy"
+            "Abigail, ,, Clint, ,, Demetrius, ,, Dwarf, ,, Emily, ,, Evelyn, ,, George, ,, Haley, ,, Harvey, ,, Krobus, ,, Leah, ,, Leo, ,, Linus, ,, Marnie, ,, Maru, ,, Pam, ,, Pierre, ,, Sam, ,, Sebastian, ,, Shane, ,, Vincent, ,, Wizard",
+            "Alex, ,, Caroline, ,, Elliott, ,, Gus, ,, Jodi, ,, Kent, ,, Lewis, ,, Penny, ,, Robin, ,, Sandy, ,, Willy"
           ],
           [
             "",
             "Star Cookie",
             "A star-shaped shortbread cookie with rainbow sprinkles.",
-            "data-sort-value=\"150\"> 150g",
-            "Evelyn , Maru , Wizard",
-            "Abigail , Alex , Caroline , Clint , Demetrius , Dwarf , Elliott , Emily , Gus , Haley , Jas , Jodi , Kent , Leah , Leo , Lewis , Linus , Marnie , Pam , Penny , Pierre , Robin , Sam , Sandy , Sebastian , Shane , Vincent , Willy",
-            "George , Harvey , Krobus"
+            "data-sort-value=\"150\">, 150g",
+            "Evelyn, ,, Maru, ,, Wizard",
+            "Abigail, ,, Alex, ,, Caroline, ,, Clint, ,, Demetrius, ,, Dwarf, ,, Elliott, ,, Emily, ,, Gus, ,, Haley, ,, Jas, ,, Jodi, ,, Kent, ,, Leah, ,, Leo, ,, Lewis, ,, Linus, ,, Marnie, ,, Pam, ,, Penny, ,, Pierre, ,, Robin, ,, Sam, ,, Sandy, ,, Sebastian, ,, Shane, ,, Vincent, ,, Willy",
+            "George, ,, Harvey, ,, Krobus"
           ],
           [
             "",
             "Stardrop Sorbet",
             "A single drop of stardrop essence transforms this sorbet into an extraordinary treat.",
-            "data-sort-value=\"1250\"> 1,250g",
-            "Everyone other than Leo and Krobus",
+            "data-sort-value=\"1250\">, 1,250g",
+            "Everyone other than, Leo, and, Krobus",
             "Leo",
             "Krobus"
           ],
@@ -374,10 +403,10 @@
             "",
             "Truffle Popcorn",
             "Heirloom popcorn sprinkled with truffle salt.",
-            "data-sort-value=\"180\"> 180g",
-            "Caroline , Elliott , Gus",
-            "Abigail , Alex , Clint , Demetrius , Emily , George , Harvey , Kent , Krobus , Leah , Leo , Lewis , Linus , Maru , Pam , Penny , Pierre , Robin , Sandy , Sebastian , Willy",
-            "Dwarf , Evelyn , Haley , Jas , Jodi , Marnie , Sam , Shane , Vincent , Wizard"
+            "data-sort-value=\"180\">, 180g",
+            "Caroline, ,, Elliott, ,, Gus",
+            "Abigail, ,, Alex, ,, Clint, ,, Demetrius, ,, Emily, ,, George, ,, Harvey, ,, Kent, ,, Krobus, ,, Leah, ,, Leo, ,, Lewis, ,, Linus, ,, Maru, ,, Pam, ,, Penny, ,, Pierre, ,, Robin, ,, Sandy, ,, Sebastian, ,, Willy",
+            "Dwarf, ,, Evelyn, ,, Haley, ,, Jas, ,, Jodi, ,, Marnie, ,, Sam, ,, Shane, ,, Vincent, ,, Wizard"
           ]
         ]
       }
@@ -394,24 +423,24 @@
           ],
           [
             "Merchants",
-            "Abandoned House • Adventurer's Guild • Blacksmith • Bookseller • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Giant Stump • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower"
+            "Abandoned House, •, Adventurer's Guild, •, Blacksmith, •, Bookseller, •, Carpenter's Shop, •, Casino, •, Desert Trader, •, Fish Shop, •, Giant Stump, •, Harvey's Clinic, •, Ice Cream Stand, •, Island Trader, •, JojaMart, •, Marnie's Ranch, •, Oasis, •, Pierre's General Store, •, Qi's Walnut Room, •, The Stardrop Saloon, •, Traveling Cart, •, Volcano Dwarf, •, Wizard's Tower"
           ],
           [
             "Houses",
-            "1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse"
+            "1 River Road, •, 2 River Road, •, 1 Willow Lane, •, 2 Willow Lane, •, 24 Mountain Road, •, Elliott's Cabin, •, Farmhouse, •, Island Farmhouse, •, Leah's Cottage, •, Mayor's Manor, •, Tent, •, Trailer, •, Treehouse"
           ],
           [
             "Farm Buildings",
             "Farming",
-            "Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Pet Bowl • Shed • Silo • Slime Hutch • Stable • Well"
+            "Barn, •, Cabin, •, Coop, •, Fish Pond, •, Greenhouse, •, Mill, •, Pet Bowl, •, Shed, •, Silo, •, Slime Hutch, •, Stable, •, Well"
           ],
           [
             "Special",
-            "Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk"
+            "Desert Obelisk, •, Earth Obelisk, •, Farm Obelisk, •, Gold Clock, •, Island Obelisk, •, Junimo Hut, •, Water Obelisk"
           ],
           [
             "Other Buildings",
-            "Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut"
+            "Community Center, •, Dog Pen, •, Island Field Office, •, Joja Warehouse, •, Movie Theater, •, Museum, •, Spa, •, Witch's Hut"
           ]
         ]
       }

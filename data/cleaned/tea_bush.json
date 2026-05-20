@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Tea Bush Information Seed Tea Sapling Growth Time 20 days Harvest Season Spring • Summer • Fall Produces Tea Leaves\nA Tea Bush is a type of bush that grows from a Tea Sapling . It takes 20 days to grow to maturity, after which it will produce one Tea Leaf each day during the last week (22nd-28th) of Spring , Summer , and Fall (and Winter if indoors). One Tea Bush exists inside of Caroline 's sunroom, and can also be harvested at the same time as other Tea Bushes (the last week of each season).\nAn immature Tea Bush grows at any time, even outdoors, even in winter, without watering, the same as fruit trees . As with fruit trees, Tree Fertilizer cannot be used on tea bushes."
+      "content": "A Tea Bush is a type of bush that grows from a Tea Sapling . It takes 20 days to grow to maturity, after which it will produce one Tea Leaf each day during the last week (22nd-28th) of Spring , Summer , and Fall (and Winter if indoors). One Tea Bush exists inside of Caroline 's sunroom, and can also be harvested at the same time as other Tea Bushes (the last week of each season).\nAn immature Tea Bush grows at any time, even outdoors, even in winter, without watering, the same as fruit trees . As with fruit trees, Tree Fertilizer cannot be used on tea bushes."
     },
     {
       "heading": "Stages",
@@ -20,6 +20,42 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Tea Bush"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Seed",
+            "Tea Sapling"
+          ],
+          [
+            "Growth Time",
+            "20 days"
+          ],
+          [
+            "Harvest Season",
+            "Spring, •, Summer, •, Fall"
+          ],
+          [
+            "Produces",
+            "Tea Leaves"
+          ]
+        ]
+      }
+    },
     {
       "section": "Stages",
       "table": {
@@ -48,7 +84,7 @@
             "10 Days",
             "Until 21st of the season",
             "Total: 20 Days",
-            "Continues to produce every day."
+            "Continues to, produce every day."
           ]
         ]
       }
@@ -65,23 +101,23 @@
           ],
           [
             "Trees",
-            "Green Rain Trees • Mahogany Tree • Maple Tree • Mushroom Tree • Mystic Tree • Oak Tree • Palm Tree • Pine Tree"
+            "Green Rain Trees, •, Mahogany Tree, •, Maple Tree, •, Mushroom Tree, •, Mystic Tree, •, Oak Tree, •, Palm Tree, •, Pine Tree"
           ],
           [
             "Fruit Trees",
-            "Apple Tree • Apricot Tree • Banana Tree • Cherry Tree • Mango Tree • Orange Tree • Peach Tree • Pomegranate Tree"
+            "Apple Tree, •, Apricot Tree, •, Banana Tree, •, Cherry Tree, •, Mango Tree, •, Orange Tree, •, Peach Tree, •, Pomegranate Tree"
           ],
           [
             "Seeds",
-            "Acorn • Mahogany Seed • Maple Seed • Mossy Seed • Mushroom Tree Seed • Pine Cone • Mystic Tree Seed"
+            "Acorn, •, Mahogany Seed, •, Maple Seed, •, Mossy Seed, •, Mushroom Tree Seed, •, Pine Cone, •, Mystic Tree Seed"
           ],
           [
             "Fruit",
-            "Apple • Apricot • Banana • Cherry • Mango • Orange • Peach • Pomegranate"
+            "Apple, •, Apricot, •, Banana, •, Cherry, •, Mango, •, Orange, •, Peach, •, Pomegranate"
           ],
           [
             "Misc",
-            "Large Log • Large Stump • Tea Bush"
+            "Large Log, •, Large Stump, •, Tea Bush"
           ]
         ]
       }

@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Goat Happy adults provide goat milk every other day. A milk pail is required to harvest the milk. Lives in the barn. Information Building Big Barn Purchase Price data-sort-value=\"4000 \"> 4,000g Produce Goat Milk Large Goat Milk\nThe Goat is an animal that lives in a Big Barn . Goats can be purchased at Marnie's Ranch for data-sort-value=\"4000\"> 4,000g . Goats can become pregnant and give birth ."
+      "content": "The Goat is an animal that lives in a Big Barn . Goats can be purchased at Marnie's Ranch for data-sort-value=\"4000\"> 4,000g . Goats can become pregnant and give birth ."
     },
     {
       "heading": "Produce",
@@ -20,6 +20,38 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Goat"
+          ],
+          [
+            ""
+          ],
+          [
+            "Happy adults provide goat milk every other day. A milk pail is required to harvest the milk. Lives in the barn."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Building",
+            "Big Barn"
+          ],
+          [
+            "Purchase Price",
+            "data-sort-value=\"4000 \">, 4,000g"
+          ],
+          [
+            "Produce",
+            "Goat Milk, Large Goat Milk"
+          ]
+        ]
+      }
+    },
     {
       "section": "Produce",
       "table": {
@@ -40,7 +72,7 @@
             "",
             "Goat Milk",
             "The milk of a goat.",
-            "225g 281g 337g 450g",
+            "225g, 281g, 337g, 450g",
             "",
             "225g",
             "",
@@ -70,7 +102,7 @@
             "",
             "Large Goat Milk",
             "A gallon of creamy goat's milk.",
-            "345g 431g 517g 690g",
+            "345g, 431g, 517g, 690g",
             "",
             "345g",
             "",
@@ -107,15 +139,15 @@
         ],
         "rows": [
           [
-            "Animals and Produce"
+            "Animals, and Produce"
           ],
           [
             "Coop",
-            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+            "Chicken, •, Dinosaur, •, Duck, •, Golden Chicken, •, Rabbit, •, Void Chicken"
           ],
           [
             "Barn",
-            "Cow • Goat • Sheep • Ostrich • Pig"
+            "Cow, •, Goat, •, Sheep, •, Ostrich, •, Pig"
           ],
           [
             "Fish Pond",
@@ -127,7 +159,7 @@
           ],
           [
             "Other",
-            "Cat • Dog • Horse • Turtle"
+            "Cat, •, Dog, •, Horse, •, Turtle"
           ]
         ]
       }

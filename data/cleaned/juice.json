@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Juice A sweet, nutritious beverage. Information Source Artisan Goods Sell Prices Base Artisan (+40%) 2.25 × Base Vegetable / Forage Price 1.4 × Base Juice Price Artisan Goods Equipment Keg Processing Time 6000m (≈4d) Ingredients Any vegetable (1) (other than Wheat , Hops , & Tea Leaves ) or Any positive energy foraged item (1) (other than Mushrooms )\nJuice is an Artisan Good made from placing a vegetable or foraged item inside a Keg , taking approximately 4 days . Its selling price is the base value of the ingredient input multiplied by 2.25 (3.15 with the Artisan profession).\nThe energy and health restored by Juice is equal to 2 × Base Ingredient Value for edible vegetables and foraged items. For inedible vegetables, Juice will restore energy equal to exactly Base Vegetable Value and health equal to 45% Base Vegetable Value. The color of the Juice also depends on the item used.\nAlthough Wheat , Hops , and Tea Leaves are classified as vegetables , when used with a Keg , they produce Beer , Pale Ale , and Green Tea respectively.\nThe following foraged items can be made into Juice: Cave Carrot , Dandelion , Ginger , Hazelnut , Leek , Spring Onion , Snow Yam , Wild Horseradish , and Winter Root .\nJuice cannot be put in a cask ."
+      "content": "Juice is an Artisan Good made from placing a vegetable or foraged item inside a Keg , taking approximately 4 days . Its selling price is the base value of the ingredient input multiplied by 2.25 (3.15 with the Artisan profession).\nThe energy and health restored by Juice is equal to 2 × Base Ingredient Value for edible vegetables and foraged items. For inedible vegetables, Juice will restore energy equal to exactly Base Vegetable Value and health equal to 45% Base Vegetable Value. The color of the Juice also depends on the item used.\nAlthough Wheat , Hops , and Tea Leaves are classified as vegetables , when used with a Keg , they produce Beer , Pale Ale , and Green Tea respectively.\nThe following foraged items can be made into Juice: Cave Carrot , Dandelion , Ginger , Hazelnut , Leek , Spring Onion , Snow Yam , Wild Horseradish , and Winter Root .\nJuice cannot be put in a cask ."
     },
     {
       "heading": "Bundles",
@@ -33,6 +33,83 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Juice"
+          ],
+          [
+            ""
+          ],
+          [
+            "A sweet, nutritious beverage."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Artisan Goods"
+          ],
+          [
+            "Sell Prices, Base, Artisan, (+40%), 2.25 × Base, Vegetable, /, Forage, Price, 1.4 × Base Juice Price",
+            "Sell Prices",
+            "Base",
+            "Artisan, (+40%)",
+            "2.25 × Base, Vegetable, /, Forage, Price",
+            "1.4 × Base Juice Price"
+          ],
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Artisan, (+40%)"
+          ],
+          [
+            "2.25 × Base, Vegetable, /, Forage, Price",
+            "1.4 × Base Juice Price"
+          ],
+          [
+            "Artisan Goods"
+          ],
+          [
+            "Equipment",
+            "Keg"
+          ],
+          [
+            "Processing Time",
+            "6000m (≈4d)"
+          ],
+          [
+            "Ingredients",
+            "Any, vegetable, (1) (other than, Wheat, ,, Hops, , &, Tea Leaves, ), or, Any positive energy, foraged item, (1) (other than, Mushrooms, )"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Artisan, (+40%)"
+          ],
+          [
+            "2.25 × Base, Vegetable, /, Forage, Price",
+            "1.4 × Base Juice Price"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Gifting",
       "table": {
         "headers": [
@@ -44,11 +121,11 @@
           ],
           [
             "Like",
-            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Shane • Willy • Wizard"
+            "Abigail, •, Alex, •, Caroline, •, Clint, •, Demetrius, •, Dwarf, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Haley, •, Harvey, •, Jodi, •, Kent, •, Krobus, •, Leah, •, Leo, •, Lewis, •, Linus, •, Marnie, •, Maru, •, Pam, •, Penny, •, Pierre, •, Robin, •, Sam, •, Sandy, •, Shane, •, Willy, •, Wizard"
           ],
           [
             "Hate",
-            "Jas • Sebastian • Vincent"
+            "Jas, •, Sebastian, •, Vincent"
           ]
         ]
       }
@@ -69,15 +146,15 @@
           ],
           [
             "Cask",
-            "Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine"
+            "Beer, •, Cheese, •, Goat Cheese, •, Mead, •, Pale Ale, •, Wine"
           ],
           [
             "Cheese Press",
-            "Cheese • Goat Cheese"
+            "Cheese, •, Goat Cheese"
           ],
           [
             "Keg",
-            "Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine"
+            "Beer, •, Coffee, •, Green Tea, •, Juice, •, Mead, •, Pale Ale, •, Wine"
           ],
           [
             "Loom",
@@ -85,15 +162,15 @@
           ],
           [
             "Mayonnaise Machine",
-            "Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise"
+            "Dinosaur Mayonnaise, •, Duck Mayonnaise, •, Mayonnaise, •, Void Mayonnaise"
           ],
           [
             "Oil Maker",
-            "Oil • Truffle Oil"
+            "Oil, •, Truffle Oil"
           ],
           [
             "Preserves Jar",
-            "Aged Roe • Caviar • Jellies and Pickles"
+            "Aged Roe, •, Caviar, •, Jellies and Pickles"
           ],
           [
             "Fish Smoker",
@@ -101,11 +178,11 @@
           ],
           [
             "Dehydrator",
-            "Dried Mushrooms • Dried Fruit • Raisins"
+            "Dried Mushrooms, •, Dried Fruit, •, Raisins"
           ],
           [
             "Misc",
-            "Maple Syrup • Oak Resin • Pine Tar • Mystic Syrup"
+            "Maple Syrup, •, Oak Resin, •, Pine Tar, •, Mystic Syrup"
           ]
         ]
       }

@@ -103,153 +103,153 @@
           [
             "",
             "Autumn's Bounty",
-            "Yam (1) Pumpkin (1)",
-            "220 99",
-            "Foraging (+2) Defense (+2)",
+            "Yam, (1), Pumpkin, (1)",
+            "220, 99",
+            "Foraging, (+2), Defense, (+2)",
             "7m 41s"
           ],
           [
             "",
             "Coffee",
-            "Coffee Bean (5)",
-            "3 1",
-            "Speed (+1)",
+            "Coffee Bean, (5)",
+            "3, 1",
+            "Speed, (+1)",
             "1m 23s"
           ],
           [
             "",
             "Crab Cakes",
-            "Crab (1) Wheat Flour (1) Egg (1) Oil (1)",
-            "225 101",
-            "Speed (+1) Defense (+1)",
+            "Crab, (1), Wheat Flour, (1), Egg, (1), Oil, (1)",
+            "225, 101",
+            "Speed, (+1), Defense, (+1)",
             "16m 47s"
           ],
           [
             "",
             "Cranberry Sauce",
-            "Cranberries (1) Sugar (1)",
-            "125 56",
-            "Mining (+2)",
+            "Cranberries, (1), Sugar, (1)",
+            "125, 56",
+            "Mining, (+2)",
             "3m 30s"
           ],
           [
             "",
             "Eggplant Parmesan",
-            "Eggplant (1) Tomato (1)",
-            "175 78",
-            "Mining (+1) Defense (+3)",
+            "Eggplant, (1), Tomato, (1)",
+            "175, 78",
+            "Mining, (+1), Defense, (+3)",
             "4m 39s"
           ],
           [
             "",
             "Fried Eel",
-            "Eel (1) Oil (1)",
-            "75 33",
-            "Luck (+1)",
+            "Eel, (1), Oil, (1)",
+            "75, 33",
+            "Luck, (+1)",
             "7m"
           ],
           [
             "",
             "Fried Mushroom",
-            "Common Mushroom (1) Morel (1) Oil (1)",
-            "135 60",
-            "Attack (+2)",
+            "Common Mushroom, (1), Morel, (1), Oil, (1)",
+            "135, 60",
+            "Attack, (+2)",
             "7m"
           ],
           [
             "",
             "Ginger Ale",
-            "Ginger (3) Sugar (1)",
-            "63 28",
-            "Luck (+1)",
+            "Ginger, (3), Sugar, (1)",
+            "63, 28",
+            "Luck, (+1)",
             "5m"
           ],
           [
             "",
             "Lucky Lunch",
-            "Sea Cucumber (1) Tortilla (1) Blue Jazz (1)",
-            "100 45",
-            "Luck (+3)",
+            "Sea Cucumber, (1), Tortilla, (1), Blue Jazz, (1)",
+            "100, 45",
+            "Luck, (+3)",
             "11m 11s"
           ],
           [
             "",
             "Magic Rock Candy",
             "N/A",
-            "500 225",
-            "Mining (+2) Luck (+5) Speed (+1) Defense (+5) Attack (+5)",
+            "500, 225",
+            "Mining, (+2), Luck, (+5), Speed, (+1), Defense, (+5), Attack, (+5)",
             "8m 24s"
           ],
           [
             "",
             "Maple Bar",
-            "Maple Syrup (1) Sugar (1) Wheat Flour (1)",
-            "225 101",
-            "Farming (+1) Fishing (+1) Mining (+1)",
+            "Maple Syrup, (1), Sugar, (1), Wheat Flour, (1)",
+            "225, 101",
+            "Farming, (+1), Fishing, (+1), Mining, (+1)",
             "16m 47s"
           ],
           [
             "",
             "Miner's Treat",
-            "Cave Carrot (2) Sugar (1) Milk (1)",
-            "125 56",
-            "Mining (+3) Magnetism (+32)",
+            "Cave Carrot, (2), Sugar, (1), Milk, (1)",
+            "125, 56",
+            "Mining, (+3), Magnetism, (+32)",
             "5m 35s"
           ],
           [
             "",
             "Pepper Poppers",
-            "Hot Pepper (1) Cheese (1)",
-            "130 58",
-            "Speed (+1) Farming (+2)",
+            "Hot Pepper, (1), Cheese, (1)",
+            "130, 58",
+            "Speed, (+1), Farming, (+2)",
             "7m"
           ],
           [
             "",
             "Pumpkin Soup",
-            "Pumpkin (1) Milk (1)",
-            "200 90",
-            "Luck (+2) Defense (+2)",
+            "Pumpkin, (1), Milk, (1)",
+            "200, 90",
+            "Luck, (+2), Defense, (+2)",
             "7m 41s"
           ],
           [
             "",
             "Roots Platter",
-            "Cave Carrot (1) Winter Root (1)",
-            "125 56",
-            "Attack (+3)",
+            "Cave Carrot, (1), Winter Root, (1)",
+            "125, 56",
+            "Attack, (+3)",
             "5m 35s"
           ],
           [
             "",
             "Spicy Eel",
-            "Eel (1) Hot Pepper (1)",
-            "115 51",
-            "Luck (+1) Speed (+1)",
+            "Eel, (1), Hot Pepper, (1)",
+            "115, 51",
+            "Luck, (+1), Speed, (+1)",
             "7m"
           ],
           [
             "",
             "Stuffing",
-            "Bread (1) Cranberries (1) Hazelnut (1)",
-            "170 76",
-            "Defense (+2)",
+            "Bread, (1), Cranberries, (1), Hazelnut, (1)",
+            "170, 76",
+            "Defense, (+2)",
             "5m 35s"
           ],
           [
             "",
             "Super Meal",
-            "Bok Choy (1) Cranberries (1) Artichoke (1)",
-            "160 72",
-            "Speed (+1) Max Energy (+40)",
+            "Bok Choy, (1), Cranberries, (1), Artichoke, (1)",
+            "160, 72",
+            "Speed, (+1), Max Energy, (+40)",
             "3m 30s"
           ],
           [
             "",
             "Triple Shot Espresso",
-            "Coffee (3)",
-            "8 3",
-            "Speed (+1)",
+            "Coffee, (3)",
+            "8, 3",
+            "Speed, (+1)",
             "4m 12s"
           ]
         ]
@@ -274,20 +274,20 @@
           [
             "",
             "Cherry Bomb",
-            "Copper Ore (4) Coal (1)",
-            "data-sort-value=\"450\"> 450g"
+            "Copper Ore, (4), Coal, (1)",
+            "data-sort-value=\"450\">, 450g"
           ],
           [
             "",
             "Bomb",
-            "Iron Ore (4) Coal (1)",
-            "data-sort-value=\"1000\"> 1,000g"
+            "Iron Ore, (4), Coal, (1)",
+            "data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "Mega Bomb",
-            "Gold Ore (4) Solar Essence (1) Void Essence (1)",
-            "data-sort-value=\"1600\"> 1,600g"
+            "Gold Ore, (4), Solar Essence, (1), Void Essence, (1)",
+            "data-sort-value=\"1600\">, 1,600g"
           ]
         ]
       }
@@ -315,21 +315,21 @@
             "Armored Bug",
             "1",
             "8",
-            "Can only be killed while using a weapon with the bug killer enchantment ."
+            "Can only be killed while using a weapon with the, bug killer enchantment, ."
           ],
           [
             "",
             "Big Slime",
             "60",
             "5",
-            "A chance to split into smaller Slimes when killed. Big Slimes are purple in the Skull Cavern."
+            "A chance to split into smaller, Slimes, when killed., Big Slimes, are purple in the Skull Cavern."
           ],
           [
             "",
             "Purple Slime",
             "410",
             "28",
-            "Can drop Iridium Ore and Iridium Bars ."
+            "Can drop, Iridium Ore, and, Iridium Bars, ."
           ],
           [
             "",
@@ -343,42 +343,42 @@
             "Mummy",
             "260",
             "30",
-            "Appears on Mummy floors. Needs to be finished with a bomb of any type after being knocked out with other weapons. If a bomb does enough damage to knock the Mummy out, it will also destroy it. Using a weapon with the Crusader enchantment stops them from reviving. Frequently drops Solar Essence when slain, and occasionally drops Cloth ."
+            "Appears on Mummy floors. Needs to be finished with a, bomb, of any type after being knocked out with other weapons. If a bomb does enough damage to knock the Mummy out, it will also destroy it. Using a weapon with the, Crusader enchantment, stops them from reviving. Frequently drops, Solar Essence, when slain, and occasionally drops, Cloth, ."
           ],
           [
             "",
             "Serpent",
             "150",
             "23",
-            "Moves quickly; default flying enemy. Frequently drops Void Essence . Occasionally drops Spicy Eel and Bombs ."
+            "Moves quickly; default flying enemy. Frequently drops, Void Essence, . Occasionally drops, Spicy Eel, and, Bombs, ."
           ],
           [
             "",
             "Iridium Bat",
             "300",
             "30",
-            "Appears at floor 51+ and on prehistoric floors. Very high HP and Damage. Frequently drops Iridium Ore and Solar Essence ."
+            "Appears at floor 51+ and on prehistoric floors. Very high HP and Damage. Frequently drops, Iridium Ore, and, Solar Essence, ."
           ],
           [
             "",
             "Iridium Crab",
             "240",
             "15",
-            "Appears at floor 26+ except not on mummy floors. Can drop Iridium Ore and Crab Cakes ."
+            "Appears at floor 26+ except not on mummy floors. Can drop, Iridium Ore, and, Crab Cakes, ."
           ],
           [
             "",
             "Carbon Ghost",
             "190",
             "25",
-            "Can appear on Mummy floors. Frequently drop Omni Geodes . May occasionally drop Refined Quartz ."
+            "Can appear on Mummy floors. Frequently drop, Omni Geodes, . May occasionally drop, Refined Quartz, ."
           ],
           [
             "",
             "Pepper Rex",
             "300",
             "15",
-            "Appears mainly on prehistoric floors; breathes fire. Drops Dinosaur Egg or one of 3 prehistoric Artifacts ."
+            "Appears mainly on prehistoric floors; breathes fire. Drops, Dinosaur Egg, or one of 3 prehistoric, Artifacts, ."
           ],
           [
             "",
@@ -392,35 +392,35 @@
             "Armored Bug (dangerous)",
             "250",
             "20-27",
-            "Only appears when the Skull Cavern is in a \"dangerous\" state ."
+            "Only appears when the Skull Cavern is in a, \"dangerous\" state, ."
           ],
           [
             "",
             "Mummy (dangerous)",
             "445",
             "38-55",
-            "Only appears when the Skull Cavern is in a \"dangerous\" state ."
+            "Only appears when the Skull Cavern is in a, \"dangerous\" state, ."
           ],
           [
             "",
             "Royal Serpent",
             "300-1050",
             "32-48",
-            "Only appears when the Skull Cavern is in a \"dangerous\" state ."
+            "Only appears when the Skull Cavern is in a, \"dangerous\" state, ."
           ],
           [
             "",
             "Purple Slime (dangerous)",
             "403",
             "20-30",
-            "Only appears when the Skull Cavern is in a \"dangerous\" state ."
+            "Only appears when the Skull Cavern is in a, \"dangerous\" state, ."
           ],
           [
             "",
             "Squid Kid (dangerous)",
             "250",
             "22-32",
-            "Only appears when the Skull Cavern is in a \"dangerous\" state ."
+            "Only appears when the Skull Cavern is in a, \"dangerous\" state, ."
           ]
         ]
       }
@@ -505,13 +505,13 @@
             "",
             "Artifact Trove",
             "5",
-            "1.22% (if Volcano Shortcut is open) 3.6% (if Volcano Shortcut isn't open)"
+            "1.22% (if Volcano Shortcut is open), 3.6% (if Volcano Shortcut isn't open)"
           ],
           [
             "",
             "Cinder Shard",
             "10-20",
-            "2.38% (if Volcano Shortcut is open) 0% (if Volcano Shortcut isn't open)"
+            "2.38% (if Volcano Shortcut is open), 0% (if Volcano Shortcut isn't open)"
           ],
           [
             "",
@@ -523,13 +523,13 @@
             "",
             "Omni Geode",
             "5",
-            "2.7% (if Mystery Boxes are available) 5.4% (if Mystery Boxes aren't available)"
+            "2.7% (if Mystery Boxes are available), 5.4% (if Mystery Boxes aren't available)"
           ],
           [
             "",
             "Omni Geode",
             "10",
-            "0.9% (if Mystery Boxes are available) 1.8% (if Mystery Boxes aren't available)"
+            "0.9% (if Mystery Boxes are available), 1.8% (if Mystery Boxes aren't available)"
           ],
           [
             "",
@@ -907,13 +907,13 @@
             "",
             "Mystery Box",
             "5",
-            "3.6% ( Foraging Mastery not claimed)"
+            "3.6% (, Foraging Mastery, not claimed)"
           ],
           [
             "",
             "Golden Mystery Box",
             "5",
-            "3.6% ( Foraging Mastery claimed)"
+            "3.6% (, Foraging Mastery, claimed)"
           ],
           [
             "",
@@ -947,7 +947,7 @@
             "Details"
           ],
           [
-            "Mr. Qi will either congratulate the player for reaching floor 100 while using 10 or fewer Staircases or say the player is \"clever\" but not \"honorable\" for using more than 10. In either case, he will award the player with Iridium Snake Milk, which permanently increases the player's max health by 25 points. Note that drinking the Milk costs the player 5 Energy ."
+            "Mr. Qi will either congratulate the player for reaching floor 100 while using 10 or fewer, Staircases, or say the player is \"clever\" but not \"honorable\" for using more than 10. In either case, he will award the player with Iridium Snake Milk, which permanently increases the player's max, health, by 25 points. Note that drinking the Milk costs the player 5, Energy, ."
           ]
         ]
       }
@@ -964,7 +964,7 @@
           ],
           [
             "Locations",
-            "Backwoods • Beach • Bus Stop • Calico Desert • Cindersap Forest • Farm • Farm Cave • Farm Pond • Graveyard • Ginger Island • Mastery Cave • Minecart • Mines • Mountain • Mutant Bug Lair • Pelican Town • Quarry • Quarry Mine • Railroad • Secret Woods • Sewers • Skull Cavern • Summit • Tunnel • Volcano Dungeon • Witch's Swamp"
+            "Backwoods, •, Beach, •, Bus Stop, •, Calico Desert, •, Cindersap Forest, •, Farm, •, Farm Cave, •, Farm Pond, •, Graveyard, •, Ginger Island, •, Mastery Cave, •, Minecart, •, Mines, •, Mountain, •, Mutant Bug Lair, •, Pelican Town, •, Quarry, •, Quarry Mine, •, Railroad, •, Secret Woods, •, Sewers, •, Skull Cavern, •, Summit, •, Tunnel, •, Volcano Dungeon, •, Witch's Swamp"
           ]
         ]
       }

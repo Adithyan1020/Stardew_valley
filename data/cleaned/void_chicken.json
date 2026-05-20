@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Void Chicken Well cared-for adult chickens lay eggs every day. Lives in the coop. Information Building Big Coop Purchase Price N/A Produce Void Egg\nThe Void Chicken is an animal that lives in a Big Coop . Void Chickens can be hatched by placing a Void Egg into an Incubator , taking 9,000m (5d 16h 40m) to incubate, or 4,500m (2d 21h 40m) with the Coopmaster Profession . There is no other way to obtain a Void Chicken."
+      "content": "The Void Chicken is an animal that lives in a Big Coop . Void Chickens can be hatched by placing a Void Egg into an Incubator , taking 9,000m (5d 16h 40m) to incubate, or 4,500m (2d 21h 40m) with the Coopmaster Profession . There is no other way to obtain a Void Chicken."
     },
     {
       "heading": "Produce",
@@ -16,6 +16,38 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Void Chicken"
+          ],
+          [
+            ""
+          ],
+          [
+            "Well cared-for adult chickens lay eggs every day. Lives in the coop."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Building",
+            "Big Coop"
+          ],
+          [
+            "Purchase Price",
+            "N/A"
+          ],
+          [
+            "Produce",
+            "Void Egg"
+          ]
+        ]
+      }
+    },
     {
       "section": "Produce",
       "table": {
@@ -36,7 +68,7 @@
             "",
             "Void Egg",
             "A jet-black egg with red flecks. It's warm to the touch.",
-            "65g 81g 97g 130g",
+            "65g, 81g, 97g, 130g",
             "",
             "65g",
             "",
@@ -73,15 +105,15 @@
         ],
         "rows": [
           [
-            "Animals and Produce"
+            "Animals, and Produce"
           ],
           [
             "Coop",
-            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+            "Chicken, •, Dinosaur, •, Duck, •, Golden Chicken, •, Rabbit, •, Void Chicken"
           ],
           [
             "Barn",
-            "Cow • Goat • Sheep • Ostrich • Pig"
+            "Cow, •, Goat, •, Sheep, •, Ostrich, •, Pig"
           ],
           [
             "Fish Pond",
@@ -93,7 +125,7 @@
           ],
           [
             "Other",
-            "Cat • Dog • Horse • Turtle"
+            "Cat, •, Dog, •, Horse, •, Turtle"
           ]
         ]
       }

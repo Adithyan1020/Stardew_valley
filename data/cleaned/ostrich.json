@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Ostrich Adult ostriches will lay a very large egg once a week. Information Building Barn Purchase Price N/A Produce Ostrich Egg\nThe Ostrich is an animal that lives in a Barn . Ostriches can be hatched by placing an Ostrich Egg into an Ostrich Incubator , taking 15,000m (9d 10h) to incubate, or 7,500m (4d 18h 20m) with the Coopmaster Profession .\nAn Ostrich Egg can be initially found by solving Journal Scrap #10 , or as a random drop from the chests in the Volcano Dungeon ."
+      "content": "The Ostrich is an animal that lives in a Barn . Ostriches can be hatched by placing an Ostrich Egg into an Ostrich Incubator , taking 15,000m (9d 10h) to incubate, or 7,500m (4d 18h 20m) with the Coopmaster Profession .\nAn Ostrich Egg can be initially found by solving Journal Scrap #10 , or as a random drop from the chests in the Volcano Dungeon ."
     },
     {
       "heading": "Produce",
@@ -20,6 +20,38 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Ostrich"
+          ],
+          [
+            ""
+          ],
+          [
+            "Adult ostriches will lay a very large egg once a week."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Building",
+            "Barn"
+          ],
+          [
+            "Purchase Price",
+            "N/A"
+          ],
+          [
+            "Produce",
+            "Ostrich Egg"
+          ]
+        ]
+      }
+    },
     {
       "section": "Produce",
       "table": {
@@ -40,7 +72,7 @@
             "",
             "Ostrich Egg",
             "It may be the world's largest egg.",
-            "600g 750g 900g 1,200g",
+            "600g, 750g, 900g, 1,200g",
             "",
             "600g",
             "",
@@ -77,15 +109,15 @@
         ],
         "rows": [
           [
-            "Animals and Produce"
+            "Animals, and Produce"
           ],
           [
             "Coop",
-            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+            "Chicken, •, Dinosaur, •, Duck, •, Golden Chicken, •, Rabbit, •, Void Chicken"
           ],
           [
             "Barn",
-            "Cow • Goat • Sheep • Ostrich • Pig"
+            "Cow, •, Goat, •, Sheep, •, Ostrich, •, Pig"
           ],
           [
             "Fish Pond",
@@ -97,7 +129,7 @@
           ],
           [
             "Other",
-            "Cat • Dog • Horse • Turtle"
+            "Cat, •, Dog, •, Horse, •, Turtle"
           ]
         ]
       }

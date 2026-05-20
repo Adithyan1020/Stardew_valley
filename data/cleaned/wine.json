@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Wine Drink in moderation. Information Source Artisan Goods Buff(s) Tipsy Speed (−1) Buff Duration 30s Sell Prices Base Artisan (+40%) 3 × Base Fruit Price 1.4 × Base Wine Price Artisan Goods Equipment Keg Processing Time 10,000m (≈7d) Ingredients Any Fruit (1)\nWine is an Artisan Good made from the Keg , taking 7 days. It can also be received as a gift at the Feast of the Winter Star .\nThe sell price of Wine depends on the fruit used (3 × Base Fruit Value). When consumed, wine causes a Tipsy buff that decreases Speed by 1. The energy and health restored by Wine is equal to 1.75 × Base Fruit Value for edible fruit. For inedible fruit, Wine will restore energy equal to 25% Base Fruit Value and health equal to 11.25% Base Fruit Value. The color of the Wine also depends on the fruit used.\nNote: It is possible to acquire Wine that has no base fruit (from the Traveling Cart or a Statue Of Endless Fortune , as a gift at the Feast of the Winter Star , or a New Year's Eve gift from Leah or Elliott ). This item is simply titled \"Wine\", has a selling price of data-sort-value=\"400\"> 400g (or data-sort-value=\"560\"> 560g with the Artisan Profession ), and restores 50 energy and 22 health ."
+      "content": "Wine is an Artisan Good made from the Keg , taking 7 days. It can also be received as a gift at the Feast of the Winter Star .\nThe sell price of Wine depends on the fruit used (3 × Base Fruit Value). When consumed, wine causes a Tipsy buff that decreases Speed by 1. The energy and health restored by Wine is equal to 1.75 × Base Fruit Value for edible fruit. For inedible fruit, Wine will restore energy equal to 25% Base Fruit Value and health equal to 11.25% Base Fruit Value. The color of the Wine also depends on the fruit used.\nNote: It is possible to acquire Wine that has no base fruit (from the Traveling Cart or a Statue Of Endless Fortune , as a gift at the Feast of the Winter Star , or a New Year's Eve gift from Leah or Elliott ). This item is simply titled \"Wine\", has a selling price of data-sort-value=\"400\"> 400g (or data-sort-value=\"560\"> 560g with the Artisan Profession ), and restores 50 energy and 22 health ."
     },
     {
       "heading": "Aged Values",
@@ -29,6 +29,91 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Wine"
+          ],
+          [
+            ""
+          ],
+          [
+            "Drink in moderation."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Artisan Goods"
+          ],
+          [
+            "Buff(s)",
+            "Tipsy, Speed, (−1)"
+          ],
+          [
+            "Buff Duration",
+            "30s"
+          ],
+          [
+            "Sell Prices, Base, Artisan, (+40%), 3 × Base, Fruit, Price, 1.4 × Base Wine Price",
+            "Sell Prices",
+            "Base",
+            "Artisan, (+40%)",
+            "3 × Base, Fruit, Price",
+            "1.4 × Base Wine Price"
+          ],
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Artisan, (+40%)"
+          ],
+          [
+            "3 × Base, Fruit, Price",
+            "1.4 × Base Wine Price"
+          ],
+          [
+            "Artisan Goods"
+          ],
+          [
+            "Equipment",
+            "Keg"
+          ],
+          [
+            "Processing Time",
+            "10,000m (≈7d)"
+          ],
+          [
+            "Ingredients",
+            "Any, Fruit, (1)"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Artisan, (+40%)"
+          ],
+          [
+            "3 × Base, Fruit, Price",
+            "1.4 × Base Wine Price"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Aged Values",
       "table": {
         "headers": [
@@ -40,27 +125,27 @@
         "rows": [
           [
             "Normal Quality",
-            "Silver Quality (x 1.25)",
-            "Gold Quality (x 1.5)",
-            "Iridium Quality (x 2)"
+            "Silver Quality, (x 1.25)",
+            "Gold Quality, (x 1.5)",
+            "Iridium Quality, (x 2)"
           ],
           [
-            "3 × Fruit Base Sell Price",
+            "3 ×, Fruit, Base Sell Price",
             "",
-            "3 × Fruit Base Sell Price",
-            "(3 × Base) × 1.25 Aged: 14 Days",
+            "3 ×, Fruit, Base Sell Price",
+            "(3 × Base) × 1.25, Aged: 14 Days",
             "",
             "(3 × Base) × 1.25",
-            "(3 × Base) × 1.50 Aged: 14 Days Total: 28 Days",
+            "(3 × Base) × 1.50, Aged: 14 Days, Total: 28 Days",
             "",
             "(3 × Base) × 1.50",
-            "(3 × Base) × 2 Aged: 28 Days Total: 56 Days",
+            "(3 × Base) × 2, Aged: 28 Days, Total: 56 Days",
             "",
             "(3 × Base) × 2"
           ],
           [
             "",
-            "3 × Fruit Base Sell Price"
+            "3 ×, Fruit, Base Sell Price"
           ],
           [
             "",
@@ -89,15 +174,15 @@
           ],
           [
             "Love",
-            "Harvey • Leah"
+            "Harvey, •, Leah"
           ],
           [
             "Like",
-            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Jodi • Kent • Krobus • Lewis • Linus • Marnie • Maru • Pam • Pierre • Robin • Sam • Sandy • Shane • Willy • Wizard"
+            "Abigail, •, Alex, •, Caroline, •, Clint, •, Demetrius, •, Dwarf, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Haley, •, Jodi, •, Kent, •, Krobus, •, Lewis, •, Linus, •, Marnie, •, Maru, •, Pam, •, Pierre, •, Robin, •, Sam, •, Sandy, •, Shane, •, Willy, •, Wizard"
           ],
           [
             "Hate",
-            "Jas • Leo • Penny • Sebastian • Vincent"
+            "Jas, •, Leo, •, Penny, •, Sebastian, •, Vincent"
           ]
         ]
       }
@@ -118,15 +203,15 @@
           ],
           [
             "Cask",
-            "Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine"
+            "Beer, •, Cheese, •, Goat Cheese, •, Mead, •, Pale Ale, •, Wine"
           ],
           [
             "Cheese Press",
-            "Cheese • Goat Cheese"
+            "Cheese, •, Goat Cheese"
           ],
           [
             "Keg",
-            "Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine"
+            "Beer, •, Coffee, •, Green Tea, •, Juice, •, Mead, •, Pale Ale, •, Wine"
           ],
           [
             "Loom",
@@ -134,15 +219,15 @@
           ],
           [
             "Mayonnaise Machine",
-            "Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise"
+            "Dinosaur Mayonnaise, •, Duck Mayonnaise, •, Mayonnaise, •, Void Mayonnaise"
           ],
           [
             "Oil Maker",
-            "Oil • Truffle Oil"
+            "Oil, •, Truffle Oil"
           ],
           [
             "Preserves Jar",
-            "Aged Roe • Caviar • Jellies and Pickles"
+            "Aged Roe, •, Caviar, •, Jellies and Pickles"
           ],
           [
             "Fish Smoker",
@@ -150,11 +235,11 @@
           ],
           [
             "Dehydrator",
-            "Dried Mushrooms • Dried Fruit • Raisins"
+            "Dried Mushrooms, •, Dried Fruit, •, Raisins"
           ],
           [
             "Misc",
-            "Maple Syrup • Oak Resin • Pine Tar • Mystic Syrup"
+            "Maple Syrup, •, Oak Resin, •, Pine Tar, •, Mystic Syrup"
           ]
         ]
       }

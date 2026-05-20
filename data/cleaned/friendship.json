@@ -120,7 +120,7 @@
             "Never"
           ],
           [
-            "Gave bouquet",
+            "Gave, bouquet",
             "-10/day",
             "10 hearts"
           ],
@@ -245,17 +245,17 @@
           ],
           [
             "Abigail",
-            "Caroline Pierre",
+            "Caroline, Pierre",
             ""
           ],
           [
             "Alex",
-            "Evelyn George",
+            "Evelyn, George",
             ""
           ],
           [
             "Caroline",
-            "Abigail Pierre",
+            "Abigail, Pierre",
             ""
           ],
           [
@@ -265,7 +265,7 @@
           ],
           [
             "Demetrius",
-            "Robin Maru",
+            "Robin, Maru",
             ""
           ],
           [
@@ -280,12 +280,12 @@
           ],
           [
             "Evelyn",
-            "Alex George",
+            "Alex, George",
             ""
           ],
           [
             "George",
-            "Alex Evelyn",
+            "Alex, Evelyn",
             ""
           ],
           [
@@ -305,12 +305,12 @@
           ],
           [
             "Jodi",
-            "Kent Sam Vincent",
+            "Kent, Sam, Vincent",
             ""
           ],
           [
             "Kent",
-            "Jodi Sam Vincent",
+            "Jodi, Sam, Vincent",
             ""
           ],
           [
@@ -320,12 +320,12 @@
           ],
           [
             "Marnie",
-            "Jas Shane",
+            "Jas, Shane",
             "Lewis"
           ],
           [
             "Maru",
-            "Demetrius Robin Sebastian",
+            "Demetrius, Robin, Sebastian",
             ""
           ],
           [
@@ -335,22 +335,22 @@
           ],
           [
             "Penny",
-            "Pam (Note that Penny will never suggest Beer , Mead , Pale Ale , or Wine )",
+            "Pam, (Note that Penny will never suggest, Beer, ,, Mead, ,, Pale Ale, , or, Wine, )",
             ""
           ],
           [
             "Pierre",
-            "Abigail Caroline",
+            "Abigail, Caroline",
             ""
           ],
           [
             "Robin",
-            "Demetrius Maru Sebastian",
+            "Demetrius, Maru, Sebastian",
             ""
           ],
           [
             "Sam",
-            "Jodi Kent Vincent",
+            "Jodi, Kent, Vincent",
             "Sebastian"
           ],
           [
@@ -360,7 +360,7 @@
           ],
           [
             "Sebastian",
-            "Maru Robin",
+            "Maru, Robin",
             "Sam"
           ],
           [
@@ -403,15 +403,15 @@
           ],
           [
             "Abigail",
-            "Gems: Amethyst Cooking: Banana Pudding , Blackberry Cobbler , Chocolate Cake , Spicy Eel Vegetables: Pumpkin",
+            "Gems:, Amethyst, Cooking:, Banana Pudding, ,, Blackberry Cobbler, ,, Chocolate Cake, ,, Spicy Eel, Vegetables:, Pumpkin",
             "",
             "",
-            "All Vegetables except Pumpkin (specifically loved)",
+            "All Vegetables, except, Pumpkin, (specifically loved)",
             ""
           ],
           [
             "Alex",
-            "Cooking: Complete Breakfast , Salmon Dinner",
+            "Cooking:, Complete Breakfast, ,, Salmon Dinner",
             "",
             "",
             "",
@@ -419,23 +419,23 @@
           ],
           [
             "Caroline",
-            "Artisan Goods: Green Tea Cooking: Fish Taco , Tropical Curry Flowers: Summer Spangle",
-            "Vegetables: Tea Leaves",
+            "Artisan Goods:, Green Tea, Cooking:, Fish Taco, ,, Tropical Curry, Flowers:, Summer Spangle",
+            "Vegetables:, Tea Leaves",
             "",
-            "Artisan Goods: Duck Mayonnaise , Mayonnaise Vegetables: Amaranth",
+            "Artisan Goods:, Duck Mayonnaise, ,, Mayonnaise, Vegetables:, Amaranth",
             ""
           ],
           [
             "Clint",
-            "All Gems except Diamond (universally liked) Cooking: Artichoke Dip , Fiddlehead Risotto",
+            "All Gems, except, Diamond, (universally liked), Cooking:, Artichoke Dip, ,, Fiddlehead Risotto",
             "",
             "",
-            "All Flowers (except Poppy , universally hated)",
+            "All Flowers, (except, Poppy, , universally hated)",
             ""
           ],
           [
             "Demetrius",
-            "Cooking: Bean Hotpot , Ice Cream , Rice Pudding",
+            "Cooking:, Bean Hotpot, ,, Ice Cream, ,, Rice Pudding",
             "",
             "",
             "",
@@ -443,7 +443,7 @@
           ],
           [
             "Dwarf",
-            "All Gems except Diamond (universally liked)",
+            "All Gems, except, Diamond, (universally liked)",
             "",
             "",
             "",
@@ -451,111 +451,111 @@
           ],
           [
             "Elliott",
-            "Cooking: Crab Cakes , Tom Kha Soup Fruit Tree Fruit: Pomegranate",
+            "Cooking:, Crab Cakes, ,, Tom Kha Soup, Fruit Tree Fruit:, Pomegranate",
             "",
             "Rainbow Shell",
-            "Cooking: Pizza",
-            "Vegetables: Amaranth"
+            "Cooking:, Pizza",
+            "Vegetables:, Amaranth"
           ],
           [
             "Emily",
-            "Artisan Goods: Cloth Cooking: Survival Burger All Gems except Diamond (universally liked)",
+            "Artisan Goods:, Cloth, Cooking:, Survival Burger, All Gems, except, Diamond, (universally liked)",
             "",
             "",
-            "Cooking: Fried Eel , Ice Cream , Rice Pudding , Spicy Eel",
-            "Cooking: Fish Taco , Maki Roll , Salmon Dinner , Sashimi"
+            "Cooking:, Fried Eel, ,, Ice Cream, ,, Rice Pudding, ,, Spicy Eel",
+            "Cooking:, Fish Taco, ,, Maki Roll, ,, Salmon Dinner, ,, Sashimi"
           ],
           [
             "Evelyn",
-            "Artisan Goods: Raisins Cooking: Chocolate Cake , Stuffing Flowers: Fairy Rose , Tulip Gems: Diamond Vegetables: Beet",
+            "Artisan Goods:, Raisins, Cooking:, Chocolate Cake, ,, Stuffing, Flowers:, Fairy Rose, ,, Tulip, Gems:, Diamond, Vegetables:, Beet",
             "",
             "",
             "",
-            "Cooking: Fried Eel , Maki Roll , Sashimi , Spicy Eel , Trout Soup Vegetables: Garlic"
+            "Cooking:, Fried Eel, ,, Maki Roll, ,, Sashimi, ,, Spicy Eel, ,, Trout Soup, Vegetables:, Garlic"
           ],
           [
             "George",
-            "Cooking: Fried Mushroom",
+            "Cooking:, Fried Mushroom",
             "",
             "",
-            "All Flowers (except Poppy , universally hated)",
+            "All Flowers, (except, Poppy, , universally hated)",
             ""
           ],
           [
             "Gus",
-            "Cooking: Escargot , Fish Taco , Tropical Curry Fruit Tree Fruit: Orange Gems: Diamond",
+            "Cooking:, Escargot, ,, Fish Taco, ,, Tropical Curry, Fruit Tree Fruit:, Orange, Gems:, Diamond",
             "",
             "",
             "",
-            "Cooking: Coleslaw"
+            "Cooking:, Coleslaw"
           ],
           [
             "Haley",
-            "Cooking: Fruit Salad , Pink Cake Flowers: Sunflower",
+            "Cooking:, Fruit Salad, ,, Pink Cake, Flowers:, Sunflower",
             "",
             "",
-            "All Vegetables (except Hops & Wheat , universally neutral)",
+            "All Vegetables, (except, Hops, &, Wheat, , universally neutral)",
             ""
           ],
           [
             "Harvey",
-            "Artisan Goods: Coffee , Pickles , Truffle Oil , Wine Cooking: Super Meal",
+            "Artisan Goods:, Coffee, ,, Pickles, ,, Truffle Oil, ,, Wine, Cooking:, Super Meal",
             "",
             "",
-            "Artisan Goods: Cheese , Goat Cheese Cooking: Blueberry Tart , Chocolate Cake , Cookie , Cranberry Sauce , Fried Mushroom , Glazed Yams , Hashbrowns , Ice Cream , Pancakes , Pink Cake , Pizza , Rhubarb Pie , Rice Pudding",
+            "Artisan Goods:, Cheese, ,, Goat Cheese, Cooking:, Blueberry Tart, ,, Chocolate Cake, ,, Cookie, ,, Cranberry Sauce, ,, Fried Mushroom, ,, Glazed Yams, ,, Hashbrowns, ,, Ice Cream, ,, Pancakes, ,, Pink Cake, ,, Pizza, ,, Rhubarb Pie, ,, Rice Pudding",
             "Rainbow Shell"
           ],
           [
             "Jas",
-            "Cooking: Pink Cake , Plum Pudding Flowers: Fairy Rose",
+            "Cooking:, Pink Cake, ,, Plum Pudding, Flowers:, Fairy Rose",
             "",
             "",
-            "All Vegetables (except Hops & Wheat , universally neutral)",
-            "Piña Colada All Artisan Goods (except Honey , Jelly , universally liked; and Oil , universally disliked) Cooking : Triple Shot Espresso"
+            "All Vegetables, (except, Hops, &, Wheat, , universally neutral)",
+            "Piña Colada, All Artisan Goods, (except, Honey, ,, Jelly, , universally liked; and, Oil, , universally disliked), Cooking, :, Triple Shot Espresso"
           ],
           [
             "Jodi",
-            "Cooking: Chocolate Cake , Crispy Bass , Eggplant Parmesan , Fried Eel , Pancakes , Rhubarb Pie , Vegetable Medley Gems: Diamond",
+            "Cooking:, Chocolate Cake, ,, Crispy Bass, ,, Eggplant Parmesan, ,, Fried Eel, ,, Pancakes, ,, Rhubarb Pie, ,, Vegetable Medley, Gems:, Diamond",
             "",
             "",
-            "Vegetables: Garlic",
+            "Vegetables:, Garlic",
             ""
           ],
           [
             "Kent",
-            "Cooking: Fiddlehead Risotto , Roasted Hazelnuts",
+            "Cooking:, Fiddlehead Risotto, ,, Roasted Hazelnuts",
             "",
             "",
             "Piña Colada",
-            "Cooking: Algae Soup , Sashimi , Tortilla"
+            "Cooking:, Algae Soup, ,, Sashimi, ,, Tortilla"
           ],
           [
             "Krobus",
-            "Gems: Diamond Vegetables: Pumpkin",
-            "Cooking: Seafoam Pudding",
+            "Gems:, Diamond, Vegetables:, Pumpkin",
+            "Cooking:, Seafoam Pudding",
             "",
-            "All Cooking except Bread , Fried Egg , universally neutral; and Strange Bun , & Seafoam Pudding universally hated Misc: Life Elixir",
+            "All Cooking, except, Bread, ,, Fried Egg, , universally neutral; and, Strange Bun, , &, Seafoam Pudding, universally hated, Misc:, Life Elixir",
             ""
           ],
           [
             "Leah",
-            "Artisan Goods: Goat Cheese , Wine Cooking: Poppyseed Muffin , Salad , Stir Fry , Vegetable Medley",
+            "Artisan Goods:, Goat Cheese, ,, Wine, Cooking:, Poppyseed Muffin, ,, Salad, ,, Stir Fry, ,, Vegetable Medley",
             "",
             "",
-            "All Foraged Minerals except Earth Crystal (universally liked) All Gems except Diamond (universally liked) & Prismatic Shard (universally loved) Cooking: Carp Surprise , Cookie , Ice Cream , Pink Cake , Rice Pudding , Survival Burger , Tortilla",
-            "Cooking: Hashbrowns , Pancakes , Pizza"
+            "All Foraged Minerals, except, Earth Crystal, (universally liked), All Gems, except, Diamond, (universally liked) &, Prismatic Shard, (universally loved), Cooking:, Carp Surprise, ,, Cookie, ,, Ice Cream, ,, Pink Cake, ,, Rice Pudding, ,, Survival Burger, ,, Tortilla",
+            "Cooking:, Hashbrowns, ,, Pancakes, ,, Pizza"
           ],
           [
             "Leo",
-            "Cooking: Poi",
+            "Cooking:, Poi",
             "",
-            "Artisan Goods: Coffee",
-            "Artisan Goods: Pickles All Cooking except Bread , Fried Egg , Poi , Mango Sticky Rice , Strange Bun , Seafoam Pudding , & Triple Shot Espresso Misc: Life Elixir",
-            "Piña Colada Artisan Goods: Beer , Mead , Pale Ale , Wine Cooking: Triple Shot Espresso"
+            "Artisan Goods:, Coffee",
+            "Artisan Goods:, Pickles, All Cooking, except, Bread, ,, Fried Egg, ,, Poi, ,, Mango Sticky Rice, ,, Strange Bun, ,, Seafoam Pudding, , &, Triple Shot Espresso, Misc:, Life Elixir",
+            "Piña Colada, Artisan Goods:, Beer, ,, Mead, ,, Pale Ale, ,, Wine, Cooking:, Triple Shot Espresso"
           ],
           [
             "Lewis",
-            "Artisan Goods: Green Tea Cooking: Autumn's Bounty , Glazed Yams , Vegetable Medley",
+            "Artisan Goods:, Green Tea, Cooking:, Autumn's Bounty, ,, Glazed Yams, ,, Vegetable Medley",
             "",
             "",
             "",
@@ -563,15 +563,15 @@
           ],
           [
             "Linus",
-            "Cooking: Blueberry Tart , Dish O' The Sea Vegetables: Yam",
+            "Cooking:, Blueberry Tart, ,, Dish O' The Sea, Vegetables:, Yam",
             "",
             "",
-            "Treasure Chest All Foraged Minerals All Gems except Diamond & Prismatic Shard",
+            "Treasure Chest, All Foraged Minerals, All Gems, except, Diamond, &, Prismatic Shard",
             ""
           ],
           [
             "Marnie",
-            "Cooking: Farmer's Lunch , Pink Cake , Pumpkin Pie Gems: Diamond",
+            "Cooking:, Farmer's Lunch, ,, Pink Cake, ,, Pumpkin Pie, Gems:, Diamond",
             "",
             "",
             "",
@@ -579,15 +579,15 @@
           ],
           [
             "Maru",
-            "Cooking: Cheese Cauliflower , Miner's Treat , Pepper Poppers , Rhubarb Pie Gems: Diamond Vegetables: Cauliflower",
+            "Cooking:, Cheese Cauliflower, ,, Miner's Treat, ,, Pepper Poppers, ,, Rhubarb Pie, Gems:, Diamond, Vegetables:, Cauliflower",
             "",
             "",
-            "Misc: Maple Syrup",
-            "Artisan Goods: Honey , Pickles"
+            "Misc:, Maple Syrup",
+            "Artisan Goods:, Honey, ,, Pickles"
           ],
           [
             "Pam",
-            "Piña Colada Artisan Goods: Beer , Mead , Pale Ale Cooking: Glazed Yams , Parsnip Soup Vegetables: Parsnip",
+            "Piña Colada, Artisan Goods:, Beer, ,, Mead, ,, Pale Ale, Cooking:, Glazed Yams, ,, Parsnip Soup, Vegetables:, Parsnip",
             "",
             "",
             "",
@@ -595,23 +595,23 @@
           ],
           [
             "Penny",
-            "Cooking: Poppyseed Muffin , Red Plate , Roots Platter , Tom Kha Soup Gems: Diamond , Emerald",
+            "Cooking:, Poppyseed Muffin, ,, Red Plate, ,, Roots Platter, ,, Tom Kha Soup, Gems:, Diamond, ,, Emerald",
             "",
             "",
-            "Cooking: Algae Soup , Pale Broth",
-            "Piña Colada Artisan Goods: Beer , Mead , Pale Ale , Wine"
+            "Cooking:, Algae Soup, ,, Pale Broth",
+            "Piña Colada, Artisan Goods:, Beer, ,, Mead, ,, Pale Ale, ,, Wine"
           ],
           [
             "Pierre",
-            "Cooking: Fried Calamari",
+            "Cooking:, Fried Calamari",
             "",
             "",
-            "All Foraged Minerals All Gems except Diamond (universally liked) & Prismatic Shard (universally loved)",
-            "Cooking: Parsnip Soup , Tortilla Vegetables: Corn , Garlic"
+            "All Foraged Minerals, All Gems, except, Diamond, (universally liked) &, Prismatic Shard, (universally loved)",
+            "Cooking:, Parsnip Soup, ,, Tortilla, Vegetables:, Corn, ,, Garlic"
           ],
           [
             "Robin",
-            "Artisan Goods: Goat Cheese Cooking: Spaghetti Fruit Tree Fruit: Peach",
+            "Artisan Goods:, Goat Cheese, Cooking:, Spaghetti, Fruit Tree Fruit:, Peach",
             "",
             "",
             "",
@@ -619,15 +619,15 @@
           ],
           [
             "Sam",
-            "Cooking: Maple Bar , Pizza",
+            "Cooking:, Maple Bar, ,, Pizza",
             "",
             "",
-            "All Vegetables (except Hops & Wheat , universally neutral)",
-            "Artisan Goods: Duck Mayonnaise , Mayonnaise , Pickles"
+            "All Vegetables, (except, Hops, &, Wheat, , universally neutral)",
+            "Artisan Goods:, Duck Mayonnaise, ,, Mayonnaise, ,, Pickles"
           ],
           [
             "Sandy",
-            "Cooking: Mango Sticky Rice Flowers: Crocus , Sweet Pea",
+            "Cooking:, Mango Sticky Rice, Flowers:, Crocus, ,, Sweet Pea",
             "",
             "",
             "",
@@ -635,34 +635,34 @@
           ],
           [
             "Sebastian",
-            "Cooking: Pumpkin Soup , Sashimi Foraged Mineral: Frozen Tear",
+            "Cooking:, Pumpkin Soup, ,, Sashimi, Foraged Mineral:, Frozen Tear",
             "",
             "",
-            "All Flowers (except Poppy , universally hated)",
-            "Piña Colada All Artisan Goods (except Coffee , Green Tea , universally liked; and Oil , universally disliked) Cooking: Complete Breakfast , Farmer's Lunch , Omelet"
+            "All Flowers, (except, Poppy, , universally hated)",
+            "Piña Colada, All Artisan Goods, (except, Coffee, ,, Green Tea, , universally liked; and, Oil, , universally disliked), Cooking:, Complete Breakfast, ,, Farmer's Lunch, ,, Omelet"
           ],
           [
             "Shane",
-            "Artisan Goods: Beer Cooking: Pepper Poppers , Pizza",
+            "Artisan Goods:, Beer, Cooking:, Pepper Poppers, ,, Pizza",
             "",
             "",
             "",
-            "Artisan Goods: Pickles"
+            "Artisan Goods:, Pickles"
           ],
           [
             "Vincent",
-            "Cooking: Cranberry Candy , Ginger Ale , Pink Cake",
+            "Cooking:, Cranberry Candy, ,, Ginger Ale, ,, Pink Cake",
             "",
             "",
-            "All Vegetables (except Hops & Wheat , universally neutral)",
-            "Piña Colada All Artisan Goods (except Honey , Jelly , universally liked; and Oil , universally disliked) Cooking : Triple Shot Espresso"
+            "All Vegetables, (except, Hops, &, Wheat, , universally neutral)",
+            "Piña Colada, All Artisan Goods, (except, Honey, ,, Jelly, , universally liked; and, Oil, , universally disliked), Cooking, :, Triple Shot Espresso"
           ],
           [
             "Willy",
-            "Artisan Goods: Mead Gems: Diamond Vegetables: Pumpkin",
-            "Cooking: Seafoam Pudding (universally hated)",
-            "Cooking: Dish O' The Sea , Maki Roll , & Sashimi",
-            "All Cooking except for Dish O' The Sea , Maki Roll , & Sashimi as specifically neutral, and the following dishes he likes: Baked Fish , Carp Surprise , Chowder , Crab Cakes , Crispy Bass , Escargot , Fish Stew , Fish Taco , Fried Calamari , Fried Eel , Lobster Bisque , Salmon Dinner , Trout Soup & Seafoam Pudding Misc: Life Elixir",
+            "Artisan Goods:, Mead, Gems:, Diamond, Vegetables:, Pumpkin",
+            "Cooking:, Seafoam Pudding, (universally hated)",
+            "Cooking:, Dish O' The Sea, ,, Maki Roll, , &, Sashimi",
+            "All Cooking, except for, Dish O' The Sea, ,, Maki Roll, , &, Sashimi, as specifically neutral, and the following dishes he likes:, Baked Fish, ,, Carp Surprise, ,, Chowder, ,, Crab Cakes, ,, Crispy Bass, ,, Escargot, ,, Fish Stew, ,, Fish Taco, ,, Fried Calamari, ,, Fried Eel, ,, Lobster Bisque, ,, Salmon Dinner, ,, Trout Soup, &, Seafoam Pudding, Misc:, Life Elixir",
             ""
           ]
         ]

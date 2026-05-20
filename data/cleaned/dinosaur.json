@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Dinosaur Information Building Big Coop Purchase Price N/A Produce Dinosaur Egg\nThe Dinosaur is a farm animal that lives in a Big Coop . Dinosaurs can be hatched by placing a Dinosaur Egg into an Incubator , taking 18,000m (11d 6h 40m) to incubate, or 9,000m (5d 16h 40m) with the Coopmaster Profession ."
+      "content": "The Dinosaur is a farm animal that lives in a Big Coop . Dinosaurs can be hatched by placing a Dinosaur Egg into an Incubator , taking 18,000m (11d 6h 40m) to incubate, or 9,000m (5d 16h 40m) with the Coopmaster Profession ."
     },
     {
       "heading": "Produce",
@@ -25,6 +25,38 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Dinosaur"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Building",
+            "Big Coop"
+          ],
+          [
+            "Purchase Price",
+            "N/A"
+          ],
+          [
+            "Produce",
+            "Dinosaur Egg"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Produce",
       "table": {
         "headers": [
@@ -44,7 +76,7 @@
             "",
             "Dinosaur Egg",
             "A giant dino egg... The entire shell is still intact!",
-            "350g 437g 525g 700g",
+            "350g, 437g, 525g, 700g",
             "",
             "350g",
             "",
@@ -81,15 +113,15 @@
         ],
         "rows": [
           [
-            "Animals and Produce"
+            "Animals, and Produce"
           ],
           [
             "Coop",
-            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+            "Chicken, •, Dinosaur, •, Duck, •, Golden Chicken, •, Rabbit, •, Void Chicken"
           ],
           [
             "Barn",
-            "Cow • Goat • Sheep • Ostrich • Pig"
+            "Cow, •, Goat, •, Sheep, •, Ostrich, •, Pig"
           ],
           [
             "Fish Pond",
@@ -101,7 +133,7 @@
           ],
           [
             "Other",
-            "Cat • Dog • Horse • Turtle"
+            "Cat, •, Dog, •, Horse, •, Turtle"
           ]
         ]
       }

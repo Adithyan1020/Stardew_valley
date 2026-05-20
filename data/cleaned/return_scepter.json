@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Return Scepter The golden handle quivers with raw potential. Hold this scepter to the sky and return home at will. Information Source Krobus for data-sort-value=\"2000000\"> 2,000,000g Sell Price Cannot be sold\nThe Return Scepter is a non-consumable Warp Totem . It warps the Player directly outside of their Farmhouse .\nIt's purchasable from Krobus in the Sewers for data-sort-value=\"2000000\"> 2,000,000g , making it the most expensive inventory item in the game and second most expensive item, only behind the Gold Clock . It functions similarly to the Warp Totem: Farm , but is not consumed when used and teleports the player to the Farmhouse door instead of the totem warp point."
+      "content": "The Return Scepter is a non-consumable Warp Totem . It warps the Player directly outside of their Farmhouse .\nIt's purchasable from Krobus in the Sewers for data-sort-value=\"2000000\"> 2,000,000g , making it the most expensive inventory item in the game and second most expensive item, only behind the Gold Clock . It functions similarly to the Warp Totem: Farm , but is not consumed when used and teleports the player to the Farmhouse door instead of the totem warp point."
     },
     {
       "heading": "Destination",
@@ -17,6 +17,34 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Return Scepter"
+          ],
+          [
+            ""
+          ],
+          [
+            "The golden handle quivers with raw potential. Hold this scepter to the sky and return home at will."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Krobus, for, data-sort-value=\"2000000\">, 2,000,000g"
+          ],
+          [
+            "Sell Price",
+            "Cannot be sold"
+          ]
+        ]
+      }
+    },
+    {
       "section": "History",
       "table": {
         "headers": [
@@ -28,15 +56,15 @@
           ],
           [
             "Warp Totems",
-            "Warp Totem: Beach • Warp Totem: Desert • Warp Totem: Farm • Warp Totem: Island • Warp Totem: Mountains"
+            "Warp Totem: Beach, •, Warp Totem: Desert, •, Warp Totem: Farm, •, Warp Totem: Island, •, Warp Totem: Mountains"
           ],
           [
             "Permanent Teleporters",
-            "Desert Obelisk • Earth Obelisk • Farm Obelisk • Island Obelisk • Return Scepter • Water Obelisk"
+            "Desert Obelisk, •, Earth Obelisk, •, Farm Obelisk, •, Island Obelisk, •, Return Scepter, •, Water Obelisk"
           ],
           [
             "Other Totems",
-            "Mini-Obelisk • Rain Totem • Treasure Totem"
+            "Mini-Obelisk, •, Rain Totem, •, Treasure Totem"
           ]
         ]
       }

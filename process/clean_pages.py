@@ -56,7 +56,7 @@ def extract_table(table):
 
     for tr in table.find_all("tr"):
         cells = tr.find_all(["td", "th"])
-        row = [clean_text(cell.get_text(" ", strip=True)) for cell in cells]
+        row = [clean_text(cell.get_text(", ", strip=True)) for cell in cells]
         if row:
             rows.append(row)
 
@@ -113,9 +113,19 @@ def extract_content(soup: BeautifulSoup):
                 })
 
         elif elem.name == "div":
-            text = clean_text(elem.get_text(" ", strip=True))
-            if text and len(text.split()) > 8:
-                current_lines.append(text)
+            tables_in_div = elem.find_all("table")
+            if tables_in_div:
+                for table in tables_in_div:
+                    table_data = extract_table(table)
+                    if table_data["rows"]:
+                        tables.append({
+                            "section": current_heading,
+                            "table": table_data
+                        })
+            else:
+                text = clean_text(elem.get_text(" ", strip=True))
+                if text and len(text.split()) > 8:
+                    current_lines.append(text)
 
     if current_lines:
         section_text = "\n".join(current_lines).strip()

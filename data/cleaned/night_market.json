@@ -74,77 +74,77 @@
           [
             "",
             "Big Green Cane",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Green Canes",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Mixed Cane",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Red Canes",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Big Red Cane",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Plain Torch",
-            "data-sort-value=\"800\"> 800g"
+            "data-sort-value=\"800\">, 800g"
           ],
           [
             "",
             "Stump Torch",
-            "data-sort-value=\"800\"> 800g"
+            "data-sort-value=\"800\">, 800g"
           ],
           [
             "",
             "Clouds Banner",
-            "data-sort-value=\"1000\"> 1,000g"
+            "data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "Seasonal Decor",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Seasonal Plant",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Seasonal Plant",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Seasonal Plant",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Seasonal Plant",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Seasonal Plant",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Seasonal Plant",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ]
         ]
       }
@@ -160,7 +160,7 @@
             "Rotating Stock"
           ],
           [
-            "Image Name Sold on Day Sold in Years '1000 Years From Now' Winter 16 2, 5, 8, 11, etc. 'Clouds' Winter 15 2, 5, 8, 11, etc. 'Land Of Clay' Winter 17 3, 6, 9, 12, etc. 'Portrait Of A Mermaid' Winter 16 1, 4, 7, 10, etc. 'Red Eagle' Winter 15 1, 4, 7, 10, etc. 'Solar Kingdom' Winter 17 1, 4, 7, 10, etc. 'The Serpent' Winter 15 3, 6, 9, 12, etc. 'Three Trees' Winter 17 2, 5, 8, 11, etc. 'Tropical Fish #173' Winter 16 3, 6, 9, 12, etc.",
+            "Image, Name, Sold on Day, Sold in Years, '1000 Years From Now', Winter 16, 2, 5, 8, 11,, etc., 'Clouds', Winter 15, 2, 5, 8, 11,, etc., 'Land Of Clay', Winter 17, 3, 6, 9, 12,, etc., 'Portrait Of A Mermaid', Winter 16, 1, 4, 7, 10,, etc., 'Red Eagle', Winter 15, 1, 4, 7, 10,, etc., 'Solar Kingdom', Winter 17, 1, 4, 7, 10,, etc., 'The Serpent', Winter 15, 3, 6, 9, 12,, etc., 'Three Trees', Winter 17, 2, 5, 8, 11,, etc., 'Tropical Fish #173', Winter 16, 3, 6, 9, 12,, etc.",
             "Image",
             "Name",
             "Sold on Day",
@@ -168,39 +168,39 @@
             "",
             "'1000 Years From Now'",
             "Winter 16",
-            "2, 5, 8, 11, etc.",
+            "2, 5, 8, 11,, etc.",
             "",
             "'Clouds'",
             "Winter 15",
-            "2, 5, 8, 11, etc.",
+            "2, 5, 8, 11,, etc.",
             "",
             "'Land Of Clay'",
             "Winter 17",
-            "3, 6, 9, 12, etc.",
+            "3, 6, 9, 12,, etc.",
             "",
             "'Portrait Of A Mermaid'",
             "Winter 16",
-            "1, 4, 7, 10, etc.",
+            "1, 4, 7, 10,, etc.",
             "",
             "'Red Eagle'",
             "Winter 15",
-            "1, 4, 7, 10, etc.",
+            "1, 4, 7, 10,, etc.",
             "",
             "'Solar Kingdom'",
             "Winter 17",
-            "1, 4, 7, 10, etc.",
+            "1, 4, 7, 10,, etc.",
             "",
             "'The Serpent'",
             "Winter 15",
-            "3, 6, 9, 12, etc.",
+            "3, 6, 9, 12,, etc.",
             "",
             "'Three Trees'",
             "Winter 17",
-            "2, 5, 8, 11, etc.",
+            "2, 5, 8, 11,, etc.",
             "",
             "'Tropical Fish #173'",
             "Winter 16",
-            "3, 6, 9, 12, etc."
+            "3, 6, 9, 12,, etc."
           ],
           [
             "Image",
@@ -212,55 +212,55 @@
             "",
             "'1000 Years From Now'",
             "Winter 16",
-            "2, 5, 8, 11, etc."
+            "2, 5, 8, 11,, etc."
           ],
           [
             "",
             "'Clouds'",
             "Winter 15",
-            "2, 5, 8, 11, etc."
+            "2, 5, 8, 11,, etc."
           ],
           [
             "",
             "'Land Of Clay'",
             "Winter 17",
-            "3, 6, 9, 12, etc."
+            "3, 6, 9, 12,, etc."
           ],
           [
             "",
             "'Portrait Of A Mermaid'",
             "Winter 16",
-            "1, 4, 7, 10, etc."
+            "1, 4, 7, 10,, etc."
           ],
           [
             "",
             "'Red Eagle'",
             "Winter 15",
-            "1, 4, 7, 10, etc."
+            "1, 4, 7, 10,, etc."
           ],
           [
             "",
             "'Solar Kingdom'",
             "Winter 17",
-            "1, 4, 7, 10, etc."
+            "1, 4, 7, 10,, etc."
           ],
           [
             "",
             "'The Serpent'",
             "Winter 15",
-            "3, 6, 9, 12, etc."
+            "3, 6, 9, 12,, etc."
           ],
           [
             "",
             "'Three Trees'",
             "Winter 17",
-            "2, 5, 8, 11, etc."
+            "2, 5, 8, 11,, etc."
           ],
           [
             "",
             "'Tropical Fish #173'",
             "Winter 16",
-            "3, 6, 9, 12, etc."
+            "3, 6, 9, 12,, etc."
           ]
         ]
       }
@@ -360,187 +360,187 @@
             "Permanent Stock"
           ],
           [
-            "Winter 15 Image Name Price Grave Stone data-sort-value=\"200\"> 200g Stone Frog data-sort-value=\"500\"> 500g Cone Hat data-sort-value=\"5000\"> 5,000g Parsnip Seeds data-sort-value=\"20\"> 20g Bean Starter data-sort-value=\"60\"> 60g Cauliflower Seeds data-sort-value=\"80\"> 80g Potato Seeds data-sort-value=\"50\"> 50g Tulip Bulb data-sort-value=\"20\"> 20g Kale Seeds data-sort-value=\"70\"> 70g Jazz Seeds data-sort-value=\"30\"> 30g Garlic Seeds data-sort-value=\"40\"> 40g Iridium Fireplace data-sort-value=\"15000\"> 15,000g Rarecrow #7 data-sort-value=\"5000\"> 5,000g Rarecrow #8 data-sort-value=\"5000\"> 5,000g Crystal Chair data-sort-value=\"2500\"> 2,500g Upright Piano data-sort-value=\"100000\"> 100,000g Winter 16 Image Name Price Suit Of Armor data-sort-value=\"200\"> 200g Stone Parrot data-sort-value=\"500\"> 500g Cone Hat data-sort-value=\"2500\"> 2,500g Melon Seeds data-sort-value=\"80\"> 80g Tomato Seeds data-sort-value=\"50\"> 50g Blueberry Seeds data-sort-value=\"80\"> 80g Pepper Seeds data-sort-value=\"40\"> 40g Wheat Seeds data-sort-value=\"10\"> 10g Radish Seeds data-sort-value=\"40\"> 40g Poppy Seeds data-sort-value=\"100\"> 100g Spangle Seeds data-sort-value=\"50\"> 50g Hops Starter data-sort-value=\"60\"> 60g Corn Seeds data-sort-value=\"150\"> 150g Sunflower Seeds data-sort-value=\"200\"> 200g Red Cabbage Seeds data-sort-value=\"100\"> 100g Iridium Fireplace data-sort-value=\"15000\"> 15,000g Rarecrow #7 data-sort-value=\"5000\"> 5,000g Rarecrow #8 data-sort-value=\"5000\"> 5,000g Crystal Chair data-sort-value=\"2500\"> 2,500g Upright Piano data-sort-value=\"100000\"> 100,000g Winter 17 Image Name Price Log Section data-sort-value=\"200\"> 200g Stone Owl data-sort-value=\"500\"> 500g Cone Hat data-sort-value=\"10000\"> 10,000g Corn Seeds data-sort-value=\"150\"> 150g Eggplant Seeds data-sort-value=\"20\"> 20g Pumpkin Seeds data-sort-value=\"100\"> 100g Bok Choy Seeds data-sort-value=\"50\"> 50g Yam Seeds data-sort-value=\"60\"> 60g Cranberry Seeds data-sort-value=\"240\"> 240g Wheat Seeds data-sort-value=\"10\"> 10g Fairy Seeds data-sort-value=\"200\"> 200g Amaranth Seeds data-sort-value=\"70\"> 70g Grape Starter data-sort-value=\"60\"> 60g Sunflower Seeds data-sort-value=\"200\"> 200g Artichoke Seeds data-sort-value=\"30\"> 30g Iridium Fireplace data-sort-value=\"15000\"> 15,000g Rarecrow #7 data-sort-value=\"5000\"> 5,000g Rarecrow #8 data-sort-value=\"5000\"> 5,000g Crystal Chair data-sort-value=\"2500\"> 2,500g Upright Piano data-sort-value=\"100000\"> 100,000g",
+            "Winter 15, Image, Name, Price, Grave Stone, data-sort-value=\"200\">, 200g, Stone Frog, data-sort-value=\"500\">, 500g, Cone Hat, data-sort-value=\"5000\">, 5,000g, Parsnip Seeds, data-sort-value=\"20\">, 20g, Bean Starter, data-sort-value=\"60\">, 60g, Cauliflower Seeds, data-sort-value=\"80\">, 80g, Potato Seeds, data-sort-value=\"50\">, 50g, Tulip Bulb, data-sort-value=\"20\">, 20g, Kale Seeds, data-sort-value=\"70\">, 70g, Jazz Seeds, data-sort-value=\"30\">, 30g, Garlic Seeds, data-sort-value=\"40\">, 40g, Iridium Fireplace, data-sort-value=\"15000\">, 15,000g, Rarecrow #7, data-sort-value=\"5000\">, 5,000g, Rarecrow #8, data-sort-value=\"5000\">, 5,000g, Crystal Chair, data-sort-value=\"2500\">, 2,500g, Upright Piano, data-sort-value=\"100000\">, 100,000g, Winter 16, Image, Name, Price, Suit Of Armor, data-sort-value=\"200\">, 200g, Stone Parrot, data-sort-value=\"500\">, 500g, Cone Hat, data-sort-value=\"2500\">, 2,500g, Melon Seeds, data-sort-value=\"80\">, 80g, Tomato Seeds, data-sort-value=\"50\">, 50g, Blueberry Seeds, data-sort-value=\"80\">, 80g, Pepper Seeds, data-sort-value=\"40\">, 40g, Wheat Seeds, data-sort-value=\"10\">, 10g, Radish Seeds, data-sort-value=\"40\">, 40g, Poppy Seeds, data-sort-value=\"100\">, 100g, Spangle Seeds, data-sort-value=\"50\">, 50g, Hops Starter, data-sort-value=\"60\">, 60g, Corn Seeds, data-sort-value=\"150\">, 150g, Sunflower Seeds, data-sort-value=\"200\">, 200g, Red Cabbage Seeds, data-sort-value=\"100\">, 100g, Iridium Fireplace, data-sort-value=\"15000\">, 15,000g, Rarecrow #7, data-sort-value=\"5000\">, 5,000g, Rarecrow #8, data-sort-value=\"5000\">, 5,000g, Crystal Chair, data-sort-value=\"2500\">, 2,500g, Upright Piano, data-sort-value=\"100000\">, 100,000g, Winter 17, Image, Name, Price, Log Section, data-sort-value=\"200\">, 200g, Stone Owl, data-sort-value=\"500\">, 500g, Cone Hat, data-sort-value=\"10000\">, 10,000g, Corn Seeds, data-sort-value=\"150\">, 150g, Eggplant Seeds, data-sort-value=\"20\">, 20g, Pumpkin Seeds, data-sort-value=\"100\">, 100g, Bok Choy Seeds, data-sort-value=\"50\">, 50g, Yam Seeds, data-sort-value=\"60\">, 60g, Cranberry Seeds, data-sort-value=\"240\">, 240g, Wheat Seeds, data-sort-value=\"10\">, 10g, Fairy Seeds, data-sort-value=\"200\">, 200g, Amaranth Seeds, data-sort-value=\"70\">, 70g, Grape Starter, data-sort-value=\"60\">, 60g, Sunflower Seeds, data-sort-value=\"200\">, 200g, Artichoke Seeds, data-sort-value=\"30\">, 30g, Iridium Fireplace, data-sort-value=\"15000\">, 15,000g, Rarecrow #7, data-sort-value=\"5000\">, 5,000g, Rarecrow #8, data-sort-value=\"5000\">, 5,000g, Crystal Chair, data-sort-value=\"2500\">, 2,500g, Upright Piano, data-sort-value=\"100000\">, 100,000g",
             "Winter 15",
             "Image",
             "Name",
             "Price",
             "",
             "Grave Stone",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "",
             "Stone Frog",
-            "data-sort-value=\"500\"> 500g",
+            "data-sort-value=\"500\">, 500g",
             "",
             "Cone Hat",
-            "data-sort-value=\"5000\"> 5,000g",
+            "data-sort-value=\"5000\">, 5,000g",
             "",
             "Parsnip Seeds",
-            "data-sort-value=\"20\"> 20g",
+            "data-sort-value=\"20\">, 20g",
             "",
             "Bean Starter",
-            "data-sort-value=\"60\"> 60g",
+            "data-sort-value=\"60\">, 60g",
             "",
             "Cauliflower Seeds",
-            "data-sort-value=\"80\"> 80g",
+            "data-sort-value=\"80\">, 80g",
             "",
             "Potato Seeds",
-            "data-sort-value=\"50\"> 50g",
+            "data-sort-value=\"50\">, 50g",
             "",
             "Tulip Bulb",
-            "data-sort-value=\"20\"> 20g",
+            "data-sort-value=\"20\">, 20g",
             "",
             "Kale Seeds",
-            "data-sort-value=\"70\"> 70g",
+            "data-sort-value=\"70\">, 70g",
             "",
             "Jazz Seeds",
-            "data-sort-value=\"30\"> 30g",
+            "data-sort-value=\"30\">, 30g",
             "",
             "Garlic Seeds",
-            "data-sort-value=\"40\"> 40g",
+            "data-sort-value=\"40\">, 40g",
             "",
             "Iridium Fireplace",
-            "data-sort-value=\"15000\"> 15,000g",
+            "data-sort-value=\"15000\">, 15,000g",
             "",
             "Rarecrow #7",
-            "data-sort-value=\"5000\"> 5,000g",
+            "data-sort-value=\"5000\">, 5,000g",
             "",
             "Rarecrow #8",
-            "data-sort-value=\"5000\"> 5,000g",
+            "data-sort-value=\"5000\">, 5,000g",
             "",
             "Crystal Chair",
-            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"2500\">, 2,500g",
             "",
             "Upright Piano",
-            "data-sort-value=\"100000\"> 100,000g",
+            "data-sort-value=\"100000\">, 100,000g",
             "Winter 16",
             "Image",
             "Name",
             "Price",
             "",
             "Suit Of Armor",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "",
             "Stone Parrot",
-            "data-sort-value=\"500\"> 500g",
+            "data-sort-value=\"500\">, 500g",
             "",
             "Cone Hat",
-            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"2500\">, 2,500g",
             "",
             "Melon Seeds",
-            "data-sort-value=\"80\"> 80g",
+            "data-sort-value=\"80\">, 80g",
             "",
             "Tomato Seeds",
-            "data-sort-value=\"50\"> 50g",
+            "data-sort-value=\"50\">, 50g",
             "",
             "Blueberry Seeds",
-            "data-sort-value=\"80\"> 80g",
+            "data-sort-value=\"80\">, 80g",
             "",
             "Pepper Seeds",
-            "data-sort-value=\"40\"> 40g",
+            "data-sort-value=\"40\">, 40g",
             "",
             "Wheat Seeds",
-            "data-sort-value=\"10\"> 10g",
+            "data-sort-value=\"10\">, 10g",
             "",
             "Radish Seeds",
-            "data-sort-value=\"40\"> 40g",
+            "data-sort-value=\"40\">, 40g",
             "",
             "Poppy Seeds",
-            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100\">, 100g",
             "",
             "Spangle Seeds",
-            "data-sort-value=\"50\"> 50g",
+            "data-sort-value=\"50\">, 50g",
             "",
             "Hops Starter",
-            "data-sort-value=\"60\"> 60g",
+            "data-sort-value=\"60\">, 60g",
             "",
             "Corn Seeds",
-            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"150\">, 150g",
             "",
             "Sunflower Seeds",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "",
             "Red Cabbage Seeds",
-            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100\">, 100g",
             "",
             "Iridium Fireplace",
-            "data-sort-value=\"15000\"> 15,000g",
+            "data-sort-value=\"15000\">, 15,000g",
             "",
             "Rarecrow #7",
-            "data-sort-value=\"5000\"> 5,000g",
+            "data-sort-value=\"5000\">, 5,000g",
             "",
             "Rarecrow #8",
-            "data-sort-value=\"5000\"> 5,000g",
+            "data-sort-value=\"5000\">, 5,000g",
             "",
             "Crystal Chair",
-            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"2500\">, 2,500g",
             "",
             "Upright Piano",
-            "data-sort-value=\"100000\"> 100,000g",
+            "data-sort-value=\"100000\">, 100,000g",
             "Winter 17",
             "Image",
             "Name",
             "Price",
             "",
             "Log Section",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "",
             "Stone Owl",
-            "data-sort-value=\"500\"> 500g",
+            "data-sort-value=\"500\">, 500g",
             "",
             "Cone Hat",
-            "data-sort-value=\"10000\"> 10,000g",
+            "data-sort-value=\"10000\">, 10,000g",
             "",
             "Corn Seeds",
-            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"150\">, 150g",
             "",
             "Eggplant Seeds",
-            "data-sort-value=\"20\"> 20g",
+            "data-sort-value=\"20\">, 20g",
             "",
             "Pumpkin Seeds",
-            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100\">, 100g",
             "",
             "Bok Choy Seeds",
-            "data-sort-value=\"50\"> 50g",
+            "data-sort-value=\"50\">, 50g",
             "",
             "Yam Seeds",
-            "data-sort-value=\"60\"> 60g",
+            "data-sort-value=\"60\">, 60g",
             "",
             "Cranberry Seeds",
-            "data-sort-value=\"240\"> 240g",
+            "data-sort-value=\"240\">, 240g",
             "",
             "Wheat Seeds",
-            "data-sort-value=\"10\"> 10g",
+            "data-sort-value=\"10\">, 10g",
             "",
             "Fairy Seeds",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "",
             "Amaranth Seeds",
-            "data-sort-value=\"70\"> 70g",
+            "data-sort-value=\"70\">, 70g",
             "",
             "Grape Starter",
-            "data-sort-value=\"60\"> 60g",
+            "data-sort-value=\"60\">, 60g",
             "",
             "Sunflower Seeds",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "",
             "Artichoke Seeds",
-            "data-sort-value=\"30\"> 30g",
+            "data-sort-value=\"30\">, 30g",
             "",
             "Iridium Fireplace",
-            "data-sort-value=\"15000\"> 15,000g",
+            "data-sort-value=\"15000\">, 15,000g",
             "",
             "Rarecrow #7",
-            "data-sort-value=\"5000\"> 5,000g",
+            "data-sort-value=\"5000\">, 5,000g",
             "",
             "Rarecrow #8",
-            "data-sort-value=\"5000\"> 5,000g",
+            "data-sort-value=\"5000\">, 5,000g",
             "",
             "Crystal Chair",
-            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"2500\">, 2,500g",
             "",
             "Upright Piano",
-            "data-sort-value=\"100000\"> 100,000g"
+            "data-sort-value=\"100000\">, 100,000g"
           ],
           [
             "Winter 15"
@@ -553,82 +553,82 @@
           [
             "",
             "Grave Stone",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Stone Frog",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Cone Hat",
-            "data-sort-value=\"5000\"> 5,000g"
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Parsnip Seeds",
-            "data-sort-value=\"20\"> 20g"
+            "data-sort-value=\"20\">, 20g"
           ],
           [
             "",
             "Bean Starter",
-            "data-sort-value=\"60\"> 60g"
+            "data-sort-value=\"60\">, 60g"
           ],
           [
             "",
             "Cauliflower Seeds",
-            "data-sort-value=\"80\"> 80g"
+            "data-sort-value=\"80\">, 80g"
           ],
           [
             "",
             "Potato Seeds",
-            "data-sort-value=\"50\"> 50g"
+            "data-sort-value=\"50\">, 50g"
           ],
           [
             "",
             "Tulip Bulb",
-            "data-sort-value=\"20\"> 20g"
+            "data-sort-value=\"20\">, 20g"
           ],
           [
             "",
             "Kale Seeds",
-            "data-sort-value=\"70\"> 70g"
+            "data-sort-value=\"70\">, 70g"
           ],
           [
             "",
             "Jazz Seeds",
-            "data-sort-value=\"30\"> 30g"
+            "data-sort-value=\"30\">, 30g"
           ],
           [
             "",
             "Garlic Seeds",
-            "data-sort-value=\"40\"> 40g"
+            "data-sort-value=\"40\">, 40g"
           ],
           [
             "",
             "Iridium Fireplace",
-            "data-sort-value=\"15000\"> 15,000g"
+            "data-sort-value=\"15000\">, 15,000g"
           ],
           [
             "",
             "Rarecrow #7",
-            "data-sort-value=\"5000\"> 5,000g"
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Rarecrow #8",
-            "data-sort-value=\"5000\"> 5,000g"
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Crystal Chair",
-            "data-sort-value=\"2500\"> 2,500g"
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "",
             "Upright Piano",
-            "data-sort-value=\"100000\"> 100,000g"
+            "data-sort-value=\"100000\">, 100,000g"
           ],
           [
             "Winter 16"
@@ -641,102 +641,102 @@
           [
             "",
             "Suit Of Armor",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Stone Parrot",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Cone Hat",
-            "data-sort-value=\"2500\"> 2,500g"
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "",
             "Melon Seeds",
-            "data-sort-value=\"80\"> 80g"
+            "data-sort-value=\"80\">, 80g"
           ],
           [
             "",
             "Tomato Seeds",
-            "data-sort-value=\"50\"> 50g"
+            "data-sort-value=\"50\">, 50g"
           ],
           [
             "",
             "Blueberry Seeds",
-            "data-sort-value=\"80\"> 80g"
+            "data-sort-value=\"80\">, 80g"
           ],
           [
             "",
             "Pepper Seeds",
-            "data-sort-value=\"40\"> 40g"
+            "data-sort-value=\"40\">, 40g"
           ],
           [
             "",
             "Wheat Seeds",
-            "data-sort-value=\"10\"> 10g"
+            "data-sort-value=\"10\">, 10g"
           ],
           [
             "",
             "Radish Seeds",
-            "data-sort-value=\"40\"> 40g"
+            "data-sort-value=\"40\">, 40g"
           ],
           [
             "",
             "Poppy Seeds",
-            "data-sort-value=\"100\"> 100g"
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Spangle Seeds",
-            "data-sort-value=\"50\"> 50g"
+            "data-sort-value=\"50\">, 50g"
           ],
           [
             "",
             "Hops Starter",
-            "data-sort-value=\"60\"> 60g"
+            "data-sort-value=\"60\">, 60g"
           ],
           [
             "",
             "Corn Seeds",
-            "data-sort-value=\"150\"> 150g"
+            "data-sort-value=\"150\">, 150g"
           ],
           [
             "",
             "Sunflower Seeds",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Red Cabbage Seeds",
-            "data-sort-value=\"100\"> 100g"
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Iridium Fireplace",
-            "data-sort-value=\"15000\"> 15,000g"
+            "data-sort-value=\"15000\">, 15,000g"
           ],
           [
             "",
             "Rarecrow #7",
-            "data-sort-value=\"5000\"> 5,000g"
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Rarecrow #8",
-            "data-sort-value=\"5000\"> 5,000g"
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Crystal Chair",
-            "data-sort-value=\"2500\"> 2,500g"
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "",
             "Upright Piano",
-            "data-sort-value=\"100000\"> 100,000g"
+            "data-sort-value=\"100000\">, 100,000g"
           ],
           [
             "Winter 17"
@@ -749,102 +749,102 @@
           [
             "",
             "Log Section",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Stone Owl",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Cone Hat",
-            "data-sort-value=\"10000\"> 10,000g"
+            "data-sort-value=\"10000\">, 10,000g"
           ],
           [
             "",
             "Corn Seeds",
-            "data-sort-value=\"150\"> 150g"
+            "data-sort-value=\"150\">, 150g"
           ],
           [
             "",
             "Eggplant Seeds",
-            "data-sort-value=\"20\"> 20g"
+            "data-sort-value=\"20\">, 20g"
           ],
           [
             "",
             "Pumpkin Seeds",
-            "data-sort-value=\"100\"> 100g"
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Bok Choy Seeds",
-            "data-sort-value=\"50\"> 50g"
+            "data-sort-value=\"50\">, 50g"
           ],
           [
             "",
             "Yam Seeds",
-            "data-sort-value=\"60\"> 60g"
+            "data-sort-value=\"60\">, 60g"
           ],
           [
             "",
             "Cranberry Seeds",
-            "data-sort-value=\"240\"> 240g"
+            "data-sort-value=\"240\">, 240g"
           ],
           [
             "",
             "Wheat Seeds",
-            "data-sort-value=\"10\"> 10g"
+            "data-sort-value=\"10\">, 10g"
           ],
           [
             "",
             "Fairy Seeds",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Amaranth Seeds",
-            "data-sort-value=\"70\"> 70g"
+            "data-sort-value=\"70\">, 70g"
           ],
           [
             "",
             "Grape Starter",
-            "data-sort-value=\"60\"> 60g"
+            "data-sort-value=\"60\">, 60g"
           ],
           [
             "",
             "Sunflower Seeds",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Artichoke Seeds",
-            "data-sort-value=\"30\"> 30g"
+            "data-sort-value=\"30\">, 30g"
           ],
           [
             "",
             "Iridium Fireplace",
-            "data-sort-value=\"15000\"> 15,000g"
+            "data-sort-value=\"15000\">, 15,000g"
           ],
           [
             "",
             "Rarecrow #7",
-            "data-sort-value=\"5000\"> 5,000g"
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Rarecrow #8",
-            "data-sort-value=\"5000\"> 5,000g"
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Crystal Chair",
-            "data-sort-value=\"2500\"> 2,500g"
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "",
             "Upright Piano",
-            "data-sort-value=\"100000\"> 100,000g"
+            "data-sort-value=\"100000\">, 100,000g"
           ]
         ]
       }
@@ -860,7 +860,7 @@
             "Solution"
           ],
           [
-            "When played in the order 1-5-4-2-3 (left to right), the player will be awarded with a Pearl . Only one Pearl can be obtained in the Mermaid Boat by each player per each saved game , but the Mermaid Show can be viewed repeatedly by exiting and re-entering the boat at any time. There are also other ways of obtaining Pearls which are unaffected by obtaining this Pearl."
+            "When played in the order 1-5-4-2-3 (left to right), the player will be awarded with a, Pearl, . Only one Pearl can be obtained in the Mermaid Boat by each player per each, saved game, , but the Mermaid Show can be viewed repeatedly by exiting and re-entering the boat at any time. There are also other ways of obtaining Pearls which are unaffected by obtaining this Pearl."
           ]
         ]
       }
@@ -872,7 +872,7 @@
         "rows": [
           [
             "“",
-            "“Starting tomorrow, a traveling merchant fleet will dock at Pelican Town for the yearly night market. The market starts at 5pm, and will be in port for the next three days. Please visit the beach after 5pm to join the festivities. There's free coffee!”"
+            "“Starting tomorrow, a traveling merchant fleet will dock at Pelican Town for the yearly night market., The market starts at 5pm, and will be in port for the next three days., Please visit the beach after 5pm to join the festivities. There's free coffee!”"
           ]
         ]
       }
@@ -889,19 +889,19 @@
           ],
           [
             "Spring",
-            "Egg Festival • Desert Festival • Flower Dance"
+            "Egg Festival, •, Desert Festival, •, Flower Dance"
           ],
           [
             "Summer",
-            "Luau • Trout Derby • Dance of the Moonlight Jellies"
+            "Luau, •, Trout Derby, •, Dance of the Moonlight Jellies"
           ],
           [
             "Fall",
-            "Stardew Valley Fair • Spirit's Eve"
+            "Stardew Valley Fair, •, Spirit's Eve"
           ],
           [
             "Winter",
-            "Festival of Ice • SquidFest • Night Market • Feast of the Winter Star"
+            "Festival of Ice, •, SquidFest, •, Night Market, •, Feast of the Winter Star"
           ]
         ]
       }

@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Incubator Hatches eggs into baby chickens and ducks. Information Cost: N/A\nThe Incubator is a tool used to hatch eggs. It comes with the Big Coop and the Deluxe Coop , where it appears to the left of the Hay Hopper .\nTo use the Incubator, place an egg into it by left-clicking. An egg cannot be removed once it is placed in an incubator unless the coop is at capacity.\nIf the coop is at capacity (8 animals for a Big Coop, 12 for a Deluxe Coop), the egg won't hatch until a space is freed up. This can happen by selling an animal or moving an animal to another coop. Once the coop is below capacity, entering the building will cause the egg to hatch instantly."
+      "content": "The Incubator is a tool used to hatch eggs. It comes with the Big Coop and the Deluxe Coop , where it appears to the left of the Hay Hopper .\nTo use the Incubator, place an egg into it by left-clicking. An egg cannot be removed once it is placed in an incubator unless the coop is at capacity.\nIf the coop is at capacity (8 animals for a Big Coop, 12 for a Deluxe Coop), the egg won't hatch until a space is freed up. This can happen by selling an animal or moving an animal to another coop. Once the coop is below capacity, entering the building will cause the egg to hatch instantly."
     },
     {
       "heading": "Incubation Times",
@@ -16,6 +16,30 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Incubator"
+          ],
+          [
+            ""
+          ],
+          [
+            "Hatches eggs into baby chickens and ducks."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Cost:",
+            "N/A"
+          ]
+        ]
+      }
+    },
     {
       "section": "Incubation Times",
       "table": {
@@ -31,12 +55,12 @@
             "Processing Time"
           ],
           [
-            "Egg Large Egg",
+            "Egg, Large Egg",
             "Chicken",
             "9,000m (5d 16h 40m)"
           ],
           [
-            "Brown Egg Large Brown Egg",
+            "Brown Egg, Large Brown Egg",
             "Chicken"
           ],
           [
@@ -71,15 +95,15 @@
           ],
           [
             "Basic",
-            "Axes • Golden Scythe • Iridium Scythe • Hoes • Pans • Pickaxes • Scythe • Trash Cans • Watering Cans"
+            "Axes, •, Golden Scythe, •, Iridium Scythe, •, Hoes, •, Pans, •, Pickaxes, •, Scythe, •, Trash Cans, •, Watering Cans"
           ],
           [
             "Fishing",
-            "Training Rod • Bamboo Pole • Fiberglass Rod • Iridium Rod • Advanced Iridium Rod • Crab Pot"
+            "Training Rod, •, Bamboo Pole, •, Fiberglass Rod, •, Iridium Rod, •, Advanced Iridium Rod, •, Crab Pot"
           ],
           [
             "Other",
-            "Auto-Grabber • Auto-Petter • Hay Hopper • Heater • Incubator • Milk Pail • Ostrich Incubator • Shears"
+            "Auto-Grabber, •, Auto-Petter, •, Hay Hopper, •, Heater, •, Incubator, •, Milk Pail, •, Ostrich Incubator, •, Shears"
           ]
         ]
       }

@@ -65,24 +65,24 @@
             "Basic Fertilizer",
             "Improves soil quality a little, increasing your chance to grow quality crops. Mix into tilled soil.",
             "Before the seed sprouts",
-            "data-sort-value=\"100\"> 100g (Spring 15, Year 1+)",
+            "data-sort-value=\"100\">, 100g, (Spring 15, Year 1+)",
             "",
-            "data-sort-value=\"2\"> 2g",
-            "Sap (2)",
+            "data-sort-value=\"2\">, 2g",
+            "Sap, (2)",
             "1",
-            "Farming Level 1"
+            "Farming, Level 1"
           ],
           [
             "",
             "Quality Fertilizer",
             "Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil.",
             "Before the seed sprouts",
-            "data-sort-value=\"150\"> 150g (Year 2+)",
+            "data-sort-value=\"150\">, 150g, (Year 2+)",
             "",
-            "data-sort-value=\"10\"> 10g",
-            "Sap (4) Fish (1)",
+            "data-sort-value=\"10\">, 10g",
+            "Sap, (4), Fish, (1)",
             "2",
-            "Farming Level 9"
+            "Farming, Level 9"
           ],
           [
             "",
@@ -91,34 +91,34 @@
             "Before or after planting",
             "",
             "",
-            "data-sort-value=\"70\"> 70g",
-            "Iridium Bar (1) Sap (40)",
+            "data-sort-value=\"70\">, 70g",
+            "Iridium Bar, (1), Sap, (40)",
             "5",
-            "Qi's Walnut Room for Qi Gem (20)"
+            "Qi's Walnut Room, for, Qi Gem, (20)"
           ],
           [
             "",
             "Basic Retaining Soil",
             "This soil has a chance of staying watered overnight. Mix into tilled soil.",
             "Before or after planting",
-            "data-sort-value=\"100\"> 100g (Spring 15, Year 1+)",
+            "data-sort-value=\"100\">, 100g, (Spring 15, Year 1+)",
             "",
-            "data-sort-value=\"4\"> 4g",
-            "Stone (2)",
+            "data-sort-value=\"4\">, 4g",
+            "Stone, (2)",
             "1",
-            "Farming Level 4"
+            "Farming, Level 4"
           ],
           [
             "",
             "Quality Retaining Soil",
             "This soil has a good chance of staying watered overnight. Mix into tilled soil.",
             "Before or after planting",
-            "data-sort-value=\"150\"> 150g (Year 2+)",
-            "data-sort-value=\"200\"> 200g (Saturday only)",
-            "data-sort-value=\"5\"> 5g",
-            "Stone (3) Clay (1)",
+            "data-sort-value=\"150\">, 150g, (Year 2+)",
+            "data-sort-value=\"200\">, 200g, (Saturday only)",
+            "data-sort-value=\"5\">, 5g",
+            "Stone, (3), Clay, (1)",
             "2",
-            "Farming Level 7"
+            "Farming, Level 7"
           ],
           [
             "",
@@ -127,46 +127,46 @@
             "Before or after planting",
             "",
             "",
-            "data-sort-value=\"30\"> 30g",
-            "Stone (5) Fiber (3) Clay (1)",
+            "data-sort-value=\"30\">, 30g",
+            "Stone, (5), Fiber, (3), Clay, (1)",
             "1",
-            "Island Trader for Cinder Shard (50)"
+            "Island Trader, for, Cinder Shard, (50)"
           ],
           [
             "",
             "Speed-Gro",
-            "Stimulates leaf production. Guaranteed to increase growth rate by at least 10%. Mix into tilled soil. Note: Does not reduce time between harvests for multi-harvest crops.",
+            "Stimulates leaf production. Guaranteed to increase growth rate by at least 10%. Mix into tilled soil., Note: Does not reduce time between harvests for multi-harvest crops.",
             "Before or after planting",
-            "data-sort-value=\"100\"> 100g (Spring 15, Year 1+)",
+            "data-sort-value=\"100\">, 100g, (Spring 15, Year 1+)",
             "",
-            "data-sort-value=\"20\"> 20g",
-            "Pine Tar (1) Moss (5)",
+            "data-sort-value=\"20\">, 20g",
+            "Pine Tar, (1), Moss, (5)",
             "5",
-            "Farming Level 3"
+            "Farming, Level 3"
           ],
           [
             "",
             "Deluxe Speed-Gro",
-            "Stimulates leaf production. Guaranteed to increase growth rate by at least 25%. Mix into tilled soil. Note: Does not reduce time between harvests for multi-harvest crops.",
+            "Stimulates leaf production. Guaranteed to increase growth rate by at least 25%. Mix into tilled soil., Note: Does not reduce time between harvests for multi-harvest crops.",
             "Before or after planting",
-            "data-sort-value=\"150\"> 150g (Year 2+)",
-            "data-sort-value=\"80\"> 80g (Thursday only)",
-            "data-sort-value=\"40\"> 40g",
-            "Oak Resin (1) Bone Fragment (5)",
+            "data-sort-value=\"150\">, 150g, (Year 2+)",
+            "data-sort-value=\"80\">, 80g, (Thursday only)",
+            "data-sort-value=\"40\">, 40g",
+            "Oak Resin, (1), Bone Fragment, (5)",
             "5",
-            "Farming Level 8"
+            "Farming, Level 8"
           ],
           [
             "",
             "Hyper Speed-Gro",
-            "Greatly stimulates leaf production. Guaranteed to increase growth rate by at least 33%. Mix into tilled soil. Note: Does not reduce time between harvests for multi-harvest crops.",
+            "Greatly stimulates leaf production. Guaranteed to increase growth rate by at least 33%. Mix into tilled soil., Note: Does not reduce time between harvests for multi-harvest crops.",
             "Before or after planting",
             "",
             "",
-            "data-sort-value=\"70\"> 70g",
-            "Radioactive Ore (1) Bone Fragment (3) Solar Essence (1)",
+            "data-sort-value=\"70\">, 70g",
+            "Radioactive Ore, (1), Bone Fragment, (3), Solar Essence, (1)",
             "1",
-            "Qi's Walnut Room for Qi Gem (30)"
+            "Qi's Walnut Room, for, Qi Gem, (30)"
           ],
           [
             "",
@@ -175,10 +175,10 @@
             "After planting on tree seeds and saplings",
             "N/A",
             "",
-            "data-sort-value=\"10\"> 10g",
-            "Fiber (5) Stone (5)",
+            "data-sort-value=\"10\">, 10g",
+            "Fiber, (5), Stone, (5)",
             "1",
-            "Foraging Level 7"
+            "Foraging, Level 7"
           ]
         ]
       }
@@ -765,27 +765,27 @@
         ],
         "rows": [
           [
-            "Cost for 5 Speed-Gro Crafting Pierre's No Profession data-sort-value=\"125\"> 125g data-sort-value=\"500\"> 500g Tapper Profession data-sort-value=\"150\"> 150g",
+            "Cost for 5, Speed-Gro, Crafting, Pierre's, No, Profession, data-sort-value=\"125\">, 125g, data-sort-value=\"500\">, 500g, Tapper, Profession, data-sort-value=\"150\">, 150g",
             "",
             "Crafting",
             "Pierre's",
-            "No Profession",
-            "data-sort-value=\"125\"> 125g",
-            "data-sort-value=\"500\"> 500g",
-            "Tapper Profession",
-            "data-sort-value=\"150\"> 150g",
+            "No, Profession",
+            "data-sort-value=\"125\">, 125g",
+            "data-sort-value=\"500\">, 500g",
+            "Tapper, Profession",
+            "data-sort-value=\"150\">, 150g",
             "",
-            "Cost for 5 Deluxe Speed-Gro Crafting Oasis Pierre's No Profession data-sort-value=\"210\"> 210g data-sort-value=\"400\"> 400g data-sort-value=\"750\"> 750g Tapper Profession data-sort-value=\"247\"> 247g",
+            "Cost for 5, Deluxe Speed-Gro, Crafting, Oasis, Pierre's, No, Profession, data-sort-value=\"210\">, 210g, data-sort-value=\"400\">, 400g, data-sort-value=\"750\">, 750g, Tapper, Profession, data-sort-value=\"247\">, 247g",
             "",
             "Crafting",
             "Oasis",
             "Pierre's",
-            "No Profession",
-            "data-sort-value=\"210\"> 210g",
-            "data-sort-value=\"400\"> 400g",
-            "data-sort-value=\"750\"> 750g",
-            "Tapper Profession",
-            "data-sort-value=\"247\"> 247g"
+            "No, Profession",
+            "data-sort-value=\"210\">, 210g",
+            "data-sort-value=\"400\">, 400g",
+            "data-sort-value=\"750\">, 750g",
+            "Tapper, Profession",
+            "data-sort-value=\"247\">, 247g"
           ],
           [
             "",
@@ -793,13 +793,13 @@
             "Pierre's"
           ],
           [
-            "No Profession",
-            "data-sort-value=\"125\"> 125g",
-            "data-sort-value=\"500\"> 500g"
+            "No, Profession",
+            "data-sort-value=\"125\">, 125g",
+            "data-sort-value=\"500\">, 500g"
           ],
           [
-            "Tapper Profession",
-            "data-sort-value=\"150\"> 150g"
+            "Tapper, Profession",
+            "data-sort-value=\"150\">, 150g"
           ],
           [
             "",
@@ -808,14 +808,14 @@
             "Pierre's"
           ],
           [
-            "No Profession",
-            "data-sort-value=\"210\"> 210g",
-            "data-sort-value=\"400\"> 400g",
-            "data-sort-value=\"750\"> 750g"
+            "No, Profession",
+            "data-sort-value=\"210\">, 210g",
+            "data-sort-value=\"400\">, 400g",
+            "data-sort-value=\"750\">, 750g"
           ],
           [
-            "Tapper Profession",
-            "data-sort-value=\"247\"> 247g"
+            "Tapper, Profession",
+            "data-sort-value=\"247\">, 247g"
           ]
         ]
       }
@@ -832,33 +832,33 @@
           ],
           [
             "Artisan",
-            "Bee House • Cask • Cheese Press • Dehydrator • Fish Smoker • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar"
+            "Bee House, •, Cask, •, Cheese Press, •, Dehydrator, •, Fish Smoker, •, Keg, •, Loom, •, Mayonnaise Machine, •, Oil Maker, •, Preserves Jar"
           ],
           [
             "Refining",
-            "Bait Maker • Bone Mill • Charcoal Kiln • Crystalarium • Deluxe Worm Bin • Furnace • Geode Crusher • Heavy Furnace • Heavy Tapper • Lightning Rod • Mushroom Log • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin"
+            "Bait Maker, •, Bone Mill, •, Charcoal Kiln, •, Crystalarium, •, Deluxe Worm Bin, •, Furnace, •, Geode Crusher, •, Heavy Furnace, •, Heavy Tapper, •, Lightning Rod, •, Mushroom Log, •, Ostrich Incubator, •, Recycling Machine, •, Seed Maker, •, Slime Egg-Press, •, Slime Incubator, •, Solar Panel, •, Tapper, •, Wood Chipper, •, Worm Bin"
           ],
           [
             "Farming",
             "Fertilizer",
-            "Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil • Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer"
+            "Basic Fertilizer, •, Basic Retaining Soil, •, Deluxe Fertilizer, •, Deluxe Retaining Soil, •, Deluxe Speed-Gro, •, Hyper Speed-Gro, •, Quality Fertilizer, •, Quality Retaining Soil, •, Speed-Gro, •, Tree Fertilizer"
           ],
           [
             "Sprinklers",
-            "Iridium Sprinkler • Quality Sprinkler • Sprinkler"
+            "Iridium Sprinkler, •, Quality Sprinkler, •, Sprinkler"
           ],
           [
             "Other",
-            "Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow"
+            "Deluxe Scarecrow, •, Garden Pot, •, Rarecrow, •, Scarecrow"
           ],
           [
             "Fishing",
             "Bait",
-            "Bait • Challenge Bait • Deluxe Bait • Magic Bait • Magnet • Targeted Bait • Wild Bait"
+            "Bait, •, Challenge Bait, •, Deluxe Bait, •, Magic Bait, •, Magnet, •, Targeted Bait, •, Wild Bait"
           ],
           [
             "Tackle",
-            "Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Sonar Bobber • Spinner • Trap Bobber • Treasure Hunter"
+            "Barbed Hook, •, Cork Bobber, •, Curiosity Lure, •, Dressed Spinner, •, Lead Bobber, •, Quality Bobber, •, Sonar Bobber, •, Spinner, •, Trap Bobber, •, Treasure Hunter"
           ],
           [
             "Other",
@@ -866,23 +866,23 @@
           ],
           [
             "Bombs",
-            "Bomb • Cherry Bomb • Mega Bomb"
+            "Bomb, •, Cherry Bomb, •, Mega Bomb"
           ],
           [
             "Fences",
-            "Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence"
+            "Gate, •, Hardwood Fence, •, Iron Fence, •, Stone Fence, •, Wood Fence"
           ],
           [
             "Storage",
-            "Big Chest • Big Stone Chest • Chest • Junimo Chest • Mini-Fridge • Stone Chest"
+            "Big Chest, •, Big Stone Chest, •, Chest, •, Junimo Chest, •, Mini-Fridge, •, Stone Chest"
           ],
           [
             "Signs",
-            "Dark Sign • Stone Sign • Text Sign • Wood Sign"
+            "Dark Sign, •, Stone Sign, •, Text Sign, •, Wood Sign"
           ],
           [
             "Misc",
-            "Anvil • Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Forge • Mini-Jukebox • Mini-Shipping Bin • Sewing Machine • Staircase • Statue Of Blessings • Statue Of The Dwarf King • Telephone • Tent Kit • Tools • Workbench"
+            "Anvil, •, Coffee Maker, •, Cookout Kit, •, Deconstructor, •, Fairy Dust, •, Farm Computer, •, Hopper, •, Mini-Forge, •, Mini-Jukebox, •, Mini-Shipping Bin, •, Sewing Machine, •, Staircase, •, Statue Of Blessings, •, Statue Of The Dwarf King, •, Telephone, •, Tent Kit, •, Tools, •, Workbench"
           ]
         ]
       }

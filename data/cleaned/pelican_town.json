@@ -61,7 +61,7 @@
           [
             "",
             "Pierre's General Store",
-            "Pierre Caroline Abigail"
+            "Pierre, Caroline, Abigail"
           ],
           [
             "",
@@ -95,7 +95,7 @@
           ],
           [
             "",
-            "Bookseller shop",
+            "Bookseller, shop",
             "Bookseller"
           ]
         ]
@@ -118,12 +118,12 @@
           [
             "",
             "1 River Road",
-            "Alex Evelyn George"
+            "Alex, Evelyn, George"
           ],
           [
             "",
             "Trailer",
-            "Pam Penny"
+            "Pam, Penny"
           ],
           [
             "",
@@ -133,12 +133,12 @@
           [
             "",
             "1 Willow Lane",
-            "Jodi Kent Sam Vincent"
+            "Jodi, Kent, Sam, Vincent"
           ],
           [
             "",
             "2 Willow Lane",
-            "Emily Haley"
+            "Emily, Haley"
           ]
         ]
       }
@@ -392,7 +392,7 @@
           ],
           [
             "Locations",
-            "Backwoods • Beach • Bus Stop • Calico Desert • Cindersap Forest • Farm • Farm Cave • Farm Pond • Graveyard • Ginger Island • Mastery Cave • Minecart • Mines • Mountain • Mutant Bug Lair • Pelican Town • Quarry • Quarry Mine • Railroad • Secret Woods • Sewers • Skull Cavern • Summit • Tunnel • Volcano Dungeon • Witch's Swamp"
+            "Backwoods, •, Beach, •, Bus Stop, •, Calico Desert, •, Cindersap Forest, •, Farm, •, Farm Cave, •, Farm Pond, •, Graveyard, •, Ginger Island, •, Mastery Cave, •, Minecart, •, Mines, •, Mountain, •, Mutant Bug Lair, •, Pelican Town, •, Quarry, •, Quarry Mine, •, Railroad, •, Secret Woods, •, Sewers, •, Skull Cavern, •, Summit, •, Tunnel, •, Volcano Dungeon, •, Witch's Swamp"
           ]
         ]
       }

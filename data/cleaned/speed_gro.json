@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Speed-Gro Stimulates leaf production. Guaranteed to increase growth rate by at least 10%. Mix into tilled soil. Information Source Pierre's • Crafting • Bone Mill Sell Price data-sort-value=\"20\"> 20g Recipe Recipe Source(s) Farming Level 3 Ingredients Pine Tar (1) Moss (5) Produces 5 Speed-Gro per craft\nSpeed-Gro is a Fertilizer that speeds crop growth by 10% (or a total of 20% with the Agriculturist Profession ) . It can be crafted , obtained from a Bone Mill , or purchased from Pierre's for data-sort-value=\"100\"> 100g starting on Spring 15th of year 1. Twenty Speed-Gro is the reward for completing the Spring Crops Bundle in the Pantry .\nSpeed-Gro can be placed on tilled soil before or after planting a seed, or at any stage of crop growth. It does not reduce time between harvests for multi-harvest crops.\nApplying Speed-Gro days after planting a seed still decreases the time it takes to fully grow, but it reduces a fixed amount of days per stage for each crop regardless of the day it's applied, and the reduction in stages that the crop has already passed will not retroactively apply. Combined with the fact that the reduction disproportionately affects earlier stages more, this means that its reduction to the rest of the growth time is much lower than the advertised percentage of 10%. ."
+      "content": "Speed-Gro is a Fertilizer that speeds crop growth by 10% (or a total of 20% with the Agriculturist Profession ) . It can be crafted , obtained from a Bone Mill , or purchased from Pierre's for data-sort-value=\"100\"> 100g starting on Spring 15th of year 1. Twenty Speed-Gro is the reward for completing the Spring Crops Bundle in the Pantry .\nSpeed-Gro can be placed on tilled soil before or after planting a seed, or at any stage of crop growth. It does not reduce time between harvests for multi-harvest crops.\nApplying Speed-Gro days after planting a seed still decreases the time it takes to fully grow, but it reduces a fixed amount of days per stage for each crop regardless of the day it's applied, and the reduction in stages that the crop has already passed will not retroactively apply. Combined with the fact that the reduction disproportionately affects earlier stages more, this means that its reduction to the rest of the growth time is much lower than the advertised percentage of 10%. ."
     },
     {
       "heading": "Bundles",
@@ -29,6 +29,49 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Speed-Gro"
+          ],
+          [
+            ""
+          ],
+          [
+            "Stimulates leaf production. Guaranteed to increase growth rate by at least 10%. Mix into tilled soil."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Pierre's, •, Crafting, •, Bone Mill"
+          ],
+          [
+            "Sell Price",
+            "data-sort-value=\"20\">, 20g"
+          ],
+          [
+            "Recipe"
+          ],
+          [
+            "Recipe Source(s)",
+            "Farming, Level 3"
+          ],
+          [
+            "Ingredients",
+            "Pine Tar, (1), Moss, (5)"
+          ],
+          [
+            "Produces",
+            "5 Speed-Gro per craft"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Gifting",
       "table": {
         "headers": [
@@ -40,7 +83,7 @@
           ],
           [
             "Dislike",
-            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+            "Abigail, •, Alex, •, Caroline, •, Clint, •, Demetrius, •, Dwarf, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Haley, •, Harvey, •, Jas, •, Jodi, •, Kent, •, Krobus, •, Leah, •, Leo, •, Lewis, •, Linus, •, Marnie, •, Maru, •, Pam, •, Penny, •, Pierre, •, Robin, •, Sam, •, Sandy, •, Sebastian, •, Shane, •, Vincent, •, Willy, •, Wizard"
           ]
         ]
       }
@@ -57,33 +100,33 @@
           ],
           [
             "Artisan",
-            "Bee House • Cask • Cheese Press • Dehydrator • Fish Smoker • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar"
+            "Bee House, •, Cask, •, Cheese Press, •, Dehydrator, •, Fish Smoker, •, Keg, •, Loom, •, Mayonnaise Machine, •, Oil Maker, •, Preserves Jar"
           ],
           [
             "Refining",
-            "Bait Maker • Bone Mill • Charcoal Kiln • Crystalarium • Deluxe Worm Bin • Furnace • Geode Crusher • Heavy Furnace • Heavy Tapper • Lightning Rod • Mushroom Log • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin"
+            "Bait Maker, •, Bone Mill, •, Charcoal Kiln, •, Crystalarium, •, Deluxe Worm Bin, •, Furnace, •, Geode Crusher, •, Heavy Furnace, •, Heavy Tapper, •, Lightning Rod, •, Mushroom Log, •, Ostrich Incubator, •, Recycling Machine, •, Seed Maker, •, Slime Egg-Press, •, Slime Incubator, •, Solar Panel, •, Tapper, •, Wood Chipper, •, Worm Bin"
           ],
           [
             "Farming",
             "Fertilizer",
-            "Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil • Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer"
+            "Basic Fertilizer, •, Basic Retaining Soil, •, Deluxe Fertilizer, •, Deluxe Retaining Soil, •, Deluxe Speed-Gro, •, Hyper Speed-Gro, •, Quality Fertilizer, •, Quality Retaining Soil, •, Speed-Gro, •, Tree Fertilizer"
           ],
           [
             "Sprinklers",
-            "Iridium Sprinkler • Quality Sprinkler • Sprinkler"
+            "Iridium Sprinkler, •, Quality Sprinkler, •, Sprinkler"
           ],
           [
             "Other",
-            "Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow"
+            "Deluxe Scarecrow, •, Garden Pot, •, Rarecrow, •, Scarecrow"
           ],
           [
             "Fishing",
             "Bait",
-            "Bait • Challenge Bait • Deluxe Bait • Magic Bait • Magnet • Targeted Bait • Wild Bait"
+            "Bait, •, Challenge Bait, •, Deluxe Bait, •, Magic Bait, •, Magnet, •, Targeted Bait, •, Wild Bait"
           ],
           [
             "Tackle",
-            "Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Sonar Bobber • Spinner • Trap Bobber • Treasure Hunter"
+            "Barbed Hook, •, Cork Bobber, •, Curiosity Lure, •, Dressed Spinner, •, Lead Bobber, •, Quality Bobber, •, Sonar Bobber, •, Spinner, •, Trap Bobber, •, Treasure Hunter"
           ],
           [
             "Other",
@@ -91,23 +134,23 @@
           ],
           [
             "Bombs",
-            "Bomb • Cherry Bomb • Mega Bomb"
+            "Bomb, •, Cherry Bomb, •, Mega Bomb"
           ],
           [
             "Fences",
-            "Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence"
+            "Gate, •, Hardwood Fence, •, Iron Fence, •, Stone Fence, •, Wood Fence"
           ],
           [
             "Storage",
-            "Big Chest • Big Stone Chest • Chest • Junimo Chest • Mini-Fridge • Stone Chest"
+            "Big Chest, •, Big Stone Chest, •, Chest, •, Junimo Chest, •, Mini-Fridge, •, Stone Chest"
           ],
           [
             "Signs",
-            "Dark Sign • Stone Sign • Text Sign • Wood Sign"
+            "Dark Sign, •, Stone Sign, •, Text Sign, •, Wood Sign"
           ],
           [
             "Misc",
-            "Anvil • Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Forge • Mini-Jukebox • Mini-Shipping Bin • Sewing Machine • Staircase • Statue Of Blessings • Statue Of The Dwarf King • Telephone • Tent Kit • Tools • Workbench"
+            "Anvil, •, Coffee Maker, •, Cookout Kit, •, Deconstructor, •, Fairy Dust, •, Farm Computer, •, Hopper, •, Mini-Forge, •, Mini-Jukebox, •, Mini-Shipping Bin, •, Sewing Machine, •, Staircase, •, Statue Of Blessings, •, Statue Of The Dwarf King, •, Telephone, •, Tent Kit, •, Tools, •, Workbench"
           ]
         ]
       }

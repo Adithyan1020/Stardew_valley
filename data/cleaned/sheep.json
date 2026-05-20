@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Sheep Adults can be shorn for wool. Sheep who form a close bond with their owners can grow wool faster. A pair of shears is required to harvest the wool. Lives in the barn. Information Building Deluxe Barn Purchase Price data-sort-value=\"8000 \"> 8,000g Produce Wool\nThe Sheep is an animal that lives in a Deluxe Barn . Sheep can be purchased at Marnie's Ranch for data-sort-value=\"8000\"> 8,000g . Sheep can become pregnant and give birth ."
+      "content": "The Sheep is an animal that lives in a Deluxe Barn . Sheep can be purchased at Marnie's Ranch for data-sort-value=\"8000\"> 8,000g . Sheep can become pregnant and give birth ."
     },
     {
       "heading": "Produce",
@@ -25,6 +25,38 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Sheep"
+          ],
+          [
+            ""
+          ],
+          [
+            "Adults can be shorn for wool. Sheep who form a close bond with their owners can grow wool faster. A pair of shears is required to harvest the wool. Lives in the barn."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Building",
+            "Deluxe Barn"
+          ],
+          [
+            "Purchase Price",
+            "data-sort-value=\"8000 \">, 8,000g"
+          ],
+          [
+            "Produce",
+            "Wool"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Produce",
       "table": {
         "headers": [
@@ -44,7 +76,7 @@
             "",
             "Wool",
             "Soft, fluffy wool.",
-            "340g 425g 510g 680g",
+            "340g, 425g, 510g, 680g",
             "",
             "340g",
             "",
@@ -81,15 +113,15 @@
         ],
         "rows": [
           [
-            "Animals and Produce"
+            "Animals, and Produce"
           ],
           [
             "Coop",
-            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+            "Chicken, •, Dinosaur, •, Duck, •, Golden Chicken, •, Rabbit, •, Void Chicken"
           ],
           [
             "Barn",
-            "Cow • Goat • Sheep • Ostrich • Pig"
+            "Cow, •, Goat, •, Sheep, •, Ostrich, •, Pig"
           ],
           [
             "Fish Pond",
@@ -101,7 +133,7 @@
           ],
           [
             "Other",
-            "Cat • Dog • Horse • Turtle"
+            "Cat, •, Dog, •, Horse, •, Turtle"
           ]
         ]
       }

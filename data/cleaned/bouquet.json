@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Bouquet A gift that shows your romantic interest. Information Source Pierre's General Store Season All Sell Price data-sort-value=\"100\"> 100g\nThe Bouquet is a special present you may give only to a marriage candidate with whom you have gained an 8-heart friendship . A bouquet can be purchased at Pierre's General Store for data-sort-value=\"200\"> 200g any time after reaching an 8-heart friendship with a marriage candidate.\nGiving a bouquet to a marriage candidate indicates romantic interest and changes the recipient's status to \"boyfriend\" or \"girlfriend\" on the \"Social\" tab of the pause menu. You may give a bouquet to any or all qualified candidates, but only once to each. Giving a bouquet awards 25 friendship points, but does not count as a normal gift. It unfreezes the friendship level with each recipient, allowing it to increase to 10 hearts, and to decay . Note that pre-bouquet, friendship points with a marriage candidate can continue to increase to just below 9 hearts (2249 points).\nTrying to give a bouquet to someone that is not listed as single will simply say that you cannot date that person. Persisting in attempting to give a bouquet to a non-marriage candidate may produce additional dialogue, such as \"I don't get it\" or \"Is this a joke?\"\nGiving a bouquet to a marriage candidate when you have less than four hearts of friendship with them causes them to respond \"...I don't really know you well enough...\" or \"Uh... This is awkward. Look, I don't really know you that well...\". If you have between 4 and 8 hearts of friendship, the marriage candidate will respond \"Oh? ...Sorry... I'm not ready for that.\" or \"...I didn't know. Uh... Sorry. No.\".\nThe bouquet can be sold for data-sort-value=\"100\"> 100g via the shipping box . Pierre will not buy them back.\nA bouquet can be used to create a Wilted Bouquet , which is used to break up with a girlfriend or boyfriend. The Wilted Bouquet is created by placing a bouquet in a furnace along with one coal ."
+      "content": "The Bouquet is a special present you may give only to a marriage candidate with whom you have gained an 8-heart friendship . A bouquet can be purchased at Pierre's General Store for data-sort-value=\"200\"> 200g any time after reaching an 8-heart friendship with a marriage candidate.\nGiving a bouquet to a marriage candidate indicates romantic interest and changes the recipient's status to \"boyfriend\" or \"girlfriend\" on the \"Social\" tab of the pause menu. You may give a bouquet to any or all qualified candidates, but only once to each. Giving a bouquet awards 25 friendship points, but does not count as a normal gift. It unfreezes the friendship level with each recipient, allowing it to increase to 10 hearts, and to decay . Note that pre-bouquet, friendship points with a marriage candidate can continue to increase to just below 9 hearts (2249 points).\nTrying to give a bouquet to someone that is not listed as single will simply say that you cannot date that person. Persisting in attempting to give a bouquet to a non-marriage candidate may produce additional dialogue, such as \"I don't get it\" or \"Is this a joke?\"\nGiving a bouquet to a marriage candidate when you have less than four hearts of friendship with them causes them to respond \"...I don't really know you well enough...\" or \"Uh... This is awkward. Look, I don't really know you that well...\". If you have between 4 and 8 hearts of friendship, the marriage candidate will respond \"Oh? ...Sorry... I'm not ready for that.\" or \"...I didn't know. Uh... Sorry. No.\".\nThe bouquet can be sold for data-sort-value=\"100\"> 100g via the shipping box . Pierre will not buy them back.\nA bouquet can be used to create a Wilted Bouquet , which is used to break up with a girlfriend or boyfriend. The Wilted Bouquet is created by placing a bouquet in a furnace along with one coal ."
     },
     {
       "heading": "Bachelorettes",
@@ -33,6 +33,38 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Bouquet"
+          ],
+          [
+            ""
+          ],
+          [
+            "A gift that shows your romantic interest."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Pierre's General Store"
+          ],
+          [
+            "Season",
+            "All"
+          ],
+          [
+            "Sell Price",
+            "data-sort-value=\"100\">, 100g"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Bachelorettes",
       "table": {
         "headers": [
@@ -43,7 +75,7 @@
             "Details"
           ],
           [
-            "If the player has a Rabbit's Foot in inventory, the cutscene will consist of a gossip session about Mayor Lewis and Marnie 's relationship. If the player does not have a Rabbit's Foot in inventory, all bachelorettes will express anger about the player dating them all at one time. Regardless of the player's dialogue choice(s), all bachelorettes will decide to give the player the \"cold shoulder\" for about a week after the event. They will give angry dialogue when interacted with, and refuse gifts. After about a week, all bachelorettes will forgive the player, and dialogues return to normal."
+            "If the player has a, Rabbit's Foot, in inventory, the cutscene will consist of a gossip session about Mayor, Lewis, and, Marnie, 's relationship., If the player does not have a, Rabbit's Foot, in inventory, all bachelorettes will express anger about the player dating them all at one time. Regardless of the player's dialogue choice(s), all bachelorettes will decide to give the player the \"cold shoulder\" for about a week after the event. They will give angry dialogue when interacted with, and refuse gifts. After about a week, all bachelorettes will forgive the player, and dialogues return to normal."
           ]
         ]
       }
@@ -59,7 +91,7 @@
             "Details"
           ],
           [
-            "If the player has a Rabbit's Foot in inventory, the cutscene will consist of a friendly game of pool. If the player does not have a Rabbit's Foot in inventory, all bachelors will express anger about the player dating them all at one time. Regardless of the player's dialogue choice(s), all bachelors will decide to give the player the \"cold shoulder\" for about a week after the event. They will give angry dialogue when interacted with, and refuse gifts. After about a week, all bachelors will forgive the player, and dialogues return to normal."
+            "If the player has a, Rabbit's Foot, in inventory, the cutscene will consist of a friendly game of pool., If the player does not have a, Rabbit's Foot, in inventory, all bachelors will express anger about the player dating them all at one time. Regardless of the player's dialogue choice(s), all bachelors will decide to give the player the \"cold shoulder\" for about a week after the event. They will give angry dialogue when interacted with, and refuse gifts. After about a week, all bachelors will forgive the player, and dialogues return to normal."
           ]
         ]
       }

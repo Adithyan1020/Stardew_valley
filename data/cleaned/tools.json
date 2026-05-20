@@ -102,7 +102,7 @@
             "",
             "",
             "",
-            "For hoe: Double chance of finding artifacts in artifact spots. For pan: 4x chance to find Artifact Troves , 2x chance to find Bone Fragments , 3.5x chance to find artifacts."
+            "For hoe: Double chance of finding artifacts in artifact spots., For pan: 4x chance to find, Artifact Troves, , 2x chance to find, Bone Fragments, , 3.5x chance to find artifacts."
           ],
           [
             "Bottomless",
@@ -132,7 +132,7 @@
             "",
             "",
             "",
-            "For hoe: 50% chance of double item after digging. For pan: Increases maximum amount of found non-ore items, see Pans for more details."
+            "For hoe: 50% chance of double item after digging., For pan: Increases maximum amount of found non-ore items, see, Pans, for more details."
           ],
           [
             "Fisher",
@@ -142,7 +142,7 @@
             "",
             "",
             "",
-            "10% chance of receiving a location-appropriate fish as a panning reward."
+            "10% chance of receiving a location-appropriate, fish, as a panning reward."
           ],
           [
             "Master",
@@ -182,7 +182,7 @@
             "",
             "",
             "",
-            "Increased charge-up capacity for greater area of effect. Increases the maximum area of effect to 5x5 tiles."
+            "Increased charge-up capacity for greater area of effect., Increases the maximum area of effect to 5x5 tiles."
           ],
           [
             "Shaving",
@@ -192,7 +192,7 @@
             "",
             "",
             "",
-            "Extra 3 regular wood from Oak, Maple, Pine, and Palm trees. Hardwood from Mahogany trees. Red Mushroom from Mushroom trees. Fiddlehead Fern from Green Rain Tree Type 3. Chance of extra hardwood from stumps. Chance of extra produce from giant crops."
+            "Extra 3 regular wood from Oak, Maple, Pine, and Palm trees., Hardwood from Mahogany trees., Red Mushroom from Mushroom trees., Fiddlehead Fern from Green Rain Tree Type 3., Chance of extra hardwood from stumps., Chance of extra produce from giant crops."
           ],
           [
             "Swift",
@@ -213,9 +213,9 @@
         "headers": [],
         "rows": [
           [
-            "Affected Tools Farming Hoe Watering Can Foraging Axe Fishing Fishing Rod Mining Pickaxe",
+            "Affected Tools, Farming, Hoe, Watering Can, Foraging, Axe, Fishing, Fishing Rod, Mining, Pickaxe",
             "",
-            "Unaffected Tools The following tools do not consume energy: Pans (any type) Scythe Golden Scythe Iridium Scythe Weapons Swords Clubs Daggers Slingshots The following tools always consume 4 points of energy: Milk Pail Shears"
+            "Unaffected Tools, The following tools do not consume energy:, Pans, (any type), Scythe, Golden Scythe, Iridium Scythe, Weapons, Swords, Clubs, Daggers, Slingshots, The following tools always consume 4 points of energy:, Milk Pail, Shears"
           ]
         ]
       }
@@ -248,30 +248,30 @@
           [
             "",
             "Copper Hoe",
-            "data-sort-value=\"2000\"> 2,000g",
-            "Copper Bar (5)",
-            "Increases maximum area of effect to 3 tiles in a straight line ."
+            "data-sort-value=\"2000\">, 2,000g",
+            "Copper Bar, (5)",
+            "Increases maximum area of effect to, 3 tiles in a straight line, ."
           ],
           [
             "",
             "Steel Hoe",
-            "data-sort-value=\"5000\"> 5,000g",
-            "Iron Bar (5)",
-            "Increases maximum area of effect to 5 tiles in a straight line ."
+            "data-sort-value=\"5000\">, 5,000g",
+            "Iron Bar, (5)",
+            "Increases maximum area of effect to, 5 tiles in a straight line, ."
           ],
           [
             "",
             "Gold Hoe",
-            "data-sort-value=\"10000\"> 10,000g",
-            "Gold Bar (5)",
-            "Increases maximum area of effect to a 3x3 area (9 corresponding tiles)."
+            "data-sort-value=\"10000\">, 10,000g",
+            "Gold Bar, (5)",
+            "Increases maximum area of effect to a, 3x3 area, (9 corresponding tiles)."
           ],
           [
             "",
             "Iridium Hoe",
-            "data-sort-value=\"25000\"> 25,000g",
-            "Iridium Bar (5)",
-            "Increases maximum area of effect to a 6x3 area (18 corresponding tiles)."
+            "data-sort-value=\"25000\">, 25,000g",
+            "Iridium Bar, (5)",
+            "Increases maximum area of effect to a, 6x3 area, (18 corresponding tiles)."
           ]
         ]
       }
@@ -299,35 +299,35 @@
             "Pickaxe",
             "Starter Tool",
             "N/A",
-            "Can break small rocks anywhere. In the Mines , can break tougher rocks on floors 1-39 in 2 hits and can break large boulders with multiple hits. Can break Copper Nodes in 3 hits. Note: Cannot break boulders on the Farm ."
+            "Can break small rocks anywhere., In, the Mines, , can break tougher rocks on floors 1-39 in 2 hits and can break large, boulders, with multiple hits. Can break, Copper Nodes, in 3 hits., Note: Cannot break boulders on, the Farm, ."
           ],
           [
             "",
             "Copper Pickaxe",
-            "data-sort-value=\"2000\"> 2,000g",
-            "Copper Bar (5)",
+            "data-sort-value=\"2000\">, 2,000g",
+            "Copper Bar, (5)",
             "In the Mines, can break all rocks on floors 1-39 in 1 hit and 40-79 in 2 hits. Can break Copper Nodes in 2 hits."
           ],
           [
             "",
             "Steel Pickaxe",
-            "data-sort-value=\"5000\"> 5,000g",
-            "Iron Bar (5)",
-            "Needed to break boulders on the Farm. In the Mines, can break rocks on floors 40-79 in 1 hit, and Quarry Mine rocks in 2 hits. Breaks Copper Nodes in 1 hit, Iron Nodes in 2 hits, Gold Nodes in 3 hits, and Iridium Nodes in 6 hits. Can break boulders in 4 hits. Can break the barrier inside the Mines that blocks the player from talking with the Dwarf ."
+            "data-sort-value=\"5000\">, 5,000g",
+            "Iron Bar, (5)",
+            "Needed to break boulders on the Farm., In the Mines, can break rocks on floors 40-79 in 1 hit, and, Quarry Mine, rocks in 2 hits., Breaks Copper Nodes in 1 hit,, Iron Nodes, in 2 hits,, Gold Nodes, in 3 hits, and, Iridium Nodes, in 6 hits. Can break boulders in 4 hits., Can break the barrier inside the Mines that blocks the player from talking with the, Dwarf, ."
           ],
           [
             "",
             "Gold Pickaxe",
-            "data-sort-value=\"10000\"> 10,000g",
-            "Gold Bar (5)",
-            "Can break a meteorite . In the Mines, can break rocks on floors 80-120 in 1 hit. Breaks Copper and Iron Nodes in 1 hit, Gold Nodes in 2 hits, and Iridium Nodes in 4 hits. Can break boulders in the Quarry Mine in 4 hits."
+            "data-sort-value=\"10000\">, 10,000g",
+            "Gold Bar, (5)",
+            "Can break a, meteorite, ., In the Mines, can break rocks on floors 80-120 in 1 hit. Breaks Copper and Iron Nodes in 1 hit, Gold Nodes in 2 hits, and Iridium Nodes in 4 hits. Can break boulders in the Quarry Mine in 4 hits."
           ],
           [
             "",
             "Iridium Pickaxe",
-            "data-sort-value=\"25000\"> 25,000g",
-            "Iridium Bar (5)",
-            "Can break rocks in the Quarry Mine and Skull Cavern in 1 hit. Breaks Diamond Nodes in 2 hits and all other gem nodes in 1 hit. Can break boulders in the Quarry Mine in 3 hits."
+            "data-sort-value=\"25000\">, 25,000g",
+            "Iridium Bar, (5)",
+            "Can break rocks in the, Quarry Mine, and, Skull Cavern, in 1 hit. Breaks, Diamond Nodes, in 2 hits and all other gem nodes in 1 hit. Can break boulders in the Quarry Mine in 3 hits."
           ]
         ]
       }
@@ -360,29 +360,29 @@
           [
             "",
             "Copper Axe",
-            "data-sort-value=\"2000\"> 2,000g",
-            "Copper Bar (5)",
-            "Can chop Large Stumps . 8 hits to chop a fully-grown tree, and 4 hits for a small stump."
+            "data-sort-value=\"2000\">, 2,000g",
+            "Copper Bar, (5)",
+            "Can chop, Large Stumps, . 8 hits to chop a fully-grown tree, and 4 hits for a small stump."
           ],
           [
             "",
             "Steel Axe",
-            "data-sort-value=\"5000\"> 5,000g",
-            "Iron Bar (5)",
-            "Can chop Large Logs . 6 hits to chop a fully-grown tree, and 3 hits for a small stump. 3 hits for a stage 4 tree, and 2 hits for a stage 3 tree and below."
+            "data-sort-value=\"5000\">, 5,000g",
+            "Iron Bar, (5)",
+            "Can chop, Large Logs, . 6 hits to chop a fully-grown tree, and 3 hits for a small stump. 3 hits for a stage 4 tree, and 2 hits for a stage 3 tree and below."
           ],
           [
             "",
             "Gold Axe",
-            "data-sort-value=\"10000\"> 10,000g",
-            "Gold Bar (5)",
+            "data-sort-value=\"10000\">, 10,000g",
+            "Gold Bar, (5)",
             "4 hits to chop a fully-grown tree, and 2 hits for a small stump. 2 hits for a stage 4 tree, and one hit for a stage 3 tree and below."
           ],
           [
             "",
             "Iridium Axe",
-            "data-sort-value=\"25000\"> 25,000g",
-            "Iridium Bar (5)",
+            "data-sort-value=\"25000\">, 25,000g",
+            "Iridium Bar, (5)",
             "2 hits to chop a fully-grown tree, and 1 hit for a small stump. 1 hit for a stage 4 tree and below."
           ]
         ]
@@ -411,35 +411,35 @@
             "Watering Can",
             "Starter Tool",
             "N/A",
-            "Has a total water capacity of 40 charges before it has to be refilled."
+            "Has a total water capacity of, 40, charges before it has to be refilled."
           ],
           [
             "",
             "Copper Watering Can",
-            "data-sort-value=\"2000\"> 2,000g",
-            "Copper Bar (5)",
-            "Capacity increased to 55 charges. Increases maximum area of effect to 3 tiles in a straight line ."
+            "data-sort-value=\"2000\">, 2,000g",
+            "Copper Bar, (5)",
+            "Capacity increased to, 55, charges., Increases maximum area of effect to, 3 tiles in a straight line, ."
           ],
           [
             "",
             "Steel Watering Can",
-            "data-sort-value=\"5000\"> 5,000g",
-            "Iron Bar (5)",
-            "Capacity increased to 70 charges. Increases maximum area of effect to 5 tiles in a straight line ."
+            "data-sort-value=\"5000\">, 5,000g",
+            "Iron Bar, (5)",
+            "Capacity increased to, 70, charges., Increases maximum area of effect to, 5 tiles in a straight line, ."
           ],
           [
             "",
             "Gold Watering Can",
-            "data-sort-value=\"10000\"> 10,000g",
-            "Gold Bar (5)",
-            "Capacity increased to 85 charges. Increases maximum area of effect to a 3x3 area (9 corresponding tiles)."
+            "data-sort-value=\"10000\">, 10,000g",
+            "Gold Bar, (5)",
+            "Capacity increased to, 85, charges., Increases maximum area of effect to a, 3x3 area, (9 corresponding tiles)."
           ],
           [
             "",
             "Iridium Watering Can",
-            "data-sort-value=\"25000\"> 25,000g",
-            "Iridium Bar (5)",
-            "Capacity increased to 100 charges. Increases maximum area of effect to a 6x3 area (18 corresponding tiles)."
+            "data-sort-value=\"25000\">, 25,000g",
+            "Iridium Bar, (5)",
+            "Capacity increased to, 100, charges., Increases maximum area of effect to a, 6x3 area, (18 corresponding tiles)."
           ]
         ]
       }
@@ -472,29 +472,29 @@
           [
             "",
             "Copper Trash Can",
-            "data-sort-value=\"1000\"> 1,000g",
-            "Copper Bar (5)",
+            "data-sort-value=\"1000\">, 1,000g",
+            "Copper Bar, (5)",
             "When deleting items, reclaim 15% of their monetary value."
           ],
           [
             "",
             "Steel Trash Can",
-            "data-sort-value=\"2500\"> 2,500g",
-            "Iron Bar (5)",
+            "data-sort-value=\"2500\">, 2,500g",
+            "Iron Bar, (5)",
             "When deleting items, reclaim 30% of their monetary value."
           ],
           [
             "",
             "Gold Trash Can",
-            "data-sort-value=\"5000\"> 5,000g",
-            "Gold Bar (5)",
+            "data-sort-value=\"5000\">, 5,000g",
+            "Gold Bar, (5)",
             "When deleting items, reclaim 45% of their monetary value."
           ],
           [
             "",
             "Iridium Trash Can",
-            "data-sort-value=\"12500\"> 12,500g",
-            "Iridium Bar (5)",
+            "data-sort-value=\"12500\">, 12,500g",
+            "Iridium Bar, (5)",
             "When deleting items, reclaim 60% of their monetary value."
           ]
         ]
@@ -523,42 +523,42 @@
           [
             "",
             "Training Rod",
-            "data-sort-value=\"25\"> 25g",
-            "Easier to use (only catches common Fish ).",
-            "Buy from Willy's Fish Shop",
+            "data-sort-value=\"25\">, 25g",
+            "Easier to use (only catches common, Fish, ).",
+            "Buy from Willy's, Fish Shop",
             ""
           ],
           [
             "",
             "Bamboo Pole",
-            "data-sort-value=\"500\"> 500g",
+            "data-sort-value=\"500\">, 500g",
             "",
-            "Given to the player by Willy Buy from Willy's Fish Shop",
+            "Given to the player by, Willy, Buy from Willy's, Fish Shop",
             ""
           ],
           [
             "",
             "Fiberglass Rod",
-            "data-sort-value=\"1800\"> 1,800g",
-            "Able to use bait .",
-            "Buy from Willy's Fish Shop",
-            "Fishing Level 2 (The player receives a letter the day after it becomes available)"
+            "data-sort-value=\"1800\">, 1,800g",
+            "Able to use, bait, .",
+            "Buy from Willy's, Fish Shop",
+            "Fishing Level 2, (The player receives a letter the day after it becomes available)"
           ],
           [
             "",
             "Iridium Rod",
-            "data-sort-value=\"7500\"> 7,500g",
-            "Able to use bait & tackle .",
-            "Buy from Willy's Fish Shop",
-            "Fishing Level 6 (The player receives a letter the day after it becomes available)"
+            "data-sort-value=\"7500\">, 7,500g",
+            "Able to use, bait, &, tackle, .",
+            "Buy from Willy's, Fish Shop",
+            "Fishing Level 6, (The player receives a letter the day after it becomes available)"
           ],
           [
             "",
             "Advanced Iridium Rod",
             "N/A",
-            "Able to use bait & 2 tackles .",
+            "Able to use, bait, & 2, tackles, .",
             "Mastery Cave",
-            "Claiming Fishing Mastery ."
+            "Claiming, Fishing Mastery, ."
           ]
         ]
       }
@@ -584,29 +584,29 @@
           [
             "",
             "Copper Pan",
-            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"2500\">, 2,500g",
             "N/A",
             "Can find 3 to 9 ores and up to 1 special item from panning."
           ],
           [
             "",
             "Steel Pan",
-            "data-sort-value=\"5000\"> 5,000g",
-            "Iron Bar (5)",
+            "data-sort-value=\"5000\">, 5,000g",
+            "Iron Bar, (5)",
             "Can find 4 to 10 ores and up to 2 special items from panning. Has a small chance to spawn another panning spot."
           ],
           [
             "",
             "Gold Pan",
-            "data-sort-value=\"10000\"> 10,000g",
-            "Gold Bar (5)",
+            "data-sort-value=\"10000\">, 10,000g",
+            "Gold Bar, (5)",
             "Can find 5 to 11 ores and up to 3 special items from panning. Slightly higher chance to spawn another panning spot."
           ],
           [
             "",
             "Iridium Pan",
-            "data-sort-value=\"25000\"> 25,000g",
-            "Iridium Bar (5)",
+            "data-sort-value=\"25000\">, 25,000g",
+            "Iridium Bar, (5)",
             "Can find 6 to 12 ores and up to 4 special items from panning. Has a high chance to spawn another panning spot."
           ]
         ]
@@ -634,22 +634,22 @@
             "none",
             "Backpack (12 slots)",
             "Starter Tool",
-            "Use to carry your inventory .",
+            "Use to carry your, inventory, .",
             "You start with one. It can hold 12 stacks of items, but it can be upgraded."
           ],
           [
             "",
             "Large Pack (24 slots)",
-            "data-sort-value=\"2000\"> 2,000g",
-            "Unlocks the 2nd row of inventory (12 more slots).",
-            "Purchased from Pierre's General Store at the start of the game."
+            "data-sort-value=\"2000\">, 2,000g",
+            "Unlocks the 2nd row of, inventory, (12 more slots).",
+            "Purchased from, Pierre's General Store, at the start of the game."
           ],
           [
             "",
             "Deluxe Pack (36 slots)",
-            "data-sort-value=\"10000\"> 10,000g",
-            "Unlocks the 3rd row of inventory (12 more slots).",
-            "Purchased from Pierre's General Store after buying 24 Size Backpack."
+            "data-sort-value=\"10000\">, 10,000g",
+            "Unlocks the 3rd row of, inventory, (12 more slots).",
+            "Purchased from, Pierre's General Store, after buying 24 Size Backpack."
           ],
           [
             "",
@@ -663,49 +663,49 @@
             "Golden Scythe",
             "N/A",
             "It's more powerful than a normal scythe.",
-            "Found at end of Quarry Mine ."
+            "Found at end of, Quarry Mine, ."
           ],
           [
             "",
             "Iridium Scythe",
             "N/A",
             "Can be used to harvest any crops. It's also excellent at gathering hay.",
-            "Obtaining Farming Mastery ."
+            "Obtaining, Farming Mastery, ."
           ],
           [
             "",
             "Milk Pail",
-            "data-sort-value=\"1000\"> 1,000g",
+            "data-sort-value=\"1000\">, 1,000g",
             "Gather milk from your animals.",
-            "Purchased from Marnie's Ranch ."
+            "Purchased from, Marnie's Ranch, ."
           ],
           [
             "",
             "Shears",
-            "data-sort-value=\"1000\"> 1,000g",
+            "data-sort-value=\"1000\">, 1,000g",
             "Use this to collect wool from sheep.",
-            "Purchased from Marnie's Ranch ."
+            "Purchased from, Marnie's Ranch, ."
           ],
           [
             "",
             "Heater",
-            "data-sort-value=\"2000\"> 2,000g",
+            "data-sort-value=\"2000\">, 2,000g",
             "Keeps your animals warmer and happier during the winter.",
-            "Purchased from Marnie's Ranch . It is the reward for completing the Fodder Bundle on the Bulletin Board ."
+            "Purchased from, Marnie's Ranch, . It is the reward for completing the, Fodder Bundle, on the, Bulletin Board, ."
           ],
           [
             "",
             "Auto-Grabber",
-            "data-sort-value=\"25000\"> 25,000g",
+            "data-sort-value=\"25000\">, 25,000g",
             "Automatically harvests from your animals each morning. Must be placed inside a coop or barn.",
-            "Unlocked after reaching Farming Level 10 , the player will receive a letter in the mail from Marnie ."
+            "Unlocked after reaching, Farming Level 10, , the player will receive a letter in the mail from, Marnie, ."
           ],
           [
             "",
             "Auto-Petter",
-            "data-sort-value=\"50000\"> 50,000g",
+            "data-sort-value=\"50000\">, 50,000g",
             "Joja Co. patented technology for coops and barns. Keeps your animals content, but can't replace the full benefit of human touch. Hand-petting can be provided to supplement.",
-            "Purchased from JojaMart . Rare reward from the Skull Cavern ."
+            "Purchased from, JojaMart, ., Rare reward from the, Skull Cavern, ."
           ]
         ]
       }
@@ -722,15 +722,15 @@
           ],
           [
             "Basic",
-            "Axes • Golden Scythe • Iridium Scythe • Hoes • Pans • Pickaxes • Scythe • Trash Cans • Watering Cans"
+            "Axes, •, Golden Scythe, •, Iridium Scythe, •, Hoes, •, Pans, •, Pickaxes, •, Scythe, •, Trash Cans, •, Watering Cans"
           ],
           [
             "Fishing",
-            "Training Rod • Bamboo Pole • Fiberglass Rod • Iridium Rod • Advanced Iridium Rod • Crab Pot"
+            "Training Rod, •, Bamboo Pole, •, Fiberglass Rod, •, Iridium Rod, •, Advanced Iridium Rod, •, Crab Pot"
           ],
           [
             "Other",
-            "Auto-Grabber • Auto-Petter • Hay Hopper • Heater • Incubator • Milk Pail • Ostrich Incubator • Shears"
+            "Auto-Grabber, •, Auto-Petter, •, Hay Hopper, •, Heater, •, Incubator, •, Milk Pail, •, Ostrich Incubator, •, Shears"
           ]
         ]
       }

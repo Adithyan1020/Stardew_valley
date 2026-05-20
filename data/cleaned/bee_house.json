@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Bee House Place outside and wait for delicious honey! (Except in Winter). Information Source Crafting Season Spring • Summer • Fall Sell Price Cannot be sold Crafting Recipe Source Farming (Level 3) Ingredients Wood (40) Coal (8) Iron Bar (1) Maple Syrup (1)\nThe Bee House is a type of Artisan Equipment used to make Honey . A Bee House is the reward for completing the Fall Crops Bundle in the Pantry . Four Bee Houses can be obtained as the 19th prize from the Prize Machine (50% chance).\nTo make honey, place a Bee House on the farm during any season but winter, and wait 4 nights. Bee houses can be placed indoors ( e.g., in the Greenhouse ) but will not produce honey there, regardless of any flowers within range. Bee houses placed outside the farm will produce wild honey every 4 days, but they will be destroyed if they are placed in a villager's path .\nA fully-grown and unharvested flower within 5 tiles of a Bee House (including those grown in Garden Pots ) will cause it to produce flower honey, which always sells for more than flowerless Wild Honey. Flowers that are normally foraged ( i.e., Crocus and Sweet Pea ) do not affect the honey. Additionally, a Dandelion or Daffodil will not affect the honey as these items are classified as forage rather than flowers.\nThe type of honey is established the moment it is harvested. If a Bee House has produced flower honey, but the flower is harvested before the honey, the honey will become wild honey. Similarly, if a Bee House has produced flowerless wild honey, but the honey is harvested after a flower bloomed in range, the harvested honey will be flower honey."
+      "content": "The Bee House is a type of Artisan Equipment used to make Honey . A Bee House is the reward for completing the Fall Crops Bundle in the Pantry . Four Bee Houses can be obtained as the 19th prize from the Prize Machine (50% chance).\nTo make honey, place a Bee House on the farm during any season but winter, and wait 4 nights. Bee houses can be placed indoors ( e.g., in the Greenhouse ) but will not produce honey there, regardless of any flowers within range. Bee houses placed outside the farm will produce wild honey every 4 days, but they will be destroyed if they are placed in a villager's path .\nA fully-grown and unharvested flower within 5 tiles of a Bee House (including those grown in Garden Pots ) will cause it to produce flower honey, which always sells for more than flowerless Wild Honey. Flowers that are normally foraged ( i.e., Crocus and Sweet Pea ) do not affect the honey. Additionally, a Dandelion or Daffodil will not affect the honey as these items are classified as forage rather than flowers.\nThe type of honey is established the moment it is harvested. If a Bee House has produced flower honey, but the flower is harvested before the honey, the honey will become wild honey. Similarly, if a Bee House has produced flowerless wild honey, but the honey is harvested after a flower bloomed in range, the harvested honey will be flower honey."
     },
     {
       "heading": "Range",
@@ -24,6 +24,49 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Bee House"
+          ],
+          [
+            ""
+          ],
+          [
+            "Place outside and wait for delicious honey! (Except in Winter)."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Crafting"
+          ],
+          [
+            "Season",
+            "Spring, •, Summer, •, Fall"
+          ],
+          [
+            "Sell Price",
+            "Cannot be sold"
+          ],
+          [
+            "Crafting"
+          ],
+          [
+            "Recipe Source",
+            "Farming, (Level 3)"
+          ],
+          [
+            "Ingredients",
+            "Wood, (40), Coal, (8), Iron Bar, (1), Maple Syrup, (1)"
+          ]
+        ]
+      }
+    },
     {
       "section": "Products",
       "table": {
@@ -52,40 +95,40 @@
             "It's a sweet syrup produced by bees.",
             "Inedible",
             "4 Nights",
-            "All but Winter",
+            "All but, Winter",
             "Wild",
-            "data-sort-value=\"100\"> 100g"
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "Spring",
             "Tulip",
-            "data-sort-value=\"160\"> 160g"
+            "data-sort-value=\"160\">, 160g"
           ],
           [
             "Blue Jazz",
-            "data-sort-value=\"200\"> 200g"
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "Summer",
             "Sunflower",
-            "data-sort-value=\"260\"> 260g"
+            "data-sort-value=\"260\">, 260g"
           ],
           [
             "Summer Spangle",
-            "data-sort-value=\"280\"> 280g"
+            "data-sort-value=\"280\">, 280g"
           ],
           [
             "Poppy",
-            "data-sort-value=\"380\"> 380g"
+            "data-sort-value=\"380\">, 380g"
           ],
           [
             "Fall",
             "Sunflower",
-            "data-sort-value=\"260\"> 260g"
+            "data-sort-value=\"260\">, 260g"
           ],
           [
             "Fairy Rose",
-            "data-sort-value=\"680\"> 680g"
+            "data-sort-value=\"680\">, 680g"
           ]
         ]
       }
@@ -102,33 +145,33 @@
           ],
           [
             "Artisan",
-            "Bee House • Cask • Cheese Press • Dehydrator • Fish Smoker • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar"
+            "Bee House, •, Cask, •, Cheese Press, •, Dehydrator, •, Fish Smoker, •, Keg, •, Loom, •, Mayonnaise Machine, •, Oil Maker, •, Preserves Jar"
           ],
           [
             "Refining",
-            "Bait Maker • Bone Mill • Charcoal Kiln • Crystalarium • Deluxe Worm Bin • Furnace • Geode Crusher • Heavy Furnace • Heavy Tapper • Lightning Rod • Mushroom Log • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin"
+            "Bait Maker, •, Bone Mill, •, Charcoal Kiln, •, Crystalarium, •, Deluxe Worm Bin, •, Furnace, •, Geode Crusher, •, Heavy Furnace, •, Heavy Tapper, •, Lightning Rod, •, Mushroom Log, •, Ostrich Incubator, •, Recycling Machine, •, Seed Maker, •, Slime Egg-Press, •, Slime Incubator, •, Solar Panel, •, Tapper, •, Wood Chipper, •, Worm Bin"
           ],
           [
             "Farming",
             "Fertilizer",
-            "Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil • Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer"
+            "Basic Fertilizer, •, Basic Retaining Soil, •, Deluxe Fertilizer, •, Deluxe Retaining Soil, •, Deluxe Speed-Gro, •, Hyper Speed-Gro, •, Quality Fertilizer, •, Quality Retaining Soil, •, Speed-Gro, •, Tree Fertilizer"
           ],
           [
             "Sprinklers",
-            "Iridium Sprinkler • Quality Sprinkler • Sprinkler"
+            "Iridium Sprinkler, •, Quality Sprinkler, •, Sprinkler"
           ],
           [
             "Other",
-            "Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow"
+            "Deluxe Scarecrow, •, Garden Pot, •, Rarecrow, •, Scarecrow"
           ],
           [
             "Fishing",
             "Bait",
-            "Bait • Challenge Bait • Deluxe Bait • Magic Bait • Magnet • Targeted Bait • Wild Bait"
+            "Bait, •, Challenge Bait, •, Deluxe Bait, •, Magic Bait, •, Magnet, •, Targeted Bait, •, Wild Bait"
           ],
           [
             "Tackle",
-            "Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Sonar Bobber • Spinner • Trap Bobber • Treasure Hunter"
+            "Barbed Hook, •, Cork Bobber, •, Curiosity Lure, •, Dressed Spinner, •, Lead Bobber, •, Quality Bobber, •, Sonar Bobber, •, Spinner, •, Trap Bobber, •, Treasure Hunter"
           ],
           [
             "Other",
@@ -136,23 +179,23 @@
           ],
           [
             "Bombs",
-            "Bomb • Cherry Bomb • Mega Bomb"
+            "Bomb, •, Cherry Bomb, •, Mega Bomb"
           ],
           [
             "Fences",
-            "Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence"
+            "Gate, •, Hardwood Fence, •, Iron Fence, •, Stone Fence, •, Wood Fence"
           ],
           [
             "Storage",
-            "Big Chest • Big Stone Chest • Chest • Junimo Chest • Mini-Fridge • Stone Chest"
+            "Big Chest, •, Big Stone Chest, •, Chest, •, Junimo Chest, •, Mini-Fridge, •, Stone Chest"
           ],
           [
             "Signs",
-            "Dark Sign • Stone Sign • Text Sign • Wood Sign"
+            "Dark Sign, •, Stone Sign, •, Text Sign, •, Wood Sign"
           ],
           [
             "Misc",
-            "Anvil • Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Forge • Mini-Jukebox • Mini-Shipping Bin • Sewing Machine • Staircase • Statue Of Blessings • Statue Of The Dwarf King • Telephone • Tent Kit • Tools • Workbench"
+            "Anvil, •, Coffee Maker, •, Cookout Kit, •, Deconstructor, •, Fairy Dust, •, Farm Computer, •, Hopper, •, Mini-Forge, •, Mini-Jukebox, •, Mini-Shipping Bin, •, Sewing Machine, •, Staircase, •, Statue Of Blessings, •, Statue Of The Dwarf King, •, Telephone, •, Tent Kit, •, Tools, •, Workbench"
           ]
         ]
       }

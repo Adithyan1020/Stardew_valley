@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Auto-Grabber Automatically harvests from your animals each morning. Must be placed inside a coop or barn. Information Cost: data-sort-value=\"25000\"> 25,000g Unlocked at: Farming Level 10 Sold by: Marnie's Ranch\nThe Auto-Grabber automatically harvests milk from cows and goats , wool from sheep and Ostrich Eggs from Ostriches when placed in a Barn . It automatically harvests all products produced by Coop animals when placed in a coop. It can be purchased from Marnie's Ranch for data-sort-value=\"25000\"> 25,000g after obtaining Farming Level 10 . Once unlocked, players may purchase as many Auto-Grabbers as they can afford. An Auto-Grabber may occasionally be found in treasure rooms in the Skull Cavern.\nEach morning, the Auto-Grabber will automatically harvest all products in the Barn or Coop where it is placed. The player does not gain any Farming experience points or Mastery points for products harvested by an Auto-Grabber.\nThe Auto-Grabber acts like a chest, holding up to 36 harvested items (or stacks of harvested items). Items can be viewed or removed by right-clicking on the Auto-Grabber. Note that an empty Auto-Grabber cannot be opened.\nAuto-Grabbers can be placed anywhere, but will not do anything unless placed inside a barn or coop. To remove an Auto-Grabber, it must be struck with a tool (repeated left-clicking or holding left-click will not work).\nAuto-Grabbers cannot be sold or deconstructed ."
+      "content": "The Auto-Grabber automatically harvests milk from cows and goats , wool from sheep and Ostrich Eggs from Ostriches when placed in a Barn . It automatically harvests all products produced by Coop animals when placed in a coop. It can be purchased from Marnie's Ranch for data-sort-value=\"25000\"> 25,000g after obtaining Farming Level 10 . Once unlocked, players may purchase as many Auto-Grabbers as they can afford. An Auto-Grabber may occasionally be found in treasure rooms in the Skull Cavern.\nEach morning, the Auto-Grabber will automatically harvest all products in the Barn or Coop where it is placed. The player does not gain any Farming experience points or Mastery points for products harvested by an Auto-Grabber.\nThe Auto-Grabber acts like a chest, holding up to 36 harvested items (or stacks of harvested items). Items can be viewed or removed by right-clicking on the Auto-Grabber. Note that an empty Auto-Grabber cannot be opened.\nAuto-Grabbers can be placed anywhere, but will not do anything unless placed inside a barn or coop. To remove an Auto-Grabber, it must be struck with a tool (repeated left-clicking or holding left-click will not work).\nAuto-Grabbers cannot be sold or deconstructed ."
     },
     {
       "heading": "Animal Friendship",
@@ -21,13 +21,45 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Auto-Grabber"
+          ],
+          [
+            ""
+          ],
+          [
+            "Automatically harvests from your animals each morning. Must be placed inside a coop or barn."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Cost:",
+            "data-sort-value=\"25000\">, 25,000g"
+          ],
+          [
+            "Unlocked at:",
+            "Farming, Level 10"
+          ],
+          [
+            "Sold by:",
+            "Marnie's Ranch"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Mail",
       "table": {
         "headers": [],
         "rows": [
           [
             "“",
-            "“<Player>, I've got a new item in stock... It's called the \"Auto-Grabber\". This thing can milk your cows and goats, shear your sheep, gather eggs, and pluck your wooly rabbits... all on its own! It's considered a 'luxury item', so I'm charging 25,000g. -Marnie”"
+            "“<Player>,, I've got a new item in stock... It's called the \"Auto-Grabber\"., This thing can milk your cows and goats, shear your sheep, gather eggs, and pluck your wooly rabbits... all on its own!, It's considered a 'luxury item', so I'm charging 25,000g., -Marnie”"
           ]
         ]
       }
@@ -44,15 +76,15 @@
           ],
           [
             "Basic",
-            "Axes • Golden Scythe • Iridium Scythe • Hoes • Pans • Pickaxes • Scythe • Trash Cans • Watering Cans"
+            "Axes, •, Golden Scythe, •, Iridium Scythe, •, Hoes, •, Pans, •, Pickaxes, •, Scythe, •, Trash Cans, •, Watering Cans"
           ],
           [
             "Fishing",
-            "Training Rod • Bamboo Pole • Fiberglass Rod • Iridium Rod • Advanced Iridium Rod • Crab Pot"
+            "Training Rod, •, Bamboo Pole, •, Fiberglass Rod, •, Iridium Rod, •, Advanced Iridium Rod, •, Crab Pot"
           ],
           [
             "Other",
-            "Auto-Grabber • Auto-Petter • Hay Hopper • Heater • Incubator • Milk Pail • Ostrich Incubator • Shears"
+            "Auto-Grabber, •, Auto-Petter, •, Hay Hopper, •, Heater, •, Incubator, •, Milk Pail, •, Ostrich Incubator, •, Shears"
           ]
         ]
       }

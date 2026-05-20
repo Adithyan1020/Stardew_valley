@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Vincent Information Birthday Spring 10 Lives In Pelican Town Address 1 Willow Lane Family Jodi (Mother) Kent (Father) Sam (Brother) Marriage No Clinic Visit Spring 11 Loved Gifts Cranberry Candy Frog Egg Ginger Ale Grape Pink Cake Snail\nVincent is a villager who lives in the southern part of Pelican Town . He's a young boy, and can often be found with his best friend Jas . He looks up to his brother Sam and wants to be just like him when he grows up."
+      "content": "Vincent is a villager who lives in the southern part of Pelican Town . He's a young boy, and can often be found with his best friend Jas . He looks up to his brother Sam and wants to be just like him when he grows up."
     },
     {
       "heading": "Schedule",
@@ -44,6 +44,51 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Vincent"
+          ],
+          [
+            ""
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Birthday",
+            "Spring, 10"
+          ],
+          [
+            "Lives In",
+            "Pelican Town"
+          ],
+          [
+            "Address",
+            "1 Willow Lane"
+          ],
+          [
+            "Family",
+            "Jodi, (Mother), Kent, (Father), Sam, (Brother)"
+          ],
+          [
+            "Marriage",
+            "No"
+          ],
+          [
+            "Clinic Visit",
+            "Spring, 11"
+          ],
+          [
+            "Loved Gifts",
+            "Cranberry Candy, Frog Egg, Ginger Ale, Grape, Pink Cake, Snail"
+          ]
+        ]
+      }
+    },
     {
       "section": "Introduction",
       "table": {
@@ -92,19 +137,19 @@
           ],
           [
             "11:00 AM",
-            "Plays inside his home ."
+            "Plays inside, his home, ."
           ],
           [
             "2:00 PM",
-            "Leaves his home and heads outside to the town square ."
+            "Leaves, his home, and heads outside to the, town square, ."
           ],
           [
             "5:00 PM",
-            "Leaves town and walks home ."
+            "Leaves, town, and walks, home, ."
           ],
           [
             "7:00 PM",
-            "Plays inside his home ."
+            "Plays inside, his home, ."
           ],
           [
             "10:00 PM",
@@ -125,19 +170,19 @@
           ],
           [
             "9:00 AM",
-            "Wakes up, concerned about having to go to the doctor . \"*sob*... I have to get my shots today.\""
+            "Wakes up, concerned about having to go to the, doctor, . \"*sob*... I have to get my shots today.\""
           ],
           [
             "11:30 AM",
-            "Leaves home to travel to the clinic for his annual checkup. \"*gulp*... Mommy, don't make me do it.\""
+            "Leaves, home, to travel to the, clinic, for his annual checkup. \"*gulp*... Mommy, don't make me do it.\""
           ],
           [
             "1:30 PM",
-            "Continues checkup at the clinic . \"Do I get a lollipop for being so brave?\""
+            "Continues checkup at, the clinic, . \"Do I get a lollipop for being so brave?\""
           ],
           [
             "4:00 PM",
-            "Leaves the clinic to walk home , once there he plays inside."
+            "Leaves the, clinic, to walk, home, , once there he plays inside."
           ],
           [
             "10:00 PM",
@@ -158,11 +203,11 @@
           ],
           [
             "10:20 AM",
-            "Boards the bus to Calico Desert to attend the Desert Festival ."
+            "Boards the bus to, Calico Desert, to attend the, Desert Festival, ."
           ],
           [
             "10:30 AM",
-            "With his mom by one of the villager shops."
+            "With, his mom, by one of the villager shops."
           ],
           [
             "12:10 AM",
@@ -183,11 +228,11 @@
           ],
           [
             "11:10 AM",
-            "Boards the bus to Calico Desert ."
+            "Boards the bus to, Calico Desert, ."
           ],
           [
             "11:30 AM",
-            "Arrives at his booth ."
+            "Arrives at his, booth, ."
           ],
           [
             "12:00 AM",
@@ -212,15 +257,15 @@
           ],
           [
             "11:00 AM",
-            "Plays inside his home ."
+            "Plays inside, his home, ."
           ],
           [
             "2:00 PM",
-            "Leaves his home and heads outside to the town square ."
+            "Leaves, his home, and heads outside to the, town square, ."
           ],
           [
             "4:30 PM",
-            "Attends the Night Market ."
+            "Attends the, Night Market, ."
           ],
           [
             "11:30 PM",
@@ -245,19 +290,19 @@
           ],
           [
             "11:00 AM",
-            "Plays inside his home ."
+            "Plays inside, his home, ."
           ],
           [
             "2:00 PM",
-            "Moves around inside his home ."
+            "Moves around inside, his home, ."
           ],
           [
             "5:00 PM",
-            "Moves around inside his home ."
+            "Moves around inside, his home, ."
           ],
           [
             "7:00 PM",
-            "Plays inside his home ."
+            "Plays inside, his home, ."
           ],
           [
             "10:00 PM",
@@ -282,15 +327,15 @@
           ],
           [
             "11:00 AM",
-            "Plays inside his home ."
+            "Plays inside, his home, ."
           ],
           [
             "1:40 PM",
-            "Leaves his home and heads to The Beach ."
+            "Leaves, his home, and heads to, The Beach, ."
           ],
           [
             "7:00 PM",
-            "Leaves The Beach and walks back home ."
+            "Leaves, The Beach, and walks back, home, ."
           ],
           [
             "11:00 PM",
@@ -311,19 +356,19 @@
           ],
           [
             "9:00 AM",
-            "Leaves his home and walks to the Museum to be tutored by Penny ."
+            "Leaves, his home, and walks to the, Museum, to be tutored by, Penny, ."
           ],
           [
             "2:00 PM",
-            "Leaves the Museum , walks back to Pelican Town ."
+            "Leaves the, Museum, , walks back to, Pelican Town, ."
           ],
           [
             "4:20 PM",
-            "Walks around Pelican Town ."
+            "Walks around, Pelican Town, ."
           ],
           [
             "5:40 PM",
-            "Leaves town to go home ."
+            "Leaves, town, to go, home, ."
           ],
           [
             "10:00 PM",
@@ -344,19 +389,19 @@
           ],
           [
             "10:10 AM",
-            "Leaves his home and heads outside to Pelican Town ."
+            "Leaves, his home, and heads outside to, Pelican Town, ."
           ],
           [
             "12:00 PM",
-            "Heads to the town square ."
+            "Heads to the, town square, ."
           ],
           [
             "5:00 PM",
-            "Leaves the town square and walks around Pelican Town ."
+            "Leaves the, town square, and walks around, Pelican Town, ."
           ],
           [
             "10:00 PM",
-            "Leaves town to go home to bed for the night."
+            "Leaves, town, to go home to bed for the night."
           ]
         ]
       }
@@ -377,19 +422,19 @@
           ],
           [
             "11:00 AM",
-            "Plays inside his home ."
+            "Plays inside, his home, ."
           ],
           [
             "2:00 PM",
-            "Leaves his home and heads outside to the town square ."
+            "Leaves, his home, and heads outside to the, town square, ."
           ],
           [
             "5:00 PM",
-            "Leaves town and walks home ."
+            "Leaves, town, and walks, home, ."
           ],
           [
             "7:00 PM",
-            "Plays inside his home ."
+            "Plays inside, his home, ."
           ],
           [
             "10:00 PM",
@@ -405,7 +450,7 @@
         "rows": [
           [
             "“",
-            "“Is that a birthday present? Can I open it now? Oh, wow! This is exactly what I wanted! Yayayaya!”"
+            "“Is that a birthday present? Can I open it now?, Oh, wow! This is exactly what I wanted! Yayayaya!”"
           ]
         ]
       }
@@ -478,20 +523,20 @@
           ],
           [
             "",
-            "All Universal Loves"
+            "All, Universal Loves"
           ],
           [
             "",
             "Cranberry Candy",
             "It's sweet enough to mask the bitter fruit.",
             "Cooking",
-            "Cranberries (1) Apple (1) Sugar (1)"
+            "Cranberries, (1), Apple, (1), Sugar, (1)"
           ],
           [
             "",
             "Frog Egg",
             "Summons a hungry frog companion.",
-            "Monster drop",
+            "Monster, drop",
             ""
           ],
           [
@@ -499,13 +544,13 @@
             "Ginger Ale",
             "A zesty soda known for its soothing effect on the stomach.",
             "Cooking",
-            "Ginger (3) Sugar (1)"
+            "Ginger, (3), Sugar, (1)"
           ],
           [
             "",
             "Grape",
             "A sweet cluster of fruit.",
-            "Farming - Fall Foraging - Summer",
+            "Farming, -, Fall, Foraging, -, Summer",
             ""
           ],
           [
@@ -513,7 +558,7 @@
             "Pink Cake",
             "There's little heart candies on top.",
             "Cooking",
-            "Melon (1) Wheat Flour (1) Sugar (1) Egg (1)"
+            "Melon, (1), Wheat Flour, (1), Sugar, (1), Egg, (1)"
           ],
           [
             "",
@@ -555,19 +600,19 @@
           ],
           [
             "",
-            "All Universal Likes (except Piña Colada , Triple Shot Espresso , Vegetables and Artisan Goods other than Honey , Jelly , & Oil ) All Milk"
+            "All, Universal Likes, (except, Piña Colada, ,, Triple Shot Espresso, ,, Vegetables, and, Artisan Goods, other than, Honey, ,, Jelly, , &, Oil, ), All Milk"
           ],
           [
             "",
             "Coconut",
             "A seed of the coconut palm. It has many culinary uses.",
-            "Foraging - Desert"
+            "Foraging, -, Desert"
           ],
           [
             "",
             "Daffodil",
             "A traditional spring flower that makes a nice gift.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ]
         ]
       }
@@ -602,7 +647,7 @@
           ],
           [
             "",
-            "All Universal Neutrals"
+            "All, Universal Neutrals"
           ]
         ]
       }
@@ -637,85 +682,85 @@
           ],
           [
             "",
-            "All Universal Dislikes (except Clay & Frog Egg ) All Eggs* All Fruit (except Coconut , Grape , & Fruit Tree Fruit ) All Vegetables (except Hops , Tea Leaves , & Wheat )"
+            "All, Universal Dislikes, (except, Clay, &, Frog Egg, ), All Eggs*, All, Fruit, (except, Coconut, ,, Grape, , &, Fruit Tree Fruit, ), All, Vegetables, (except, Hops, ,, Tea Leaves, , &, Wheat, )"
           ],
           [
             "",
             "Chanterelle",
             "A tasty mushroom with a fruity smell and slightly peppery flavor.",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Common Mushroom",
             "Slightly nutty, with good texture.",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Dandelion",
             "Not the prettiest flower, but the leaves make a good salad.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Ginger",
             "This sharp, spicy root is said to increase vitality.",
-            "Foraging - Ginger Island"
+            "Foraging, -, Ginger Island"
           ],
           [
             "",
             "Hazelnut",
             "That's one big hazelnut!",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Holly",
             "The leaves and bright red berries make a popular winter decoration.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ],
           [
             "",
             "Leek",
             "A tasty relative of the onion.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Magma Cap",
             "A very rare mushroom that lives next to pools of lava.",
-            "Foraging - Volcano Dungeon"
+            "Foraging, -, Volcano Dungeon"
           ],
           [
             "",
             "Morel",
             "Sought after for its unique nutty flavor.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Purple Mushroom",
             "A rare mushroom found deep in caves.",
-            "Foraging - The Mines"
+            "Foraging, -, The Mines"
           ],
           [
             "",
             "Quartz",
             "A clear crystal commonly found in caves and mines.",
-            "Foraging - The Mines"
+            "Foraging, -, The Mines"
           ],
           [
             "",
             "Snow Yam",
             "This little yam was hiding beneath the snow.",
-            "Tilling - Winter"
+            "Tilling, -, Winter"
           ],
           [
             "",
             "Winter Root",
             "A starchy tuber.",
-            "Tilling - Winter"
+            "Tilling, -, Winter"
           ]
         ]
       }
@@ -764,7 +809,7 @@
           ],
           [
             "",
-            "All Universal Hates (except Snail ) All Artisan Goods (except Honey , Jelly & Oil )"
+            "All, Universal Hates, (except, Snail, ), All, Artisan Goods, (except, Honey, ,, Jelly, &, Oil, )"
           ],
           [
             "",
@@ -777,7 +822,7 @@
             "",
             "Piña Colada",
             "Drink in moderation.",
-            "The Beach Resort on Ginger Island",
+            "The Beach Resort on, Ginger Island",
             ""
           ],
           [
@@ -785,13 +830,13 @@
             "Triple Shot Espresso",
             "It's more potent than regular coffee!",
             "Cooking",
-            "Coffee (3)"
+            "Coffee, (3)"
           ],
           [
             "",
             "Wild Horseradish",
             "A spicy root found in the spring.",
-            "Foraging - Spring",
+            "Foraging, -, Spring",
             ""
           ]
         ]
@@ -810,19 +855,19 @@
         ],
         "rows": [
           [
-            "Love Journey Of The Prairie King: The Motion Picture The Brave Little Sapling Wumbus Like N/A Dislike It Howls In The Rain Mysterium Natural Wonders: Exploring Our Vibrant World The Miracle At Coldstar Ranch The Zuzu City Express",
+            "Love, Journey Of The Prairie King: The Motion Picture, The Brave Little Sapling, Wumbus, Like, N/A, Dislike, It Howls In The Rain, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Miracle At Coldstar Ranch, The Zuzu City Express",
             "Love",
-            "Journey Of The Prairie King: The Motion Picture The Brave Little Sapling Wumbus",
+            "Journey Of The Prairie King: The Motion Picture, The Brave Little Sapling, Wumbus",
             "Like",
             "N/A",
             "Dislike",
-            "It Howls In The Rain Mysterium Natural Wonders: Exploring Our Vibrant World The Miracle At Coldstar Ranch The Zuzu City Express",
+            "It Howls In The Rain, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Miracle At Coldstar Ranch, The Zuzu City Express",
             "",
-            "Love Jawbreaker Stardrop Sorbet Dislike Black Licorice Hummus Snack Pack Jasmine Tea Joja Cola JojaCorn Kale Smoothie Panzanella Salad Truffle Popcorn Like Everything else",
+            "Love, Jawbreaker, Stardrop Sorbet, Dislike, Black Licorice, Hummus Snack Pack, Jasmine Tea, Joja Cola, JojaCorn, Kale Smoothie, Panzanella Salad, Truffle Popcorn, Like, Everything else",
             "Love",
-            "Jawbreaker Stardrop Sorbet",
+            "Jawbreaker, Stardrop Sorbet",
             "Dislike",
-            "Black Licorice Hummus Snack Pack Jasmine Tea Joja Cola JojaCorn Kale Smoothie Panzanella Salad Truffle Popcorn",
+            "Black Licorice, Hummus Snack Pack, Jasmine Tea, Joja Cola, JojaCorn, Kale Smoothie, Panzanella Salad, Truffle Popcorn",
             "Like",
             "Everything else"
           ],
@@ -830,7 +875,7 @@
             "Love"
           ],
           [
-            "Journey Of The Prairie King: The Motion Picture The Brave Little Sapling Wumbus"
+            "Journey Of The Prairie King: The Motion Picture, The Brave Little Sapling, Wumbus"
           ],
           [
             "Like"
@@ -842,19 +887,19 @@
             "Dislike"
           ],
           [
-            "It Howls In The Rain Mysterium Natural Wonders: Exploring Our Vibrant World The Miracle At Coldstar Ranch The Zuzu City Express"
+            "It Howls In The Rain, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Miracle At Coldstar Ranch, The Zuzu City Express"
           ],
           [
             "Love"
           ],
           [
-            "Jawbreaker Stardrop Sorbet"
+            "Jawbreaker, Stardrop Sorbet"
           ],
           [
             "Dislike"
           ],
           [
-            "Black Licorice Hummus Snack Pack Jasmine Tea Joja Cola JojaCorn Kale Smoothie Panzanella Salad Truffle Popcorn"
+            "Black Licorice, Hummus Snack Pack, Jasmine Tea, Joja Cola, JojaCorn, Kale Smoothie, Panzanella Salad, Truffle Popcorn"
           ],
           [
             "Like"
@@ -876,7 +921,7 @@
             "Details"
           ],
           [
-            "Vincent will explain how to clean Spring Onions by removing insects. Afterward, the player gains Spring Onion Mastery , which permanently increases the sell price of Spring Onions by 5x."
+            "Vincent will explain how to clean, Spring Onions, by removing insects. Afterward, the player gains, Spring Onion Mastery, , which permanently increases the sell price of Spring Onions by 5x."
           ]
         ]
       }
@@ -892,7 +937,7 @@
             "Regular"
           ],
           [
-            "First Meeting “ “Oh, a stranger! My name's Vincent. Momma says not to talk to strangers... But you seem okay.” Regular “ “I wanna be just like my big brother when I grow up! Okay! Bye!” “ “*sigh*... Mom won't let me have any more gummies today.” “ “I wanna look for bugs, but Mom gets mad when I'm all dirty. It's a tough choice.” “ “I'm hungry... where's Mom?” “ “You're not as boring as most grown-ups!” “ “Ew, it's boiled beet night again...” “ “Oh no... Mom's making lentil soup tonight.” “ “Miss Penny makes me read a new book every week. At least she lets me pick them, sometimes!” “ “Hi there, [miss/mister].” Before Kent 's return “ “Dad's coming back soon! I hope he brings me some toys.” “ “Dad's not around much... I miss playing with him.” After Kent 's return “ “I'm glad Dad's back... but he's different than I remember...” 6+ Hearts “ “Can you keep a secret, [miss/mister]? I wanna marry Miss Penny when I grow up. Just don't tell her, okay?” 8+ Hearts “ “\"Dad seems weird since he came back. I wonder what happened to him? He doesn't play with me anymore.” 10 Hearts “ “Hi [Uncle/Auntie] [Player]! Don't tell Mom... but you're my favorite grown-up.” Doctor Visit Before leaving house for doctor visit “ “*sob*... I have to get my shots today.” In the clinic's waiting room “ “*gulp*... Mommy, don't make me do it.” In the clinic's examination room “ “Do I get a lollipop for being so brave?” Green Rain “ “Mom! I wanna go outside and play!” At Ginger Island “ “That was fun! I wanna be a boat captain some day!” “ “If you look close, you can see little bugs jumping out of the sand.” “ “I wanna see a shark!” “ “I wanna come back soon!” If the player marries Sam “ “Don't take my Sammy away!”",
+            "First Meeting, “, “Oh, a stranger! My name's Vincent. Momma says not to talk to strangers... But you seem okay.”, Regular, “, “I wanna be just like my big brother when I grow up! Okay! Bye!”, “, “*sigh*... Mom won't let me have any more gummies today.”, “, “I wanna look for bugs, but Mom gets mad when I'm all dirty. It's a tough choice.”, “, “I'm hungry... where's Mom?”, “, “You're not as boring as most grown-ups!”, “, “Ew, it's boiled beet night again...”, “, “Oh no... Mom's making lentil soup tonight.”, “, “Miss Penny makes me read a new book every week. At least she lets me pick them, sometimes!”, “, “Hi there, [miss/mister].”, Before, Kent, 's return, “, “Dad's coming back soon! I hope he brings me some toys.”, “, “Dad's not around much... I miss playing with him.”, After, Kent, 's return, “, “I'm glad Dad's back... but he's different than I remember...”, 6+ Hearts, “, “Can you keep a secret, [miss/mister]? I wanna marry Miss Penny when I grow up. Just don't tell her, okay?”, 8+ Hearts, “, “\"Dad seems weird since he came back. I wonder what happened to him? He doesn't play with me anymore.”, 10 Hearts, “, “Hi [Uncle/Auntie] [Player]! Don't tell Mom... but you're my favorite grown-up.”, Doctor Visit, Before leaving house for doctor visit, “, “*sob*... I have to get my shots today.”, In the clinic's waiting room, “, “*gulp*... Mommy, don't make me do it.”, In the clinic's examination room, “, “Do I get a lollipop for being so brave?”, Green Rain, “, “Mom! I wanna go outside and play!”, At Ginger Island, “, “That was fun! I wanna be a boat captain some day!”, “, “If you look close, you can see little bugs jumping out of the sand.”, “, “I wanna see a shark!”, “, “I wanna come back soon!”, If the player marries Sam, “, “Don't take my Sammy away!”",
             "“",
             "“Oh, a stranger! My name's Vincent. Momma says not to talk to strangers... But you seem okay.”",
             "“",
@@ -1058,7 +1103,7 @@
             "Events"
           ],
           [
-            "Egg Festival Odd-numbered year “ “When does the egg hunt start?! I'm so excited!!” Even-numbered year “ “I want to live inside a big egg!” Desert Festival “ “Mom, I'm bored!” Flower Dance “ “That's not fair... Why can't I be the flower queen?” The Luau “ “I'm bored...” Dance of the Moonlight Jellies “ “I wanna see the rare green jelly!” Stardew Valley Fair “ “Moooo!” Spirit's Eve “ “Mother won't let me go in the maze. *sob*” Festival of Ice “ “I saw a big fish down there!” Night Market “ “I wanna ride the boat!!” Feast of the Winter Star “ “Can we open presents now?!”",
+            "Egg Festival, Odd-numbered year, “, “When does the egg hunt start?! I'm so excited!!”, Even-numbered year, “, “I want to live inside a big egg!”, Desert Festival, “, “Mom, I'm bored!”, Flower Dance, “, “That's not fair... Why can't I be the flower queen?”, The Luau, “, “I'm bored...”, Dance of the Moonlight Jellies, “, “I wanna see the rare green jelly!”, Stardew Valley Fair, “, “Moooo!”, Spirit's Eve, “, “Mother won't let me go in the maze. *sob*”, Festival of Ice, “, “I saw a big fish down there!”, Night Market, “, “I wanna ride the boat!!”, Feast of the Winter Star, “, “Can we open presents now?!”",
             "“",
             "“When does the egg hunt start?! I'm so excited!!”",
             "“",
@@ -1141,19 +1186,19 @@
           ],
           [
             "Bachelors",
-            "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+            "Alex, •, Elliott, •, Harvey, •, Sam, •, Sebastian, •, Shane"
           ],
           [
             "Bachelorettes",
-            "Abigail • Emily • Haley • Leah • Maru • Penny"
+            "Abigail, •, Emily, •, Haley, •, Leah, •, Maru, •, Penny"
           ],
           [
             "Townspeople",
-            "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+            "Caroline, •, Clint, •, Demetrius, •, Evelyn, •, George, •, Gil, •, Gunther, •, Gus, •, Jas, •, Jodi, •, Kent, •, Lewis, •, Linus, •, Marlon, •, Marnie, •, Pam, •, Pierre, •, Robin, •, Vincent, •, Willy"
           ],
           [
             "Other",
-            "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+            "Birdie, •, Bouncer, •, Dwarf, •, Fizz, •, Governor, •, Grandpa, •, Henchman, •, Junimos, •, Krobus, •, Leo, •, Morris, •, Mr. Qi, •, Old Mariner, •, Professor Snail, •, Sandy, •, Wizard"
           ]
         ]
       }

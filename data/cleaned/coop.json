@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Coop Big Coop Deluxe Coop Information Upgrades From N/A Coop Big Coop Building Cost data-sort-value=\"4000\"> 4,000g data-sort-value=\"10000\"> 10,000g data-sort-value=\"20000\"> 20,000g Building Materials Wood (300) Stone (100) Wood (400) Stone (150) Wood (500) Stone (200) Capacity 4 8 12 Animals Chicken Chicken Duck Void Chicken Dinosaur Golden Chicken Chicken Duck Void Chicken Dinosaur Golden Chicken Rabbit Footprint 6x3 6x3 6x3 Features Hay Hopper Feeding Bench Hay Hopper Feeding Bench Incubator Hay Hopper Feeding Bench Incubator Autofeed System\nThe Coop is a type of farm building purchasable and upgradable from Robin at the Carpenter's Shop ."
+      "content": "The Coop is a type of farm building purchasable and upgradable from Robin at the Carpenter's Shop ."
     },
     {
       "heading": "Construction",
@@ -21,6 +21,71 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "Coop",
+            "Big Coop",
+            "Deluxe Coop"
+          ],
+          [
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Upgrades From",
+            "N/A",
+            "Coop",
+            "Big Coop"
+          ],
+          [
+            "Building Cost",
+            "data-sort-value=\"4000\">, 4,000g",
+            "data-sort-value=\"10000\">, 10,000g",
+            "data-sort-value=\"20000\">, 20,000g"
+          ],
+          [
+            "Building Materials",
+            "Wood, (300), Stone, (100)",
+            "Wood, (400), Stone, (150)",
+            "Wood, (500), Stone, (200)"
+          ],
+          [
+            "Capacity",
+            "4",
+            "8",
+            "12"
+          ],
+          [
+            "Animals",
+            "Chicken",
+            "Chicken, Duck, Void Chicken, Dinosaur, Golden Chicken",
+            "Chicken, Duck, Void Chicken, Dinosaur, Golden Chicken, Rabbit"
+          ],
+          [
+            "Footprint",
+            "6x3",
+            "6x3",
+            "6x3"
+          ],
+          [
+            "Features",
+            "Hay Hopper, Feeding Bench",
+            "Hay Hopper, Feeding Bench, Incubator",
+            "Hay Hopper, Feeding Bench, Incubator, Autofeed System"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Interior",
       "table": {
         "headers": [
@@ -32,24 +97,24 @@
           ],
           [
             "Merchants",
-            "Abandoned House • Adventurer's Guild • Blacksmith • Bookseller • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Giant Stump • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower"
+            "Abandoned House, •, Adventurer's Guild, •, Blacksmith, •, Bookseller, •, Carpenter's Shop, •, Casino, •, Desert Trader, •, Fish Shop, •, Giant Stump, •, Harvey's Clinic, •, Ice Cream Stand, •, Island Trader, •, JojaMart, •, Marnie's Ranch, •, Oasis, •, Pierre's General Store, •, Qi's Walnut Room, •, The Stardrop Saloon, •, Traveling Cart, •, Volcano Dwarf, •, Wizard's Tower"
           ],
           [
             "Houses",
-            "1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse"
+            "1 River Road, •, 2 River Road, •, 1 Willow Lane, •, 2 Willow Lane, •, 24 Mountain Road, •, Elliott's Cabin, •, Farmhouse, •, Island Farmhouse, •, Leah's Cottage, •, Mayor's Manor, •, Tent, •, Trailer, •, Treehouse"
           ],
           [
             "Farm Buildings",
             "Farming",
-            "Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Pet Bowl • Shed • Silo • Slime Hutch • Stable • Well"
+            "Barn, •, Cabin, •, Coop, •, Fish Pond, •, Greenhouse, •, Mill, •, Pet Bowl, •, Shed, •, Silo, •, Slime Hutch, •, Stable, •, Well"
           ],
           [
             "Special",
-            "Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk"
+            "Desert Obelisk, •, Earth Obelisk, •, Farm Obelisk, •, Gold Clock, •, Island Obelisk, •, Junimo Hut, •, Water Obelisk"
           ],
           [
             "Other Buildings",
-            "Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut"
+            "Community Center, •, Dog Pen, •, Island Field Office, •, Joja Warehouse, •, Movie Theater, •, Museum, •, Spa, •, Witch's Hut"
           ]
         ]
       }

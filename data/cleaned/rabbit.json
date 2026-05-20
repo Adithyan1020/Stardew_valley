@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Rabbit These are woolly rabbits! They shed precious wool every few days. Lives in the coop. Information Building Deluxe Coop Purchase Price data-sort-value=\"8000 \"> 8,000g Produce Rabbit's Foot Wool\nThe Rabbit is a farm animal that lives in a Deluxe Coop . Rabbits can be purchased at Marnie's Ranch for data-sort-value=\"8000\"> 8,000g . A rabbit cannot reproduce. A rabbit makes a soft sniffing sound when it is petted."
+      "content": "The Rabbit is a farm animal that lives in a Deluxe Coop . Rabbits can be purchased at Marnie's Ranch for data-sort-value=\"8000\"> 8,000g . A rabbit cannot reproduce. A rabbit makes a soft sniffing sound when it is petted."
     },
     {
       "heading": "Produce",
@@ -25,6 +25,38 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Rabbit"
+          ],
+          [
+            ""
+          ],
+          [
+            "These are woolly rabbits! They shed precious wool every few days. Lives in the coop."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Building",
+            "Deluxe Coop"
+          ],
+          [
+            "Purchase Price",
+            "data-sort-value=\"8000 \">, 8,000g"
+          ],
+          [
+            "Produce",
+            "Rabbit's Foot, Wool"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Produce",
       "table": {
         "headers": [
@@ -44,7 +76,7 @@
             "",
             "Rabbit's Foot",
             "Some say it's lucky.",
-            "565g 706g 847g 1,130g",
+            "565g, 706g, 847g, 1,130g",
             "",
             "565g",
             "",
@@ -74,7 +106,7 @@
             "",
             "Wool",
             "Soft, fluffy wool.",
-            "340g 425g 510g 680g",
+            "340g, 425g, 510g, 680g",
             "",
             "340g",
             "",
@@ -111,15 +143,15 @@
         ],
         "rows": [
           [
-            "Animals and Produce"
+            "Animals, and Produce"
           ],
           [
             "Coop",
-            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+            "Chicken, •, Dinosaur, •, Duck, •, Golden Chicken, •, Rabbit, •, Void Chicken"
           ],
           [
             "Barn",
-            "Cow • Goat • Sheep • Ostrich • Pig"
+            "Cow, •, Goat, •, Sheep, •, Ostrich, •, Pig"
           ],
           [
             "Fish Pond",
@@ -131,7 +163,7 @@
           ],
           [
             "Other",
-            "Cat • Dog • Horse • Turtle"
+            "Cat, •, Dog, •, Horse, •, Turtle"
           ]
         ]
       }

@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Rain Totem Activate to greatly increase the chance for rain tomorrow. Consumed on use. Information Source Crafting Sell Price data-sort-value=\"20\"> 20g Recipe Recipe Source(s) Foraging Level 9 Ingredients Hardwood (1) Truffle Oil (1) Pine Tar (5)\nThe Rain Totem is a crafted item that sets the weather for the next day to rainy. A Rain Totem can be activated by selecting it in inventory and pressing the Check button ( on PC, Y on Nintendo Switch, A on Xbox, X on PlayStation).\nThe crafting recipe becomes available at Foraging Level 9. One to three Rain Totems may also occasionally be found in treasure rooms in the Skull Cavern."
+      "content": "The Rain Totem is a crafted item that sets the weather for the next day to rainy. A Rain Totem can be activated by selecting it in inventory and pressing the Check button ( on PC, Y on Nintendo Switch, A on Xbox, X on PlayStation).\nThe crafting recipe becomes available at Foraging Level 9. One to three Rain Totems may also occasionally be found in treasure rooms in the Skull Cavern."
     },
     {
       "heading": "Caveats",
@@ -33,6 +33,45 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Rain Totem"
+          ],
+          [
+            ""
+          ],
+          [
+            "Activate to greatly increase the chance for rain tomorrow. Consumed on use."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Crafting"
+          ],
+          [
+            "Sell Price",
+            "data-sort-value=\"20\">, 20g"
+          ],
+          [
+            "Recipe"
+          ],
+          [
+            "Recipe Source(s)",
+            "Foraging, Level 9"
+          ],
+          [
+            "Ingredients",
+            "Hardwood, (1), Truffle Oil, (1), Pine Tar, (5)"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Gifting",
       "table": {
         "headers": [
@@ -44,7 +83,7 @@
           ],
           [
             "Hate",
-            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+            "Abigail, •, Alex, •, Caroline, •, Clint, •, Demetrius, •, Dwarf, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Haley, •, Harvey, •, Jas, •, Jodi, •, Kent, •, Krobus, •, Leah, •, Leo, •, Lewis, •, Linus, •, Marnie, •, Maru, •, Pam, •, Penny, •, Pierre, •, Robin, •, Sam, •, Sandy, •, Sebastian, •, Shane, •, Vincent, •, Willy, •, Wizard"
           ]
         ]
       }
@@ -61,15 +100,15 @@
           ],
           [
             "Warp Totems",
-            "Warp Totem: Beach • Warp Totem: Desert • Warp Totem: Farm • Warp Totem: Island • Warp Totem: Mountains"
+            "Warp Totem: Beach, •, Warp Totem: Desert, •, Warp Totem: Farm, •, Warp Totem: Island, •, Warp Totem: Mountains"
           ],
           [
             "Permanent Teleporters",
-            "Desert Obelisk • Earth Obelisk • Farm Obelisk • Island Obelisk • Return Scepter • Water Obelisk"
+            "Desert Obelisk, •, Earth Obelisk, •, Farm Obelisk, •, Island Obelisk, •, Return Scepter, •, Water Obelisk"
           ],
           [
             "Other Totems",
-            "Mini-Obelisk • Rain Totem • Treasure Totem"
+            "Mini-Obelisk, •, Rain Totem, •, Treasure Totem"
           ]
         ]
       }

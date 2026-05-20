@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Sandy Information Birthday Fall 15 Lives In The Desert Address Oasis Marriage No Loved Gifts Crocus Daffodil Mango Sticky Rice Sweet Pea\nSandy is a villager who lives in the Calico Desert where she runs the store, the Oasis . Players won't meet her until they've repaired the bus by completing the vault bundle or purchasing \"Bus\" for data-sort-value=\"40000\"> 40,000g through the Joja Community Development Form ."
+      "content": "Sandy is a villager who lives in the Calico Desert where she runs the store, the Oasis . Players won't meet her until they've repaired the bus by completing the vault bundle or purchasing \"Bus\" for data-sort-value=\"40000\"> 40,000g through the Joja Community Development Form ."
     },
     {
       "heading": "Schedule",
@@ -58,6 +58,43 @@
         "headers": [],
         "rows": [
           [
+            "Sandy"
+          ],
+          [
+            ""
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Birthday",
+            "Fall, 15"
+          ],
+          [
+            "Lives In",
+            "The Desert"
+          ],
+          [
+            "Address",
+            "Oasis"
+          ],
+          [
+            "Marriage",
+            "No"
+          ],
+          [
+            "Loved Gifts",
+            "Crocus, Daffodil, Mango Sticky Rice, Sweet Pea"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
             "“",
             "“My name's not really Sandy, you know. It's just good for business.”"
           ],
@@ -79,7 +116,7 @@
           ],
           [
             "8:30 AM",
-            "Exits the Oasis to stand at Emily's outfit services ."
+            "Exits the, Oasis, to stand at, Emily's, outfit services, ."
           ],
           [
             "12:00 AM",
@@ -100,15 +137,15 @@
           ],
           [
             "9:00 AM",
-            "Stands behind the counter in the Oasis ."
+            "Stands behind the counter in the, Oasis, ."
           ],
           [
             "12:00 PM",
-            "Chats sideways with Emily behind the counter."
+            "Chats sideways with, Emily, behind the counter."
           ],
           [
             "1:00 PM",
-            "Leaves the Oasis and stands next to the bench on the left."
+            "Leaves the, Oasis, and stands next to the bench on the left."
           ],
           [
             "3:00 PM",
@@ -116,7 +153,7 @@
           ],
           [
             "5:00 PM",
-            "Leaves and then stands next to the Sand Dragon ."
+            "Leaves and then stands next to the, Sand Dragon, ."
           ],
           [
             "6:00 PM",
@@ -124,15 +161,15 @@
           ],
           [
             "7:00 PM",
-            "Moves to the front of the Desert Trader ."
+            "Moves to the front of the, Desert Trader, ."
           ],
           [
             "8:00 PM",
-            "Returns to the front of the Oasis ."
+            "Returns to the front of the, Oasis, ."
           ],
           [
             "10:50 PM",
-            "Leaves the front of the Oasis ."
+            "Leaves the front of the, Oasis, ."
           ],
           [
             "11:30 PM",
@@ -140,11 +177,11 @@
           ],
           [
             "12:00 AM",
-            "Says goodbye to Emily ."
+            "Says goodbye to, Emily, ."
           ],
           [
             "12:10 AM",
-            "Goes back to the Oasis ."
+            "Goes back to the, Oasis, ."
           ]
         ]
       }
@@ -161,7 +198,7 @@
           ],
           [
             "All day",
-            "Behind the counter at the Oasis ."
+            "Behind the counter at the, Oasis, ."
           ]
         ]
       }
@@ -294,20 +331,20 @@
           ],
           [
             "",
-            "All Universal Loves"
+            "All, Universal Loves"
           ],
           [
             "",
             "Crocus",
             "A flower that can bloom in the winter.",
-            "Foraging - Winter",
+            "Foraging, -, Winter",
             ""
           ],
           [
             "",
             "Daffodil",
             "A traditional spring flower that makes a nice gift.",
-            "Foraging - Spring",
+            "Foraging, -, Spring",
             ""
           ],
           [
@@ -315,13 +352,13 @@
             "Mango Sticky Rice",
             "Sweet mango and coconut transforms this rice into something very special.",
             "Cooking",
-            "Mango (1) Coconut (1) Rice (1)"
+            "Mango, (1), Coconut, (1), Rice, (1)"
           ],
           [
             "",
             "Sweet Pea",
             "A fragrant summer flower.",
-            "Foraging - Summer",
+            "Foraging, -, Summer",
             ""
           ]
         ]
@@ -357,7 +394,7 @@
           ],
           [
             "",
-            "All Universal Likes All Fruit"
+            "All, Universal Likes, All, Fruit"
           ],
           [
             "",
@@ -375,7 +412,7 @@
             "",
             "Quartz",
             "A clear crystal commonly found in caves and mines.",
-            "Foraging - The Mines"
+            "Foraging, -, The Mines"
           ],
           [
             "",
@@ -416,37 +453,37 @@
           ],
           [
             "",
-            "All Universal Neutrals (except Wool ) All Eggs (except Void Egg )*"
+            "All, Universal Neutrals, (except, Wool, ), All Eggs, (except, Void Egg, )*"
           ],
           [
             "",
             "Chanterelle",
             "A tasty mushroom with a fruity smell and slightly peppery flavor.",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Common Mushroom",
             "Slightly nutty, with good texture.",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Dandelion",
             "Not the prettiest flower, but the leaves make a good salad.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Ginger",
             "This sharp, spicy root is said to increase vitality.",
-            "Foraging - Ginger Island"
+            "Foraging, -, Ginger Island"
           ],
           [
             "",
             "Hazelnut",
             "That's one big hazelnut!",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
@@ -458,13 +495,13 @@
             "",
             "Leek",
             "A tasty relative of the onion.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Magma Cap",
             "A very rare mushroom that lives next to pools of lava.",
-            "Foraging - Volcano Dungeon"
+            "Foraging, -, Volcano Dungeon"
           ],
           [
             "",
@@ -476,31 +513,31 @@
             "",
             "Morel",
             "Sought after for its unique nutty flavor.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Purple Mushroom",
             "A rare mushroom found deep in caves.",
-            "Foraging - The Mines"
+            "Foraging, -, The Mines"
           ],
           [
             "",
             "Snow Yam",
             "This little yam was hiding beneath the snow.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ],
           [
             "",
             "Wild Horseradish",
             "A spicy root found in the spring.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Winter Root",
             "A starchy tuber.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ]
         ]
       }
@@ -535,7 +572,7 @@
           ],
           [
             "",
-            "All Universal Dislikes"
+            "All, Universal Dislikes"
           ]
         ]
       }
@@ -570,13 +607,13 @@
           ],
           [
             "",
-            "All Universal Hates"
+            "All, Universal Hates"
           ],
           [
             "",
             "Holly",
             "The leaves and bright red berries make a popular winter decoration.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ]
         ]
       }
@@ -594,19 +631,19 @@
         ],
         "rows": [
           [
-            "Love It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus Like N/A Dislike N/A",
+            "Love, It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, The Zuzu City Express, Wumbus, Like, N/A, Dislike, N/A",
             "Love",
-            "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus",
+            "It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, The Zuzu City Express, Wumbus",
             "Like",
             "N/A",
             "Dislike",
             "N/A",
             "",
-            "Love Cotton Candy Stardrop Sorbet Dislike Black Licorice Joja Cola JojaCorn Sour Slimes Like Everything else",
+            "Love, Cotton Candy, Stardrop Sorbet, Dislike, Black Licorice, Joja Cola, JojaCorn, Sour Slimes, Like, Everything else",
             "Love",
-            "Cotton Candy Stardrop Sorbet",
+            "Cotton Candy, Stardrop Sorbet",
             "Dislike",
-            "Black Licorice Joja Cola JojaCorn Sour Slimes",
+            "Black Licorice, Joja Cola, JojaCorn, Sour Slimes",
             "Like",
             "Everything else"
           ],
@@ -614,7 +651,7 @@
             "Love"
           ],
           [
-            "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch The Zuzu City Express Wumbus"
+            "It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, The Zuzu City Express, Wumbus"
           ],
           [
             "Like"
@@ -632,13 +669,13 @@
             "Love"
           ],
           [
-            "Cotton Candy Stardrop Sorbet"
+            "Cotton Candy, Stardrop Sorbet"
           ],
           [
             "Dislike"
           ],
           [
-            "Black Licorice Joja Cola JojaCorn Sour Slimes"
+            "Black Licorice, Joja Cola, JojaCorn, Sour Slimes"
           ],
           [
             "Like"
@@ -660,19 +697,19 @@
             "Details"
           ],
           [
-            "Item Description Cactus Fruit Coconut Tom Kha Soup Greetings from Calico Desert! Come visit me soon, I'm really bored out here :(. I've included a gift from the desert. You can come and thank me in person! -Sandy",
+            "Item, Description, Cactus Fruit, Coconut, Tom Kha Soup, Greetings from Calico Desert!, Come visit me soon, I'm really bored out here :(. I've included a gift from the desert. You can come and thank me in person!, -Sandy",
             "Item",
             "Description",
-            "Cactus Fruit Coconut Tom Kha Soup",
-            "Greetings from Calico Desert! Come visit me soon, I'm really bored out here :(. I've included a gift from the desert. You can come and thank me in person! -Sandy"
+            "Cactus Fruit, Coconut, Tom Kha Soup",
+            "Greetings from Calico Desert!, Come visit me soon, I'm really bored out here :(. I've included a gift from the desert. You can come and thank me in person!, -Sandy"
           ],
           [
             "Item",
             "Description"
           ],
           [
-            "Cactus Fruit Coconut Tom Kha Soup",
-            "Greetings from Calico Desert! Come visit me soon, I'm really bored out here :(. I've included a gift from the desert. You can come and thank me in person! -Sandy"
+            "Cactus Fruit, Coconut, Tom Kha Soup",
+            "Greetings from Calico Desert!, Come visit me soon, I'm really bored out here :(. I've included a gift from the desert. You can come and thank me in person!, -Sandy"
           ]
         ]
       }
@@ -688,13 +725,13 @@
             "Details"
           ],
           [
-            "Image Recipe Description Tom Kha Soup Dear (Name), I was so bored out here in the desert that I wrote you a letter. There's a recipe for a delicious soup enclosed. Come visit me soon! -Sandy",
+            "Image, Recipe, Description, Tom Kha Soup, Dear (Name),, I was so bored out here in the desert that I wrote you a letter. There's a recipe for a delicious soup enclosed. Come visit me soon!, -Sandy",
             "Image",
             "Recipe",
             "Description",
             "",
             "Tom Kha Soup",
-            "Dear (Name), I was so bored out here in the desert that I wrote you a letter. There's a recipe for a delicious soup enclosed. Come visit me soon! -Sandy"
+            "Dear (Name),, I was so bored out here in the desert that I wrote you a letter. There's a recipe for a delicious soup enclosed. Come visit me soon!, -Sandy"
           ],
           [
             "Image",
@@ -704,7 +741,7 @@
           [
             "",
             "Tom Kha Soup",
-            "Dear (Name), I was so bored out here in the desert that I wrote you a letter. There's a recipe for a delicious soup enclosed. Come visit me soon! -Sandy"
+            "Dear (Name),, I was so bored out here in the desert that I wrote you a letter. There's a recipe for a delicious soup enclosed. Come visit me soon!, -Sandy"
           ]
         ]
       }
@@ -720,13 +757,13 @@
             "First Meeting"
           ],
           [
-            "“ “A... customer? Hi! Welcome to 'Sandy's Oasis'!\nHey, you look just like the new farmer that Emily wrote to me about!\nThen... the bus line to Stardew Valley is back in service! Oh, I'm so happy!”",
+            "“, “A... customer?, Hi! Welcome to 'Sandy's Oasis'!\nHey, you look just like the new farmer that Emily wrote to me about!\nThen... the bus line to Stardew Valley is back in service! Oh, I'm so happy!”",
             "“",
-            "“A... customer? Hi! Welcome to 'Sandy's Oasis'!\nHey, you look just like the new farmer that Emily wrote to me about!\nThen... the bus line to Stardew Valley is back in service! Oh, I'm so happy!”"
+            "“A... customer?, Hi! Welcome to 'Sandy's Oasis'!\nHey, you look just like the new farmer that Emily wrote to me about!\nThen... the bus line to Stardew Valley is back in service! Oh, I'm so happy!”"
           ],
           [
             "“",
-            "“A... customer? Hi! Welcome to 'Sandy's Oasis'!\nHey, you look just like the new farmer that Emily wrote to me about!\nThen... the bus line to Stardew Valley is back in service! Oh, I'm so happy!”"
+            "“A... customer?, Hi! Welcome to 'Sandy's Oasis'!\nHey, you look just like the new farmer that Emily wrote to me about!\nThen... the bus line to Stardew Valley is back in service! Oh, I'm so happy!”"
           ]
         ]
       }
@@ -742,7 +779,7 @@
             "Regular"
           ],
           [
-            "Monday “ “Hello hello, sweetie! I'm so glad that the bus is back in service. It was starting to get lonely out here. ...I almost went out of business. Hey, but now you're here to buy a whole bunch of seeds... right, sweetie?” Tuesday “ “You can find coconuts and cactus fruits outside. Feel free to take as many as you can find. They're oooh-yummy, too. Heeee!” Wednesday “ “Why hello there! If you see my friend Emily in town, could you tell her I said 'Hi'? Thanks!” Thursday “ “That shady-looking guy in the back? I'm not supposed to talk about it. Anyway... what's the weather like in the valley?” Friday “ “You wouldn't have much luck farming out here, honey. Well, unless you were a cactus farmer.” Saturday “ “Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert! *whisper* Did I sound professional? Make sure to check out our seasonal seed selection.\nYou look really thirsty. Here, have a taste of this ice cold milk . [gifts Player milk] Tasty, huh?” Sunday “ “It's always sunny here, even in winter! Actually, it's a little hot for my tastes... my delicate skin burns quickly in the sun.” 4+ Hearts Thursday “ “Hey... I think I can trust you. You can keep a secret, right? *whisper* That guy in the back... it's some kind of exclusive club. I've never been inside myself, but they pay me a generous monthly rent so I don't ask any questions. SOOOOoo! How's that Stardew Valley weather right now?” Friday “ “My name's not really Sandy, you know. It's just good for business. But everyone calls me Sandy anyway, so I've just gotten used to it.” 8+ Hearts Wednesday “ “Isn't it expensive, coming to the desert so often like you do? You must really like to see me, huh? Hmmm...” Sunday “ “Hi there, honey. Yep, it's just me, alone in this big old shop. Hmmm... Well, except for that creepy guy in the back. But he never moves a muscle, so I often forget about him.” 10 Hearts Tuesday “ “Hi!~ Stay as long as you like. The air conditioning sure feels nice, doesn't it?” Wednesday “ “Hey, it's [Player]! I'm glad to see you, kid. I was starting to think you'd never come back! If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.\nYou'll just have to visit me more often so I don't get depressed.” Desert Festival Even-Numbered Year “ “This is probably the busiest time of the year for me! It's nice to be able to see everyone.” Green Rain “ “I heard there's a rare weather event in the valley. I wish it rained here sometimes...” After you receive \"club card\" and get rid of Bouncer “ “What happened? You're a club member?!”",
+            "Monday, “, “Hello hello, sweetie! I'm so glad that the bus is back in service. It was starting to get lonely out here. ...I almost went out of business. Hey, but now you're here to buy a whole bunch of seeds... right, sweetie?”, Tuesday, “, “You can find coconuts and cactus fruits outside. Feel free to take as many as you can find. They're oooh-yummy, too. Heeee!”, Wednesday, “, “Why hello there! If you see my friend Emily in town, could you tell her I said 'Hi'? Thanks!”, Thursday, “, “That shady-looking guy in the back? I'm not supposed to talk about it. Anyway... what's the weather like in the valley?”, Friday, “, “You wouldn't have much luck farming out here, honey. Well, unless you were a cactus farmer.”, Saturday, “, “Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert!, *whisper* Did I sound professional? Make sure to check out our seasonal seed selection.\nYou look really thirsty. Here, have a taste of this ice cold, milk, . [gifts Player milk] Tasty, huh?”, Sunday, “, “It's always sunny here, even in winter! Actually, it's a little hot for my tastes... my delicate skin burns quickly in the sun.”, 4+ Hearts, Thursday, “, “Hey... I think I can trust you. You can keep a secret, right? *whisper* That guy in the back... it's some kind of exclusive club. I've never been inside myself, but they pay me a generous monthly rent so I don't ask any questions. SOOOOoo! How's that Stardew Valley weather right now?”, Friday, “, “My name's not really Sandy, you know. It's just good for business. But everyone calls me Sandy anyway, so I've just gotten used to it.”, 8+ Hearts, Wednesday, “, “Isn't it expensive, coming to the desert so often like you do? You must really like to see me, huh? Hmmm...”, Sunday, “, “Hi there, honey. Yep, it's just me, alone in this big old shop. Hmmm... Well, except for that creepy guy in the back. But he never moves a muscle, so I often forget about him.”, 10 Hearts, Tuesday, “, “Hi!~ Stay as long as you like. The air conditioning sure feels nice, doesn't it?”, Wednesday, “, “Hey, it's [Player]! I'm glad to see you, kid. I was starting to think you'd never come back!, If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.\nYou'll just have to visit me more often so I don't get depressed.”, Desert Festival, Even-Numbered Year, “, “This is probably the busiest time of the year for me! It's nice to be able to see everyone.”, Green Rain, “, “I heard there's a rare weather event in the valley. I wish it rained here sometimes...”, After you receive \"club card\" and get rid of Bouncer, “, “What happened? You're a club member?!”",
             "“",
             "“Hello hello, sweetie! I'm so glad that the bus is back in service. It was starting to get lonely out here. ...I almost went out of business. Hey, but now you're here to buy a whole bunch of seeds... right, sweetie?”",
             "“",
@@ -754,7 +791,7 @@
             "“",
             "“You wouldn't have much luck farming out here, honey. Well, unless you were a cactus farmer.”",
             "“",
-            "“Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert! *whisper* Did I sound professional? Make sure to check out our seasonal seed selection.\nYou look really thirsty. Here, have a taste of this ice cold milk . [gifts Player milk] Tasty, huh?”",
+            "“Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert!, *whisper* Did I sound professional? Make sure to check out our seasonal seed selection.\nYou look really thirsty. Here, have a taste of this ice cold, milk, . [gifts Player milk] Tasty, huh?”",
             "“",
             "“It's always sunny here, even in winter! Actually, it's a little hot for my tastes... my delicate skin burns quickly in the sun.”",
             "“",
@@ -768,7 +805,7 @@
             "“",
             "“Hi!~ Stay as long as you like. The air conditioning sure feels nice, doesn't it?”",
             "“",
-            "“Hey, it's [Player]! I'm glad to see you, kid. I was starting to think you'd never come back! If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.\nYou'll just have to visit me more often so I don't get depressed.”",
+            "“Hey, it's [Player]! I'm glad to see you, kid. I was starting to think you'd never come back!, If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.\nYou'll just have to visit me more often so I don't get depressed.”",
             "“",
             "“This is probably the busiest time of the year for me! It's nice to be able to see everyone.”",
             "“",
@@ -798,7 +835,7 @@
           ],
           [
             "“",
-            "“Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert! *whisper* Did I sound professional? Make sure to check out our seasonal seed selection.\nYou look really thirsty. Here, have a taste of this ice cold milk . [gifts Player milk] Tasty, huh?”"
+            "“Hi! Welcome to Sandy's Oasis, the number one destination in Calico Desert!, *whisper* Did I sound professional? Make sure to check out our seasonal seed selection.\nYou look really thirsty. Here, have a taste of this ice cold, milk, . [gifts Player milk] Tasty, huh?”"
           ],
           [
             "“",
@@ -826,7 +863,7 @@
           ],
           [
             "“",
-            "“Hey, it's [Player]! I'm glad to see you, kid. I was starting to think you'd never come back! If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.\nYou'll just have to visit me more often so I don't get depressed.”"
+            "“Hey, it's [Player]! I'm glad to see you, kid. I was starting to think you'd never come back!, If I didn't have this shop to run I'd come back to the valley with you for a day or two... just you and me on the old farm.\nYou'll just have to visit me more often so I don't get depressed.”"
           ],
           [
             "“",
@@ -851,10 +888,10 @@
         ],
         "rows": [
           [
-            "Birthday (with Emily )"
+            "Birthday (with, Emily, )"
           ],
           [
-            "“ “Oh, Emily! I was hoping you'd show up! I was actually feeling a little lonely this morning. But I'm glad you're here!” “ “How's that Stardew Valley weather right now? The flowers there smell lovely.” “ “It always seems to stay a little cooler by the lake. It's good to get out of the house now and then!” “ “Strange, isn't it?” “ “I think she sells some rare products.” “ “I had a great time. Thanks for being my friend. Come back again any time!”",
+            "“, “Oh, Emily! I was hoping you'd show up! I was actually feeling a little lonely this morning. But I'm glad you're here!”, “, “How's that Stardew Valley weather right now? The flowers there smell lovely.”, “, “It always seems to stay a little cooler by the lake. It's good to get out of the house now and then!”, “, “Strange, isn't it?”, “, “I think she sells some rare products.”, “, “I had a great time. Thanks for being my friend. Come back again any time!”",
             "“",
             "“Oh, Emily! I was hoping you'd show up! I was actually feeling a little lonely this morning. But I'm glad you're here!”",
             "“",
@@ -907,19 +944,19 @@
           ],
           [
             "Bachelors",
-            "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+            "Alex, •, Elliott, •, Harvey, •, Sam, •, Sebastian, •, Shane"
           ],
           [
             "Bachelorettes",
-            "Abigail • Emily • Haley • Leah • Maru • Penny"
+            "Abigail, •, Emily, •, Haley, •, Leah, •, Maru, •, Penny"
           ],
           [
             "Townspeople",
-            "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+            "Caroline, •, Clint, •, Demetrius, •, Evelyn, •, George, •, Gil, •, Gunther, •, Gus, •, Jas, •, Jodi, •, Kent, •, Lewis, •, Linus, •, Marlon, •, Marnie, •, Pam, •, Pierre, •, Robin, •, Vincent, •, Willy"
           ],
           [
             "Other",
-            "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+            "Birdie, •, Bouncer, •, Dwarf, •, Fizz, •, Governor, •, Grandpa, •, Henchman, •, Junimos, •, Krobus, •, Leo, •, Morris, •, Mr. Qi, •, Old Mariner, •, Professor Snail, •, Sandy, •, Wizard"
           ]
         ]
       }

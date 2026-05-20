@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Slime Egg Can be hatched in a slime incubator. Information Source Slime Egg-Press Drop from Slimes Slimejack / Lionfish Fish Pond Energy Inedible Sell Price 1,000g 1,750g 2,500g 5,000g 8,000g\nSlime Eggs can be obtained as rare drops from slimes or by putting 100 slime into a Slime Egg-Press . Purple and red Slime Eggs can also be found in treasure rooms in the Skull Cavern. One Green Slime Egg may be produced daily in a Slimejack Fish Pond when the population of the pond reaches 9. A Tiger Slime Egg might drop when a Tiger Slime is killed in the Volcano Dungeon or West area of Ginger Island . One Tiger Slime Egg may be produced daily in a Lionfish Fish Pond when the population of the pond reaches 9.\nThe color of egg produced from a Slime Egg-Press is random. There is a 5% chance the egg will be purple, 9.5% chance of red, 21.375% chance of blue, and 64.125% chance of green.\nOnce a Slime Hutch is built on the Farm , there is a 1% chance that a slime (encountered anywhere) will drop a Slime Egg when slain. Green slimes drop green eggs, blue slimes drop blue eggs, red slimes drop red eggs, purple slimes drop purple eggs, and tiger slimes drop tiger slime eggs.\nSlime Eggs can be sold at different prices depending on the color, or placed in a Slime Incubator ."
+      "content": "Slime Eggs can be obtained as rare drops from slimes or by putting 100 slime into a Slime Egg-Press . Purple and red Slime Eggs can also be found in treasure rooms in the Skull Cavern. One Green Slime Egg may be produced daily in a Slimejack Fish Pond when the population of the pond reaches 9. A Tiger Slime Egg might drop when a Tiger Slime is killed in the Volcano Dungeon or West area of Ginger Island . One Tiger Slime Egg may be produced daily in a Lionfish Fish Pond when the population of the pond reaches 9.\nThe color of egg produced from a Slime Egg-Press is random. There is a 5% chance the egg will be purple, 9.5% chance of red, 21.375% chance of blue, and 64.125% chance of green.\nOnce a Slime Hutch is built on the Farm , there is a 1% chance that a slime (encountered anywhere) will drop a Slime Egg when slain. Green slimes drop green eggs, blue slimes drop blue eggs, red slimes drop red eggs, purple slimes drop purple eggs, and tiger slimes drop tiger slime eggs.\nSlime Eggs can be sold at different prices depending on the color, or placed in a Slime Incubator ."
     },
     {
       "heading": "Incubation",
@@ -29,6 +29,38 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Slime Egg"
+          ],
+          [
+            ""
+          ],
+          [
+            "Can be hatched in a slime incubator."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Slime Egg-Press, Drop from, Slimes, Slimejack, /, Lionfish, Fish Pond"
+          ],
+          [
+            "Energy",
+            "Inedible"
+          ],
+          [
+            "Sell Price",
+            "1,000g, 1,750g, 2,500g, 5,000g, 8,000g"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Gifting",
       "table": {
         "headers": [
@@ -40,7 +72,7 @@
           ],
           [
             "Hate",
-            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+            "Abigail, •, Alex, •, Caroline, •, Clint, •, Demetrius, •, Dwarf, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Haley, •, Harvey, •, Jas, •, Jodi, •, Kent, •, Krobus, •, Leah, •, Leo, •, Lewis, •, Linus, •, Marnie, •, Maru, •, Pam, •, Penny, •, Pierre, •, Robin, •, Sam, •, Sandy, •, Sebastian, •, Shane, •, Vincent, •, Willy, •, Wizard"
           ]
         ]
       }
@@ -53,15 +85,15 @@
         ],
         "rows": [
           [
-            "Animals and Produce"
+            "Animals, and Produce"
           ],
           [
             "Coop",
-            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+            "Chicken, •, Dinosaur, •, Duck, •, Golden Chicken, •, Rabbit, •, Void Chicken"
           ],
           [
             "Barn",
-            "Cow • Goat • Sheep • Ostrich • Pig"
+            "Cow, •, Goat, •, Sheep, •, Ostrich, •, Pig"
           ],
           [
             "Fish Pond",
@@ -73,7 +105,7 @@
           ],
           [
             "Other",
-            "Cat • Dog • Horse • Turtle"
+            "Cat, •, Dog, •, Horse, •, Turtle"
           ]
         ]
       }

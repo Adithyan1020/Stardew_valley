@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Adventurer's Guild Open Hours: 2:00pm to 2:00am Address: Just east of the mines , northeast of town . Occupants: Marlon Gil\nThe Adventurer's Guild is located east of the Mines and is the home of Marlon and Gil . There the player can purchase Weapons , Boots , and Rings . Marlon will also buy weapons, boots, and rings, as well as Monster Loot from the player.\nTo access the Adventurer's Guild, the player must first complete the story quest \"Initiation\" . Once completed, the guild is open daily from 2pm to 2am, except on festival days when the door is locked."
+      "content": "The Adventurer's Guild is located east of the Mines and is the home of Marlon and Gil . There the player can purchase Weapons , Boots , and Rings . Marlon will also buy weapons, boots, and rings, as well as Monster Loot from the player.\nTo access the Adventurer's Guild, the player must first complete the story quest \"Initiation\" . Once completed, the guild is open daily from 2pm to 2am, except on festival days when the door is locked."
     },
     {
       "heading": "Interior Layout",
@@ -25,6 +25,35 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Adventurer's Guild"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            "Open Hours:",
+            "2:00pm to 2:00am"
+          ],
+          [
+            "Address:",
+            "Just east of, the mines, , northeast of, town, ."
+          ],
+          [
+            "Occupants:",
+            "Marlon, Gil"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Monster Eradication Goals",
       "table": {
         "headers": [
@@ -41,55 +70,55 @@
             "Reward Description"
           ],
           [
-            "Slime (any color, excludes Big Slimes and Slimes in the Slime Hutch )",
+            "Slime, (any color, excludes Big, Slimes and Slimes in the, Slime Hutch, )",
             "1000",
             "Slime Charmer Ring",
             "Prevents damage from slimes."
           ],
           [
-            "Void Spirits: Shadow Shaman Shadow Shaman (dangerous) Shadow Brute Shadow Brute (dangerous) Shadow Sniper",
+            "Void Spirits:, Shadow Shaman, Shadow Shaman (dangerous), Shadow Brute, Shadow Brute (dangerous), Shadow Sniper",
             "150",
             "Savage Ring",
             "Gain a short speed boost whenever you slay a monster."
           ],
           [
-            "Bats: Bat Bat (dangerous) Frost Bat Frost Bat (dangerous) Lava Bat Iridium Bat",
+            "Bats:, Bat, Bat (dangerous), Frost Bat, Frost Bat (dangerous), Lava Bat, Iridium Bat",
             "200",
             "Vampire Ring",
             "Gain a little health every time you slay a monster."
           ],
           [
-            "Skeletons: Skeleton Skeleton (dangerous) Skeleton Mage",
+            "Skeletons:, Skeleton, Skeleton (dangerous), Skeleton Mage",
             "50",
             "Skeleton Mask",
             "The red eyes are glowing mysteriously."
           ],
           [
-            "Cave Insects: Bug Bug (dangerous) Cave Fly Cave Fly (dangerous) Grub Grub (dangerous) Mutant Fly Mutant Grub Armored Bug Armored Bug (dangerous)",
+            "Cave Insects:, Bug, Bug (dangerous), Cave Fly, Cave Fly (dangerous), Grub, Grub (dangerous), Mutant Fly, Mutant Grub, Armored Bug, Armored Bug (dangerous)",
             "80",
             "Insect Head",
             "Not very pleasant to wield."
           ],
           [
-            "Duggies: Duggy Duggy (dangerous) Magma Duggy",
+            "Duggies:, Duggy, Duggy (dangerous), Magma Duggy",
             "30",
             "Hard Hat",
             "Keep your dome in one piece."
           ],
           [
-            "Dust Sprites: Dust Sprite Dust Sprite (dangerous)",
+            "Dust Sprites:, Dust Sprite, Dust Sprite (dangerous)",
             "500",
             "Burglar's Ring",
             "Monsters have a greater chance of dropping loot."
           ],
           [
-            "Rock Crabs: Rock Crab Rock Crab (dangerous) Lava Crab Lava Crab (dangerous) Iridium Crab",
+            "Rock Crabs:, Rock Crab, Rock Crab (dangerous), Lava Crab, Lava Crab (dangerous), Iridium Crab",
             "60",
             "Crabshell Ring",
             "The top of the ring is made from enchanted crab shell."
           ],
           [
-            "Mummies: Mummy Mummy (dangerous)",
+            "Mummies:, Mummy, Mummy (dangerous)",
             "100",
             "Arcane Hat",
             "The type of cowboy hat worn by a wizard."
@@ -101,13 +130,13 @@
             "It looks just like the real thing!"
           ],
           [
-            "Serpents: Serpent Royal Serpent",
+            "Serpents:, Serpent, Royal Serpent",
             "250",
             "Napalm Ring",
             "When you defeat an enemy, they explode."
           ],
           [
-            "Magma Sprites: Magma Sprite Magma Sparker",
+            "Magma Sprites:, Magma Sprite, Magma Sparker",
             "150",
             "Marlon's Phone Number",
             "Can call to utilize Item Recovery Service from home"
@@ -140,303 +169,303 @@
             "Rusty Sword",
             "A rusty, dull old sword.",
             "",
-            "data-sort-value=\"250\"> 250g",
-            "data-sort-value=\"50\"> 50g"
+            "data-sort-value=\"250\">, 250g",
+            "data-sort-value=\"50\">, 50g"
           ],
           [
             "",
             "Wooden Blade",
             "Not bad for a piece of carved wood.",
             "",
-            "data-sort-value=\"250\"> 250g",
-            "data-sort-value=\"50\"> 50g"
+            "data-sort-value=\"250\">, 250g",
+            "data-sort-value=\"50\">, 50g"
           ],
           [
             "",
             "Femur",
             "An old, heavy bone caked in centuries of grime.",
-            "Reach Floor 10 of the Mines .",
-            "data-sort-value=\"350\"> 350g",
-            "data-sort-value=\"100\"> 100g"
+            "Reach Floor 10 of, the Mines, .",
+            "data-sort-value=\"350\">, 350g",
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Iron Dirk",
             "A common dagger.",
-            "Reach Floor 15 of the Mines .",
-            "data-sort-value=\"500\"> 500g",
-            "data-sort-value=\"50\"> 50g"
+            "Reach Floor 15 of, the Mines, .",
+            "data-sort-value=\"500\">, 500g",
+            "data-sort-value=\"50\">, 50g"
           ],
           [
             "",
             "Silver Saber",
             "Plated with silver to deter rust.",
-            "Reach Floor 20 of the Mines .",
-            "data-sort-value=\"750\"> 750g",
-            "data-sort-value=\"100\"> 100g"
+            "Reach Floor 20 of, the Mines, .",
+            "data-sort-value=\"750\">, 750g",
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Elf Blade",
             "Only the nimble hands of an elf could craft this.",
-            "Reach Floor 20 of the Mines .",
-            "data-sort-value=\"750\"> 750g",
-            "data-sort-value=\"100\"> 100g"
+            "Reach Floor 20 of, the Mines, .",
+            "data-sort-value=\"750\">, 750g",
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Steel Smallsword",
             "A standard metal blade.",
-            "Reach Floor 20 of the Mines .",
-            "data-sort-value=\"750\"> 750g",
-            "data-sort-value=\"50\"> 50g"
+            "Reach Floor 20 of, the Mines, .",
+            "data-sort-value=\"750\">, 750g",
+            "data-sort-value=\"50\">, 50g"
           ],
           [
             "",
             "Pirate's Sword",
             "It looks like a pirate owned this once.",
-            "Reach Floor 25 of the Mines .",
-            "data-sort-value=\"850\"> 850g",
-            "data-sort-value=\"100\"> 100g"
+            "Reach Floor 25 of, the Mines, .",
+            "data-sort-value=\"850\">, 850g",
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Cutlass",
             "A finely crafted blade.",
-            "Reach Floor 25 of the Mines .",
-            "data-sort-value=\"1500\"> 1,500g",
-            "data-sort-value=\"150\"> 150g"
+            "Reach Floor 25 of, the Mines, .",
+            "data-sort-value=\"1500\">, 1,500g",
+            "data-sort-value=\"150\">, 150g"
           ],
           [
             "",
             "Wood Mallet",
             "The solid head packs a punch. Relatively light for a club.",
-            "Reach Floor 40 of the Mines .",
-            "data-sort-value=\"2000\"> 2,000g",
-            "data-sort-value=\"150\"> 150g"
+            "Reach Floor 40 of, the Mines, .",
+            "data-sort-value=\"2000\">, 2,000g",
+            "data-sort-value=\"150\">, 150g"
           ],
           [
             "",
             "Claymore",
             "It's really heavy.",
-            "Reach Floor 45 of the Mines .",
-            "data-sort-value=\"2000\"> 2,000g",
-            "data-sort-value=\"250\"> 250g"
+            "Reach Floor 45 of, the Mines, .",
+            "data-sort-value=\"2000\">, 2,000g",
+            "data-sort-value=\"250\">, 250g"
           ],
           [
             "",
             "Templar's Blade",
             "It once belonged to an honorable knight.",
-            "Reach Floor 55 of the Mines .",
-            "data-sort-value=\"4000\"> 4,000g",
-            "data-sort-value=\"250\"> 250g"
+            "Reach Floor 55 of, the Mines, .",
+            "data-sort-value=\"4000\">, 4,000g",
+            "data-sort-value=\"250\">, 250g"
           ],
           [
             "",
             "Crystal Dagger",
             "The blade is made of purified quartz.",
-            "Reach Floor 60 of the Mines .",
-            "data-sort-value=\"4500\"> 4,500g",
-            "data-sort-value=\"200\"> 200g"
+            "Reach Floor 60 of, the Mines, .",
+            "data-sort-value=\"4500\">, 4,500g",
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Bone Sword",
             "A very light piece of sharpened bone.",
-            "Reach Floor 75 of the Mines .",
-            "data-sort-value=\"6000\"> 6,000g",
-            "data-sort-value=\"250\"> 250g"
+            "Reach Floor 75 of, the Mines, .",
+            "data-sort-value=\"6000\">, 6,000g",
+            "data-sort-value=\"250\">, 250g"
           ],
           [
             "",
             "Steel Falchion",
             "Light and powerful.",
-            "Reach Floor 90 of the Mines .",
-            "data-sort-value=\"9000\"> 9,000g",
-            "data-sort-value=\"400\"> 400g"
+            "Reach Floor 90 of, the Mines, .",
+            "data-sort-value=\"9000\">, 9,000g",
+            "data-sort-value=\"400\">, 400g"
           ],
           [
             "",
             "Obsidian Edge",
             "It's incredibly sharp.",
-            "Reach Floor 90 of the Mines .",
-            "data-sort-value=\"9000\"> 9,000g",
-            "data-sort-value=\"300\"> 300g"
+            "Reach Floor 90 of, the Mines, .",
+            "data-sort-value=\"9000\">, 9,000g",
+            "data-sort-value=\"300\">, 300g"
           ],
           [
             "",
             "Lava Katana",
             "A powerful blade forged in a pool of churning lava.",
-            "Reach the bottom of the Mines .",
-            "data-sort-value=\"25000\"> 25,000g",
-            "data-sort-value=\"500\"> 500g"
+            "Reach the bottom of, the Mines, .",
+            "data-sort-value=\"25000\">, 25,000g",
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Galaxy Sword",
             "It's unlike anything you've ever seen.",
-            "Bring a Prismatic Shard to the Three Pillars in the Desert .",
-            "data-sort-value=\"50000\"> 50,000g",
-            "data-sort-value=\"650\"> 650g"
+            "Bring a, Prismatic Shard, to the, Three Pillars, in, the Desert, .",
+            "data-sort-value=\"50000\">, 50,000g",
+            "data-sort-value=\"650\">, 650g"
           ],
           [
             "",
             "Galaxy Dagger",
             "It's unlike anything you've seen.",
-            "After collecting the Galaxy Sword .",
-            "data-sort-value=\"35000\"> 35,000g",
-            "data-sort-value=\"400\"> 400g"
+            "After collecting the, Galaxy Sword, .",
+            "data-sort-value=\"35000\">, 35,000g",
+            "data-sort-value=\"400\">, 400g"
           ],
           [
             "",
             "Galaxy Hammer",
             "It's made from an ultra-light material you've never seen before.",
-            "After collecting the Galaxy Sword .",
-            "data-sort-value=\"75000\"> 75,000g",
-            "data-sort-value=\"600\"> 600g"
+            "After collecting the, Galaxy Sword, .",
+            "data-sort-value=\"75000\">, 75,000g",
+            "data-sort-value=\"600\">, 600g"
           ],
           [
             "",
             "Sneakers",
             "A little flimsy... but fashionable!",
             "",
-            "data-sort-value=\"500\"> 500g",
-            "data-sort-value=\"50\"> 50g"
+            "data-sort-value=\"500\">, 500g",
+            "data-sort-value=\"50\">, 50g"
           ],
           [
             "",
             "Leather Boots",
             "The leather is very supple.",
-            "Reach Floor 10 of the Mines .",
-            "data-sort-value=\"500\"> 500g",
-            "data-sort-value=\"100\"> 100g"
+            "Reach Floor 10 of, the Mines, .",
+            "data-sort-value=\"500\">, 500g",
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Work Boots",
             "Steel-toed for extra protection.",
-            "Reach Floor 10 of the Mines .",
-            "data-sort-value=\"700\"> 700g",
-            "data-sort-value=\"100\"> 100g"
+            "Reach Floor 10 of, the Mines, .",
+            "data-sort-value=\"700\">, 700g",
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Tundra Boots",
             "The fuzzy lining keeps your ankles so warm.",
-            "Reach Floor 50 of the Mines .",
-            "data-sort-value=\"750\"> 750g",
-            "data-sort-value=\"150\"> 150g"
+            "Reach Floor 50 of, the Mines, .",
+            "data-sort-value=\"750\">, 750g",
+            "data-sort-value=\"150\">, 150g"
           ],
           [
             "",
             "Combat Boots",
             "Reinforced with iron mesh.",
-            "Reach Floor 40 of the Mines .",
-            "data-sort-value=\"1250\"> 1,250g",
-            "data-sort-value=\"150\"> 150g"
+            "Reach Floor 40 of, the Mines, .",
+            "data-sort-value=\"1250\">, 1,250g",
+            "data-sort-value=\"150\">, 150g"
           ],
           [
             "",
             "Firewalker Boots",
             "It's said these can withstand the hottest magma.",
-            "Reach Floor 80 of the Mines .",
-            "data-sort-value=\"2000\"> 2,000g",
-            "data-sort-value=\"300\"> 300g"
+            "Reach Floor 80 of, the Mines, .",
+            "data-sort-value=\"2000\">, 2,000g",
+            "data-sort-value=\"300\">, 300g"
           ],
           [
             "",
             "Dark Boots",
             "Made from thick black leather.",
-            "Reach Floor 80 of the Mines .",
-            "data-sort-value=\"2500\"> 2,500g",
-            "data-sort-value=\"300\"> 300g"
+            "Reach Floor 80 of, the Mines, .",
+            "data-sort-value=\"2500\">, 2,500g",
+            "data-sort-value=\"300\">, 300g"
           ],
           [
             "",
             "Space Boots",
             "An iridium weave gives them a purple sheen.",
-            "Reach Floor 110 of the Mines .",
-            "data-sort-value=\"5000\"> 5,000g",
-            "data-sort-value=\"400\"> 400g"
+            "Reach Floor 110 of, the Mines, .",
+            "data-sort-value=\"5000\">, 5,000g",
+            "data-sort-value=\"400\">, 400g"
           ],
           [
             "",
             "Amethyst Ring",
             "Increases knockback by 10%.",
             "",
-            "data-sort-value=\"1000\"> 1,000g",
-            "data-sort-value=\"100\"> 100g"
+            "data-sort-value=\"1000\">, 1,000g",
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Topaz Ring",
             "You feel a little bit safer wearing this.",
             "",
-            "data-sort-value=\"1000\"> 1,000g",
-            "data-sort-value=\"100\"> 100g"
+            "data-sort-value=\"1000\">, 1,000g",
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Aquamarine Ring",
             "Increases critical strike chance by 10%.",
-            "Reach Floor 40 of the Mines .",
-            "data-sort-value=\"2500\"> 2,500g",
-            "data-sort-value=\"200\"> 200g"
+            "Reach Floor 40 of, the Mines, .",
+            "data-sort-value=\"2500\">, 2,500g",
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Jade Ring",
             "Increases critical strike power by 10%.",
-            "Reach Floor 40 of the Mines .",
-            "data-sort-value=\"2500\"> 2,500g",
-            "data-sort-value=\"200\"> 200g"
+            "Reach Floor 40 of, the Mines, .",
+            "data-sort-value=\"2500\">, 2,500g",
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Emerald Ring",
             "Increases weapon speed by 10%.",
-            "Reach Floor 80 of the Mines .",
-            "data-sort-value=\"5000\"> 5,000g",
-            "data-sort-value=\"300\"> 300g"
+            "Reach Floor 80 of, the Mines, .",
+            "data-sort-value=\"5000\">, 5,000g",
+            "data-sort-value=\"300\">, 300g"
           ],
           [
             "",
             "Ruby Ring",
             "Increases attack by 10%.",
-            "Reach Floor 80 of the Mines .",
-            "data-sort-value=\"5000\"> 5,000g",
-            "data-sort-value=\"300\"> 300g"
+            "Reach Floor 80 of, the Mines, .",
+            "data-sort-value=\"5000\">, 5,000g",
+            "data-sort-value=\"300\">, 300g"
           ],
           [
             "",
             "Slingshot",
             "Requires stones for ammo.",
-            "Reach Floor 40 of the Mines .",
-            "data-sort-value=\"500\"> 500g",
+            "Reach Floor 40 of, the Mines, .",
+            "data-sort-value=\"500\">, 500g",
             "N/A"
           ],
           [
             "",
             "Master Slingshot",
             "Requires stones for ammo.",
-            "Reach Floor 70 of the Mines .",
-            "data-sort-value=\"1000\"> 1,000g",
+            "Reach Floor 70 of, the Mines, .",
+            "data-sort-value=\"1000\">, 1,000g",
             "N/A"
           ],
           [
             "",
             "Explosive Ammo",
             "Fire this with the slingshot.",
-            "Unlock the recipe for Explosive Ammo .",
-            "data-sort-value=\"300\"> 300g",
-            "data-sort-value=\"20\"> 20g"
+            "Unlock the recipe for, Explosive Ammo, .",
+            "data-sort-value=\"300\">, 300g",
+            "data-sort-value=\"20\">, 20g"
           ],
           [
             "",
             "Wall Sword",
             "Can be placed inside your house.",
             "",
-            "data-sort-value=\"2000\"> 2,000g",
+            "data-sort-value=\"2000\">, 2,000g",
             "N/A"
           ],
           [
@@ -444,96 +473,96 @@
             "Decorative Sword",
             "Can be placed as decoration.",
             "",
-            "data-sort-value=\"10000\"> 10,000g",
+            "data-sort-value=\"10000\">, 10,000g",
             "N/A"
           ],
           [
             "",
             "Slime Charmer Ring",
             "Prevents damage from slimes.",
-            "Kill 1000 Slimes",
-            "data-sort-value=\"25000\"> 25,000g",
-            "data-sort-value=\"350\"> 350g"
+            "Kill 1000, Slimes",
+            "data-sort-value=\"25000\">, 25,000g",
+            "data-sort-value=\"350\">, 350g"
           ],
           [
             "",
             "Savage Ring",
             "Gain a short speed boost whenever you slay a monster.",
-            "Kill 150 Void Spirits ( Shadow Shaman / Shadow Brute )",
-            "data-sort-value=\"25000\"> 25,000g",
-            "data-sort-value=\"750\"> 750g"
+            "Kill 150 Void Spirits (, Shadow Shaman, /, Shadow Brute, )",
+            "data-sort-value=\"25000\">, 25,000g",
+            "data-sort-value=\"750\">, 750g"
           ],
           [
             "",
             "Burglar's Ring",
             "Monsters have a greater chance of dropping loot.",
-            "Kill 500 Dust Sprites",
-            "data-sort-value=\"20000\"> 20,000g",
-            "data-sort-value=\"750\"> 750g"
+            "Kill 500, Dust Sprites",
+            "data-sort-value=\"20000\">, 20,000g",
+            "data-sort-value=\"750\">, 750g"
           ],
           [
             "",
             "Vampire Ring",
             "Gain a little health every time you slay a monster.",
-            "Kill 200 Bats",
-            "data-sort-value=\"15000\"> 15,000g",
-            "data-sort-value=\"750\"> 750g"
+            "Kill 200, Bats",
+            "data-sort-value=\"15000\">, 15,000g",
+            "data-sort-value=\"750\">, 750g"
           ],
           [
             "",
             "Crabshell Ring",
             "The top of the ring is made from enchanted crab shell.",
-            "Kill 60 Rock Crabs",
-            "data-sort-value=\"15000\"> 15,000g",
-            "data-sort-value=\"1000\"> 1,000g"
+            "Kill 60, Rock Crabs",
+            "data-sort-value=\"15000\">, 15,000g",
+            "data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "Napalm Ring",
             "When you defeat an enemy, they explode.",
-            "Kill 250 Serpents",
-            "data-sort-value=\"30000\"> 30,000g",
-            "data-sort-value=\"1000\"> 1,000g"
+            "Kill 250, Serpents",
+            "data-sort-value=\"30000\">, 30,000g",
+            "data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "Skeleton Mask",
             "The red eyes are glowing mysteriously.",
-            "Kill 50 Skeletons",
-            "data-sort-value=\"20000\"> 20,000g",
+            "Kill 50, Skeletons",
+            "data-sort-value=\"20000\">, 20,000g",
             "N/A"
           ],
           [
             "",
             "Hard Hat",
             "Keep your dome in one piece.",
-            "Kill 30 Duggies",
-            "data-sort-value=\"20000\"> 20,000g",
+            "Kill 30, Duggies",
+            "data-sort-value=\"20000\">, 20,000g",
             "N/A"
           ],
           [
             "",
             "Arcane Hat",
             "The type of cowboy hat worn by a wizard.",
-            "Kill 100 Mummies",
-            "data-sort-value=\"20000\"> 20,000g",
+            "Kill 100, Mummies",
+            "data-sort-value=\"20000\">, 20,000g",
             "N/A"
           ],
           [
             "",
             "Knight's Helmet",
             "It looks just like the real thing!",
-            "Kill 50 Pepper Rex",
-            "data-sort-value=\"20000\"> 20,000g",
+            "Kill 50, Pepper Rex",
+            "data-sort-value=\"20000\">, 20,000g",
             "N/A"
           ],
           [
             "",
             "Insect Head",
             "Not very pleasant to wield.",
-            "Kill 80 Cave Insects",
-            "data-sort-value=\"10000\"> 10,000g",
-            "data-sort-value=\"200\"> 200g"
+            "Kill 80, Cave Insects",
+            "data-sort-value=\"10000\">, 10,000g",
+            "data-sort-value=\"200\">, 200g"
           ]
         ]
       }
@@ -550,24 +579,24 @@
           ],
           [
             "Merchants",
-            "Abandoned House • Adventurer's Guild • Blacksmith • Bookseller • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Giant Stump • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower"
+            "Abandoned House, •, Adventurer's Guild, •, Blacksmith, •, Bookseller, •, Carpenter's Shop, •, Casino, •, Desert Trader, •, Fish Shop, •, Giant Stump, •, Harvey's Clinic, •, Ice Cream Stand, •, Island Trader, •, JojaMart, •, Marnie's Ranch, •, Oasis, •, Pierre's General Store, •, Qi's Walnut Room, •, The Stardrop Saloon, •, Traveling Cart, •, Volcano Dwarf, •, Wizard's Tower"
           ],
           [
             "Houses",
-            "1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse"
+            "1 River Road, •, 2 River Road, •, 1 Willow Lane, •, 2 Willow Lane, •, 24 Mountain Road, •, Elliott's Cabin, •, Farmhouse, •, Island Farmhouse, •, Leah's Cottage, •, Mayor's Manor, •, Tent, •, Trailer, •, Treehouse"
           ],
           [
             "Farm Buildings",
             "Farming",
-            "Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Pet Bowl • Shed • Silo • Slime Hutch • Stable • Well"
+            "Barn, •, Cabin, •, Coop, •, Fish Pond, •, Greenhouse, •, Mill, •, Pet Bowl, •, Shed, •, Silo, •, Slime Hutch, •, Stable, •, Well"
           ],
           [
             "Special",
-            "Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk"
+            "Desert Obelisk, •, Earth Obelisk, •, Farm Obelisk, •, Gold Clock, •, Island Obelisk, •, Junimo Hut, •, Water Obelisk"
           ],
           [
             "Other Buildings",
-            "Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut"
+            "Community Center, •, Dog Pen, •, Island Field Office, •, Joja Warehouse, •, Movie Theater, •, Museum, •, Spa, •, Witch's Hut"
           ]
         ]
       }

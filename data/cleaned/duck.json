@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Duck Happy adults lay duck eggs every other day. Lives in the coop. Information Building Big Coop Purchase Price data-sort-value=\"1200 \"> 1,200g Produce Duck Egg Duck Feather\nThe Duck is an animal that lives in a Big Coop . Ducks can be purchased at Marnie's Ranch for data-sort-value=\"1200\"> 1,200g or be hatched by placing a Duck Egg into an Incubator , taking 9,000m (5d 16h 40m) to incubate, or 4,500m (2d 21h 40m) with the Coopmaster Profession .\nDucks are able to swim in bodies of water on the farm."
+      "content": "The Duck is an animal that lives in a Big Coop . Ducks can be purchased at Marnie's Ranch for data-sort-value=\"1200\"> 1,200g or be hatched by placing a Duck Egg into an Incubator , taking 9,000m (5d 16h 40m) to incubate, or 4,500m (2d 21h 40m) with the Coopmaster Profession .\nDucks are able to swim in bodies of water on the farm."
     },
     {
       "heading": "Produce",
@@ -25,6 +25,38 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Duck"
+          ],
+          [
+            ""
+          ],
+          [
+            "Happy adults lay duck eggs every other day. Lives in the coop."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Building",
+            "Big Coop"
+          ],
+          [
+            "Purchase Price",
+            "data-sort-value=\"1200 \">, 1,200g"
+          ],
+          [
+            "Produce",
+            "Duck Egg, Duck Feather"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Produce",
       "table": {
         "headers": [
@@ -44,7 +76,7 @@
             "",
             "Duck Egg",
             "It's still warm.",
-            "95g 118g 142g 190g",
+            "95g, 118g, 142g, 190g",
             "",
             "95g",
             "",
@@ -74,7 +106,7 @@
             "",
             "Duck Feather",
             "It's so colorful.",
-            "250g 312g 375g 500g",
+            "250g, 312g, 375g, 500g",
             "",
             "250g",
             "",
@@ -111,15 +143,15 @@
         ],
         "rows": [
           [
-            "Animals and Produce"
+            "Animals, and Produce"
           ],
           [
             "Coop",
-            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+            "Chicken, •, Dinosaur, •, Duck, •, Golden Chicken, •, Rabbit, •, Void Chicken"
           ],
           [
             "Barn",
-            "Cow • Goat • Sheep • Ostrich • Pig"
+            "Cow, •, Goat, •, Sheep, •, Ostrich, •, Pig"
           ],
           [
             "Fish Pond",
@@ -131,7 +163,7 @@
           ],
           [
             "Other",
-            "Cat • Dog • Horse • Turtle"
+            "Cat, •, Dog, •, Horse, •, Turtle"
           ]
         ]
       }

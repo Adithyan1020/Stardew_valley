@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Casino Open Hours: 9:00am to 11:50pm Closed: Never Address: The Desert Occupants: Mr. Qi\nThe Casino is located in the Calico Desert accessed through the back door of the Oasis . Access is initially blocked by the Bouncer until \"The Mysterious Qi\" quest is completed.\nMr. Qi is constantly present in the room. To his right is a machine to exchange gold for Qi coins, at a rate of data-sort-value=\"1000\"> 1,000g per data-sort-value=\"100\"> 100 , or data-sort-value=\"10\"> 10g per data-sort-value=\"1\"> 1 value. Qi coins are used for both gambling and purchasing items inside the Casino, and cannot be converted back to gold.\nTo the top-left of the room is a terminal that lists multiple statistics for the Player .\nThere are two forms of gambling available, slot machines and a variant of BlackJack, CalicoJack . There are two tables for CalicoJack, low stakes ( data-sort-value=\"100\"> 100 ) to the left and high stakes ( data-sort-value=\"1000\"> 1,000 ) to the right.\nIn the upper right corner of the room, to the right of the machine for exchanging Qi coins and next to a potted plant, stands a shady individual who offers to sell Statues Of Endless Fortune for data-sort-value=\"1000000\"> 1,000,000g each."
+      "content": "The Casino is located in the Calico Desert accessed through the back door of the Oasis . Access is initially blocked by the Bouncer until \"The Mysterious Qi\" quest is completed.\nMr. Qi is constantly present in the room. To his right is a machine to exchange gold for Qi coins, at a rate of data-sort-value=\"1000\"> 1,000g per data-sort-value=\"100\"> 100 , or data-sort-value=\"10\"> 10g per data-sort-value=\"1\"> 1 value. Qi coins are used for both gambling and purchasing items inside the Casino, and cannot be converted back to gold.\nTo the top-left of the room is a terminal that lists multiple statistics for the Player .\nThere are two forms of gambling available, slot machines and a variant of BlackJack, CalicoJack . There are two tables for CalicoJack, low stakes ( data-sort-value=\"100\"> 100 ) to the left and high stakes ( data-sort-value=\"1000\"> 1,000 ) to the right.\nIn the upper right corner of the room, to the right of the machine for exchanging Qi coins and next to a potted plant, stands a shady individual who offers to sell Statues Of Endless Fortune for data-sort-value=\"1000000\"> 1,000,000g each."
     },
     {
       "heading": "Store",
@@ -20,6 +20,39 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Casino"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            "Open Hours:",
+            "9:00am to 11:50pm"
+          ],
+          [
+            "Closed:",
+            "Never"
+          ],
+          [
+            "Address:",
+            "The Desert"
+          ],
+          [
+            "Occupants:",
+            "Mr. Qi"
+          ]
+        ]
+      }
+    },
     {
       "section": "Store",
       "table": {
@@ -43,112 +76,112 @@
             "'Primal Motion'",
             "Can be placed inside your house.",
             "Infinite",
-            "data-sort-value=\"5000\"> 5,000"
+            "data-sort-value=\"5000\">, 5,000"
           ],
           [
             "",
             "'Burnt Offering'",
             "Can be placed inside your house.",
             "Infinite",
-            "data-sort-value=\"4000\"> 4,000"
+            "data-sort-value=\"4000\">, 4,000"
           ],
           [
             "",
             "'Highway 89'",
             "Can be placed inside your house.",
             "Infinite",
-            "data-sort-value=\"4000\"> 4,000"
+            "data-sort-value=\"4000\">, 4,000"
           ],
           [
             "",
             "'Spires'",
             "Can be placed inside your house.",
             "Infinite",
-            "data-sort-value=\"3000\"> 3,000"
+            "data-sort-value=\"3000\">, 3,000"
           ],
           [
             "",
             "Top Hat",
             "A gentleman's classic.",
             "Infinite",
-            "data-sort-value=\"8000\"> 8,000"
+            "data-sort-value=\"8000\">, 8,000"
           ],
           [
             "",
             "Rarecrow #3",
             "Collect them all! (3 of 8)",
             "Infinite",
-            "data-sort-value=\"10000\"> 10,000"
+            "data-sort-value=\"10000\">, 10,000"
           ],
           [
             "",
             "Hardwood Fence",
             "The most durable type of fence.",
             "20",
-            "data-sort-value=\"100\"> 100"
+            "data-sort-value=\"100\">, 100"
           ],
           [
             "",
             "Magnet",
             "Increases the chance of finding treasures when fishing. However, fish aren't crazy about the taste.",
             "20",
-            "data-sort-value=\"1000\"> 1,000"
+            "data-sort-value=\"1000\">, 1,000"
           ],
           [
             "",
             "Warp Totem: Farm",
             "Warp directly to your house. Consumed on use.",
             "20",
-            "data-sort-value=\"1000\"> 1,000"
+            "data-sort-value=\"1000\">, 1,000"
           ],
           [
             "",
             "Modern Double Bed",
             "Can be placed inside your house.",
             "Infinite",
-            "data-sort-value=\"8000\"> 8,000"
+            "data-sort-value=\"8000\">, 8,000"
           ],
           [
             "",
             "Fireworks (Red)",
             "An old tradition for celebrations and festivities. Handle with care!",
             "20",
-            "data-sort-value=\"200\"> 200"
+            "data-sort-value=\"200\">, 200"
           ],
           [
             "",
             "Fireworks (Purple)",
             "An old tradition for celebrations and festivities. Handle with care!",
             "20",
-            "data-sort-value=\"200\"> 200"
+            "data-sort-value=\"200\">, 200"
           ],
           [
             "",
             "Fireworks (Green)",
             "An old tradition for celebrations and festivities. Handle with care!",
             "20",
-            "data-sort-value=\"200\"> 200"
+            "data-sort-value=\"200\">, 200"
           ],
           [
             "",
             "Wallpaper",
             "Decorates the walls of one room.",
             "Infinite",
-            "data-sort-value=\"10000\"> 10,000"
+            "data-sort-value=\"10000\">, 10,000"
           ],
           [
             "",
             "Wallpaper",
             "Decorates the walls of one room.",
             "Infinite",
-            "data-sort-value=\"100000\"> 100,000"
+            "data-sort-value=\"100000\">, 100,000"
           ],
           [
             "",
             "Flooring",
             "Decorates the floor of one room.",
             "Infinite",
-            "data-sort-value=\"100000\"> 100,000"
+            "data-sort-value=\"100000\">, 100,000"
           ]
         ]
       }
@@ -165,24 +198,24 @@
           ],
           [
             "Merchants",
-            "Abandoned House • Adventurer's Guild • Blacksmith • Bookseller • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Giant Stump • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower"
+            "Abandoned House, •, Adventurer's Guild, •, Blacksmith, •, Bookseller, •, Carpenter's Shop, •, Casino, •, Desert Trader, •, Fish Shop, •, Giant Stump, •, Harvey's Clinic, •, Ice Cream Stand, •, Island Trader, •, JojaMart, •, Marnie's Ranch, •, Oasis, •, Pierre's General Store, •, Qi's Walnut Room, •, The Stardrop Saloon, •, Traveling Cart, •, Volcano Dwarf, •, Wizard's Tower"
           ],
           [
             "Houses",
-            "1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse"
+            "1 River Road, •, 2 River Road, •, 1 Willow Lane, •, 2 Willow Lane, •, 24 Mountain Road, •, Elliott's Cabin, •, Farmhouse, •, Island Farmhouse, •, Leah's Cottage, •, Mayor's Manor, •, Tent, •, Trailer, •, Treehouse"
           ],
           [
             "Farm Buildings",
             "Farming",
-            "Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Pet Bowl • Shed • Silo • Slime Hutch • Stable • Well"
+            "Barn, •, Cabin, •, Coop, •, Fish Pond, •, Greenhouse, •, Mill, •, Pet Bowl, •, Shed, •, Silo, •, Slime Hutch, •, Stable, •, Well"
           ],
           [
             "Special",
-            "Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk"
+            "Desert Obelisk, •, Earth Obelisk, •, Farm Obelisk, •, Gold Clock, •, Island Obelisk, •, Junimo Hut, •, Water Obelisk"
           ],
           [
             "Other Buildings",
-            "Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut"
+            "Community Center, •, Dog Pen, •, Island Field Office, •, Joja Warehouse, •, Movie Theater, •, Museum, •, Spa, •, Witch's Hut"
           ]
         ]
       }

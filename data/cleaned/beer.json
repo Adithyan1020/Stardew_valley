@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Beer Drink in moderation. Information Source Artisan Goods The Saloon Ginger Island Resort Buff(s) Tipsy Speed (−1) Buff Duration 30s Energy / Health 50 22 70 31 90 40 130 58 Sell Prices Base Artisan (+40%) 200g 250g 300g 400g 280g 350g 420g 560g Artisan Goods Equipment Keg Processing Time 1750m (≈29h) Ingredients Wheat (1)\nBeer is an Artisan Good made from the Keg using Wheat , taking 1-2 days. It is also available at The Saloon for data-sort-value=\"400\"> 400g and the Ginger Island Resort for data-sort-value=\"500\"> 500g . It can also be received as a gift at the Feast of the Winter Star . Pam sells Beer in her shop at the Desert Festival for data-sort-value=\"20\"> 20 Calico Eggs .\nWhen consumed, Beer causes a Tipsy Buff that decreases Speed by 1."
+      "content": "Beer is an Artisan Good made from the Keg using Wheat , taking 1-2 days. It is also available at The Saloon for data-sort-value=\"400\"> 400g and the Ginger Island Resort for data-sort-value=\"500\"> 500g . It can also be received as a gift at the Feast of the Winter Star . Pam sells Beer in her shop at the Desert Festival for data-sort-value=\"20\"> 20 Calico Eggs .\nWhen consumed, Beer causes a Tipsy Buff that decreases Speed by 1."
     },
     {
       "heading": "Aged Values",
@@ -29,6 +29,343 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Beer"
+          ],
+          [
+            ""
+          ],
+          [
+            "Drink in moderation."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Artisan Goods, The Saloon, Ginger Island Resort"
+          ],
+          [
+            "Buff(s)",
+            "Tipsy, Speed, (−1)"
+          ],
+          [
+            "Buff Duration",
+            "30s"
+          ],
+          [
+            "Energy, /, Health",
+            "50, 22, 70, 31, 90, 40, 130, 58",
+            "",
+            "50",
+            "",
+            "22",
+            "",
+            "70",
+            "",
+            "31",
+            "",
+            "90",
+            "",
+            "40",
+            "",
+            "130",
+            "",
+            "58"
+          ],
+          [
+            "",
+            "50",
+            "",
+            "22"
+          ],
+          [
+            "",
+            "70",
+            "",
+            "31"
+          ],
+          [
+            "",
+            "90",
+            "",
+            "40"
+          ],
+          [
+            "",
+            "130",
+            "",
+            "58"
+          ],
+          [
+            "Sell Prices, Base, Artisan, (+40%), 200g, 250g, 300g, 400g, 280g, 350g, 420g, 560g",
+            "Sell Prices",
+            "Base",
+            "Artisan, (+40%)",
+            "200g, 250g, 300g, 400g",
+            "",
+            "200g",
+            "",
+            "250g",
+            "",
+            "300g",
+            "",
+            "400g",
+            "280g, 350g, 420g, 560g",
+            "",
+            "280g",
+            "",
+            "350g",
+            "",
+            "420g",
+            "",
+            "560g"
+          ],
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Artisan, (+40%)"
+          ],
+          [
+            "200g, 250g, 300g, 400g",
+            "",
+            "200g",
+            "",
+            "250g",
+            "",
+            "300g",
+            "",
+            "400g",
+            "280g, 350g, 420g, 560g",
+            "",
+            "280g",
+            "",
+            "350g",
+            "",
+            "420g",
+            "",
+            "560g"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "400g"
+          ],
+          [
+            "",
+            "280g"
+          ],
+          [
+            "",
+            "350g"
+          ],
+          [
+            "",
+            "420g"
+          ],
+          [
+            "",
+            "560g"
+          ],
+          [
+            "Artisan Goods"
+          ],
+          [
+            "Equipment",
+            "Keg"
+          ],
+          [
+            "Processing Time",
+            "1750m (≈29h)"
+          ],
+          [
+            "Ingredients",
+            "Wheat, (1)"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "50",
+            "",
+            "22"
+          ],
+          [
+            "",
+            "70",
+            "",
+            "31"
+          ],
+          [
+            "",
+            "90",
+            "",
+            "40"
+          ],
+          [
+            "",
+            "130",
+            "",
+            "58"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Artisan, (+40%)"
+          ],
+          [
+            "200g, 250g, 300g, 400g",
+            "",
+            "200g",
+            "",
+            "250g",
+            "",
+            "300g",
+            "",
+            "400g",
+            "280g, 350g, 420g, 560g",
+            "",
+            "280g",
+            "",
+            "350g",
+            "",
+            "420g",
+            "",
+            "560g"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "400g"
+          ],
+          [
+            "",
+            "280g"
+          ],
+          [
+            "",
+            "350g"
+          ],
+          [
+            "",
+            "420g"
+          ],
+          [
+            "",
+            "560g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "200g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "400g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "280g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "350g"
+          ],
+          [
+            "",
+            "420g"
+          ],
+          [
+            "",
+            "560g"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Aged Values",
       "table": {
         "headers": [
@@ -40,21 +377,21 @@
         "rows": [
           [
             "Normal Quality",
-            "Silver Quality (x 1.25)",
-            "Gold Quality (x 1.5)",
-            "Iridium Quality (x 2)"
+            "Silver Quality, (x 1.25)",
+            "Gold Quality, (x 1.5)",
+            "Iridium Quality, (x 2)"
           ],
           [
             "200g",
             "",
             "200g",
-            "250g Aged: 7 Days",
+            "250g, Aged: 7 Days",
             "",
             "250g",
-            "300g Aged: 7 Days Total: 14 Days",
+            "300g, Aged: 7 Days, Total: 14 Days",
             "",
             "300g",
-            "400g Aged: 14 Days Total: 28 Days",
+            "400g, Aged: 14 Days, Total: 28 Days",
             "",
             "400g"
           ],
@@ -89,15 +426,15 @@
           ],
           [
             "Love",
-            "Pam • Shane"
+            "Pam, •, Shane"
           ],
           [
             "Like",
-            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jodi • Kent • Krobus • Leah • Lewis • Linus • Marnie • Maru • Pierre • Robin • Sam • Sandy • Willy • Wizard"
+            "Abigail, •, Alex, •, Caroline, •, Clint, •, Demetrius, •, Dwarf, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Haley, •, Harvey, •, Jodi, •, Kent, •, Krobus, •, Leah, •, Lewis, •, Linus, •, Marnie, •, Maru, •, Pierre, •, Robin, •, Sam, •, Sandy, •, Willy, •, Wizard"
           ],
           [
             "Hate",
-            "Jas • Leo • Penny • Sebastian • Vincent"
+            "Jas, •, Leo, •, Penny, •, Sebastian, •, Vincent"
           ]
         ]
       }
@@ -118,15 +455,15 @@
           ],
           [
             "Cask",
-            "Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine"
+            "Beer, •, Cheese, •, Goat Cheese, •, Mead, •, Pale Ale, •, Wine"
           ],
           [
             "Cheese Press",
-            "Cheese • Goat Cheese"
+            "Cheese, •, Goat Cheese"
           ],
           [
             "Keg",
-            "Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine"
+            "Beer, •, Coffee, •, Green Tea, •, Juice, •, Mead, •, Pale Ale, •, Wine"
           ],
           [
             "Loom",
@@ -134,15 +471,15 @@
           ],
           [
             "Mayonnaise Machine",
-            "Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise"
+            "Dinosaur Mayonnaise, •, Duck Mayonnaise, •, Mayonnaise, •, Void Mayonnaise"
           ],
           [
             "Oil Maker",
-            "Oil • Truffle Oil"
+            "Oil, •, Truffle Oil"
           ],
           [
             "Preserves Jar",
-            "Aged Roe • Caviar • Jellies and Pickles"
+            "Aged Roe, •, Caviar, •, Jellies and Pickles"
           ],
           [
             "Fish Smoker",
@@ -150,11 +487,11 @@
           ],
           [
             "Dehydrator",
-            "Dried Mushrooms • Dried Fruit • Raisins"
+            "Dried Mushrooms, •, Dried Fruit, •, Raisins"
           ],
           [
             "Misc",
-            "Maple Syrup • Oak Resin • Pine Tar • Mystic Syrup"
+            "Maple Syrup, •, Oak Resin, •, Pine Tar, •, Mystic Syrup"
           ]
         ]
       }

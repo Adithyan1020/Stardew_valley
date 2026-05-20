@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Cow Adults can be milked daily. A milk pail is required to harvest the milk. Lives in the barn. Information Building Barn Purchase Price data-sort-value=\"1500 \"> 1,500g Produce Milk Large Milk\nThe Cow is an animal that lives in a Barn . Cows can be purchased at Marnie's Ranch for data-sort-value=\"1500\"> 1,500g . Cows come in two varieties: White and Brown. When purchasing a cow, the game decides randomly whether you will get a white or brown cow (50% chance). Cows can become pregnant and give birth ."
+      "content": "The Cow is an animal that lives in a Barn . Cows can be purchased at Marnie's Ranch for data-sort-value=\"1500\"> 1,500g . Cows come in two varieties: White and Brown. When purchasing a cow, the game decides randomly whether you will get a white or brown cow (50% chance). Cows can become pregnant and give birth ."
     },
     {
       "heading": "Produce",
@@ -20,6 +20,38 @@
     }
   ],
   "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Cow"
+          ],
+          [
+            ""
+          ],
+          [
+            "Adults can be milked daily. A milk pail is required to harvest the milk. Lives in the barn."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Building",
+            "Barn"
+          ],
+          [
+            "Purchase Price",
+            "data-sort-value=\"1500 \">, 1,500g"
+          ],
+          [
+            "Produce",
+            "Milk, Large Milk"
+          ]
+        ]
+      }
+    },
     {
       "section": "Produce",
       "table": {
@@ -40,7 +72,7 @@
             "",
             "Milk",
             "A jug of cow's milk.",
-            "125g 156g 187g 250g",
+            "125g, 156g, 187g, 250g",
             "",
             "125g",
             "",
@@ -70,7 +102,7 @@
             "",
             "Large Milk",
             "A large jug of cow's milk.",
-            "190g 237g 285g 380g",
+            "190g, 237g, 285g, 380g",
             "",
             "190g",
             "",
@@ -107,15 +139,15 @@
         ],
         "rows": [
           [
-            "Animals and Produce"
+            "Animals, and Produce"
           ],
           [
             "Coop",
-            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+            "Chicken, •, Dinosaur, •, Duck, •, Golden Chicken, •, Rabbit, •, Void Chicken"
           ],
           [
             "Barn",
-            "Cow • Goat • Sheep • Ostrich • Pig"
+            "Cow, •, Goat, •, Sheep, •, Ostrich, •, Pig"
           ],
           [
             "Fish Pond",
@@ -127,7 +159,7 @@
           ],
           [
             "Other",
-            "Cat • Dog • Horse • Turtle"
+            "Cat, •, Dog, •, Horse, •, Turtle"
           ]
         ]
       }

@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Magic Rock Candy A rare and powerful candy infused with the essence of the prismatic shard. Information Source Desert Trader Haunted Skull drop (0.13%) Desert Festival Mystery Box (0.2%) Golden Mystery Box (0.4%) Raccoon Wife's Shop Buff(s) Mining (+2) Luck (+5) Speed (+1) Defense (+5) Attack (+5) Buff Duration 8m 24s Energy / Health 500 225 Sell Price data-sort-value=\"5000\"> 5,000g\nMagic Rock Candy is a special edible item that can be obtained in variety of ways."
+      "content": "Magic Rock Candy is a special edible item that can be obtained in variety of ways."
     },
     {
       "heading": "Locations",
@@ -33,6 +33,70 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Magic Rock Candy"
+          ],
+          [
+            ""
+          ],
+          [
+            "A rare and powerful candy infused with the essence of the prismatic shard."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Desert Trader, Haunted Skull, drop (0.13%), Desert Festival, Mystery Box, (0.2%), Golden Mystery Box, (0.4%), Raccoon Wife's Shop"
+          ],
+          [
+            "Buff(s)",
+            "Mining, (+2), Luck, (+5), Speed, (+1), Defense, (+5), Attack, (+5)"
+          ],
+          [
+            "Buff Duration",
+            "8m 24s"
+          ],
+          [
+            "Energy, /, Health",
+            "500, 225",
+            "",
+            "500",
+            "",
+            "225"
+          ],
+          [
+            "",
+            "500",
+            "",
+            "225"
+          ],
+          [
+            "Sell Price",
+            "data-sort-value=\"5000\">, 5,000g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "500",
+            "",
+            "225"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Gifting",
       "table": {
         "headers": [
@@ -44,7 +108,7 @@
           ],
           [
             "Love",
-            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+            "Abigail, •, Alex, •, Caroline, •, Clint, •, Demetrius, •, Dwarf, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Haley, •, Harvey, •, Jas, •, Jodi, •, Kent, •, Krobus, •, Leah, •, Leo, •, Lewis, •, Linus, •, Marnie, •, Maru, •, Pam, •, Penny, •, Pierre, •, Robin, •, Sam, •, Sandy, •, Sebastian, •, Shane, •, Vincent, •, Willy, •, Wizard"
           ]
         ]
       }

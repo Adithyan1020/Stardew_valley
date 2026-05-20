@@ -46,15 +46,15 @@
         "headers": [],
         "rows": [
           [
-            "Getting Started",
-            "The Player",
+            "Getting, Started",
+            "The, Player",
             "Options",
             "Controls",
-            "Mobile Controls",
+            "Mobile, Controls",
             "Health",
             "Energy",
             "Skills",
-            "Day Cycle"
+            "Day, Cycle"
           ]
         ]
       }
@@ -152,26 +152,26 @@
             "",
             "Bean Hotpot",
             "It sure is healthy.",
-            "Green Bean (2)",
-            "125 56",
-            "Max Energy (+30) Magnetism (+32)",
+            "Green Bean, (2)",
+            "125, 56",
+            "Max Energy, (+30), Magnetism, (+32)",
             "7m",
-            "Clint (Mail - 7+ )",
-            "data-sort-value=\"100\"> 100g"
+            "Clint, (Mail - 7+, )",
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Complete Breakfast",
             "You'll feel ready to take on the world!",
-            "Fried Egg (1) Milk (1) Hashbrowns (1) Pancakes (1)",
-            "200 90",
-            "Farming (+2) Max Energy (+50)",
+            "Fried Egg, (1), Milk, (1), Hashbrowns, (1), Pancakes, (1)",
+            "200, 90",
+            "Farming, (+2), Max Energy, (+50)",
             "7m",
-            "The Queen of Sauce 21 Spring, Year 2",
+            "The Queen of Sauce, 21 Spring, Year 2",
             "",
             "The Queen of Sauce",
             "21 Spring, Year 2",
-            "data-sort-value=\"350\"> 350g"
+            "data-sort-value=\"350\">, 350g"
           ],
           [
             "",
@@ -184,26 +184,26 @@
             "",
             "Green Tea",
             "A pleasant, energizing beverage made from lightly processed tea leaves.",
-            "Tea Leaves (1)",
-            "13 5",
-            "Max Energy (+30)",
+            "Tea Leaves, (1)",
+            "13, 5",
+            "Max Energy, (+30)",
             "4m 12s",
             "N/A",
-            "data-sort-value=\"100\"> 100g"
+            "data-sort-value=\"100\">, 100g"
           ],
           [
             "",
             "Lobster Bisque",
             "This delicate soup is a secret family recipe of Willy's.",
-            "Lobster (1) Milk (1)",
-            "225 101",
-            "Fishing (+3) Max Energy (+50)",
+            "Lobster, (1), Milk, (1)",
+            "225, 101",
+            "Fishing, (+3), Max Energy, (+50)",
             "16m 47s",
-            "The Queen of Sauce 14 Winter, Year 2 Willy (Mail - 9+ )",
+            "The Queen of Sauce, 14 Winter, Year 2, Willy, (Mail - 9+, )",
             "",
             "The Queen of Sauce",
             "14 Winter, Year 2",
-            "data-sort-value=\"205\"> 205g"
+            "data-sort-value=\"205\">, 205g"
           ],
           [
             "",
@@ -216,45 +216,45 @@
             "",
             "Red Plate",
             "Full of antioxidants.",
-            "Red Cabbage (1) Radish (1)",
-            "240 108",
-            "Max Energy (+50)",
+            "Red Cabbage, (1), Radish, (1)",
+            "240, 108",
+            "Max Energy, (+50)",
             "3m 30s",
-            "Emily (Mail - 7+ )",
-            "data-sort-value=\"400\"> 400g"
+            "Emily, (Mail - 7+, )",
+            "data-sort-value=\"400\">, 400g"
           ],
           [
             "",
             "River Jelly",
             "A rare jelly found in freshwater.",
             "",
-            "75 33",
-            "Max Energy (+30)",
+            "75, 33",
+            "Max Energy, (+30)",
             "7m",
             "N/A",
-            "data-sort-value=\"125\"> 125g"
+            "data-sort-value=\"125\">, 125g"
           ],
           [
             "",
             "Super Meal",
             "It's a really energizing meal.",
-            "Bok Choy (1) Cranberries (1) Artichoke (1)",
-            "160 72",
-            "Max Energy (+40) Speed (+1)",
+            "Bok Choy, (1), Cranberries, (1), Artichoke, (1)",
+            "160, 72",
+            "Max Energy, (+40), Speed, (+1)",
             "3m 30s",
-            "Kent (Mail - 7+ )",
-            "data-sort-value=\"220\"> 220g"
+            "Kent, (Mail - 7+, )",
+            "data-sort-value=\"220\">, 220g"
           ],
           [
             "",
             "Tom Kha Soup",
             "These flavors are incredible!",
-            "Coconut (1) Shrimp (1) Common Mushroom (1)",
-            "175 78",
-            "Farming (+2) Max Energy (+30)",
+            "Coconut, (1), Shrimp, (1), Common Mushroom, (1)",
+            "175, 78",
+            "Farming, (+2), Max Energy, (+30)",
             "7m",
-            "Sandy (Mail - 7+ )",
-            "data-sort-value=\"250\"> 250g"
+            "Sandy, (Mail - 7+, )",
+            "data-sort-value=\"250\">, 250g"
           ]
         ]
       }

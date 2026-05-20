@@ -39,10 +39,10 @@
           ],
           [
             "Green Slime",
-            "Bug Cave Fly Duggy Grub Rock Crab",
-            "Bat Bug Stone Golem",
-            "Dust Sprite Frost Bat Blue Slime Ghost Skeleton",
-            "Lava Bat Lava Crab Metal Head Red Slime Shadow Brute Shadow Shaman Squid Kid"
+            "Bug, Cave Fly, Duggy, Grub, Rock Crab",
+            "Bat, Bug, Stone Golem",
+            "Dust Sprite, Frost Bat, Blue Slime, Ghost, Skeleton",
+            "Lava Bat, Lava Crab, Metal Head, Red Slime, Shadow Brute, Shadow Shaman, Squid Kid"
           ]
         ]
       }
@@ -64,10 +64,10 @@
             "Volcano Dungeon"
           ],
           [
-            "Armored Bug Big Slime Carbon Ghost Iridium Bat Iridium Crab Lava Bat Mummy Pepper Rex Purple Slime Serpent",
-            "Copper Slime Haunted Skull Iron Slime",
-            "Mutant Fly Mutant Grub",
-            "Dwarvish Sentry False Magma Cap Hot Head Lava Lurk Magma Sprite Magma Sparker Magma Duggy Tiger Slime"
+            "Armored Bug, Big Slime, Carbon Ghost, Iridium Bat, Iridium Crab, Lava Bat, Mummy, Pepper Rex, Purple Slime, Serpent",
+            "Copper Slime, Haunted Skull, Iron Slime",
+            "Mutant Fly, Mutant Grub",
+            "Dwarvish Sentry, False Magma Cap, Hot Head, Lava Lurk, Magma Sprite, Magma Sparker, Magma Duggy, Tiger Slime"
           ]
         ]
       }
@@ -90,11 +90,11 @@
             "Combat Level 10"
           ],
           [
-            "Bat Truffle Crab Wilderness Golem",
+            "Bat, Truffle Crab, Wilderness Golem",
             "Green Slime",
-            "Blue Slime Frost Bat (Combat Level 5+)",
-            "Red Slime Frost Bat Iridium Golem (Combat Level 9+) Lava Bat Shadow Brute",
-            "Frost Bat Lava Bat Iridium Bat Iridium Golem Purple Slime Shadow Brute Serpent"
+            "Blue Slime, Frost Bat, (Combat Level 5+)",
+            "Red Slime, Frost Bat, Iridium Golem, (Combat Level 9+), Lava Bat, Shadow Brute",
+            "Frost Bat, Lava Bat, Iridium Bat, Iridium Golem, Purple Slime, Shadow Brute, Serpent"
           ]
         ]
       }
@@ -115,9 +115,9 @@
             "Floors 31-39"
           ],
           [
-            "Dangerous Slimes (all colors) Haunted Skull (dangerous) (on dungeon floors)",
-            "Blue Squid Bug (dangerous) Duggy (dangerous) Rock Crab (dangerous)",
-            "Bat (dangerous) Bug (dangerous) Carbon Ghost Stone Golem (dangerous)"
+            "Dangerous Slimes, (all colors), Haunted Skull (dangerous), (on dungeon floors)",
+            "Blue Squid, Bug (dangerous), Duggy (dangerous), Rock Crab (dangerous)",
+            "Bat (dangerous), Bug (dangerous), Carbon Ghost, Stone Golem (dangerous)"
           ],
           [
             "Floors 41-69",
@@ -125,9 +125,9 @@
             "Floors 81-119"
           ],
           [
-            "Grub (dangerous) Cave Fly (dangerous) Dust Sprite (dangerous) Frost Bat (dangerous) Putrid Ghost Spider Stick Bug",
-            "Skeleton (dangerous) Skeleton Mage Haunted Skull (dangerous)",
-            "Lava Bat Lava Crab (dangerous) Metal Head (dangerous) Shadow Brute (dangerous) Shadow Shaman (dangerous) Shadow Sniper Squid Kid (dangerous)"
+            "Grub (dangerous), Cave Fly (dangerous), Dust Sprite (dangerous), Frost Bat (dangerous), Putrid Ghost, Spider, Stick Bug",
+            "Skeleton (dangerous), Skeleton Mage, Haunted Skull (dangerous)",
+            "Lava Bat, Lava Crab (dangerous), Metal Head (dangerous), Shadow Brute (dangerous), Shadow Shaman (dangerous), Shadow Sniper, Squid Kid (dangerous)"
           ]
         ]
       }
@@ -143,7 +143,7 @@
             "Dangerous Skull Cavern"
           ],
           [
-            "Armored Bug (dangerous) Mummy (dangerous) Purple Slime (dangerous) Royal Serpent Squid Kid (dangerous)"
+            "Armored Bug (dangerous), Mummy (dangerous), Purple Slime (dangerous), Royal Serpent, Squid Kid (dangerous)"
           ]
         ]
       }
@@ -160,35 +160,35 @@
           ],
           [
             "Mines",
-            "Bats • Bug • Cave Fly • Duggy • Dust Sprite • Ghost • Grub • Lava Crab • Metal Head • Rock Crab • Shadow Brute • Shadow Shaman • Skeleton • Slimes • Squid Kid • Stone Golem"
+            "Bats, •, Bug, •, Cave Fly, •, Duggy, •, Dust Sprite, •, Ghost, •, Grub, •, Lava Crab, •, Metal Head, •, Rock Crab, •, Shadow Brute, •, Shadow Shaman, •, Skeleton, •, Slimes, •, Squid Kid, •, Stone Golem"
           ],
           [
             "Dangerous Mines",
-            "Bat (dangerous) • Blue Squid • Bug (dangerous) • Carbon Ghost • Cave Fly (dangerous) • Duggy (dangerous) • Dust Sprite (dangerous) • Frost Bat (dangerous) • Grub (dangerous) • Haunted Skull (dangerous) • Lava Crab (dangerous) • Metal Head (dangerous) • Putrid Ghost • Rock Crab (dangerous) • Shadow Brute (dangerous) • Shadow Shaman (dangerous) • Shadow Sniper • Skeleton (dangerous) • Skeleton Mage • Slimes (dangerous) • Spider • Squid Kid (dangerous) • Stick Bug • Stone Golem (dangerous)"
+            "Bat (dangerous), •, Blue Squid, •, Bug (dangerous), •, Carbon Ghost, •, Cave Fly (dangerous), •, Duggy (dangerous), •, Dust Sprite (dangerous), •, Frost Bat (dangerous), •, Grub (dangerous), •, Haunted Skull (dangerous), •, Lava Crab (dangerous), •, Metal Head (dangerous), •, Putrid Ghost, •, Rock Crab (dangerous), •, Shadow Brute (dangerous), •, Shadow Shaman (dangerous), •, Shadow Sniper, •, Skeleton (dangerous), •, Skeleton Mage, •, Slimes (dangerous), •, Spider, •, Squid Kid (dangerous), •, Stick Bug, •, Stone Golem (dangerous)"
           ],
           [
             "Quarry Mine",
-            "Copper Slime • Haunted Skull • Iron Slime"
+            "Copper Slime, •, Haunted Skull, •, Iron Slime"
           ],
           [
             "Skull Cavern",
-            "Armored Bug • Big Slime • Carbon Ghost • Iridium Bat • Iridium Crab • Lava Bat • Mummy • Pepper Rex • Purple Slime • Serpent"
+            "Armored Bug, •, Big Slime, •, Carbon Ghost, •, Iridium Bat, •, Iridium Crab, •, Lava Bat, •, Mummy, •, Pepper Rex, •, Purple Slime, •, Serpent"
           ],
           [
             "Dangerous Skull Cavern",
-            "Armored Bug (dangerous) • Mummy (dangerous) • Royal Serpent • Slime (dangerous)"
+            "Armored Bug (dangerous), •, Mummy (dangerous), •, Royal Serpent, •, Slime (dangerous)"
           ],
           [
             "Bug Lair",
-            "Mutant Fly • Mutant Grub"
+            "Mutant Fly, •, Mutant Grub"
           ],
           [
             "The Farm",
-            "Iridium Golem • Truffle Crab • Wilderness Golem"
+            "Iridium Golem, •, Truffle Crab, •, Wilderness Golem"
           ],
           [
             "Volcano Dungeon",
-            "Dwarvish Sentry • False Magma Cap • Hot Head • Lava Lurk • Magma Duggy • Magma Sparker • Magma Sprite • Tiger Slime"
+            "Dwarvish Sentry, •, False Magma Cap, •, Hot Head, •, Lava Lurk, •, Magma Duggy, •, Magma Sparker, •, Magma Sprite, •, Tiger Slime"
           ]
         ]
       }

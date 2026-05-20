@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Preserves Jar Turns vegetables into pickles and fruit into jam. Information Source Crafting Sell Price Cannot be sold Crafting Recipe Source Farming (Level 4) Ingredients Wood (50) Stone (40) Coal (8)\nThe Preserves Jar is a type of Artisan Equipment used to make Artisan Goods . Fruit makes Jelly ; Mushrooms , Vegetables , and foraged items make Pickles ; Sturgeon Roe makes Caviar ; and other fish Roe make their respective Aged Roe .\nA Preserves Jar is the reward for completing the Quality Crops Bundle in the Pantry or the Rare Crops Bundle in the Pantry (Remixed) .\n4 Preserves Jars can be obtained as the seventh prize from the Prize Machine in the Mayor's Manor (33% chance)."
+      "content": "The Preserves Jar is a type of Artisan Equipment used to make Artisan Goods . Fruit makes Jelly ; Mushrooms , Vegetables , and foraged items make Pickles ; Sturgeon Roe makes Caviar ; and other fish Roe make their respective Aged Roe .\nA Preserves Jar is the reward for completing the Quality Crops Bundle in the Pantry or the Rare Crops Bundle in the Pantry (Remixed) .\n4 Preserves Jars can be obtained as the seventh prize from the Prize Machine in the Mayor's Manor (33% chance)."
     },
     {
       "heading": "Products",
@@ -33,6 +33,45 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Preserves Jar"
+          ],
+          [
+            ""
+          ],
+          [
+            "Turns vegetables into pickles and fruit into jam."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Crafting"
+          ],
+          [
+            "Sell Price",
+            "Cannot be sold"
+          ],
+          [
+            "Crafting"
+          ],
+          [
+            "Recipe Source",
+            "Farming, (Level 4)"
+          ],
+          [
+            "Ingredients",
+            "Wood, (50), Stone, (40), Coal, (8)"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Products",
       "table": {
         "headers": [
@@ -58,37 +97,37 @@
             "",
             "Pickles",
             "A jar of your home-made pickles.",
-            "One of: Any vegetable (1) Any mushroom (1) (except Red Mushroom ) Any positive energy Forage (1)",
+            "One of:, Any, vegetable, (1), Any, mushroom, (1) (except, Red Mushroom, ), Any positive energy, Forage, (1)",
             "4000m (2-3 days)",
             "2 × Base Ingredient Price + 50",
-            "1.75 × Base Ingredient Energy 1.75 × Base Ingredient Health"
+            "1.75 × Base Ingredient Energy, 1.75 × Base Ingredient Health"
           ],
           [
             "",
             "Jelly",
             "Gooey.",
-            "Any fruit (1)",
+            "Any, fruit, (1)",
             "4000m (2-3 days)",
-            "2 × Base Fruit Price + 50",
-            "2 × Base Fruit Energy 2 × Base Fruit Health"
+            "2 × Base, Fruit, Price + 50",
+            "2 × Base, Fruit, Energy, 2 × Base, Fruit, Health"
           ],
           [
             "",
             "Caviar",
             "The cured roe of a sturgeon fish. Considered to be a luxurious delicacy!",
-            "Sturgeon Roe (1)",
+            "Sturgeon Roe, (1)",
             "6000m (4 days)",
-            "data-sort-value=\"500\"> 500g",
-            "175 78"
+            "data-sort-value=\"500\">, 500g",
+            "175, 78"
           ],
           [
             "",
             "Aged Roe",
             "Fish eggs aged in salt to bring out the flavor.",
-            "Roe (1)",
+            "Roe, (1)",
             "4000m (2-3 days)",
-            "2 × Base Roe Price",
-            "100 45"
+            "2 × Base, Roe, Price",
+            "100, 45"
           ]
         ]
       }
@@ -106,8 +145,8 @@
             "Fruits"
           ],
           [
-            "Amaranth (150g) Artichoke (160g) Beet (100g) Bok Choy (80g) Broccoli (70g) Carrot (35g) Cauliflower (175g) Corn (50g) Eggplant (60g) Fiddlehead Fern (90g) Garlic (60g) Green Bean (40g) Kale (110g) Parsnip (35g) Potato (80g) Radish (90g) Summer Squash (45g) Taro Root (100g) Tea Leaves (50g) Tomato (60g) Unmilled Rice (30g) Yam (160g)",
-            "Apricot (50g)* Blackberry (20g) Blueberry (50g)* Hot Pepper (40g) Qi Fruit (1g) Salmonberry (5g)"
+            "Amaranth, (150g), Artichoke, (160g), Beet, (100g), Bok Choy, (80g), Broccoli, (70g), Carrot, (35g), Cauliflower, (175g), Corn, (50g), Eggplant, (60g), Fiddlehead Fern, (90g), Garlic, (60g), Green Bean, (40g), Kale, (110g), Parsnip, (35g), Potato, (80g), Radish, (90g), Summer Squash, (45g), Taro Root, (100g), Tea Leaves, (50g), Tomato, (60g), Unmilled Rice, (30g), Yam, (160g)",
+            "Apricot, (50g)*, Blackberry, (20g), Blueberry, (50g)*, Hot Pepper, (40g), Qi Fruit, (1g), Salmonberry, (5g)"
           ]
         ]
       }
@@ -124,33 +163,33 @@
           ],
           [
             "Artisan",
-            "Bee House • Cask • Cheese Press • Dehydrator • Fish Smoker • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar"
+            "Bee House, •, Cask, •, Cheese Press, •, Dehydrator, •, Fish Smoker, •, Keg, •, Loom, •, Mayonnaise Machine, •, Oil Maker, •, Preserves Jar"
           ],
           [
             "Refining",
-            "Bait Maker • Bone Mill • Charcoal Kiln • Crystalarium • Deluxe Worm Bin • Furnace • Geode Crusher • Heavy Furnace • Heavy Tapper • Lightning Rod • Mushroom Log • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin"
+            "Bait Maker, •, Bone Mill, •, Charcoal Kiln, •, Crystalarium, •, Deluxe Worm Bin, •, Furnace, •, Geode Crusher, •, Heavy Furnace, •, Heavy Tapper, •, Lightning Rod, •, Mushroom Log, •, Ostrich Incubator, •, Recycling Machine, •, Seed Maker, •, Slime Egg-Press, •, Slime Incubator, •, Solar Panel, •, Tapper, •, Wood Chipper, •, Worm Bin"
           ],
           [
             "Farming",
             "Fertilizer",
-            "Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil • Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer"
+            "Basic Fertilizer, •, Basic Retaining Soil, •, Deluxe Fertilizer, •, Deluxe Retaining Soil, •, Deluxe Speed-Gro, •, Hyper Speed-Gro, •, Quality Fertilizer, •, Quality Retaining Soil, •, Speed-Gro, •, Tree Fertilizer"
           ],
           [
             "Sprinklers",
-            "Iridium Sprinkler • Quality Sprinkler • Sprinkler"
+            "Iridium Sprinkler, •, Quality Sprinkler, •, Sprinkler"
           ],
           [
             "Other",
-            "Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow"
+            "Deluxe Scarecrow, •, Garden Pot, •, Rarecrow, •, Scarecrow"
           ],
           [
             "Fishing",
             "Bait",
-            "Bait • Challenge Bait • Deluxe Bait • Magic Bait • Magnet • Targeted Bait • Wild Bait"
+            "Bait, •, Challenge Bait, •, Deluxe Bait, •, Magic Bait, •, Magnet, •, Targeted Bait, •, Wild Bait"
           ],
           [
             "Tackle",
-            "Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Sonar Bobber • Spinner • Trap Bobber • Treasure Hunter"
+            "Barbed Hook, •, Cork Bobber, •, Curiosity Lure, •, Dressed Spinner, •, Lead Bobber, •, Quality Bobber, •, Sonar Bobber, •, Spinner, •, Trap Bobber, •, Treasure Hunter"
           ],
           [
             "Other",
@@ -158,23 +197,23 @@
           ],
           [
             "Bombs",
-            "Bomb • Cherry Bomb • Mega Bomb"
+            "Bomb, •, Cherry Bomb, •, Mega Bomb"
           ],
           [
             "Fences",
-            "Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence"
+            "Gate, •, Hardwood Fence, •, Iron Fence, •, Stone Fence, •, Wood Fence"
           ],
           [
             "Storage",
-            "Big Chest • Big Stone Chest • Chest • Junimo Chest • Mini-Fridge • Stone Chest"
+            "Big Chest, •, Big Stone Chest, •, Chest, •, Junimo Chest, •, Mini-Fridge, •, Stone Chest"
           ],
           [
             "Signs",
-            "Dark Sign • Stone Sign • Text Sign • Wood Sign"
+            "Dark Sign, •, Stone Sign, •, Text Sign, •, Wood Sign"
           ],
           [
             "Misc",
-            "Anvil • Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Forge • Mini-Jukebox • Mini-Shipping Bin • Sewing Machine • Staircase • Statue Of Blessings • Statue Of The Dwarf King • Telephone • Tent Kit • Tools • Workbench"
+            "Anvil, •, Coffee Maker, •, Cookout Kit, •, Deconstructor, •, Fairy Dust, •, Farm Computer, •, Hopper, •, Mini-Forge, •, Mini-Jukebox, •, Mini-Shipping Bin, •, Sewing Machine, •, Staircase, •, Statue Of Blessings, •, Statue Of The Dwarf King, •, Telephone, •, Tent Kit, •, Tools, •, Workbench"
           ]
         ]
       }

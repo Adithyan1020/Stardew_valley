@@ -50,12 +50,12 @@
             "Choose a Profession:"
           ],
           [
-            "Sturdy Ring Bug Steak",
+            "Sturdy Ring, Bug Steak",
             "Life Elixir",
             "Roots Platter",
             "Warrior Ring",
-            "Fighter All attacks deal 10% more damage. (+15 HP)",
-            "Scout Critical strike chance increased by 50%. (+0 HP) (Note that the increase is multiplicative . The formula is: critChance = critChance * 1.5 )"
+            "Fighter, All, attacks, deal 10% more damage., (+15 HP)",
+            "Scout, Critical strike chance increased by 50%., (+0 HP), (Note that the increase is, multiplicative, . The formula is:, critChance = critChance * 1.5, )"
           ],
           [
             ""
@@ -76,16 +76,16 @@
             "Scout:"
           ],
           [
-            "Slime Egg-Press Oil of Garlic",
-            "Ring of Yoba Thorns Ring",
-            "Slime Incubator Explosive Ammo",
-            "Iridium Band Squid Ink Ravioli",
-            "Brute Deal 15% more damage. (+0 HP) (Stacks multiplicatively with Fighter)",
-            "Acrobat Cooldown on special moves cut in half. (+0 HP)"
+            "Slime Egg-Press, Oil of Garlic",
+            "Ring of Yoba, Thorns Ring",
+            "Slime Incubator, Explosive Ammo",
+            "Iridium Band, Squid Ink Ravioli",
+            "Brute, Deal 15% more damage., (+0 HP), (Stacks multiplicatively with Fighter)",
+            "Acrobat, Cooldown on special moves cut in half., (+0 HP)"
           ],
           [
-            "Defender +25 HP.",
-            "Desperado Critical strikes are deadlier. (+0 HP) (2x Critical strike damage)"
+            "Defender, +25 HP.",
+            "Desperado, Critical strikes are deadlier., (+0 HP), (2x Critical strike damage)"
           ]
         ]
       }
@@ -147,11 +147,11 @@
             "10"
           ],
           [
-            "Frost Jelly ( i.e., Blue Slime)",
+            "Frost Jelly, (, i.e.,, Blue Slime)",
             "6"
           ],
           [
-            "Sludge ( i.e., Red, Purple, Copper, or Iron Slime)",
+            "Sludge, (, i.e.,, Red, Purple, Copper, or Iron Slime)",
             "10"
           ],
           [
@@ -301,15 +301,15 @@
         ],
         "rows": [
           [
-            "Skills & Stats"
+            "Skills, & Stats"
           ],
           [
             "Skills",
-            "Farming • Mining • Foraging • Fishing • Combat"
+            "Farming, •, Mining, •, Foraging, •, Fishing, •, Combat"
           ],
           [
             "Stats",
-            "Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight"
+            "Attack, •, Crit. Chance, •, Crit. Power, •, Defense, •, Immunity, •, Luck, •, Magnetism, •, Speed, •, Weight"
           ]
         ]
       }

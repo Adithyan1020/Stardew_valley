@@ -264,7 +264,7 @@ def validate_unique_ids(chunks):
                 print()
         raise ValueError(f"Found {len(duplicates)} duplicate chunk IDs. Fix ID generation before indexing.")
     else:
-        print(f"\n✓ All {len(chunks)} chunks have unique IDs")
+        print(f"\nOK: All {len(chunks)} chunks have unique IDs")
 
 
 def main():

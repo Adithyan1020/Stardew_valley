@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Blacksmith Open Hours: 9:00am to 4:00pm Closed: Friday , after Community Center restored and at 10:30 AM Winter 16 Address: Across the town's river, to the bottom right Occupants: Clint\nClint's Blacksmith shop provides multiple services primarily related to resources found in the Mines . It chiefly serves as a location for upgrading tools , and breaking open geodes , although he also trades in Coal and ores ( copper , iron , & gold ). Finally, the building is also Clint 's home, and his bedroom is out the back of the shop floor."
+      "content": "Clint's Blacksmith shop provides multiple services primarily related to resources found in the Mines . It chiefly serves as a location for upgrading tools , and breaking open geodes , although he also trades in Coal and ores ( copper , iron , & gold ). Finally, the building is also Clint 's home, and his bedroom is out the back of the shop floor."
     },
     {
       "heading": "Stock",
@@ -41,6 +41,39 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Blacksmith"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            "Open Hours:",
+            "9:00am to 4:00pm"
+          ],
+          [
+            "Closed:",
+            "Friday, , after, Community Center, restored and at 10:30 AM Winter 16"
+          ],
+          [
+            "Address:",
+            "Across the town's river, to the bottom right"
+          ],
+          [
+            "Occupants:",
+            "Clint"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Stock",
       "table": {
         "headers": [
@@ -55,36 +88,36 @@
             "Item",
             "Name",
             "Description",
-            "Year 1 Price",
-            "Year 2+ Price"
+            "Year 1, Price",
+            "Year 2+, Price"
           ],
           [
             "",
             "Copper Ore",
             "A common ore that can be smelted into bars.",
-            "data-sort-value=\"75\"> 75g",
-            "data-sort-value=\"150\"> 150g"
+            "data-sort-value=\"75\">, 75g",
+            "data-sort-value=\"150\">, 150g"
           ],
           [
             "",
             "Iron Ore",
             "A fairly common ore that can be smelted into bars.",
-            "data-sort-value=\"150\"> 150g",
-            "data-sort-value=\"250\"> 250g"
+            "data-sort-value=\"150\">, 150g",
+            "data-sort-value=\"250\">, 250g"
           ],
           [
             "",
             "Coal",
             "A combustible rock that is useful for crafting and smelting.",
-            "data-sort-value=\"150\"> 150g",
-            "data-sort-value=\"250\"> 250g"
+            "data-sort-value=\"150\">, 150g",
+            "data-sort-value=\"250\">, 250g"
           ],
           [
             "",
             "Gold Ore",
             "A precious ore that can be smelted into bars.",
-            "data-sort-value=\"400\"> 400g",
-            "data-sort-value=\"750\"> 750g"
+            "data-sort-value=\"400\">, 400g",
+            "data-sort-value=\"750\">, 750g"
           ]
         ]
       }
@@ -108,26 +141,26 @@
           [
             "",
             "Copper Tool",
-            "Copper Bar (5)",
-            "data-sort-value=\"2000\"> 2,000g"
+            "Copper Bar, (5)",
+            "data-sort-value=\"2000\">, 2,000g"
           ],
           [
             "",
             "Steel Tool",
-            "Iron Bar (5)",
-            "data-sort-value=\"5000\"> 5,000g"
+            "Iron Bar, (5)",
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Gold Tool",
-            "Gold Bar (5)",
-            "data-sort-value=\"10000\"> 10,000g"
+            "Gold Bar, (5)",
+            "data-sort-value=\"10000\">, 10,000g"
           ],
           [
             "",
             "Iridium Tool",
-            "Iridium Bar (5)",
-            "data-sort-value=\"25000\"> 25,000g"
+            "Iridium Bar, (5)",
+            "data-sort-value=\"25000\">, 25,000g"
           ]
         ]
       }
@@ -151,26 +184,26 @@
           [
             "",
             "Copper Trash Can",
-            "Copper Bar (5)",
-            "data-sort-value=\"1000\"> 1,000g"
+            "Copper Bar, (5)",
+            "data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "Steel Trash Can",
-            "Iron Bar (5)",
-            "data-sort-value=\"2500\"> 2,500g"
+            "Iron Bar, (5)",
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "",
             "Gold Trash Can",
-            "Gold Bar (5)",
-            "data-sort-value=\"5000\"> 5,000g"
+            "Gold Bar, (5)",
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Iridium Trash Can",
-            "Iridium Bar (5)",
-            "data-sort-value=\"12500\"> 12,500g"
+            "Iridium Bar, (5)",
+            "data-sort-value=\"12500\">, 12,500g"
           ]
         ]
       }
@@ -195,49 +228,49 @@
             "",
             "Geode",
             "A blacksmith can break this open for you.",
-            "data-sort-value=\"25\"> 25g"
+            "data-sort-value=\"25\">, 25g"
           ],
           [
             "",
             "Frozen Geode",
             "A blacksmith can break this open for you.",
-            "data-sort-value=\"25\"> 25g"
+            "data-sort-value=\"25\">, 25g"
           ],
           [
             "",
             "Magma Geode",
             "A blacksmith can break this open for you.",
-            "data-sort-value=\"25\"> 25g"
+            "data-sort-value=\"25\">, 25g"
           ],
           [
             "",
             "Omni Geode",
             "A blacksmith can break this open for you. These geodes contain a wide variety of minerals.",
-            "data-sort-value=\"25\"> 25g"
+            "data-sort-value=\"25\">, 25g"
           ],
           [
             "",
             "Artifact Trove",
             "A blacksmith can open this for you. These troves often contain ancient relics and curiosities.",
-            "data-sort-value=\"25\"> 25g"
+            "data-sort-value=\"25\">, 25g"
           ],
           [
             "",
             "Golden Coconut",
             "This is one tough nut to crack, but a professional might be able to break it open.",
-            "data-sort-value=\"25\"> 25g"
+            "data-sort-value=\"25\">, 25g"
           ],
           [
             "",
             "Mystery Box",
             "A blacksmith can open this for you. Who knows what might be inside?",
-            "data-sort-value=\"25\"> 25g"
+            "data-sort-value=\"25\">, 25g"
           ],
           [
             "",
             "Golden Mystery Box",
             "A blacksmith can open this for you. Who knows what might be inside?",
-            "data-sort-value=\"25\"> 25g"
+            "data-sort-value=\"25\">, 25g"
           ]
         ]
       }
@@ -254,24 +287,24 @@
           ],
           [
             "Merchants",
-            "Abandoned House • Adventurer's Guild • Blacksmith • Bookseller • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Giant Stump • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower"
+            "Abandoned House, •, Adventurer's Guild, •, Blacksmith, •, Bookseller, •, Carpenter's Shop, •, Casino, •, Desert Trader, •, Fish Shop, •, Giant Stump, •, Harvey's Clinic, •, Ice Cream Stand, •, Island Trader, •, JojaMart, •, Marnie's Ranch, •, Oasis, •, Pierre's General Store, •, Qi's Walnut Room, •, The Stardrop Saloon, •, Traveling Cart, •, Volcano Dwarf, •, Wizard's Tower"
           ],
           [
             "Houses",
-            "1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse"
+            "1 River Road, •, 2 River Road, •, 1 Willow Lane, •, 2 Willow Lane, •, 24 Mountain Road, •, Elliott's Cabin, •, Farmhouse, •, Island Farmhouse, •, Leah's Cottage, •, Mayor's Manor, •, Tent, •, Trailer, •, Treehouse"
           ],
           [
             "Farm Buildings",
             "Farming",
-            "Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Pet Bowl • Shed • Silo • Slime Hutch • Stable • Well"
+            "Barn, •, Cabin, •, Coop, •, Fish Pond, •, Greenhouse, •, Mill, •, Pet Bowl, •, Shed, •, Silo, •, Slime Hutch, •, Stable, •, Well"
           ],
           [
             "Special",
-            "Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk"
+            "Desert Obelisk, •, Earth Obelisk, •, Farm Obelisk, •, Gold Clock, •, Island Obelisk, •, Junimo Hut, •, Water Obelisk"
           ],
           [
             "Other Buildings",
-            "Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut"
+            "Community Center, •, Dog Pen, •, Island Field Office, •, Joja Warehouse, •, Movie Theater, •, Museum, •, Spa, •, Witch's Hut"
           ]
         ]
       }

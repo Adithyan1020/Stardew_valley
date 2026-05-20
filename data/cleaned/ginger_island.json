@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Ginger Island Occupants: Leo Birdie Professor Snail Island Trader Mr. Qi Fizz\nGinger Island is located within the Fern Islands archipelago and is the only island in the archipelago that the player can visit. It can be accessed after repairing the boat in the back room of Willy 's Fish Shop . Purchasing a ticket to ride the boat costs data-sort-value=\"1000\"> 1,000g , including the return trip, and is the main way to access the island when the shop is open.\nThe first time the player rides the boat, a cutscene triggers showing the coast of the region, including some other islands that can be seen on the way. All visits after that, only the animation of Willy getting on the boat and starting to steer it is shown. The boat arrives at a dock on the island with only a single path leading inland at first, as the rest of the island is closed off. The island is largely inhabited by parrots, which can be offered Golden Walnuts to unlock additional areas or features. Ginger Island is rather unique amongst the player-visitable areas of Stardew Valley because similar to the Greenhouse , the current season does not affect which crops can be planted and grown on the island, nor does the current season affect which fish can be caught there.\nThe player can return to Stardew Valley at any time for free by entering the boat on the southern beach. They will usually arrive back inside the Fish Shop , except on festival days when the path back to the Farm is blocked, in which case the player will be deposited to the Bus Stop instead. If the festival is held on the Beach , the player will be deposited on the bridge leading to the beach south of Pelican Town ."
+      "content": "Ginger Island is located within the Fern Islands archipelago and is the only island in the archipelago that the player can visit. It can be accessed after repairing the boat in the back room of Willy 's Fish Shop . Purchasing a ticket to ride the boat costs data-sort-value=\"1000\"> 1,000g , including the return trip, and is the main way to access the island when the shop is open.\nThe first time the player rides the boat, a cutscene triggers showing the coast of the region, including some other islands that can be seen on the way. All visits after that, only the animation of Willy getting on the boat and starting to steer it is shown. The boat arrives at a dock on the island with only a single path leading inland at first, as the rest of the island is closed off. The island is largely inhabited by parrots, which can be offered Golden Walnuts to unlock additional areas or features. Ginger Island is rather unique amongst the player-visitable areas of Stardew Valley because similar to the Greenhouse , the current season does not affect which crops can be planted and grown on the island, nor does the current season affect which fish can be caught there.\nThe player can return to Stardew Valley at any time for free by entering the boat on the southern beach. They will usually arrive back inside the Fish Shop , except on festival days when the path back to the Farm is blocked, in which case the player will be deposited to the Bus Stop instead. If the festival is held on the Beach , the player will be deposited on the bridge leading to the beach south of Pelican Town ."
     },
     {
       "heading": "Island South",
@@ -121,6 +121,27 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Ginger Island"
+          ],
+          [
+            ""
+          ],
+          [
+            ""
+          ],
+          [
+            "Occupants:",
+            "Leo, Birdie, Professor Snail, Island Trader, Mr. Qi, Fizz"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Beach Resort",
       "table": {
         "headers": [
@@ -140,43 +161,43 @@
             "",
             "Piña Colada",
             "Drink in moderation.",
-            "data-sort-value=\"600\"> 600g"
+            "data-sort-value=\"600\">, 600g"
           ],
           [
             "",
             "Beer",
             "Drink in moderation.",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Pale Ale",
             "Drink in moderation.",
-            "data-sort-value=\"1000\"> 1,000g"
+            "data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "Mead",
             "A fermented beverage made from honey. Drink in moderation.",
-            "data-sort-value=\"800\"> 800g"
+            "data-sort-value=\"800\">, 800g"
           ],
           [
             "",
             "Cranberry Candy",
             "It's sweet enough to mask the bitter fruit.",
-            "data-sort-value=\"400\"> 400g"
+            "data-sort-value=\"400\">, 400g"
           ],
           [
             "",
             "Mango Wine",
             "Drink in moderation.",
-            "data-sort-value=\"5000\"> 5,000g"
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
-            "Tropical Curry Recipe",
+            "Tropical Curry, Recipe",
             "A recipe to make Tropical Curry",
-            "data-sort-value=\"2000\"> 2,000g"
+            "data-sort-value=\"2000\">, 2,000g"
           ]
         ]
       }
@@ -236,7 +257,7 @@
             "Solution"
           ],
           [
-            "This is a farming task. The Gourmand Frog asks the player to grow three crops, one crop at a time: first Melon , then Wheat , then Garlic . For each crop, grow at least one plant on the Island Farm until it is mature, but do not harvest it. Interact with the frog and tell it the crop is ready. That triggers a cutscene in which the frog gives the player 5 Golden Walnuts but does not take the crop. The crops can be grown at any time, including all at once, but each plant, before it is harvested, must be presented to the frog individually in the order of the requests."
+            "This is a farming task., The Gourmand Frog asks the player to grow three crops, one crop at a time: first, Melon, , then, Wheat, , then, Garlic, . For each crop, grow at least one plant on the Island Farm until it is mature, but do not harvest it. Interact with the frog and tell it the crop is ready. That triggers a cutscene in which the frog gives the player 5 Golden Walnuts but does not take the crop. The crops can be grown at any time, including all at once, but each plant, before it is harvested, must be presented to the frog individually in the order of the requests."
           ]
         ]
       }
@@ -527,7 +548,7 @@
           ],
           [
             "Locations",
-            "Backwoods • Beach • Bus Stop • Calico Desert • Cindersap Forest • Farm • Farm Cave • Farm Pond • Graveyard • Ginger Island • Mastery Cave • Minecart • Mines • Mountain • Mutant Bug Lair • Pelican Town • Quarry • Quarry Mine • Railroad • Secret Woods • Sewers • Skull Cavern • Summit • Tunnel • Volcano Dungeon • Witch's Swamp"
+            "Backwoods, •, Beach, •, Bus Stop, •, Calico Desert, •, Cindersap Forest, •, Farm, •, Farm Cave, •, Farm Pond, •, Graveyard, •, Ginger Island, •, Mastery Cave, •, Minecart, •, Mines, •, Mountain, •, Mutant Bug Lair, •, Pelican Town, •, Quarry, •, Quarry Mine, •, Railroad, •, Secret Woods, •, Sewers, •, Skull Cavern, •, Summit, •, Tunnel, •, Volcano Dungeon, •, Witch's Swamp"
           ]
         ]
       }

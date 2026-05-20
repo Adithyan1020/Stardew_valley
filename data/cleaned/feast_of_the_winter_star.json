@@ -56,85 +56,85 @@
             "",
             "Winter Banner",
             "Can be placed inside your house.",
-            "data-sort-value=\"1000\"> 1,000g"
+            "data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "L. Light String",
             "Can be placed inside your house.",
-            "data-sort-value=\"800\"> 800g"
+            "data-sort-value=\"800\">, 800g"
           ],
           [
             "",
             "S. Pine",
             "Can be placed as decoration.",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Ornate Window",
             "Can be placed inside your house.",
-            "data-sort-value=\"1000\"> 1,000g"
+            "data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "House Plant",
             "Can be placed as decoration.",
-            "data-sort-value=\"700\"> 700g"
+            "data-sort-value=\"700\">, 700g"
           ],
           [
             "",
             "Festive Dining Table",
             "Can be placed as decoration.",
-            "data-sort-value=\"3000\"> 3,000g"
+            "data-sort-value=\"3000\">, 3,000g"
           ],
           [
             "",
             "Large Red Rug",
             "Can be placed inside your house.",
-            "data-sort-value=\"1000\"> 1,000g"
+            "data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "Decorative Axe",
             "Can be placed inside your house.",
-            "data-sort-value=\"1000\"> 1,000g"
+            "data-sort-value=\"1000\">, 1,000g"
           ],
           [
             "",
             "Wood Panel",
             "Can be placed inside your house.",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Log Panel",
             "Can be placed inside your house.",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Log Panel",
             "Can be placed inside your house.",
-            "data-sort-value=\"700\"> 700g"
+            "data-sort-value=\"700\">, 700g"
           ],
           [
             "",
             "Tree of the Winter Star",
             "Can be placed as decoration.",
-            "data-sort-value=\"5000\"> 5,000g"
+            "data-sort-value=\"5000\">, 5,000g"
           ],
           [
             "",
             "Manicured Pine",
             "Can be placed as decoration.",
-            "data-sort-value=\"800\"> 800g"
+            "data-sort-value=\"800\">, 800g"
           ],
           [
             "",
             "Wallpaper",
             "Decorates the walls of one room.",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ]
         ]
       }
@@ -158,55 +158,55 @@
         ],
         "rows": [
           [
-            "Item 1 Image Name Price Triple Shot Espresso data-sort-value=\"2500\"> 2,500g Powdermelon data-sort-value=\"2500\"> 2,500g Garlic data-sort-value=\"2500\"> 2,500g Fire Quartz data-sort-value=\"2500\"> 2,500g Item 2 Image Name Price Frozen Tear data-sort-value=\"2500\"> 2,500g Fried Mushroom data-sort-value=\"2500\"> 2,500g Duck Egg data-sort-value=\"2500\"> 2,500g Bread data-sort-value=\"2500\"> 2,500g Item 3 Image Name Price Cave Carrot data-sort-value=\"500\"> 500g Perch data-sort-value=\"500\"> 500g Clam data-sort-value=\"500\"> 500g Winter Root data-sort-value=\"500\"> 500g",
+            "Item 1, Image, Name, Price, Triple Shot Espresso, data-sort-value=\"2500\">, 2,500g, Powdermelon, data-sort-value=\"2500\">, 2,500g, Garlic, data-sort-value=\"2500\">, 2,500g, Fire Quartz, data-sort-value=\"2500\">, 2,500g, Item 2, Image, Name, Price, Frozen Tear, data-sort-value=\"2500\">, 2,500g, Fried Mushroom, data-sort-value=\"2500\">, 2,500g, Duck Egg, data-sort-value=\"2500\">, 2,500g, Bread, data-sort-value=\"2500\">, 2,500g, Item 3, Image, Name, Price, Cave Carrot, data-sort-value=\"500\">, 500g, Perch, data-sort-value=\"500\">, 500g, Clam, data-sort-value=\"500\">, 500g, Winter Root, data-sort-value=\"500\">, 500g",
             "Item 1",
             "Image",
             "Name",
             "Price",
             "",
             "Triple Shot Espresso",
-            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"2500\">, 2,500g",
             "",
             "Powdermelon",
-            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"2500\">, 2,500g",
             "",
             "Garlic",
-            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"2500\">, 2,500g",
             "",
             "Fire Quartz",
-            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"2500\">, 2,500g",
             "Item 2",
             "Image",
             "Name",
             "Price",
             "",
             "Frozen Tear",
-            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"2500\">, 2,500g",
             "",
             "Fried Mushroom",
-            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"2500\">, 2,500g",
             "",
             "Duck Egg",
-            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"2500\">, 2,500g",
             "",
             "Bread",
-            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"2500\">, 2,500g",
             "Item 3",
             "Image",
             "Name",
             "Price",
             "",
             "Cave Carrot",
-            "data-sort-value=\"500\"> 500g",
+            "data-sort-value=\"500\">, 500g",
             "",
             "Perch",
-            "data-sort-value=\"500\"> 500g",
+            "data-sort-value=\"500\">, 500g",
             "",
             "Clam",
-            "data-sort-value=\"500\"> 500g",
+            "data-sort-value=\"500\">, 500g",
             "",
             "Winter Root",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "Item 1"
@@ -219,22 +219,22 @@
           [
             "",
             "Triple Shot Espresso",
-            "data-sort-value=\"2500\"> 2,500g"
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "",
             "Powdermelon",
-            "data-sort-value=\"2500\"> 2,500g"
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "",
             "Garlic",
-            "data-sort-value=\"2500\"> 2,500g"
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "",
             "Fire Quartz",
-            "data-sort-value=\"2500\"> 2,500g"
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "Item 2"
@@ -247,22 +247,22 @@
           [
             "",
             "Frozen Tear",
-            "data-sort-value=\"2500\"> 2,500g"
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "",
             "Fried Mushroom",
-            "data-sort-value=\"2500\"> 2,500g"
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "",
             "Duck Egg",
-            "data-sort-value=\"2500\"> 2,500g"
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "",
             "Bread",
-            "data-sort-value=\"2500\"> 2,500g"
+            "data-sort-value=\"2500\">, 2,500g"
           ],
           [
             "Item 3"
@@ -275,22 +275,22 @@
           [
             "",
             "Cave Carrot",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Perch",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Clam",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ],
           [
             "",
             "Winter Root",
-            "data-sort-value=\"500\"> 500g"
+            "data-sort-value=\"500\">, 500g"
           ]
         ]
       }
@@ -327,19 +327,19 @@
             "",
             "Geode",
             "5 from Clint, 1 from any child",
-            "Clint or any child"
+            "Clint, or any child"
           ],
           [
             "",
             "Frozen Geode",
             "5 from Clint, 1 from any child",
-            "Clint or any child"
+            "Clint, or any child"
           ],
           [
             "",
             "Magma Geode",
             "5 from Clint 1 from any child",
-            "Clint or any child"
+            "Clint, or any child"
           ],
           [
             "",
@@ -411,85 +411,85 @@
             "",
             "Pumpkin Pie",
             "1",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ],
           [
             "",
             "Poppyseed Muffin",
             "1",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ],
           [
             "",
             "Blackberry Cobbler",
             "1",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ],
           [
             "",
             "Glow Ring",
             "1",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ],
           [
             "",
             "Deluxe Speed-Gro",
             "10",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ],
           [
             "",
             "Purple Mushroom",
             "1",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ],
           [
             "",
             "Nautilus Shell",
             "1",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ],
           [
             "",
             "Wine",
             "1",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ],
           [
             "",
             "Beer",
             "1",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ],
           [
             "",
             "Tea Set",
             "1",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ],
           [
             "",
             "Pink Cake",
             "1",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ],
           [
             "",
             "Ruby",
             "1",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ],
           [
             "",
             "Emerald",
             "1",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ],
           [
             "",
             "Jade",
             "1",
-            "Any adult except Clint , Evelyn , Marnie , Robin , or Willy"
+            "Any adult except, Clint, ,, Evelyn, ,, Marnie, ,, Robin, , or, Willy"
           ]
         ]
       }
@@ -501,7 +501,7 @@
         "rows": [
           [
             "“",
-            "“Dear [Player], I would like to give you some information about an upcoming event: the Feast of the Winter Star. It's a time for the community to come together and think back on all the good fortune we've had this year. A favorite tradition is the \"secret gift exchange\", where everyone in town is randomly assigned to someone else. On the day of the festival, everyone brings a gift for their secret friend and surprises them with something special! This year, your secret friend is: [Villager] Don't tell anyone! The feast will take place on the 25th from 9AM to 2PM at the town square. See you then! -Mayor Lewis”"
+            "“Dear [Player],, I would like to give you some information about an upcoming event: the Feast of the Winter Star. It's a time for the community to come together and think back on all the good fortune we've had this year., A favorite tradition is the \"secret gift exchange\", where everyone in town is randomly assigned to someone else. On the day of the festival, everyone brings a gift for their secret friend and surprises them with something special!, This year, your secret friend is:, [Villager], Don't tell anyone! The feast will take place on the 25th from 9AM to 2PM at the town square. See you then!, -Mayor Lewis”"
           ]
         ]
       }
@@ -518,19 +518,19 @@
           ],
           [
             "Spring",
-            "Egg Festival • Desert Festival • Flower Dance"
+            "Egg Festival, •, Desert Festival, •, Flower Dance"
           ],
           [
             "Summer",
-            "Luau • Trout Derby • Dance of the Moonlight Jellies"
+            "Luau, •, Trout Derby, •, Dance of the Moonlight Jellies"
           ],
           [
             "Fall",
-            "Stardew Valley Fair • Spirit's Eve"
+            "Stardew Valley Fair, •, Spirit's Eve"
           ],
           [
             "Winter",
-            "Festival of Ice • SquidFest • Night Market • Feast of the Winter Star"
+            "Festival of Ice, •, SquidFest, •, Night Market, •, Feast of the Winter Star"
           ]
         ]
       }

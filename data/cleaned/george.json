@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "George Information Birthday Fall 24 Lives In Pelican Town Address 1 River Road Family Evelyn (Wife) Alex (Grandson) Marriage No Clinic Visit The 23rd of each season Loved Gifts Fried Mushroom Leek\nGeorge Mullner is a villager who lives in Pelican Town ."
+      "content": "George Mullner is a villager who lives in Pelican Town ."
     },
     {
       "heading": "Schedule",
@@ -62,6 +62,51 @@
         "headers": [],
         "rows": [
           [
+            "George"
+          ],
+          [
+            ""
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Birthday",
+            "Fall, 24"
+          ],
+          [
+            "Lives In",
+            "Pelican Town"
+          ],
+          [
+            "Address",
+            "1 River Road"
+          ],
+          [
+            "Family",
+            "Evelyn, (Wife), Alex, (Grandson)"
+          ],
+          [
+            "Marriage",
+            "No"
+          ],
+          [
+            "Clinic Visit",
+            "The 23rd of each season"
+          ],
+          [
+            "Loved Gifts",
+            "Fried Mushroom, Leek"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
             "“",
             "“My grand-pap was a farmer. It's a respectable profession. If I wasn't so darned old I'd come to your farm and show you a thing or two...”"
           ],
@@ -83,11 +128,11 @@
           ],
           [
             "9:40 AM",
-            "Boards the bus to Calico Desert to attend the Desert Festival ."
+            "Boards the bus to, Calico Desert, to attend the, Desert Festival, ."
           ],
           [
             "9:50 AM",
-            "With Evelyn , at the roadside near the bus."
+            "With, Evelyn, , at the roadside near the bus."
           ],
           [
             "10:50 PM",
@@ -108,11 +153,11 @@
           ],
           [
             "11:10 AM",
-            "Boards the bus to Calico Desert ."
+            "Boards the bus to, Calico Desert, ."
           ],
           [
             "11:30 AM",
-            "Arrives at his booth ."
+            "Arrives at his, booth, ."
           ],
           [
             "12:00 AM",
@@ -141,7 +186,7 @@
           ],
           [
             "4:20 PM",
-            "Leaves home to attend the Night Market ."
+            "Leaves home to attend the, Night Market, ."
           ],
           [
             "11:40 PM",
@@ -183,7 +228,7 @@
           ],
           [
             "10:30 AM",
-            "Leaves home for the waiting room of Harvey's Clinic ."
+            "Leaves home for the waiting room of, Harvey's Clinic, ."
           ],
           [
             "1:30 PM",
@@ -303,11 +348,11 @@
           ],
           [
             "10:00 AM",
-            "Leaves home and heads for the Statue of Yoba inside Pierre 's home."
+            "Leaves home and heads for the Statue of, Yoba, inside, Pierre, 's home."
           ],
           [
             "2:00 PM",
-            "Leaves the Statue of Yoba and heads home to watch TV."
+            "Leaves the Statue of, Yoba, and heads home to watch TV."
           ],
           [
             "8:00 PM",
@@ -437,20 +482,20 @@
           ],
           [
             "",
-            "All Universal Loves"
+            "All, Universal Loves"
           ],
           [
             "",
             "Fried Mushroom",
             "Earthy and aromatic.",
             "Cooking",
-            "Common Mushroom (1) Morel (1) Oil (1)"
+            "Common Mushroom, (1), Morel, (1), Oil, (1)"
           ],
           [
             "",
             "Leek",
             "A tasty relative of the onion.",
-            "Foraging - Spring",
+            "Foraging, -, Spring",
             ""
           ]
         ]
@@ -486,13 +531,13 @@
           ],
           [
             "",
-            "All Universal Likes (except Flowers )"
+            "All, Universal Likes, (except, Flowers, )"
           ],
           [
             "",
             "Daffodil",
             "A traditional spring flower that makes a nice gift.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ]
         ]
       }
@@ -539,61 +584,61 @@
           ],
           [
             "",
-            "All Universal Neutrals All Eggs (except Void Egg )* All Fruit (except Fruit Tree Fruit & Salmonberry ) All Milk"
+            "All, Universal Neutrals, All Eggs, (except, Void Egg, )*, All, Fruit, (except, Fruit Tree Fruit, &, Salmonberry, ), All Milk"
           ],
           [
             "",
             "Chanterelle",
             "A tasty mushroom with a fruity smell and slightly peppery flavor.",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Common Mushroom",
             "Slightly nutty, with good texture.",
-            "Foraging - Spring The Cave"
+            "Foraging, -, Spring, The Cave"
           ],
           [
             "",
             "Ginger",
             "This sharp, spicy root is said to increase vitality.",
-            "Foraging - Ginger Island"
+            "Foraging, -, Ginger Island"
           ],
           [
             "",
             "Hazelnut",
             "That's one big hazelnut!",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Magma Cap",
             "A very rare mushroom that lives next to pools of lava.",
-            "Foraging - Volcano Dungeon"
+            "Foraging, -, Volcano Dungeon"
           ],
           [
             "",
             "Morel",
             "Sought after for its unique nutty flavor.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Purple Mushroom",
             "A rare mushroom found deep in caves.",
-            "Foraging - The Mines"
+            "Foraging, -, The Mines"
           ],
           [
             "",
             "Snow Yam",
             "This little yam was hiding beneath the snow.",
-            "Tilling - Winter"
+            "Tilling, -, Winter"
           ],
           [
             "",
             "Winter Root",
             "A starchy tuber.",
-            "Tilling - Winter"
+            "Tilling, -, Winter"
           ]
         ]
       }
@@ -628,19 +673,19 @@
           ],
           [
             "",
-            "All Universal Dislikes (except Clay ) All Flowers (except Poppy )"
+            "All, Universal Dislikes, (except, Clay, ), All, Flowers, (except, Poppy, )"
           ],
           [
             "",
             "Salmonberry",
             "A spring-time berry with the flavor of the forest.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Wild Horseradish",
             "A spicy root found in the spring.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ]
         ]
       }
@@ -675,7 +720,7 @@
           ],
           [
             "",
-            "All Universal Hates"
+            "All, Universal Hates"
           ],
           [
             "",
@@ -687,19 +732,19 @@
             "",
             "Dandelion",
             "Not the prettiest flower, but the leaves make a good salad.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Holly",
             "The leaves and bright red berries make a popular winter decoration.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ],
           [
             "",
             "Quartz",
             "A clear crystal commonly found in caves and mines.",
-            "Foraging - The Mines"
+            "Foraging, -, The Mines"
           ]
         ]
       }
@@ -717,19 +762,19 @@
         ],
         "rows": [
           [
-            "Love The Zuzu City Express Like Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch Wumbus Dislike It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium",
+            "Love, The Zuzu City Express, Like, Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, Wumbus, Dislike, It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium",
             "Love",
             "The Zuzu City Express",
             "Like",
-            "Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch Wumbus",
+            "Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, Wumbus",
             "Dislike",
-            "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium",
+            "It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium",
             "",
-            "Love Black Licorice Stardrop Sorbet Like Fries Nachos Personal Pizza Popcorn Salmon Burger Salted Peanuts Sour Slimes Truffle Popcorn Dislike Everything else",
+            "Love, Black Licorice, Stardrop Sorbet, Like, Fries, Nachos, Personal Pizza, Popcorn, Salmon Burger, Salted Peanuts, Sour Slimes, Truffle Popcorn, Dislike, Everything else",
             "Love",
-            "Black Licorice Stardrop Sorbet",
+            "Black Licorice, Stardrop Sorbet",
             "Like",
-            "Fries Nachos Personal Pizza Popcorn Salmon Burger Salted Peanuts Sour Slimes Truffle Popcorn",
+            "Fries, Nachos, Personal Pizza, Popcorn, Salmon Burger, Salted Peanuts, Sour Slimes, Truffle Popcorn",
             "Dislike",
             "Everything else"
           ],
@@ -743,25 +788,25 @@
             "Like"
           ],
           [
-            "Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch Wumbus"
+            "Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, Wumbus"
           ],
           [
             "Dislike"
           ],
           [
-            "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium"
+            "It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium"
           ],
           [
             "Love"
           ],
           [
-            "Black Licorice Stardrop Sorbet"
+            "Black Licorice, Stardrop Sorbet"
           ],
           [
             "Like"
           ],
           [
-            "Fries Nachos Personal Pizza Popcorn Salmon Burger Salted Peanuts Sour Slimes Truffle Popcorn"
+            "Fries, Nachos, Personal Pizza, Popcorn, Salmon Burger, Salted Peanuts, Sour Slimes, Truffle Popcorn"
           ],
           [
             "Dislike"
@@ -783,19 +828,19 @@
             "Details"
           ],
           [
-            "Item Description Stone (35) Found some good quality stone. Maybe you can build with it or something. -George",
+            "Item, Description, Stone, (35), Found some good quality stone., Maybe you can build with it or something., -George",
             "Item",
             "Description",
-            "Stone (35)",
-            "Found some good quality stone. Maybe you can build with it or something. -George"
+            "Stone, (35)",
+            "Found some good quality stone., Maybe you can build with it or something., -George"
           ],
           [
             "Item",
             "Description"
           ],
           [
-            "Stone (35)",
-            "Found some good quality stone. Maybe you can build with it or something. -George"
+            "Stone, (35)",
+            "Found some good quality stone., Maybe you can build with it or something., -George"
           ]
         ]
       }
@@ -811,13 +856,13 @@
             "Details"
           ],
           [
-            "Image Recipe Description Fried Eel Figured I'd give you this recipe I had laying around. Try not to burn it. -George",
+            "Image, Recipe, Description, Fried Eel, Figured I'd give you this recipe I had laying around. Try not to burn it., -George",
             "Image",
             "Recipe",
             "Description",
             "",
             "Fried Eel",
-            "Figured I'd give you this recipe I had laying around. Try not to burn it. -George"
+            "Figured I'd give you this recipe I had laying around. Try not to burn it., -George"
           ],
           [
             "Image",
@@ -827,7 +872,7 @@
           [
             "",
             "Fried Eel",
-            "Figured I'd give you this recipe I had laying around. Try not to burn it. -George"
+            "Figured I'd give you this recipe I had laying around. Try not to burn it., -George"
           ]
         ]
       }
@@ -859,13 +904,13 @@
             "Details"
           ],
           [
-            "Image Recipe Description Spicy Eel Figured I'd give you this recipe I had laying around. Try not to burn it. -George",
+            "Image, Recipe, Description, Spicy Eel, Figured I'd give you this recipe I had laying around. Try not to burn it., -George",
             "Image",
             "Recipe",
             "Description",
             "",
             "Spicy Eel",
-            "Figured I'd give you this recipe I had laying around. Try not to burn it. -George"
+            "Figured I'd give you this recipe I had laying around. Try not to burn it., -George"
           ],
           [
             "Image",
@@ -875,7 +920,7 @@
           [
             "",
             "Spicy Eel",
-            "Figured I'd give you this recipe I had laying around. Try not to burn it. -George"
+            "Figured I'd give you this recipe I had laying around. Try not to burn it., -George"
           ]
         ]
       }
@@ -891,7 +936,7 @@
             "Regular"
           ],
           [
-            "First Meeting “ “Hmmph... It's irritating to have to meet all these new people, huh? Name's George, by the way. Now buzz off... Hmmph.” Regular “ “I'm not much of a talker. Especially not to strangers, if you don't mind me saying.” “ “Hmmph... Looks like another gloomy day.” “ “I can't talk right now, [young man/miss]. My favorite program is on.” “ “So you're a farmer, huh? At least it's honest work.” “ “The weekend is no different than any other time, for me. That's how it is when you're retired.” “ “Aren't you cold? They don't make sweaters like they used to” Rainy Day “ “It's awful cold, isn't it? What a rotten day.” Winter 1 “ “Ohh... It's so cold. When you're young the cold doesn't bite as hard.” After Linus 0 Heart Event “ “I dunno what you did, but those raccoons haven't been back since last week!” 4+ Hearts “ “My grand-pap was a farmer. It's a respectable profession. If I wasn't so darned old I'd come to your farm and show you a thing or two...” 6+ Hearts “ “I'm surprised you want to be friends with an old-timer like me.” “ “Hello, [Player]. Wanna watch the TV with me?” 8+ Hearts “ “I wish my legs worked so I could play catch with Alex. That'll never happen.” “ “I've been thinking...Maybe I've been a little bit of a grouch. I used to think no one cared about us old folks.” 10 Hearts “ “You know, I really have been a grumpy old man to everyone. But now I feel like I'm softening up like an old ripe fruit. Hehe! Take care, [son / hun].” “ “[Player]! Let me turn off this darned television and we can have a little chat. So what are the young people doing these days?” “ “You know, I shouldn't get too depressed about my legs. I should just be happy that I'm alive.” “ “When you get as old as me it's a lot harder to adjust to new things. One day you'll know what I mean. Go on, enjoy yourself while you're still young.” Green Rain Year 1 “ “There, there, honey... Don't you worry. Even if it is poisonous, I breathed in more noxious gas in one minute back in the ol' coal mines... And I'm still kickin'!” Year 2+ “ “Looks like the young folks will have to do some extra weeding after this one... Heheh...” Player married to Alex Male player “ “How can two men get married? It's unnatural... Hmmph. I guess I'm just \"old fashioned\"...” Male player, 10 Hearts with George “ “I'll admit, I thought it was... strange... for two men to be together. But you're such a nice young man, and I know you two are in love... I've changed my mind.” Female player “ “You're part of the family, now. I'm glad that my grandson found such a nice wife.” Female player, 10 Hearts with George “ “You're part of the family now... and I couldn't be more proud.” Doctor Visit Before leaving home for doctor visit “ “Hmmpph... The wife's making me go to the clinic today.” In the clinic's waiting room “ “*grumble*... Good for nothing doctors... *grumble*” In the clinic's examination room “ “Well how much longer do I have, Doc?” Visting Yoba 's altar “ “I've never been religious, But hey... I'm old”",
+            "First Meeting, “, “Hmmph... It's irritating to have to meet all these new people, huh? Name's George, by the way. Now buzz off... Hmmph.”, Regular, “, “I'm not much of a talker. Especially not to strangers, if you don't mind me saying.”, “, “Hmmph... Looks like another gloomy day.”, “, “I can't talk right now, [young man/miss]. My favorite program is on.”, “, “So you're a farmer, huh? At least it's honest work.”, “, “The weekend is no different than any other time, for me. That's how it is when you're retired.”, “, “Aren't you cold? They don't make sweaters like they used to”, Rainy Day, “, “It's awful cold, isn't it? What a rotten day.”, Winter 1, “, “Ohh... It's so cold. When you're young the cold doesn't bite as hard.”, After Linus 0 Heart Event, “, “I dunno what you did, but those raccoons haven't been back since last week!”, 4+ Hearts, “, “My grand-pap was a farmer. It's a respectable profession. If I wasn't so darned old I'd come to your farm and show you a thing or two...”, 6+ Hearts, “, “I'm surprised you want to be friends with an old-timer like me.”, “, “Hello, [Player]. Wanna watch the TV with me?”, 8+ Hearts, “, “I wish my legs worked so I could play catch with Alex. That'll never happen.”, “, “I've been thinking...Maybe I've been a little bit of a grouch. I used to think no one cared about us old folks.”, 10 Hearts, “, “You know, I really have been a grumpy old man to everyone. But now I feel like I'm softening up like an old ripe fruit. Hehe! Take care, [son / hun].”, “, “[Player]! Let me turn off this darned television and we can have a little chat. So what are the young people doing these days?”, “, “You know, I shouldn't get too depressed about my legs. I should just be happy that I'm alive.”, “, “When you get as old as me it's a lot harder to adjust to new things. One day you'll know what I mean. Go on, enjoy yourself while you're still young.”, Green Rain, Year 1, “, “There, there, honey... Don't you worry. Even if it is poisonous, I breathed in more noxious gas in one minute back in the ol' coal mines... And I'm still kickin'!”, Year 2+, “, “Looks like the young folks will have to do some extra weeding after this one... Heheh...”, Player married to Alex, Male player, “, “How can two men get married? It's unnatural... Hmmph. I guess I'm just \"old fashioned\"...”, Male player, 10 Hearts with George, “, “I'll admit, I thought it was... strange... for two men to be together. But you're such a nice young man, and I know you two are in love... I've changed my mind.”, Female player, “, “You're part of the family, now. I'm glad that my grandson found such a nice wife.”, Female player, 10 Hearts with George, “, “You're part of the family now... and I couldn't be more proud.”, Doctor Visit, Before leaving home for doctor visit, “, “Hmmpph... The wife's making me go to the clinic today.”, In the clinic's waiting room, “, “*grumble*... Good for nothing doctors... *grumble*”, In the clinic's examination room, “, “Well how much longer do I have, Doc?”, Visting, Yoba, 's altar, “, “I've never been religious, But hey... I'm old”",
             "“",
             "“Hmmph... It's irritating to have to meet all these new people, huh? Name's George, by the way. Now buzz off... Hmmph.”",
             "“",
@@ -1081,7 +1126,7 @@
             "Events"
           ],
           [
-            "Egg Festival Odd-numbered year “ “What's everyone so happy about? Hmmph... Eggs... why eggs?” Even-numbered year “ “Evelyn made eggs and leeks for breakfast, so I'm in a good mood.” Desert Festival Even-numbered year “ “What is she mumbling about? I'm here for the spicy food tent!” Flower Dance “ “Flowers? I can hardly see them. It's too bright out here!” The Luau Odd-numbered year “ “That music! It's too loud. Can't I have a little peace and quiet to enjoy the ocean?” Even-numbered year “ “Leek and garlic mashed potatoes? Hehe... honey, I think I've died and gone to heaven!” Dance of the Moonlight Jellies “ “What, why are you looking at me like that? You think I'm too old to enjoy something like this?” Stardew Valley Fair “ “Hmm... smoked turkey haunch? I guess this festival isn't all bad.” Spirit's Eve Although George does not attend the Feast, he has dialogue scripted in underlying data files. “ “Hmm... smoked turkey haunch? I guess this festival isn't all bad.” Festival of Ice “ “Hmmph... Wife dragged me out into the cold for this?” Night Market “ “I'm just here for the free coffee.” Feast of the Winter Star “ “A feast for some stupid star? Humbug!”",
+            "Egg Festival, Odd-numbered year, “, “What's everyone so happy about? Hmmph... Eggs... why eggs?”, Even-numbered year, “, “Evelyn made eggs and leeks for breakfast, so I'm in a good mood.”, Desert Festival, Even-numbered year, “, “What is she mumbling about? I'm here for the spicy food tent!”, Flower Dance, “, “Flowers? I can hardly see them. It's too bright out here!”, The Luau, Odd-numbered year, “, “That music! It's too loud. Can't I have a little peace and quiet to enjoy the ocean?”, Even-numbered year, “, “Leek and garlic mashed potatoes? Hehe... honey, I think I've died and gone to heaven!”, Dance of the Moonlight Jellies, “, “What, why are you looking at me like that? You think I'm too old to enjoy something like this?”, Stardew Valley Fair, “, “Hmm... smoked turkey haunch? I guess this festival isn't all bad.”, Spirit's Eve, Although George does not attend the Feast, he has dialogue scripted in underlying data files., “, “Hmm... smoked turkey haunch? I guess this festival isn't all bad.”, Festival of Ice, “, “Hmmph... Wife dragged me out into the cold for this?”, Night Market, “, “I'm just here for the free coffee.”, Feast of the Winter Star, “, “A feast for some stupid star? Humbug!”",
             "“",
             "“What's everyone so happy about? Hmmph... Eggs... why eggs?”",
             "“",
@@ -1170,19 +1215,19 @@
           ],
           [
             "Bachelors",
-            "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+            "Alex, •, Elliott, •, Harvey, •, Sam, •, Sebastian, •, Shane"
           ],
           [
             "Bachelorettes",
-            "Abigail • Emily • Haley • Leah • Maru • Penny"
+            "Abigail, •, Emily, •, Haley, •, Leah, •, Maru, •, Penny"
           ],
           [
             "Townspeople",
-            "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+            "Caroline, •, Clint, •, Demetrius, •, Evelyn, •, George, •, Gil, •, Gunther, •, Gus, •, Jas, •, Jodi, •, Kent, •, Lewis, •, Linus, •, Marlon, •, Marnie, •, Pam, •, Pierre, •, Robin, •, Vincent, •, Willy"
           ],
           [
             "Other",
-            "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+            "Birdie, •, Bouncer, •, Dwarf, •, Fizz, •, Governor, •, Grandpa, •, Henchman, •, Junimos, •, Krobus, •, Leo, •, Morris, •, Mr. Qi, •, Old Mariner, •, Professor Snail, •, Sandy, •, Wizard"
           ]
         ]
       }

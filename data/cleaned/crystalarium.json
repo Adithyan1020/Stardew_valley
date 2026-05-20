@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Crystalarium Insert a gem of your choice and it will grow copies. Information Source Crafting • Museum donation • 25,000 Bundle Sell Price Cannot be sold Crafting Recipe Source Mining (Level 9) Ingredients Stone (99) Gold Bar (5) Iridium Bar (2) Battery Pack (1)\nThe Crystalarium is a crafted item that will replicate any inserted Gem (except Prismatic Shard ), Foraged Mineral , or Geode Mineral . The functions of the Crystalarium are explained in the Lost Book Technology Report! .\nOne Crystalarium is the reward for donating 50 Minerals to the Museum . One Crystalarium is also the reward for completing the 25,000 Bundle in the Vault . Occasionally it can be found in a treasure room in the Skull Cavern.\nOnce an item is inserted, it will replicate that item an infinite number of times. Once a gem or mineral has been inserted into the Crystalarium, it can be retrieved at any time by removing the Crystalarium with a tool."
+      "content": "The Crystalarium is a crafted item that will replicate any inserted Gem (except Prismatic Shard ), Foraged Mineral , or Geode Mineral . The functions of the Crystalarium are explained in the Lost Book Technology Report! .\nOne Crystalarium is the reward for donating 50 Minerals to the Museum . One Crystalarium is also the reward for completing the 25,000 Bundle in the Vault . Occasionally it can be found in a treasure room in the Skull Cavern.\nOnce an item is inserted, it will replicate that item an infinite number of times. Once a gem or mineral has been inserted into the Crystalarium, it can be retrieved at any time by removing the Crystalarium with a tool."
     },
     {
       "heading": "Use",
@@ -21,6 +21,45 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Crystalarium"
+          ],
+          [
+            ""
+          ],
+          [
+            "Insert a gem of your choice and it will grow copies."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Crafting, •, Museum, donation •, 25,000 Bundle"
+          ],
+          [
+            "Sell Price",
+            "Cannot be sold"
+          ],
+          [
+            "Crafting"
+          ],
+          [
+            "Recipe Source",
+            "Mining, (Level 9)"
+          ],
+          [
+            "Ingredients",
+            "Stone, (99), Gold Bar, (5), Iridium Bar, (2), Battery Pack, (1)"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Use",
       "table": {
         "headers": [
@@ -35,372 +74,372 @@
             "Image",
             "Name",
             "Sell Price",
-            "Time to craft (Day:Hour:Min)",
+            "Time to craft, (Day:Hour:Min)",
             "g/day"
           ],
           [
             "",
             "Emerald",
-            "data-sort-value=\"250\"> 250g",
+            "data-sort-value=\"250\">, 250g",
             "2:02:00",
-            "data-sort-value=\"120\"> 120g"
+            "data-sort-value=\"120\">, 120g"
           ],
           [
             "",
             "Aquamarine",
-            "data-sort-value=\"180\"> 180g",
+            "data-sort-value=\"180\">, 180g",
             "1:13:20",
-            "data-sort-value=\"115.7\"> 115.7g"
+            "data-sort-value=\"115.7\">, 115.7g"
           ],
           [
             "",
             "Ruby",
-            "data-sort-value=\"250\"> 250g",
+            "data-sort-value=\"250\">, 250g",
             "2:02:00",
-            "data-sort-value=\"120\"> 120g"
+            "data-sort-value=\"120\">, 120g"
           ],
           [
             "",
             "Amethyst",
-            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100\">, 100g",
             "0:22:40",
-            "data-sort-value=\"105.9\"> 105.9g"
+            "data-sort-value=\"105.9\">, 105.9g"
           ],
           [
             "",
             "Topaz",
-            "data-sort-value=\"80\"> 80g",
+            "data-sort-value=\"80\">, 80g",
             "0:18:40",
-            "data-sort-value=\"102.9\"> 102.9g"
+            "data-sort-value=\"102.9\">, 102.9g"
           ],
           [
             "",
             "Jade",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "1:16:00",
-            "data-sort-value=\"120\"> 120g"
+            "data-sort-value=\"120\">, 120g"
           ],
           [
             "",
             "Diamond",
-            "data-sort-value=\"750\"> 750g",
+            "data-sort-value=\"750\">, 750g",
             "5:00:00",
-            "data-sort-value=\"150\"> 150g"
+            "data-sort-value=\"150\">, 150g"
           ],
           [
             "",
             "Quartz",
-            "data-sort-value=\"25\"> 25g",
+            "data-sort-value=\"25\">, 25g",
             "0:07:00",
-            "data-sort-value=\"85.7\"> 85.7g"
+            "data-sort-value=\"85.7\">, 85.7g"
           ],
           [
             "",
             "Fire Quartz",
-            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100\">, 100g",
             "0:21:40",
-            "data-sort-value=\"110.8\"> 110.8g"
+            "data-sort-value=\"110.8\">, 110.8g"
           ],
           [
             "",
             "Frozen Tear",
-            "data-sort-value=\"75\"> 75g",
+            "data-sort-value=\"75\">, 75g",
             "0:18:40",
-            "data-sort-value=\"96.4\"> 96.4g"
+            "data-sort-value=\"96.4\">, 96.4g"
           ],
           [
             "",
             "Earth Crystal",
-            "data-sort-value=\"50\"> 50g",
+            "data-sort-value=\"50\">, 50g",
             "0:13:20",
-            "data-sort-value=\"90\"> 90g"
+            "data-sort-value=\"90\">, 90g"
           ],
           [
             "",
             "Tigerseye",
-            "data-sort-value=\"275\"> 275g",
+            "data-sort-value=\"275\">, 275g",
             "3:11:20",
-            "data-sort-value=\"79.2\"> 79.2g"
+            "data-sort-value=\"79.2\">, 79.2g"
           ],
           [
             "",
             "Opal",
-            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"150\">, 150g",
             "3:11:20",
-            "data-sort-value=\"43.2\"> 43.2g"
+            "data-sort-value=\"43.2\">, 43.2g"
           ],
           [
             "",
             "Fire Opal",
-            "data-sort-value=\"350\"> 350g",
+            "data-sort-value=\"350\">, 350g",
             "3:11:20",
-            "data-sort-value=\"100.8\"> 100.8g"
+            "data-sort-value=\"100.8\">, 100.8g"
           ],
           [
             "",
             "Alamite",
-            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"150\">, 150g",
             "3:11:20",
-            "data-sort-value=\"43.2\"> 43.2g"
+            "data-sort-value=\"43.2\">, 43.2g"
           ],
           [
             "",
             "Bixite",
-            "data-sort-value=\"300\"> 300g",
+            "data-sort-value=\"300\">, 300g",
             "3:11:20",
-            "data-sort-value=\"86.4\"> 86.4g"
+            "data-sort-value=\"86.4\">, 86.4g"
           ],
           [
             "",
             "Baryte",
-            "data-sort-value=\"50\"> 50g",
+            "data-sort-value=\"50\">, 50g",
             "3:11:20",
-            "data-sort-value=\"14.4\"> 14.4g"
+            "data-sort-value=\"14.4\">, 14.4g"
           ],
           [
             "",
             "Aerinite",
-            "data-sort-value=\"125\"> 125g",
+            "data-sort-value=\"125\">, 125g",
             "3:11:20",
-            "data-sort-value=\"36\"> 36g"
+            "data-sort-value=\"36\">, 36g"
           ],
           [
             "",
             "Calcite",
-            "data-sort-value=\"75\"> 75g",
+            "data-sort-value=\"75\">, 75g",
             "3:11:20",
-            "data-sort-value=\"21.6\"> 21.6g"
+            "data-sort-value=\"21.6\">, 21.6g"
           ],
           [
             "",
             "Dolomite",
-            "data-sort-value=\"300\"> 300g",
+            "data-sort-value=\"300\">, 300g",
             "3:11:20",
-            "data-sort-value=\"86.4\"> 86.4g"
+            "data-sort-value=\"86.4\">, 86.4g"
           ],
           [
             "",
             "Esperite",
-            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100\">, 100g",
             "3:11:20",
-            "data-sort-value=\"28.8\"> 28.8g"
+            "data-sort-value=\"28.8\">, 28.8g"
           ],
           [
             "",
             "Fluorapatite",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "3:11:20",
-            "data-sort-value=\"57.6\"> 57.6g"
+            "data-sort-value=\"57.6\">, 57.6g"
           ],
           [
             "",
             "Geminite",
-            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"150\">, 150g",
             "3:11:20",
-            "data-sort-value=\"43.2\"> 43.2g"
+            "data-sort-value=\"43.2\">, 43.2g"
           ],
           [
             "",
             "Helvite",
-            "data-sort-value=\"450\"> 450g",
+            "data-sort-value=\"450\">, 450g",
             "3:11:20",
-            "data-sort-value=\"129.6\"> 129.6g"
+            "data-sort-value=\"129.6\">, 129.6g"
           ],
           [
             "",
             "Jamborite",
-            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"150\">, 150g",
             "3:11:20",
-            "data-sort-value=\"43.2\"> 43.2g"
+            "data-sort-value=\"43.2\">, 43.2g"
           ],
           [
             "",
             "Jagoite",
-            "data-sort-value=\"115\"> 115g",
+            "data-sort-value=\"115\">, 115g",
             "3:11:20",
-            "data-sort-value=\"33.1\"> 33.1g"
+            "data-sort-value=\"33.1\">, 33.1g"
           ],
           [
             "",
             "Kyanite",
-            "data-sort-value=\"250\"> 250g",
+            "data-sort-value=\"250\">, 250g",
             "3:11:20",
-            "data-sort-value=\"72\"> 72g"
+            "data-sort-value=\"72\">, 72g"
           ],
           [
             "",
             "Lunarite",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "3:11:20",
-            "data-sort-value=\"57.6\"> 57.6g"
+            "data-sort-value=\"57.6\">, 57.6g"
           ],
           [
             "",
             "Malachite",
-            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100\">, 100g",
             "3:11:20",
-            "data-sort-value=\"28.8\"> 28.8g"
+            "data-sort-value=\"28.8\">, 28.8g"
           ],
           [
             "",
             "Neptunite",
-            "data-sort-value=\"400\"> 400g",
+            "data-sort-value=\"400\">, 400g",
             "3:11:20",
-            "data-sort-value=\"115.2\"> 115.2g"
+            "data-sort-value=\"115.2\">, 115.2g"
           ],
           [
             "",
             "Lemon Stone",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "3:11:20",
-            "data-sort-value=\"57.6\"> 57.6g"
+            "data-sort-value=\"57.6\">, 57.6g"
           ],
           [
             "",
             "Nekoite",
-            "data-sort-value=\"80\"> 80g",
+            "data-sort-value=\"80\">, 80g",
             "3:11:20",
-            "data-sort-value=\"23.0\"> 23g"
+            "data-sort-value=\"23.0\">, 23g"
           ],
           [
             "",
             "Orpiment",
-            "data-sort-value=\"80\"> 80g",
+            "data-sort-value=\"80\">, 80g",
             "3:11:20",
-            "data-sort-value=\"23.0\"> 23g"
+            "data-sort-value=\"23.0\">, 23g"
           ],
           [
             "",
             "Petrified Slime",
-            "data-sort-value=\"120\"> 120g",
+            "data-sort-value=\"120\">, 120g",
             "3:11:20",
-            "data-sort-value=\"34.6\"> 34.6g"
+            "data-sort-value=\"34.6\">, 34.6g"
           ],
           [
             "",
             "Thunder Egg",
-            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100\">, 100g",
             "3:11:20",
-            "data-sort-value=\"28.8\"> 28.8g"
+            "data-sort-value=\"28.8\">, 28.8g"
           ],
           [
             "",
             "Pyrite",
-            "data-sort-value=\"120\"> 120g",
+            "data-sort-value=\"120\">, 120g",
             "3:11:20",
-            "data-sort-value=\"34.6\"> 34.6g"
+            "data-sort-value=\"34.6\">, 34.6g"
           ],
           [
             "",
             "Ocean Stone",
-            "data-sort-value=\"220\"> 220g",
+            "data-sort-value=\"220\">, 220g",
             "3:11:20",
-            "data-sort-value=\"63.4\"> 63.4g"
+            "data-sort-value=\"63.4\">, 63.4g"
           ],
           [
             "",
             "Ghost Crystal",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "3:11:20",
-            "data-sort-value=\"57.6\"> 57.6g"
+            "data-sort-value=\"57.6\">, 57.6g"
           ],
           [
             "",
             "Jasper",
-            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"150\">, 150g",
             "3:11:20",
-            "data-sort-value=\"43.2\"> 43.2g"
+            "data-sort-value=\"43.2\">, 43.2g"
           ],
           [
             "",
             "Celestine",
-            "data-sort-value=\"125\"> 125g",
+            "data-sort-value=\"125\">, 125g",
             "3:11:20",
-            "data-sort-value=\"36\"> 36g"
+            "data-sort-value=\"36\">, 36g"
           ],
           [
             "",
             "Marble",
-            "data-sort-value=\"110\"> 110g",
+            "data-sort-value=\"110\">, 110g",
             "3:11:20",
-            "data-sort-value=\"31.7\"> 31.7g"
+            "data-sort-value=\"31.7\">, 31.7g"
           ],
           [
             "",
             "Sandstone",
-            "data-sort-value=\"60\"> 60g",
+            "data-sort-value=\"60\">, 60g",
             "3:11:20",
-            "data-sort-value=\"17.3\"> 17.3g"
+            "data-sort-value=\"17.3\">, 17.3g"
           ],
           [
             "",
             "Granite",
-            "data-sort-value=\"75\"> 75g",
+            "data-sort-value=\"75\">, 75g",
             "3:11:20",
-            "data-sort-value=\"21.6\"> 21.6g"
+            "data-sort-value=\"21.6\">, 21.6g"
           ],
           [
             "",
             "Basalt",
-            "data-sort-value=\"175\"> 175g",
+            "data-sort-value=\"175\">, 175g",
             "3:11:20",
-            "data-sort-value=\"50.4\"> 50.4g"
+            "data-sort-value=\"50.4\">, 50.4g"
           ],
           [
             "",
             "Limestone",
-            "data-sort-value=\"15\"> 15g",
+            "data-sort-value=\"15\">, 15g",
             "3:11:20",
-            "data-sort-value=\"4.3\"> 4.3g"
+            "data-sort-value=\"4.3\">, 4.3g"
           ],
           [
             "",
             "Soapstone",
-            "data-sort-value=\"120\"> 120g",
+            "data-sort-value=\"120\">, 120g",
             "3:11:20",
-            "data-sort-value=\"34.6\"> 34.6g"
+            "data-sort-value=\"34.6\">, 34.6g"
           ],
           [
             "",
             "Hematite",
-            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"150\">, 150g",
             "3:11:20",
-            "data-sort-value=\"43.2\"> 43.2g"
+            "data-sort-value=\"43.2\">, 43.2g"
           ],
           [
             "",
             "Mudstone",
-            "data-sort-value=\"25\"> 25g",
+            "data-sort-value=\"25\">, 25g",
             "3:11:20",
-            "data-sort-value=\"7.2\"> 7.2g"
+            "data-sort-value=\"7.2\">, 7.2g"
           ],
           [
             "",
             "Obsidian",
-            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200\">, 200g",
             "3:11:20",
-            "data-sort-value=\"57.6\"> 57.6g"
+            "data-sort-value=\"57.6\">, 57.6g"
           ],
           [
             "",
             "Slate",
-            "data-sort-value=\"85\"> 85g",
+            "data-sort-value=\"85\">, 85g",
             "3:11:20",
-            "data-sort-value=\"24.5\"> 24.5g"
+            "data-sort-value=\"24.5\">, 24.5g"
           ],
           [
             "",
             "Fairy Stone",
-            "data-sort-value=\"250\"> 250g",
+            "data-sort-value=\"250\">, 250g",
             "3:11:20",
-            "data-sort-value=\"72\"> 72g"
+            "data-sort-value=\"72\">, 72g"
           ],
           [
             "",
             "Star Shards",
-            "data-sort-value=\"500\"> 500g",
+            "data-sort-value=\"500\">, 500g",
             "3:11:20",
-            "data-sort-value=\"144\"> 144g"
+            "data-sort-value=\"144\">, 144g"
           ]
         ]
       }
@@ -417,33 +456,33 @@
           ],
           [
             "Artisan",
-            "Bee House • Cask • Cheese Press • Dehydrator • Fish Smoker • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar"
+            "Bee House, •, Cask, •, Cheese Press, •, Dehydrator, •, Fish Smoker, •, Keg, •, Loom, •, Mayonnaise Machine, •, Oil Maker, •, Preserves Jar"
           ],
           [
             "Refining",
-            "Bait Maker • Bone Mill • Charcoal Kiln • Crystalarium • Deluxe Worm Bin • Furnace • Geode Crusher • Heavy Furnace • Heavy Tapper • Lightning Rod • Mushroom Log • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin"
+            "Bait Maker, •, Bone Mill, •, Charcoal Kiln, •, Crystalarium, •, Deluxe Worm Bin, •, Furnace, •, Geode Crusher, •, Heavy Furnace, •, Heavy Tapper, •, Lightning Rod, •, Mushroom Log, •, Ostrich Incubator, •, Recycling Machine, •, Seed Maker, •, Slime Egg-Press, •, Slime Incubator, •, Solar Panel, •, Tapper, •, Wood Chipper, •, Worm Bin"
           ],
           [
             "Farming",
             "Fertilizer",
-            "Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil • Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer"
+            "Basic Fertilizer, •, Basic Retaining Soil, •, Deluxe Fertilizer, •, Deluxe Retaining Soil, •, Deluxe Speed-Gro, •, Hyper Speed-Gro, •, Quality Fertilizer, •, Quality Retaining Soil, •, Speed-Gro, •, Tree Fertilizer"
           ],
           [
             "Sprinklers",
-            "Iridium Sprinkler • Quality Sprinkler • Sprinkler"
+            "Iridium Sprinkler, •, Quality Sprinkler, •, Sprinkler"
           ],
           [
             "Other",
-            "Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow"
+            "Deluxe Scarecrow, •, Garden Pot, •, Rarecrow, •, Scarecrow"
           ],
           [
             "Fishing",
             "Bait",
-            "Bait • Challenge Bait • Deluxe Bait • Magic Bait • Magnet • Targeted Bait • Wild Bait"
+            "Bait, •, Challenge Bait, •, Deluxe Bait, •, Magic Bait, •, Magnet, •, Targeted Bait, •, Wild Bait"
           ],
           [
             "Tackle",
-            "Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Sonar Bobber • Spinner • Trap Bobber • Treasure Hunter"
+            "Barbed Hook, •, Cork Bobber, •, Curiosity Lure, •, Dressed Spinner, •, Lead Bobber, •, Quality Bobber, •, Sonar Bobber, •, Spinner, •, Trap Bobber, •, Treasure Hunter"
           ],
           [
             "Other",
@@ -451,23 +490,23 @@
           ],
           [
             "Bombs",
-            "Bomb • Cherry Bomb • Mega Bomb"
+            "Bomb, •, Cherry Bomb, •, Mega Bomb"
           ],
           [
             "Fences",
-            "Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence"
+            "Gate, •, Hardwood Fence, •, Iron Fence, •, Stone Fence, •, Wood Fence"
           ],
           [
             "Storage",
-            "Big Chest • Big Stone Chest • Chest • Junimo Chest • Mini-Fridge • Stone Chest"
+            "Big Chest, •, Big Stone Chest, •, Chest, •, Junimo Chest, •, Mini-Fridge, •, Stone Chest"
           ],
           [
             "Signs",
-            "Dark Sign • Stone Sign • Text Sign • Wood Sign"
+            "Dark Sign, •, Stone Sign, •, Text Sign, •, Wood Sign"
           ],
           [
             "Misc",
-            "Anvil • Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Forge • Mini-Jukebox • Mini-Shipping Bin • Sewing Machine • Staircase • Statue Of Blessings • Statue Of The Dwarf King • Telephone • Tent Kit • Tools • Workbench"
+            "Anvil, •, Coffee Maker, •, Cookout Kit, •, Deconstructor, •, Fairy Dust, •, Farm Computer, •, Hopper, •, Mini-Forge, •, Mini-Jukebox, •, Mini-Shipping Bin, •, Sewing Machine, •, Staircase, •, Statue Of Blessings, •, Statue Of The Dwarf King, •, Telephone, •, Tent Kit, •, Tools, •, Workbench"
           ]
         ]
       }

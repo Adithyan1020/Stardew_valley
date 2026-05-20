@@ -219,12 +219,12 @@
             "Choose a Profession:"
           ],
           [
-            "Wild Seeds (Sp) Field Snack Trees sometimes drop seeds.",
+            "Wild Seeds (Sp), Field Snack, Trees sometimes, drop seeds.",
             "Charcoal Kiln",
-            "Cookout Kit Moss Soup",
-            "Wild Seeds (Su) Tapper Mushroom Log +1 Wild Berry harvesting",
-            "Forester Trees drop 25% more wood. (Applies to Trees , Stumps & Logs )",
-            "Gatherer Chance for double harvest of foraged items. (20% chance of double harvest)"
+            "Cookout Kit, Moss Soup",
+            "Wild Seeds (Su), Tapper, Mushroom Log, +1 Wild Berry, harvesting",
+            "Forester, Trees drop 25% more wood., (Applies to, Trees, ,, Stumps, &, Logs, )",
+            "Gatherer, Chance for double harvest of foraged items., (20% chance of double harvest)"
           ],
           [
             ""
@@ -245,16 +245,16 @@
             "Gatherer:"
           ],
           [
-            "Lightning Rod Wild Seeds (Fa) Warp Totem: Beach",
-            "Wild Seeds (Wi) Warp Totem: Mountains Tree Fertilizer",
-            "Survival Burger Warp Totem: Farm Tent Kit +1 Wild Berry harvesting",
+            "Lightning Rod, Wild Seeds (Fa), Warp Totem:, Beach",
+            "Wild Seeds (Wi), Warp Totem:, Mountains, Tree Fertilizer",
+            "Survival Burger, Warp Totem: Farm, Tent Kit, +1 Wild Berry, harvesting",
             "Rain Totem",
-            "Lumberjack All trees have a chance to drop hardwood .",
-            "Botanist Foraged items are always highest quality."
+            "Lumberjack, All trees have a chance to drop, hardwood, .",
+            "Botanist, Foraged items are always highest quality."
           ],
           [
-            "Tapper Syrups worth 25% more.",
-            "Tracker Location of forageable items revealed."
+            "Tapper, Syrups, worth 25% more.",
+            "Tracker, Location of forageable items revealed."
           ]
         ]
       }
@@ -289,15 +289,15 @@
             "",
             "Pancakes",
             "A double stack of fluffy, soft pancakes.",
-            "Wheat Flour (1) Egg (1)",
-            "90 40",
-            "Foraging (+2)",
+            "Wheat Flour, (1), Egg, (1)",
+            "90, 40",
+            "Foraging, (+2)",
             "11m 11s",
-            "The Queen of Sauce 14 Summer, Year 1 Stardrop Saloon for data-sort-value=\"100\"> 100g",
+            "The Queen of Sauce, 14 Summer, Year 1, Stardrop Saloon, for, data-sort-value=\"100\">, 100g",
             "",
             "The Queen of Sauce",
             "14 Summer, Year 1",
-            "data-sort-value=\"80\"> 80g"
+            "data-sort-value=\"80\">, 80g"
           ],
           [
             "",
@@ -310,34 +310,34 @@
             "",
             "Autumn's Bounty",
             "A taste of the season.",
-            "Yam (1) Pumpkin (1)",
-            "220 99",
-            "Foraging (+2) Defense (+2)",
+            "Yam, (1), Pumpkin, (1)",
+            "220, 99",
+            "Foraging, (+2), Defense, (+2)",
             "7m 41s",
-            "Demetrius (Mail - 7+ )",
-            "data-sort-value=\"350\"> 350g"
+            "Demetrius, (Mail - 7+, )",
+            "data-sort-value=\"350\">, 350g"
           ],
           [
             "",
             "Survival Burger",
             "A convenient snack for the explorer.",
-            "Bread (1) Cave Carrot (1) Eggplant (1)",
-            "125 56",
-            "Foraging (+3)",
+            "Bread, (1), Cave Carrot, (1), Eggplant, (1)",
+            "125, 56",
+            "Foraging, (+3)",
             "5m 35s",
-            "Foraging Level 8",
-            "data-sort-value=\"180\"> 180g"
+            "Foraging, Level 8",
+            "data-sort-value=\"180\">, 180g"
           ],
           [
             "",
             "Tropical Curry",
             "An exotic, fragrant curry served in a pineapple bowl.",
-            "Coconut (1) Pineapple (1) Hot Pepper (1)",
-            "150 67",
-            "Foraging (+4)",
+            "Coconut, (1), Pineapple, (1), Hot Pepper, (1)",
+            "150, 67",
+            "Foraging, (+4)",
             "5m 1s",
-            "Ginger Island Resort for data-sort-value=\"2000\"> 2,000g",
-            "data-sort-value=\"500\"> 500g"
+            "Ginger Island Resort, for, data-sort-value=\"2000\">, 2,000g",
+            "data-sort-value=\"500\">, 500g"
           ]
         ]
       }
@@ -365,14 +365,14 @@
           [
             "",
             "Sap",
-            "Wherever there are trees that can be chopped down",
-            "data-sort-value=\"2\"> 2g",
-            "−5 0",
+            "Wherever there are, trees, that can be chopped down",
+            "data-sort-value=\"2\">, 2g",
+            "−5, 0",
             "",
             "−5",
             "",
             "0",
-            "Basic Fertilizer Fiber Seeds Quality Bobber Quality Fertilizer Statue Of Blessings Trap Bobber Torch"
+            "Basic Fertilizer, Fiber Seeds, Quality Bobber, Quality Fertilizer, Statue Of Blessings, Trap Bobber, Torch"
           ],
           [
             "",
@@ -406,8 +406,8 @@
           [
             "",
             "Common Mushroom",
-            "Secret Woods (16%) Farm Cave (Mushroom option)",
-            "data-sort-value=\"40\" 40g 50g 60g 80g",
+            "Secret Woods, (16%), Farm Cave, (Mushroom option)",
+            "data-sort-value=\"40\", 40g, 50g, 60g, 80g",
             "",
             "40g",
             "",
@@ -416,7 +416,7 @@
             "60g",
             "",
             "80g",
-            "data-sort-value=\"15\" 38 17 53 23 68 30 98 44",
+            "data-sort-value=\"15\", 38, 17, 53, 23, 68, 30, 98, 44",
             "",
             "38",
             "",
@@ -433,7 +433,7 @@
             "98",
             "",
             "44",
-            "Fall Foraging Bundle Fall Seeds Fried Mushroom Stir Fry Tom Kha Soup Dried Mushrooms Pickles"
+            "Fall Foraging Bundle, Fall Seeds, Fried Mushroom, Stir Fry, Tom Kha Soup, Dried Mushrooms, Pickles"
           ],
           [
             "",
@@ -478,8 +478,8 @@
           [
             "",
             "Daffodil",
-            "Pelican Town (100%) Bus Stop (45%) Railroad (45%)",
-            "data-sort-value=\"30\" 30g 37g 45g 60g",
+            "Pelican Town, (100%), Bus Stop, (45%), Railroad, (45%)",
+            "data-sort-value=\"30\", 30g, 37g, 45g, 60g",
             "",
             "30g",
             "",
@@ -488,7 +488,7 @@
             "45g",
             "",
             "60g",
-            "data-sort-value=\"0\" 0 0 0 0 0 0 0 0",
+            "data-sort-value=\"0\", 0, 0, 0, 0, 0, 0, 0, 0",
             "",
             "0",
             "",
@@ -505,7 +505,7 @@
             "0",
             "",
             "0",
-            "Spring Foraging Bundle Spring Seeds Sandy (loved gift)"
+            "Spring Foraging Bundle, Spring Seeds, Sandy, (loved gift)"
           ],
           [
             "",
@@ -550,8 +550,8 @@
           [
             "",
             "Dandelion",
-            "Cindersap Forest (50%) Bus Stop (35%) Railroad (35%) Forest Farm (25%)",
-            "data-sort-value=\"40\" 40g 50g 60g 80g",
+            "Cindersap Forest, (50%), Bus Stop, (35%), Railroad, (35%), Forest Farm, (25%)",
+            "data-sort-value=\"40\", 40g, 50g, 60g, 80g",
             "",
             "40g",
             "",
@@ -560,7 +560,7 @@
             "60g",
             "",
             "80g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -577,7 +577,7 @@
             "65",
             "",
             "29",
-            "Spring Foraging Bundle Spring Seeds Salad Juice Pickles"
+            "Spring Foraging Bundle, Spring Seeds, Salad, Juice, Pickles"
           ],
           [
             "",
@@ -622,8 +622,8 @@
           [
             "",
             "Leek",
-            "Backwoods (58%) Mountain (58%) Forest Farm (25%) Bus Stop (20%) Railroad (20%)",
-            "data-sort-value=\"60\" 60g 75g 90g 120g",
+            "Backwoods, (58%), Mountain, (58%), Forest Farm, (25%), Bus Stop, (20%), Railroad, (20%)",
+            "data-sort-value=\"60\", 60g, 75g, 90g, 120g",
             "",
             "60g",
             "",
@@ -632,7 +632,7 @@
             "90g",
             "",
             "120g",
-            "data-sort-value=\"16\" 40 18 56 25 72 32 104 46",
+            "data-sort-value=\"16\", 40, 18, 56, 25, 72, 32, 104, 46",
             "",
             "40",
             "",
@@ -649,7 +649,7 @@
             "104",
             "",
             "46",
-            "Spring Foraging Bundle Spring Seeds Salad Juice Pickles George (loved gift)"
+            "Spring Foraging Bundle, Spring Seeds, Salad, Juice, Pickles, George, (loved gift)"
           ],
           [
             "",
@@ -694,8 +694,8 @@
           [
             "",
             "Morel",
-            "Secret Woods (32%) Forest Farm (25%) Farm Cave (Mushroom option)",
-            "data-sort-value=\"150\" 150g 187g 225g 300g",
+            "Secret Woods, (32%), Forest Farm, (25%), Farm Cave, (Mushroom option)",
+            "data-sort-value=\"150\", 150g, 187g, 225g, 300g",
             "",
             "150g",
             "",
@@ -704,7 +704,7 @@
             "225g",
             "",
             "300g",
-            "data-sort-value=\"8\" 20 9 28 12 36 16 52 23",
+            "data-sort-value=\"8\", 20, 9, 28, 12, 36, 16, 52, 23",
             "",
             "20",
             "",
@@ -721,7 +721,7 @@
             "52",
             "",
             "23",
-            "Exotic Foraging Bundle Fried Mushroom Life Elixir Dried Mushrooms Pickles"
+            "Exotic Foraging Bundle, Fried Mushroom, Life Elixir, Dried Mushrooms, Pickles"
           ],
           [
             "",
@@ -766,8 +766,8 @@
           [
             "",
             "Salmonberry",
-            "On bushes during Salmonberry Season ( Spring 15 - 18). Farm Cave (Fruit Bat option)",
-            "data-sort-value=\"5\" 5g 6g 7g 10g",
+            "On bushes during Salmonberry Season (, Spring, 15 - 18)., Farm Cave, (Fruit Bat option)",
+            "data-sort-value=\"5\", 5g, 6g, 7g, 10g",
             "",
             "5g",
             "",
@@ -776,7 +776,7 @@
             "7g",
             "",
             "10g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -793,7 +793,7 @@
             "65",
             "",
             "29",
-            "Dried Fruit Jelly Wine"
+            "Dried Fruit, Jelly, Wine"
           ],
           [
             "",
@@ -839,7 +839,7 @@
             "",
             "Spring Onion",
             "Cindersap Forest",
-            "data-sort-value=\"8\" 8g 10g 12g 16g",
+            "data-sort-value=\"8\", 8g, 10g, 12g, 16g",
             "",
             "8g",
             "",
@@ -848,7 +848,7 @@
             "12g",
             "",
             "16g",
-            "data-sort-value=\"5\" 13 5 18 8 23 10 33 14",
+            "data-sort-value=\"5\", 13, 5, 18, 8, 23, 10, 33, 14",
             "",
             "13",
             "",
@@ -865,7 +865,7 @@
             "33",
             "",
             "14",
-            "Juice Pickles"
+            "Juice, Pickles"
           ],
           [
             "",
@@ -910,8 +910,8 @@
           [
             "",
             "Wild Horseradish",
-            "Secret Woods (52%) Cindersap Forest (50%) Backwoods (42%) Mountain (42%) Forest Farm (25%)",
-            "data-sort-value=\"50\" 50g 62g 75g 100g",
+            "Secret Woods, (52%), Cindersap Forest, (50%), Backwoods, (42%), Mountain, (42%), Forest Farm, (25%)",
+            "data-sort-value=\"50\", 50g, 62g, 75g, 100g",
             "",
             "50g",
             "",
@@ -920,7 +920,7 @@
             "75g",
             "",
             "100g",
-            "data-sort-value=\"5\" 13 5 18 8 23 10 33 14",
+            "data-sort-value=\"5\", 13, 5, 18, 8, 23, 10, 33, 14",
             "",
             "13",
             "",
@@ -937,7 +937,7 @@
             "33",
             "",
             "14",
-            "Spring Foraging Bundle Spring Seeds Shrimp Cocktail Juice Pickles Krobus (loved gift)"
+            "Spring Foraging Bundle, Spring Seeds, Shrimp Cocktail, Juice, Pickles, Krobus, (loved gift)"
           ],
           [
             "",
@@ -1005,8 +1005,8 @@
           [
             "",
             "Common Mushroom",
-            "Forest Farm (25%) Farm Cave (Mushroom option)",
-            "data-sort-value=\"40\" 40g 50g 60g 80g",
+            "Forest Farm, (25%), Farm Cave, (Mushroom option)",
+            "data-sort-value=\"40\", 40g, 50g, 60g, 80g",
             "",
             "40g",
             "",
@@ -1015,7 +1015,7 @@
             "60g",
             "",
             "80g",
-            "data-sort-value=\"15\" 38 17 53 23 68 30 98 44",
+            "data-sort-value=\"15\", 38, 17, 53, 23, 68, 30, 98, 44",
             "",
             "38",
             "",
@@ -1032,7 +1032,7 @@
             "98",
             "",
             "44",
-            "Fall Foraging Bundle Fall Seeds Fried Mushroom Stir Fry Tom Kha Soup Dried Mushrooms Pickles"
+            "Fall Foraging Bundle, Fall Seeds, Fried Mushroom, Stir Fry, Tom Kha Soup, Dried Mushrooms, Pickles"
           ],
           [
             "",
@@ -1077,8 +1077,8 @@
           [
             "",
             "Fiddlehead Fern",
-            "Secret Woods (78%)",
-            "data-sort-value=\"90\" 90g 112g 135g 180g",
+            "Secret Woods, (78%)",
+            "data-sort-value=\"90\", 90g, 112g, 135g, 180g",
             "",
             "90g",
             "",
@@ -1087,7 +1087,7 @@
             "135g",
             "",
             "180g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -1104,7 +1104,7 @@
             "65",
             "",
             "29",
-            "Chef's Bundle Fiddlehead Risotto Juice Pickles"
+            "Chef's Bundle, Fiddlehead Risotto, Juice, Pickles"
           ],
           [
             "",
@@ -1149,8 +1149,8 @@
           [
             "",
             "Grape",
-            "Backwoods (62%) Mountain (62%) Bus Stop (27%) Railroad (27%) Forest Farm (25%)",
-            "data-sort-value=\"80\" 80g 100g 120g 160g",
+            "Backwoods, (62%), Mountain, (62%), Bus Stop, (27%), Railroad, (27%), Forest Farm, (25%)",
+            "data-sort-value=\"80\", 80g, 100g, 120g, 160g",
             "",
             "80g",
             "",
@@ -1159,7 +1159,7 @@
             "120g",
             "",
             "160g",
-            "data-sort-value=\"15\" 38 17 53 23 68 30 98 44",
+            "data-sort-value=\"15\", 38, 17, 53, 23, 68, 30, 98, 44",
             "",
             "38",
             "",
@@ -1176,7 +1176,7 @@
             "98",
             "",
             "44",
-            "Summer Foraging Bundle Summer Seeds Jelly Raisins Wine Vincent (loved gift)"
+            "Summer Foraging Bundle, Summer Seeds, Jelly, Raisins, Wine, Vincent, (loved gift)"
           ],
           [
             "",
@@ -1221,8 +1221,8 @@
           [
             "",
             "Red Mushroom",
-            "Secret Woods (22%) Farm Cave (Mushroom option)",
-            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "Secret Woods, (22%), Farm Cave, (Mushroom option)",
+            "data-sort-value=\"75\", 75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -1231,7 +1231,7 @@
             "112g",
             "",
             "150g",
-            "data-sort-value=\"-20\" −50 0 −70 0 −90 0 −130 0",
+            "data-sort-value=\"-20\", −50, 0, −70, 0, −90, 0, −130, 0",
             "",
             "−50",
             "",
@@ -1248,7 +1248,7 @@
             "−130",
             "",
             "0",
-            "Exotic Foraging Bundle Dye Bundle Life Elixir"
+            "Exotic Foraging Bundle, Dye Bundle, Life Elixir"
           ],
           [
             "",
@@ -1293,8 +1293,8 @@
           [
             "",
             "Spice Berry",
-            "Cindersap Forest (40%) Backwoods (38%) Mountain (38%) Bus Stop (27%) Railroad (27%) Forest Farm (25%) Farm Cave (Fruit Bat option)",
-            "data-sort-value=\"80\" 80g 100g 120g 160g",
+            "Cindersap Forest, (40%), Backwoods, (38%), Mountain, (38%), Bus Stop, (27%), Railroad, (27%), Forest Farm, (25%), Farm Cave, (Fruit Bat option)",
+            "data-sort-value=\"80\", 80g, 100g, 120g, 160g",
             "",
             "80g",
             "",
@@ -1303,7 +1303,7 @@
             "120g",
             "",
             "160g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -1320,7 +1320,7 @@
             "65",
             "",
             "29",
-            "Summer Foraging Bundle Summer Seeds Dried Fruit Jelly Wine"
+            "Summer Foraging Bundle, Summer Seeds, Dried Fruit, Jelly, Wine"
           ],
           [
             "",
@@ -1365,8 +1365,8 @@
           [
             "",
             "Sweet Pea",
-            "Pelican Town (100%) Cindersap Forest (60%) Bus Stop (47%) Railroad (47%) Forest Farm (25%)",
-            "data-sort-value=\"50\" 50g 62g 75g 100g",
+            "Pelican Town, (100%), Cindersap Forest, (60%), Bus Stop, (47%), Railroad, (47%), Forest Farm, (25%)",
+            "data-sort-value=\"50\", 50g, 62g, 75g, 100g",
             "",
             "50g",
             "",
@@ -1375,7 +1375,7 @@
             "75g",
             "",
             "100g",
-            "data-sort-value=\"0\" 0 0 0 0 0 0 0 0",
+            "data-sort-value=\"0\", 0, 0, 0, 0, 0, 0, 0, 0",
             "",
             "0",
             "",
@@ -1392,7 +1392,7 @@
             "0",
             "",
             "0",
-            "Summer Foraging Bundle Summer Seeds Sandy (loved gift)"
+            "Summer Foraging Bundle, Summer Seeds, Sandy, (loved gift)"
           ],
           [
             "",
@@ -1460,8 +1460,8 @@
           [
             "",
             "Blackberry",
-            "Pelican Town (100%) Cindersap Forest (50%) Railroad (38%) On bushes during Blackberry Season ( Fall 8 - 11) Farm Cave (Fruit Bat option)",
-            "data-sort-value=\"20\" 20g 25g 30g 40g",
+            "Pelican Town, (100%), Cindersap Forest, (50%), Railroad, (38%), On bushes during Blackberry Season (, Fall, 8 - 11), Farm Cave, (Fruit Bat option)",
+            "data-sort-value=\"20\", 20g, 25g, 30g, 40g",
             "",
             "20g",
             "",
@@ -1470,7 +1470,7 @@
             "30g",
             "",
             "40g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -1487,7 +1487,7 @@
             "65",
             "",
             "29",
-            "Fall Foraging Bundle Fall Seeds Blackberry Cobbler Dried Fruit Jelly Wine"
+            "Fall Foraging Bundle, Fall Seeds, Blackberry Cobbler, Dried Fruit, Jelly, Wine"
           ],
           [
             "",
@@ -1532,8 +1532,8 @@
           [
             "",
             "Chanterelle",
-            "Secret Woods (38%) Forest Farm (25%) Farm Cave (Mushroom option)",
-            "data-sort-value=\"160\" 160g 200g 240g 320g",
+            "Secret Woods, (38%), Forest Farm, (25%), Farm Cave, (Mushroom option)",
+            "data-sort-value=\"160\", 160g, 200g, 240g, 320g",
             "",
             "160g",
             "",
@@ -1542,7 +1542,7 @@
             "240g",
             "",
             "320g",
-            "data-sort-value=\"30\" 75 33 105 47 135 60 195 87",
+            "data-sort-value=\"30\", 75, 33, 105, 47, 135, 60, 195, 87",
             "",
             "75",
             "",
@@ -1559,7 +1559,7 @@
             "195",
             "",
             "87",
-            "Life Elixir Dried Mushrooms Pickles"
+            "Life Elixir, Dried Mushrooms, Pickles"
           ],
           [
             "",
@@ -1604,8 +1604,8 @@
           [
             "",
             "Common Mushroom",
-            "Cindersap Forest (50%) Secret Woods (46%) Forest Farm (25%) Mountain (24%) Backwoods (24%) Farm Cave (Mushroom option)",
-            "data-sort-value=\"40\" 40g 50g 60g 80g",
+            "Cindersap Forest, (50%), Secret Woods, (46%), Forest Farm, (25%), Mountain, (24%), Backwoods, (24%), Farm Cave, (Mushroom option)",
+            "data-sort-value=\"40\", 40g, 50g, 60g, 80g",
             "",
             "40g",
             "",
@@ -1614,7 +1614,7 @@
             "60g",
             "",
             "80g",
-            "data-sort-value=\"15\" 38 17 53 23 68 30 98 44",
+            "data-sort-value=\"15\", 38, 17, 53, 23, 68, 30, 98, 44",
             "",
             "38",
             "",
@@ -1631,7 +1631,7 @@
             "98",
             "",
             "44",
-            "Fall Foraging Bundle Fall Seeds Fried Mushroom Tom Kha Soup Stir Fry Dried Mushrooms Pickles"
+            "Fall Foraging Bundle, Fall Seeds, Fried Mushroom, Tom Kha Soup, Stir Fry, Dried Mushrooms, Pickles"
           ],
           [
             "",
@@ -1676,8 +1676,8 @@
           [
             "",
             "Hazelnut",
-            "Backwoods (53%) Mountain (53%) Bus Stop (40%) Railroad (25%) Shaking Maple Trees on or after Fall 14",
-            "data-sort-value=\"90\" 90g 112g 135g 180g",
+            "Backwoods, (53%), Mountain, (53%), Bus Stop, (40%), Railroad, (25%), Shaking, Maple Trees, on or after, Fall, 14",
+            "data-sort-value=\"90\", 90g, 112g, 135g, 180g",
             "",
             "90g",
             "",
@@ -1686,7 +1686,7 @@
             "135g",
             "",
             "180g",
-            "data-sort-value=\"12\" 30 13 42 18 54 24 78 35",
+            "data-sort-value=\"12\", 30, 13, 42, 18, 54, 24, 78, 35",
             "",
             "30",
             "",
@@ -1703,7 +1703,7 @@
             "78",
             "",
             "35",
-            "Fall Foraging Bundle Fall Seeds Roasted Hazelnuts Stuffing Juice Pickles"
+            "Fall Foraging Bundle, Fall Seeds, Roasted Hazelnuts, Stuffing, Juice, Pickles"
           ],
           [
             "",
@@ -1748,8 +1748,8 @@
           [
             "",
             "Purple Mushroom",
-            "Forest Farm (25%) Farm Cave (Mushroom option)",
-            "data-sort-value=\"250\" 250g 312g 375g 500g",
+            "Forest Farm, (25%), Farm Cave, (Mushroom option)",
+            "data-sort-value=\"250\", 250g, 312g, 375g, 500g",
             "",
             "250g",
             "",
@@ -1758,7 +1758,7 @@
             "375g",
             "",
             "500g",
-            "data-sort-value=\"50\" 125 56 175 78 225 101 325 146",
+            "data-sort-value=\"50\", 125, 56, 175, 78, 225, 101, 325, 146",
             "",
             "125",
             "",
@@ -1775,7 +1775,7 @@
             "325",
             "",
             "146",
-            "Exotic Foraging Bundle Field Research Bundle Life Elixir Dried Mushrooms Pickles Wizard (loved gift)"
+            "Exotic Foraging Bundle, Field Research Bundle, Life Elixir, Dried Mushrooms, Pickles, Wizard, (loved gift)"
           ],
           [
             "",
@@ -1820,8 +1820,8 @@
           [
             "",
             "Red Mushroom",
-            "Forest Farm (25%) Secret Woods (15%) Farm Cave (Mushroom option)",
-            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "Forest Farm, (25%), Secret Woods, (15%), Farm Cave, (Mushroom option)",
+            "data-sort-value=\"75\", 75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -1830,7 +1830,7 @@
             "112g",
             "",
             "150g",
-            "data-sort-value=\"-20\" −50 0 −70 0 −90 0 −130 0",
+            "data-sort-value=\"-20\", −50, 0, −70, 0, −90, 0, −130, 0",
             "",
             "−50",
             "",
@@ -1847,7 +1847,7 @@
             "−130",
             "",
             "0",
-            "Exotic Foraging Bundle Dye Bundle Life Elixir"
+            "Exotic Foraging Bundle, Dye Bundle, Life Elixir"
           ],
           [
             "",
@@ -1892,8 +1892,8 @@
           [
             "",
             "Wild Plum",
-            "Bus Stop (60%) Railroad (38%) Backwoods (24%) Mountain (24%) Farm Cave (Fruit Bat option)",
-            "data-sort-value=\"80\" 80g 100g 120g 160g",
+            "Bus Stop, (60%), Railroad, (38%), Backwoods, (24%), Mountain, (24%), Farm Cave, (Fruit Bat option)",
+            "data-sort-value=\"80\", 80g, 100g, 120g, 160g",
             "",
             "80g",
             "",
@@ -1902,7 +1902,7 @@
             "120g",
             "",
             "160g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -1919,7 +1919,7 @@
             "65",
             "",
             "29",
-            "Fall Foraging Bundle Fall Seeds Plum Pudding Dried Fruit Jelly Wine"
+            "Fall Foraging Bundle, Fall Seeds, Plum Pudding, Dried Fruit, Jelly, Wine"
           ],
           [
             "",
@@ -1987,8 +1987,8 @@
           [
             "",
             "Crocus",
-            "Pelican Town (54%) Railroad (50%) Bus Stop (42%) Mountain (40%) Cindersap Forest (39%) Backwoods (35%)",
-            "data-sort-value=\"60\" 60g 75g 90g 120g",
+            "Pelican Town, (54%), Railroad, (50%), Bus Stop, (42%), Mountain, (40%), Cindersap Forest, (39%), Backwoods, (35%)",
+            "data-sort-value=\"60\", 60g, 75g, 90g, 120g",
             "",
             "60g",
             "",
@@ -1997,7 +1997,7 @@
             "90g",
             "",
             "120g",
-            "data-sort-value=\"0\" 0 0 0 0 0 0 0 0",
+            "data-sort-value=\"0\", 0, 0, 0, 0, 0, 0, 0, 0",
             "",
             "0",
             "",
@@ -2014,7 +2014,7 @@
             "0",
             "",
             "0",
-            "Winter Foraging Bundle Winter Seeds Sandy (loved gift)"
+            "Winter Foraging Bundle, Winter Seeds, Sandy, (loved gift)"
           ],
           [
             "",
@@ -2059,8 +2059,8 @@
           [
             "",
             "Crystal Fruit",
-            "Railroad (50%) Cindersap Forest (39%) Mountain (38%) Bus Stop (23%) Backwoods (22%) Pelican Town (8%)",
-            "data-sort-value=\"150\" 150g 187g 225g 300g",
+            "Railroad, (50%), Cindersap Forest, (39%), Mountain, (38%), Bus Stop, (23%), Backwoods, (22%), Pelican Town, (8%)",
+            "data-sort-value=\"150\", 150g, 187g, 225g, 300g",
             "",
             "150g",
             "",
@@ -2069,7 +2069,7 @@
             "225g",
             "",
             "300g",
-            "data-sort-value=\"25\" 63 28 88 39 113 50 163 73",
+            "data-sort-value=\"25\", 63, 28, 88, 39, 113, 50, 163, 73",
             "",
             "63",
             "",
@@ -2086,7 +2086,7 @@
             "163",
             "",
             "73",
-            "Winter Foraging Bundle Winter Seeds Dried Fruit Jelly Wine"
+            "Winter Foraging Bundle, Winter Seeds, Dried Fruit, Jelly, Wine"
           ],
           [
             "",
@@ -2131,8 +2131,8 @@
           [
             "",
             "Holly",
-            "Secret Woods (100%) Backwoods (43%) Pelican Town (38%) Bus Stop (35%) Cindersap Forest (22%) Mountain (22%)",
-            "data-sort-value=\"80\" 80g 100g 120g 160g",
+            "Secret Woods, (100%), Backwoods, (43%), Pelican Town, (38%), Bus Stop, (35%), Cindersap Forest, (22%), Mountain, (22%)",
+            "data-sort-value=\"80\", 80g, 100g, 120g, 160g",
             "",
             "80g",
             "",
@@ -2141,7 +2141,7 @@
             "120g",
             "",
             "160g",
-            "data-sort-value=\"-15\" −37 0 −52 0 −67 0 −97 0",
+            "data-sort-value=\"-15\", −37, 0, −52, 0, −67, 0, −97, 0",
             "",
             "−37",
             "",
@@ -2158,7 +2158,7 @@
             "−97",
             "",
             "0",
-            "remixed Winter Foraging Bundle Winter Star Bundle"
+            "remixed Winter Foraging Bundle, Winter Star Bundle"
           ],
           [
             "",
@@ -2203,8 +2203,8 @@
           [
             "",
             "Snow Yam",
-            "Tilling soil throughout Stardew Valley",
-            "data-sort-value=\"100\" 100g 125g 150g 200g",
+            "Tilling, soil throughout Stardew Valley",
+            "data-sort-value=\"100\", 100g, 125g, 150g, 200g",
             "",
             "100g",
             "",
@@ -2213,7 +2213,7 @@
             "150g",
             "",
             "200g",
-            "data-sort-value=\"12\" 30 13 42 18 54 24 78 35",
+            "data-sort-value=\"12\", 30, 13, 42, 18, 54, 24, 78, 35",
             "",
             "30",
             "",
@@ -2230,7 +2230,7 @@
             "78",
             "",
             "35",
-            "Winter Foraging Bundle Winter Seeds Juice Pickles"
+            "Winter Foraging Bundle, Winter Seeds, Juice, Pickles"
           ],
           [
             "",
@@ -2275,8 +2275,8 @@
           [
             "",
             "Winter Root",
-            "Tilling soil throughout Stardew Valley",
-            "data-sort-value=\"70\" 70g 87g 105g 140g",
+            "Tilling, soil throughout Stardew Valley",
+            "data-sort-value=\"70\", 70g, 87g, 105g, 140g",
             "",
             "70g",
             "",
@@ -2285,7 +2285,7 @@
             "105g",
             "",
             "140g",
-            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "data-sort-value=\"10\", 25, 11, 35, 15, 45, 20, 65, 29",
             "",
             "25",
             "",
@@ -2302,7 +2302,7 @@
             "65",
             "",
             "29",
-            "Winter Foraging Bundle Winter Seeds Roots Platter Juice Pickles"
+            "Winter Foraging Bundle, Winter Seeds, Roots Platter, Juice, Pickles"
           ],
           [
             "",
@@ -2369,7 +2369,7 @@
             "",
             "Clam",
             "All",
-            "data-sort-value=\"50\" 50g 62g 75g 100g",
+            "data-sort-value=\"50\", 50g, 62g, 75g, 100g",
             "",
             "50g",
             "",
@@ -2378,7 +2378,7 @@
             "75g",
             "",
             "100g",
-            "Chowder Crab Pot Bundle"
+            "Chowder, Crab Pot Bundle"
           ],
           [
             "",
@@ -2400,7 +2400,7 @@
             "",
             "Cockle",
             "All",
-            "data-sort-value=\"50\" 50g 62g 75g 100g",
+            "data-sort-value=\"50\", 50g, 62g, 75g, 100g",
             "",
             "50g",
             "",
@@ -2431,7 +2431,7 @@
             "",
             "Coral",
             "All",
-            "data-sort-value=\"80\" 80g 100g 120g 160g",
+            "data-sort-value=\"80\", 80g, 100g, 120g, 160g",
             "",
             "80g",
             "",
@@ -2462,7 +2462,7 @@
             "",
             "Mussel",
             "All",
-            "data-sort-value=\"30\" 30g 37g 45g 60g",
+            "data-sort-value=\"30\", 30g, 37g, 45g, 60g",
             "",
             "30g",
             "",
@@ -2471,7 +2471,7 @@
             "45g",
             "",
             "60g",
-            "Fish Stew Crab Pot Bundle"
+            "Fish Stew, Crab Pot Bundle"
           ],
           [
             "",
@@ -2493,7 +2493,7 @@
             "",
             "Nautilus Shell",
             "Winter",
-            "data-sort-value=\"120\" 120g 150g 180g 240g",
+            "data-sort-value=\"120\", 120g, 150g, 180g, 240g",
             "",
             "120g",
             "",
@@ -2524,7 +2524,7 @@
             "",
             "Oyster",
             "All",
-            "data-sort-value=\"40\" 40g 50g 60g 80g",
+            "data-sort-value=\"40\", 40g, 50g, 60g, 80g",
             "",
             "40g",
             "",
@@ -2555,7 +2555,7 @@
             "",
             "Rainbow Shell",
             "Summer",
-            "data-sort-value=\"300\" 300g 375g 450g 600g",
+            "data-sort-value=\"300\", 300g, 375g, 450g, 600g",
             "",
             "300g",
             "",
@@ -2586,7 +2586,7 @@
             "",
             "Sea Urchin",
             "All",
-            "data-sort-value=\"160\" 160g 200g 240g 320g",
+            "data-sort-value=\"160\", 160g, 200g, 240g, 320g",
             "",
             "160g",
             "",
@@ -2617,10 +2617,10 @@
             "",
             "Seaweed",
             "All",
-            "data-sort-value=\"20\" 20g",
+            "data-sort-value=\"20\", 20g",
             "",
             "20g",
-            "Maki Roll Fish Pond"
+            "Maki Roll, Fish Pond"
           ],
           [
             "",
@@ -2650,15 +2650,15 @@
           [
             "",
             "Cave Carrot",
-            "data-sort-value=\"25\" 25g",
+            "data-sort-value=\"25\", 25g",
             "",
             "25g",
-            "data-sort-value=\"12\" 30 13",
+            "data-sort-value=\"12\", 30, 13",
             "",
             "30",
             "",
             "13",
-            "Exotic Foraging Bundle Survival Burger Miner's Treat Roots Platter Stir Fry Juice Pickles"
+            "Exotic Foraging Bundle, Survival Burger, Miner's Treat, Roots Platter, Stir Fry, Juice, Pickles"
           ],
           [
             "",
@@ -2673,7 +2673,7 @@
           [
             "",
             "Red Mushroom",
-            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "data-sort-value=\"75\", 75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -2682,7 +2682,7 @@
             "112g",
             "",
             "150g",
-            "data-sort-value=\"-20\" −50 0 −70 0 −90 0 −130 0",
+            "data-sort-value=\"-20\", −50, 0, −70, 0, −90, 0, −130, 0",
             "",
             "−50",
             "",
@@ -2699,7 +2699,7 @@
             "−130",
             "",
             "0",
-            "Exotic Foraging Bundle Dye Bundle Life Elixir"
+            "Exotic Foraging Bundle, Dye Bundle, Life Elixir"
           ],
           [
             "",
@@ -2744,7 +2744,7 @@
           [
             "",
             "Purple Mushroom",
-            "data-sort-value=\"250\" 250g 312g 375g 500g",
+            "data-sort-value=\"250\", 250g, 312g, 375g, 500g",
             "",
             "250g",
             "",
@@ -2753,7 +2753,7 @@
             "375g",
             "",
             "500g",
-            "data-sort-value=\"50\" 125 56 175 78 225 101 325 146",
+            "data-sort-value=\"50\", 125, 56, 175, 78, 225, 101, 325, 146",
             "",
             "125",
             "",
@@ -2770,7 +2770,7 @@
             "325",
             "",
             "146",
-            "Exotic Foraging Bundle Field Research Bundle Life Elixir Dried Mushrooms Pickles Wizard (loved gift)"
+            "Exotic Foraging Bundle, Field Research Bundle, Life Elixir, Dried Mushrooms, Pickles, Wizard, (loved gift)"
           ],
           [
             "",
@@ -2836,7 +2836,7 @@
           [
             "",
             "Cactus Fruit",
-            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "data-sort-value=\"75\", 75g, 93g, 112g, 150g",
             "",
             "75g",
             "",
@@ -2845,7 +2845,7 @@
             "112g",
             "",
             "150g",
-            "data-sort-value=\"30\" 75 33 105 47 135 60 195 87",
+            "data-sort-value=\"30\", 75, 33, 105, 47, 135, 60, 195, 87",
             "",
             "75",
             "",
@@ -2862,7 +2862,7 @@
             "195",
             "",
             "87",
-            "Exotic Foraging Bundle Dried Fruit Jelly Wine Linus (loved gift) Pam (loved gift) Sam (loved gift)"
+            "Exotic Foraging Bundle, Dried Fruit, Jelly, Wine, Linus, (loved gift), Pam, (loved gift), Sam, (loved gift)"
           ],
           [
             "",
@@ -2907,7 +2907,7 @@
           [
             "",
             "Coconut",
-            "data-sort-value=\"100\" 100g 125g 150g 200g",
+            "data-sort-value=\"100\", 100g, 125g, 150g, 200g",
             "",
             "100g",
             "",
@@ -2917,7 +2917,7 @@
             "",
             "200g",
             "Inedible",
-            "Exotic Foraging Bundle Tom Kha Soup Dried Fruit Jelly Wine Haley (loved gift) Linus (loved gift)"
+            "Exotic Foraging Bundle, Tom Kha Soup, Dried Fruit, Jelly, Wine, Haley, (loved gift), Linus, (loved gift)"
           ],
           [
             "",
@@ -2961,16 +2961,16 @@
           [
             "",
             "Ginger",
-            "Throughout Ginger Island , especially Island West and Island North",
-            "data-sort-value=\"60\" 60g",
+            "Throughout, Ginger Island, , especially Island West and Island North",
+            "data-sort-value=\"60\", 60g",
             "",
             "60g",
-            "data-sort-value=\"10\" 25 11",
+            "data-sort-value=\"10\", 25, 11",
             "",
             "25",
             "",
             "11",
-            "Juice Pickles Ginger Ale Cures the Nauseated debuff"
+            "Juice, Pickles, Ginger Ale, Cures the, Nauseated, debuff"
           ],
           [
             "",
@@ -2985,8 +2985,8 @@
           [
             "",
             "Magma Cap",
-            "Throughout the Volcano Dungeon",
-            "data-sort-value=\"400\" 400g 500g 600g 800g",
+            "Throughout the, Volcano Dungeon",
+            "data-sort-value=\"400\", 400g, 500g, 600g, 800g",
             "",
             "400g",
             "",
@@ -2995,7 +2995,7 @@
             "600g",
             "",
             "800g",
-            "data-sort-value=\"70\" 175 78 245 110 315 141 455 204",
+            "data-sort-value=\"70\", 175, 78, 245, 110, 315, 141, 455, 204",
             "",
             "175",
             "",
@@ -3012,7 +3012,7 @@
             "455",
             "",
             "204",
-            "Dried Mushrooms Pickles"
+            "Dried Mushrooms, Pickles"
           ],
           [
             "",
@@ -3065,15 +3065,15 @@
         ],
         "rows": [
           [
-            "Skills & Stats"
+            "Skills, & Stats"
           ],
           [
             "Skills",
-            "Farming • Mining • Foraging • Fishing • Combat"
+            "Farming, •, Mining, •, Foraging, •, Fishing, •, Combat"
           ],
           [
             "Stats",
-            "Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight"
+            "Attack, •, Crit. Chance, •, Crit. Power, •, Defense, •, Immunity, •, Luck, •, Magnetism, •, Speed, •, Weight"
           ]
         ]
       }
@@ -3094,39 +3094,39 @@
           ],
           [
             "Spring",
-            "Common Mushroom • Daffodil • Dandelion • Leek • Morel • Salmonberry • Spring Onion • Wild Horseradish"
+            "Common Mushroom, •, Daffodil, •, Dandelion, •, Leek, •, Morel, •, Salmonberry, •, Spring Onion, •, Wild Horseradish"
           ],
           [
             "Summer",
-            "Fiddlehead Fern • Grape • Red Mushroom • Spice Berry • Sweet Pea"
+            "Fiddlehead Fern, •, Grape, •, Red Mushroom, •, Spice Berry, •, Sweet Pea"
           ],
           [
             "Fall",
-            "Blackberry • Chanterelle • Common Mushroom • Hazelnut • Wild Plum"
+            "Blackberry, •, Chanterelle, •, Common Mushroom, •, Hazelnut, •, Wild Plum"
           ],
           [
             "Winter",
-            "Crocus • Crystal Fruit • Holly • Snow Yam • Winter Root"
+            "Crocus, •, Crystal Fruit, •, Holly, •, Snow Yam, •, Winter Root"
           ],
           [
             "The Beach",
-            "Clam • Cockle • Coral • Mussel • Nautilus Shell • Oyster • Rainbow Shell • Sea Urchin • Seaweed"
+            "Clam, •, Cockle, •, Coral, •, Mussel, •, Nautilus Shell, •, Oyster, •, Rainbow Shell, •, Sea Urchin, •, Seaweed"
           ],
           [
             "The Mines",
-            "Cave Carrot • Purple Mushroom • Red Mushroom"
+            "Cave Carrot, •, Purple Mushroom, •, Red Mushroom"
           ],
           [
             "The Desert",
-            "Cactus Fruit • Coconut"
+            "Cactus Fruit, •, Coconut"
           ],
           [
             "Skull Cavern",
-            "Dinosaur Egg • Fiddlehead Fern"
+            "Dinosaur Egg, •, Fiddlehead Fern"
           ],
           [
             "Ginger Island",
-            "Ginger • Magma Cap"
+            "Ginger, •, Magma Cap"
           ]
         ]
       }

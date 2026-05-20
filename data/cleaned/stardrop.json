@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Stardrop A mysterious fruit that empowers those who eat it. The flavor is like a dream... a powerful personal experience, yet difficult to describe to others. Information Source Various Buff(s) Max Energy (+34) Buff Duration Permanent Energy / Health 100% 0\nA Stardrop is a special item that permanently increases the player 's maximum energy by 34 points. The player must immediately consume any Stardrop as soon as it is obtained; it is impossible to add a Stardrop to inventory or save it to eat later.\nA maximum of seven Stardrops are available in any game, which together result in 508 maximum energy, nearly doubling the initial value of 270. Finding all Stardrops is necessary to achieve Perfection .\nConsuming a Stardrop will restore all of the player's energy as well as increase maximum energy, regardless of how low the energy was before consuming it. No health is restored when consuming a stardrop."
+      "content": "A Stardrop is a special item that permanently increases the player 's maximum energy by 34 points. The player must immediately consume any Stardrop as soon as it is obtained; it is impossible to add a Stardrop to inventory or save it to eat later.\nA maximum of seven Stardrops are available in any game, which together result in 508 maximum energy, nearly doubling the initial value of 270. Finding all Stardrops is necessary to achieve Perfection .\nConsuming a Stardrop will restore all of the player's energy as well as increase maximum energy, regardless of how low the energy was before consuming it. No health is restored when consuming a stardrop."
     },
     {
       "heading": "Locations",
@@ -35,5 +35,42 @@
       "content": "- 1.3.27 : Added Stardrop from spouse in multiplayer . Fixed bugs allowing a Stardrop to be taken into inventory .\n- 1.4 : Fixed bug where extra text was appended at the end of the favorite thing dialogue text.\n- 1.5 : Finding all Stardrops is now required to achieve Perfection .\n- 1.6.9 : Fixed stardrop tooltips showing incorrect health/energy recovery amounts."
     }
   ],
-  "tables": []
+  "tables": [
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Stardrop"
+          ],
+          [
+            ""
+          ],
+          [
+            "A mysterious fruit that empowers those who eat it. The flavor is like a dream... a powerful personal experience, yet difficult to describe to others."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Various"
+          ],
+          [
+            "Buff(s)",
+            "Max Energy, (+34)"
+          ],
+          [
+            "Buff Duration",
+            "Permanent"
+          ],
+          [
+            "Energy, /, Health",
+            "100%, 0"
+          ]
+        ]
+      }
+    }
+  ]
 }

@@ -70,12 +70,12 @@
             "Choose a Profession:"
           ],
           [
-            "Scarecrow Basic Fertilizer",
-            "Mayonnaise Machine Stone Fence Sprinkler",
-            "Bee House Speed-Gro Farmer's Lunch",
-            "Preserves Jar Basic Retaining Soil Iron Fence",
-            "Rancher Animal products worth 20% more.",
-            "Tiller Crops worth 10% more. (Bonus applies to all Vegetables and Flowers , plus any Fruit that has not been foraged )"
+            "Scarecrow, Basic Fertilizer",
+            "Mayonnaise Machine, Stone Fence, Sprinkler",
+            "Bee House, Speed-Gro, Farmer's Lunch",
+            "Preserves Jar, Basic Retaining Soil, Iron Fence",
+            "Rancher, Animal, products worth 20% more.",
+            "Tiller, Crops, worth 10% more., (Bonus applies to all, Vegetables, and, Flowers, , plus any, Fruit, that has not been, foraged, )"
           ],
           [
             ""
@@ -96,16 +96,16 @@
             "Tiller:"
           ],
           [
-            "Cheese Press Hardwood Fence Quality Sprinkler",
-            "Loom Quality Retaining Soil",
-            "Oil Maker Keg Deluxe Speed-Gro",
-            "Seed Maker Iridium Sprinkler Quality Fertilizer",
-            "Coopmaster Befriend coop animals quicker. Incubation time (for Incubator , Ostrich Incubator , and Slime Incubator ) cut in half. (Also improves coop product quality, see details here )",
-            "Artisan Artisan goods (wine, cheese, oil, etc.) worth 40% more. (Note that oil does not actually benefit from the Artisan Profession)"
+            "Cheese Press, Hardwood Fence, Quality Sprinkler",
+            "Loom, Quality Retaining Soil",
+            "Oil Maker, Keg, Deluxe Speed-Gro",
+            "Seed Maker, Iridium Sprinkler, Quality Fertilizer",
+            "Coopmaster, Befriend, coop animals, quicker. Incubation time (for, Incubator, ,, Ostrich Incubator, , and, Slime Incubator, ) cut in half., (Also improves coop product quality, see details, here, )",
+            "Artisan, Artisan goods, (wine, cheese, oil, etc.) worth 40% more., (Note that, oil, does not actually benefit from the Artisan Profession)"
           ],
           [
-            "Shepherd Befriend barn animals quicker. Sheep produce wool faster. (Also improves barn product quality, see details here )",
-            "Agriculturist All crops grow 10% faster."
+            "Shepherd, Befriend, barn animals, quicker., Sheep, produce wool faster., (Also improves barn product quality, see details, here, )",
+            "Agriculturist, All, crops, grow 10% faster."
           ]
         ]
       }
@@ -152,7 +152,7 @@
             "Details"
           ],
           [
-            "The game normally calculates animal product quality using a score for each animal with the following formula: (( Friendship /1000) - (1 - ( Mood /225)) (interestingly, the game doesn't factor in daily luck in this calculation) For example, an animal with 1000 Friendship and 255 Mood (max friendship and mood) would be calculated thus: =(( 1000 /1000) - (1 - ( 255 /225)) =1 - (1 - 1.1333...) =1 + 0.1333... = 1.1333... The game will begin checking what quality to create by first seeing if the whole score is above 0.95. If it is, the score divided by 2 will be compared against a random number between 0-1. If the score divided by 2 is greater than the random number, the item will be Iridium quality. If the score is below 0.95 or the check fails, the score divided by 2 will then be compared against a random number between 0-1. If the score divided by 2 is greater than the random number, the item will be Gold quality. If that check also fails, the whole score will then be compared against a random number between 0-1. If it is greater than the random number, the item will be Silver quality. Finally, if that check also fails, the item will be normal quality (though in the example above, the score is higher than 1, so a check for silver quality will always succeed if the two prior fail). (Note that the 0.333 bonus to the score by the Coopmaster and Shepherd professions is applied to the whole score, not the halved score.) Since the score is above 1 and the odds of normal quality produce can be ignored, the odds in this example without the bonus 0.333 can be calculated as: 1.1333 / 2 = 0.56665 = 56.665% iridium (1 - 0.56665) × (1.1333 / 2) = 0.24556 = 24.556% gold 1 - 0.56665 - 0.24556 = 0.18779 = 18.779% silver Since iridium products are worth 2× base price, gold products are worth 1.5× base price, and silver products are worth 1.25× base price, we can then calculate the percentage of base price in profits this results in: =(0.56665 × 2) + (0.24556 × 1.5) + (0.18779 × 1.25) = 1.13330 + 0.36834 + 0.23474 = 1.73638 = 173.638%"
+            "The game normally calculates animal product quality using a, score, for each animal with the following formula:, ((, Friendship, /1000) - (1 - (, Mood, /225)), (interestingly, the game doesn't factor in daily luck in this calculation), For example, an animal with, 1000 Friendship, and, 255 Mood, (max friendship and mood) would be calculated thus:, =((, 1000, /1000) - (1 - (, 255, /225)), =1 - (1 - 1.1333...), =1 + 0.1333..., =, 1.1333..., The game will begin checking what quality to create by first seeing if the, whole score, is above 0.95. If it is, the, score divided by 2, will be compared against a random number between 0-1. If the, score divided by 2, is greater than the random number, the item will be Iridium quality. If the score is below 0.95 or the check fails, the, score divided by 2, will then be compared against a random number between 0-1. If the, score divided by 2, is greater than the random number, the item will be Gold quality. If that check also fails, the, whole score, will then be compared against a random number between 0-1. If it is greater than the random number, the item will be Silver quality. Finally, if that check also fails, the item will be normal quality (though in the example above, the score is higher than 1, so a check for silver quality will always succeed if the two prior fail)., (Note that the 0.333 bonus to the score by the Coopmaster and Shepherd professions is applied to the whole score, not the halved score.), Since the score is above 1 and the odds of normal quality produce can be ignored, the odds in this example without the bonus 0.333 can be calculated as:, 1.1333 / 2 = 0.56665 =, 56.665% iridium, (1 - 0.56665) × (1.1333 / 2) = 0.24556 =, 24.556% gold, 1 - 0.56665 - 0.24556 = 0.18779 =, 18.779% silver, Since iridium products are worth 2× base price, gold products are worth 1.5× base price, and silver products are worth 1.25× base price, we can then calculate the percentage of base price in profits this results in:, =(0.56665 × 2) + (0.24556 × 1.5) + (0.18779 × 1.25), = 1.13330 + 0.36834 + 0.23474, = 1.73638 =, 173.638%"
           ]
         ]
       }
@@ -679,7 +679,7 @@
           ],
           [
             "Silver",
-            "2 * chance for gold quality (capped at 75%)"
+            "2 * chance for gold quality, (capped at 75%)"
           ],
           [
             "Iridium",
@@ -1061,15 +1061,15 @@
             "",
             "Complete Breakfast",
             "You'll feel ready to take on the world!",
-            "Fried Egg (1) Milk (1) Hashbrowns (1) Pancakes (1)",
-            "200 90",
-            "Farming (+2) Max Energy (+50)",
+            "Fried Egg, (1), Milk, (1), Hashbrowns, (1), Pancakes, (1)",
+            "200, 90",
+            "Farming, (+2), Max Energy, (+50)",
             "7m",
-            "The Queen of Sauce 21 Spring, Year 2",
+            "The Queen of Sauce, 21 Spring, Year 2",
             "",
             "The Queen of Sauce",
             "21 Spring, Year 2",
-            "data-sort-value=\"350\"> 350g"
+            "data-sort-value=\"350\">, 350g"
           ],
           [
             "",
@@ -1082,15 +1082,15 @@
             "",
             "Hashbrowns",
             "Crispy and golden-brown!",
-            "Potato (1) Oil (1)",
-            "90 40",
-            "Farming (+1)",
+            "Potato, (1), Oil, (1)",
+            "90, 40",
+            "Farming, (+1)",
             "5m 35s",
-            "The Queen of Sauce 14 Spring, Year 2 Stardrop Saloon for data-sort-value=\"50\"> 50g",
+            "The Queen of Sauce, 14 Spring, Year 2, Stardrop Saloon, for, data-sort-value=\"50\">, 50g",
             "",
             "The Queen of Sauce",
             "14 Spring, Year 2",
-            "data-sort-value=\"120\"> 120g"
+            "data-sort-value=\"120\">, 120g"
           ],
           [
             "",
@@ -1103,48 +1103,48 @@
             "",
             "Pepper Poppers",
             "Spicy breaded peppers filled with cheese.",
-            "Hot Pepper (1) Cheese (1)",
-            "130 58",
-            "Farming (+2) Speed (+1)",
+            "Hot Pepper, (1), Cheese, (1)",
+            "130, 58",
+            "Farming, (+2), Speed, (+1)",
             "7m",
-            "Shane (Mail - 3+ )",
-            "data-sort-value=\"200\"> 200g"
+            "Shane, (Mail - 3+, )",
+            "data-sort-value=\"200\">, 200g"
           ],
           [
             "",
             "Tom Kha Soup",
             "These flavors are incredible!",
-            "Coconut (1) Shrimp (1) Common Mushroom (1)",
-            "175 78",
-            "Farming (+2) Max Energy (+30)",
+            "Coconut, (1), Shrimp, (1), Common Mushroom, (1)",
+            "175, 78",
+            "Farming, (+2), Max Energy, (+30)",
             "7m",
-            "Sandy (Mail - 7+ )",
-            "data-sort-value=\"250\"> 250g"
+            "Sandy, (Mail - 7+, )",
+            "data-sort-value=\"250\">, 250g"
           ],
           [
             "",
             "Farmer's Lunch",
             "This'll keep you going.",
-            "Omelet (1) Parsnip (1)",
-            "200 90",
-            "Farming (+3)",
+            "Omelet, (1), Parsnip, (1)",
+            "200, 90",
+            "Farming, (+3)",
             "5m 35s",
-            "Farming Level 3",
-            "data-sort-value=\"150\"> 150g"
+            "Farming, Level 3",
+            "data-sort-value=\"150\">, 150g"
           ],
           [
             "",
             "Maple Bar",
             "It's a sweet doughnut topped with a rich maple glaze.",
-            "Maple Syrup (1) Sugar (1) Wheat Flour (1)",
-            "225 101",
-            "Farming (+1) Fishing (+1) Mining (+1)",
+            "Maple Syrup, (1), Sugar, (1), Wheat Flour, (1)",
+            "225, 101",
+            "Farming, (+1), Fishing, (+1), Mining, (+1)",
             "16m 47s",
-            "The Queen of Sauce 14 Summer, Year 2",
+            "The Queen of Sauce, 14 Summer, Year 2",
             "",
             "The Queen of Sauce",
             "14 Summer, Year 2",
-            "data-sort-value=\"300\"> 300g"
+            "data-sort-value=\"300\">, 300g"
           ],
           [
             "",
@@ -1168,15 +1168,15 @@
           ],
           [
             "Spring",
-            "Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice"
+            "Blue Jazz, •, Carrot, •, Cauliflower, •, Coffee Bean, •, Garlic, •, Green Bean, •, Kale, •, Parsnip, •, Potato, •, Rhubarb, •, Strawberry, •, Tulip, •, Unmilled Rice"
           ],
           [
             "Summer",
-            "Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat"
+            "Blueberry, •, Coffee Bean, •, Corn, •, Hops, •, Hot Pepper, •, Melon, •, Poppy, •, Radish, •, Red Cabbage, •, Starfruit, •, Summer Spangle, •, Summer Squash, •, Sunflower, •, Tomato, •, Wheat"
           ],
           [
             "Fall",
-            "Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam"
+            "Amaranth, •, Artichoke, •, Beet, •, Bok Choy, •, Broccoli, •, Corn, •, Cranberries, •, Eggplant, •, Fairy Rose, •, Grape, •, Pumpkin, •, Sunflower, •, Wheat, •, Yam"
           ],
           [
             "Winter",
@@ -1184,7 +1184,7 @@
           ],
           [
             "Special",
-            "Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves"
+            "Ancient Fruit, •, Cactus Fruit, •, Pineapple, •, Qi Fruit, •, Sweet Gem Berry, •, Taro Root, •, Tea Leaves"
           ]
         ]
       }
@@ -1197,15 +1197,15 @@
         ],
         "rows": [
           [
-            "Skills & Stats"
+            "Skills, & Stats"
           ],
           [
             "Skills",
-            "Farming • Mining • Foraging • Fishing • Combat"
+            "Farming, •, Mining, •, Foraging, •, Fishing, •, Combat"
           ],
           [
             "Stats",
-            "Attack • Crit. Chance • Crit. Power • Defense • Immunity • Luck • Magnetism • Speed • Weight"
+            "Attack, •, Crit. Chance, •, Crit. Power, •, Defense, •, Immunity, •, Luck, •, Magnetism, •, Speed, •, Weight"
           ]
         ]
       }

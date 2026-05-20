@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Clint Information Birthday Winter 26 Lives In Pelican Town Address Blacksmith Marriage No Clinic Visit Winter 16 Loved Gifts Amethyst Aquamarine Artichoke Dip Emerald Fiddlehead Risotto Gold Bar Iridium Bar Jade Omni Geode Ruby Topaz\nClint is a villager who lives in Pelican Town . He owns and runs the local Blacksmith ."
+      "content": "Clint is a villager who lives in Pelican Town . He owns and runs the local Blacksmith ."
     },
     {
       "heading": "Schedule",
@@ -74,6 +74,47 @@
         "headers": [],
         "rows": [
           [
+            "Clint"
+          ],
+          [
+            ""
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Birthday",
+            "Winter, 26"
+          ],
+          [
+            "Lives In",
+            "Pelican Town"
+          ],
+          [
+            "Address",
+            "Blacksmith"
+          ],
+          [
+            "Marriage",
+            "No"
+          ],
+          [
+            "Clinic Visit",
+            "Winter, 16"
+          ],
+          [
+            "Loved Gifts",
+            "Amethyst, Aquamarine, Artichoke Dip, Emerald, Fiddlehead Risotto, Gold Bar, Iridium Bar, Jade, Omni Geode, Ruby, Topaz"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
             "“",
             "“It's nicer to work outdoors than by a hot furnace all day. I'm only a blacksmith because my father pushed me into it.”"
           ],
@@ -95,11 +136,11 @@
           ],
           [
             "11:20 AM",
-            "Boards the bus to Calico Desert to attend the Desert Festival ."
+            "Boards the bus to, Calico Desert, to attend the, Desert Festival, ."
           ],
           [
             "11:40 AM",
-            "Stands east of the Oasis ."
+            "Stands east of the, Oasis, ."
           ],
           [
             "1:30 AM",
@@ -120,11 +161,11 @@
           ],
           [
             "11:10 AM",
-            "Boards the bus to Calico Desert ."
+            "Boards the bus to, Calico Desert, ."
           ],
           [
             "11:30 AM",
-            "Arrives at his booth ."
+            "Arrives at his, booth, ."
           ],
           [
             "12:00 AM",
@@ -145,11 +186,11 @@
           ],
           [
             "8:50 AM",
-            "Behind the counter of the Blacksmith ."
+            "Behind the counter of the, Blacksmith, ."
           ],
           [
             "5:00 PM",
-            "Leaves the Blacksmith to attend the Night Market ."
+            "Leaves the Blacksmith to attend the, Night Market, ."
           ],
           [
             "12:00 AM",
@@ -170,11 +211,11 @@
           ],
           [
             "9:00 AM",
-            "Behind the counter of the Blacksmith ."
+            "Behind the counter of the, Blacksmith, ."
           ],
           [
             "10:30 AM",
-            "Leaves the Blacksmith to go to the waiting room of Harvey's Clinic ."
+            "Leaves the, Blacksmith, to go to the waiting room of, Harvey's Clinic, ."
           ],
           [
             "1:30 PM",
@@ -182,7 +223,7 @@
           ],
           [
             "4:00 PM",
-            "Leaves the Clinic for The Saloon ."
+            "Leaves the, Clinic, for, The Saloon, ."
           ],
           [
             "12:00 AM",
@@ -203,7 +244,7 @@
           ],
           [
             "6:00 AM",
-            "Leaves home and heads to the Saloon ."
+            "Leaves home and heads to, the Saloon, ."
           ],
           [
             "7:20 AM",
@@ -224,7 +265,7 @@
           ],
           [
             "9:00 AM",
-            "Behind the counter of the Blacksmith ."
+            "Behind the counter of the, Blacksmith, ."
           ],
           [
             "5:00 PM",
@@ -232,7 +273,7 @@
           ],
           [
             "7:00 PM",
-            "Heads to The Saloon ."
+            "Heads to, The Saloon, ."
           ],
           [
             "12:00 AM",
@@ -253,11 +294,11 @@
           ],
           [
             "8:50 AM",
-            "Leaves home, heads to the Community Center Boiler Room."
+            "Leaves home, heads to the, Community Center, Boiler Room."
           ],
           [
             "5:00 PM",
-            "Leaves the Community Center and heads to The Saloon ."
+            "Leaves the, Community Center, and heads to, The Saloon, ."
           ],
           [
             "12:00 AM",
@@ -278,7 +319,7 @@
           ],
           [
             "9:00 AM",
-            "Behind the counter of the Blacksmith ."
+            "Behind the counter of the, Blacksmith, ."
           ],
           [
             "5:00 PM",
@@ -286,7 +327,7 @@
           ],
           [
             "7:00 PM",
-            "Heads to The Saloon ."
+            "Heads to, The Saloon, ."
           ],
           [
             "8:20 PM",
@@ -306,7 +347,7 @@
         "rows": [
           [
             "“",
-            "“Dear Emily, I know you only think of me as a friend. It's my fault. I'm too shy. I'll never have the courage to tell you the truth. That's why I'm writing this letter to myself that I'll certainly crumple up and toss in the corner.”"
+            "“Dear Emily,, I know you only think of me as a friend., It's my fault. I'm too shy. I'll never have the courage to tell you the truth., That's why I'm writing this letter to myself that I'll certainly crumple up and toss in the corner.”"
           ]
         ]
       }
@@ -379,7 +420,7 @@
           ],
           [
             "",
-            "All Universal Loves"
+            "All, Universal Loves"
           ],
           [
             "",
@@ -400,7 +441,7 @@
             "Artichoke Dip",
             "It's cool and refreshing.",
             "Cooking",
-            "Artichoke (1) Milk (1)"
+            "Artichoke, (1), Milk, (1)"
           ],
           [
             "",
@@ -414,21 +455,21 @@
             "Fiddlehead Risotto",
             "A creamy rice dish served with sauteed fern heads. It's a little bland.",
             "Cooking",
-            "Oil (1) Fiddlehead Fern (1) Garlic (1)"
+            "Oil, (1), Fiddlehead Fern, (1), Garlic, (1)"
           ],
           [
             "",
             "Gold Bar",
             "A bar of pure gold.",
             "Furnace",
-            "Gold Ore (5) Coal (1)"
+            "Gold Ore, (5), Coal, (1)"
           ],
           [
             "",
             "Iridium Bar",
             "A bar of pure iridium.",
             "Furnace",
-            "Iridium Ore (5) Coal (1)"
+            "Iridium Ore, (5), Coal, (1)"
           ],
           [
             "",
@@ -480,7 +521,7 @@
         "rows": [
           [
             "“",
-            "“Oh, interesting... These books aren't very easy to come by in the valley. Looks like there's a lot of good tips in here. Thanks, (Name).”"
+            "“Oh, interesting... These books aren't very easy to come by in the valley., Looks like there's a lot of good tips in here. Thanks, (Name).”"
           ]
         ]
       }
@@ -505,21 +546,21 @@
           ],
           [
             "",
-            "All Universal Likes (except Flowers )"
+            "All, Universal Likes, (except, Flowers, )"
           ],
           [
             "",
             "Copper Bar",
             "A bar of pure copper.",
             "Furnace",
-            "Copper Ore (5) Coal (1)"
+            "Copper Ore, (5), Coal, (1)"
           ],
           [
             "",
             "Iron Bar",
             "A bar of pure iron.",
             "Furnace",
-            "Iron Ore (5) Coal (1)"
+            "Iron Ore, (5), Coal, (1)"
           ],
           [
             "",
@@ -561,19 +602,19 @@
           ],
           [
             "",
-            "All Universal Neutrals (except Mining Monthly ) All Eggs (except Void Egg )* All Fruit (except Fruit Tree Fruit & Salmonberry ) All Milk"
+            "All, Universal Neutrals, (except, Mining Monthly, ), All Eggs, (except, Void Egg, )*, All, Fruit, (except, Fruit Tree Fruit, &, Salmonberry, ), All Milk"
           ],
           [
             "",
             "Chanterelle",
             "A tasty mushroom with a fruity smell and slightly peppery flavor.",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
             "Common Mushroom",
             "Slightly nutty, with good texture.",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
@@ -585,19 +626,19 @@
             "",
             "Daffodil",
             "A traditional spring flower that makes a nice gift.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Dandelion",
             "Not the prettiest flower, but the leaves make a good salad.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Ginger",
             "This sharp, spicy root is said to increase vitality.",
-            "Foraging - Ginger Island"
+            "Foraging, -, Ginger Island"
           ],
           [
             "",
@@ -609,7 +650,7 @@
             "",
             "Hazelnut",
             "That's one big hazelnut!",
-            "Foraging - Fall"
+            "Foraging, -, Fall"
           ],
           [
             "",
@@ -621,25 +662,25 @@
             "",
             "Leek",
             "A tasty relative of the onion.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Magma Cap",
             "A very rare mushroom that lives next to pools of lava.",
-            "Foraging - Volcano Dungeon"
+            "Foraging, -, Volcano Dungeon"
           ],
           [
             "",
             "Morel",
             "Sought after for its unique nutty flavor.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Purple Mushroom",
             "A rare mushroom found deep in caves.",
-            "Foraging - The Mines"
+            "Foraging, -, The Mines"
           ],
           [
             "",
@@ -651,13 +692,13 @@
             "",
             "Snow Yam",
             "This little yam was hiding beneath the snow.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ],
           [
             "",
             "Winter Root",
             "A starchy tuber.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ]
         ]
       }
@@ -692,25 +733,25 @@
           ],
           [
             "",
-            "All Universal Dislikes (except Coal , Copper Bar , Gold Bar , Gold Ore , Iridium Bar , Iridium Ore , Iron Bar , Omni Geode , & Refined Quartz ) All Flowers (except Poppy )"
+            "All, Universal Dislikes, (except, Coal, ,, Copper Bar, ,, Gold Bar, ,, Gold Ore, ,, Iridium Bar, ,, Iridium Ore, ,, Iron Bar, ,, Omni Geode, , &, Refined Quartz, ), All, Flowers, (except, Poppy, )"
           ],
           [
             "",
             "Quartz",
             "A clear crystal commonly found in caves and mines.",
-            "Foraging - The Mines"
+            "Foraging, -, The Mines"
           ],
           [
             "",
             "Salmonberry",
             "A spring-time berry with the flavor of the forest.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ],
           [
             "",
             "Wild Horseradish",
             "A spicy root found in the spring.",
-            "Foraging - Spring"
+            "Foraging, -, Spring"
           ]
         ]
       }
@@ -745,13 +786,13 @@
           ],
           [
             "",
-            "All Universal Hates"
+            "All, Universal Hates"
           ],
           [
             "",
             "Holly",
             "The leaves and bright red berries make a popular winter decoration.",
-            "Foraging - Winter"
+            "Foraging, -, Winter"
           ]
         ]
       }
@@ -769,19 +810,19 @@
         ],
         "rows": [
           [
-            "Love N/A Like It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch Wumbus Dislike The Zuzu City Express",
+            "Love, N/A, Like, It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, Wumbus, Dislike, The Zuzu City Express",
             "Love",
             "N/A",
             "Like",
-            "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch Wumbus",
+            "It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, Wumbus",
             "Dislike",
             "The Zuzu City Express",
             "",
-            "Love Fries Stardrop Sorbet Dislike Apple Slices Black Licorice Hummus Snack Pack Jasmine Tea Joja Cola JojaCorn Kale Smoothie Panzanella Salad Like Everything else",
+            "Love, Fries, Stardrop Sorbet, Dislike, Apple Slices, Black Licorice, Hummus Snack Pack, Jasmine Tea, Joja Cola, JojaCorn, Kale Smoothie, Panzanella Salad, Like, Everything else",
             "Love",
-            "Fries Stardrop Sorbet",
+            "Fries, Stardrop Sorbet",
             "Dislike",
-            "Apple Slices Black Licorice Hummus Snack Pack Jasmine Tea Joja Cola JojaCorn Kale Smoothie Panzanella Salad",
+            "Apple Slices, Black Licorice, Hummus Snack Pack, Jasmine Tea, Joja Cola, JojaCorn, Kale Smoothie, Panzanella Salad",
             "Like",
             "Everything else"
           ],
@@ -795,7 +836,7 @@
             "Like"
           ],
           [
-            "It Howls In The Rain Journey Of The Prairie King: The Motion Picture Mysterium Natural Wonders: Exploring Our Vibrant World The Brave Little Sapling The Miracle At Coldstar Ranch Wumbus"
+            "It Howls In The Rain, Journey Of The Prairie King: The Motion Picture, Mysterium, Natural Wonders: Exploring Our Vibrant World, The Brave Little Sapling, The Miracle At Coldstar Ranch, Wumbus"
           ],
           [
             "Dislike"
@@ -807,13 +848,13 @@
             "Love"
           ],
           [
-            "Fries Stardrop Sorbet"
+            "Fries, Stardrop Sorbet"
           ],
           [
             "Dislike"
           ],
           [
-            "Apple Slices Black Licorice Hummus Snack Pack Jasmine Tea Joja Cola JojaCorn Kale Smoothie Panzanella Salad"
+            "Apple Slices, Black Licorice, Hummus Snack Pack, Jasmine Tea, Joja Cola, JojaCorn, Kale Smoothie, Panzanella Salad"
           ],
           [
             "Like"
@@ -835,19 +876,19 @@
             "Details"
           ],
           [
-            "Item Description Copper Bar Iron Bar Gold Bar Um, Hello... Sorry, I'm not good at writing letters. I made one metal bar too many, and I thought you might need it. -Clint, the blacksmith",
+            "Item, Description, Copper Bar, Iron Bar, Gold Bar, Um, Hello..., Sorry, I'm not good at writing letters. I made one metal bar too many, and I thought you might need it., -Clint, the blacksmith",
             "Item",
             "Description",
-            "Copper Bar Iron Bar Gold Bar",
-            "Um, Hello... Sorry, I'm not good at writing letters. I made one metal bar too many, and I thought you might need it. -Clint, the blacksmith"
+            "Copper Bar, Iron Bar, Gold Bar",
+            "Um, Hello..., Sorry, I'm not good at writing letters. I made one metal bar too many, and I thought you might need it., -Clint, the blacksmith"
           ],
           [
             "Item",
             "Description"
           ],
           [
-            "Copper Bar Iron Bar Gold Bar",
-            "Um, Hello... Sorry, I'm not good at writing letters. I made one metal bar too many, and I thought you might need it. -Clint, the blacksmith"
+            "Copper Bar, Iron Bar, Gold Bar",
+            "Um, Hello..., Sorry, I'm not good at writing letters. I made one metal bar too many, and I thought you might need it., -Clint, the blacksmith"
           ]
         ]
       }
@@ -863,7 +904,7 @@
             "Details"
           ],
           [
-            "Clint says he has terrible luck with women, and asks for your advice. \"Impress women with your strength and charm.\" (+25 friendship .) He responds, \"Okay... I'll keep that in mind.\" \"Act crazy, to keep people guessing.\" (+25 friendship .) He responds, \"Okay... I'll keep that in mind.\" \"Just act natural... be yourself.\" (No effect on friendship .) He responds, \"That's the problem... I do act natural... but I never have any success.\" \"Treat women the same as men.\" (+50 friendship .) He responds, \"Okay... I'll keep that in mind.\" Emily walks over to take Clint's order. Clint panics: \"Yes! (pause) Er.. I mean, I'll have the Big n' Cheesy. With extra sauce, please. (pause) \" Emily greets you, and Clint continues: \"Er... *ahem* Th...Thanks, Emily. For... taking my order. Um, Emily? I was...*gulp*... I was wondering... (pause) \" Emily prompts him, but Clint gives up and says nevermind. Emily pauses as sad music plays, then moves away to take Shane's order. Emily and Shane chat easily, and Clint is crestfallen: \"*sigh* I'm doomed...\""
+            "Clint says he has terrible luck with women, and asks for your advice., \"Impress women with your strength and charm.\", (+25, friendship, .), He responds, \"Okay... I'll keep that in mind.\", \"Act crazy, to keep people guessing.\", (+25, friendship, .), He responds, \"Okay... I'll keep that in mind.\", \"Just act natural... be yourself.\", (No effect on, friendship, .), He responds, \"That's the problem... I do act natural... but I never have any success.\", \"Treat women the same as men.\", (+50, friendship, .), He responds, \"Okay... I'll keep that in mind.\", Emily walks over to take Clint's order. Clint panics: \"Yes!, (pause), Er.. I mean, I'll have the Big n' Cheesy. With extra sauce, please., (pause), \" Emily greets you, and Clint continues: \"Er... *ahem* Th...Thanks, Emily. For... taking my order. Um, Emily? I was...*gulp*... I was wondering..., (pause), \" Emily prompts him, but Clint gives up and says nevermind. Emily pauses as sad music plays, then moves away to take Shane's order. Emily and Shane chat easily, and Clint is crestfallen: \"*sigh* I'm doomed...\""
           ]
         ]
       }
@@ -879,13 +920,13 @@
             "Details"
           ],
           [
-            "Image Recipe Description Algae Soup Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something. Take care. -Clint",
+            "Image, Recipe, Description, Algae Soup, Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something., Take care., -Clint",
             "Image",
             "Recipe",
             "Description",
             "",
             "Algae Soup",
-            "Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something. Take care. -Clint"
+            "Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something., Take care., -Clint"
           ],
           [
             "Image",
@@ -895,7 +936,7 @@
           [
             "",
             "Algae Soup",
-            "Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something. Take care. -Clint"
+            "Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something., Take care., -Clint"
           ]
         ]
       }
@@ -911,7 +952,7 @@
             "Details"
           ],
           [
-            "You find Clint watching Emily from the bushes. He says he was going to ask Emily out on a date, and got as far as her doorstep before he heard her coming and dove into the bushes. He says he's waiting for her to finish talking with Caroline so he can sneak back to his house. You threaten Clint with never upgrading your tools again if he doesn't ask her out, and he begrudgingly agrees. He approaches Emily and asks to speak to her privately. \"I was wondering if you'd go w... with... tomorrow, me... *gulp* (pause) I've got two tickets for the Grampleton Carnival tomorrow. W... Would you go with me?\" Emily says that sounds like fun and accepts; Clint responds that he'll pick her up tomorrow. Clint is ecstatic and nervous. He thanks you for forcing him to finally ask her out."
+            "You find Clint watching Emily from the bushes. He says he was going to ask Emily out on a date, and got as far as her doorstep before he heard her coming and dove into the bushes. He says he's waiting for her to finish talking with, Caroline, so he can sneak back to his house. You threaten Clint with never upgrading your tools again if he doesn't ask her out, and he begrudgingly agrees., He approaches Emily and asks to speak to her privately. \"I was wondering if you'd go w... with... tomorrow, me... *gulp*, (pause), I've got two tickets for the Grampleton Carnival tomorrow. W... Would you go with me?\" Emily says that sounds like fun and accepts; Clint responds that he'll pick her up tomorrow., Clint is ecstatic and nervous. He thanks you for forcing him to finally ask her out."
           ]
         ]
       }
@@ -927,13 +968,13 @@
             "Details"
           ],
           [
-            "Image Recipe Description Bean Hotpot Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something. Take care. -Clint",
+            "Image, Recipe, Description, Bean Hotpot, Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something., Take care., -Clint",
             "Image",
             "Recipe",
             "Description",
             "",
             "Bean Hotpot",
-            "Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something. Take care. -Clint"
+            "Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something., Take care., -Clint"
           ],
           [
             "Image",
@@ -943,7 +984,7 @@
           [
             "",
             "Bean Hotpot",
-            "Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something. Take care. -Clint"
+            "Well, I know a couple of recipes. I thought I'd send you one... maybe it'll help you mine more ore or something., Take care., -Clint"
           ]
         ]
       }
@@ -959,7 +1000,7 @@
             "Regular"
           ],
           [
-            "First Meeting “ “Er... hi. I'm Clint. I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy.” Regular “ “If you want me to upgrade your tools you'll have to give me the correct ore. And you'll have to pay me a fee, of course.” “ “Hey. What do you need?” “ “Business has been slow lately. You should upgrade your tools. I could use the cash.” “ “The weather doesn't really matter to me. I typically stay near my shop year-round. Depressing, huh?” “ “Sometimes I wonder how I ended up in this town.” “ “Don't you have work to do?” “ “So how are your tools holding up?” After passing out in the Mines “ “...I found you unconscious in the mines. I think I blew my back out, dragging you all the way up here. Be a little more careful next time, okay?” 6+ Hearts “ “Oh, hi [Player]. Sorry If I look a little messy. I've been working at the furnace all morning. So, did you need anything, or do you just want to visit?” “ “Damn it, I'm too old to do anything exciting anymore. All I have to look forward to is years and years of sweaty, hot furnace-work.” 8+ Hearts, Friday “ “I should save up and buy a computer. Maybe I can find a girlfriend on the 'internet'...\nWhat? Don't judge me! Not everyone is a cool, attractive, socially-adept farmer, you know!\nWhat's a guy like me supposed to do? *Groan*” Summer “ “Be glad you're a farmer, [Player]. It's nicer to work outdoors than by a hot furnace all day. I'm only a blacksmith because my father pushed me into it.” “ “Business has been slow lately. You should upgrade your tools. I could use the cash.” At Ginger Island “ “I'm gonna put on my special red trunks. They're supposed to be really eye-catching.” “ “Oh no... I forgot to clip my toenails.” “ “I thought working a furnace would have prepared me for this heat, but I'm sweating in places I didn't know I could. I hope no one noticed...” “ “Ow... my whole torso is burnt to a crisp.” “ “I'm hungry...” “ “*sigh*... We're all at the beach but I still feel so alone...” “ “Well, that didn't turn out like I was imagining...” If the player starts dating Emily “ “I... um... heard that you and Emily are together. Congratulations.” Green Rain Year 1 “ “It's situations like this where a person's true character is put to the test. I'll keep Em... I mean, I'll keep everyone safe from the toxic rain!” Years 2+ “ “I feel bad admitting it, but sometimes I wish there was a real disaster, not just some dumb green rain. Something to shake everything up, you know? Not that I want people to get hurt... I just want to feel alive... To feel like I have a purpose...” Green rain finished (next day) “ “Well that was a dud. And here I thought it was finally my chance to be a hero. Oh well... Back to the grindstone.”",
+            "First Meeting, “, “Er... hi. I'm Clint. I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy.”, Regular, “, “If you want me to upgrade your tools you'll have to give me the correct ore. And you'll have to pay me a fee, of course.”, “, “Hey. What do you need?”, “, “Business has been slow lately. You should upgrade your tools. I could use the cash.”, “, “The weather doesn't really matter to me. I typically stay near my shop year-round. Depressing, huh?”, “, “Sometimes I wonder how I ended up in this town.”, “, “Don't you have work to do?”, “, “So how are your tools holding up?”, After passing out in, the Mines, “, “...I found you unconscious in the mines. I think I blew my back out, dragging you all the way up here. Be a little more careful next time, okay?”, 6+ Hearts, “, “Oh, hi [Player]. Sorry If I look a little messy. I've been working at the furnace all morning. So, did you need anything, or do you just want to visit?”, “, “Damn it, I'm too old to do anything exciting anymore. All I have to look forward to is years and years of sweaty, hot furnace-work.”, 8+ Hearts, Friday, “, “I should save up and buy a computer., Maybe I can find a girlfriend on the 'internet'...\nWhat? Don't judge me! Not everyone is a cool, attractive, socially-adept farmer, you know!\nWhat's a guy like me supposed to do? *Groan*”, Summer, “, “Be glad you're a farmer, [Player]. It's nicer to work outdoors than by a hot furnace all day. I'm only a blacksmith because my father pushed me into it.”, “, “Business has been slow lately. You should upgrade your tools. I could use the cash.”, At Ginger Island, “, “I'm gonna put on my special red trunks. They're supposed to be really eye-catching.”, “, “Oh no... I forgot to clip my toenails.”, “, “I thought working a furnace would have prepared me for this heat, but I'm sweating in places I didn't know I could. I hope no one noticed...”, “, “Ow... my whole torso is burnt to a crisp.”, “, “I'm hungry...”, “, “*sigh*... We're all at the beach but I still feel so alone...”, “, “Well, that didn't turn out like I was imagining...”, If the player starts dating Emily, “, “I... um... heard that you and Emily are together. Congratulations.”, Green Rain, Year 1, “, “It's situations like this where a person's true character is put to the test. I'll keep Em... I mean, I'll keep everyone safe from the toxic rain!”, Years 2+, “, “I feel bad admitting it, but sometimes I wish there was a real disaster, not just some dumb green rain. Something to shake everything up, you know? Not that I want people to get hurt... I just want to feel alive... To feel like I have a purpose...”, Green rain finished (next day), “, “Well that was a dud. And here I thought it was finally my chance to be a hero. Oh well... Back to the grindstone.”",
             "“",
             "“Er... hi. I'm Clint. I'm the town blacksmith. If you ever need to upgrade your tools, I'm your guy.”",
             "“",
@@ -983,7 +1024,7 @@
             "“",
             "“Damn it, I'm too old to do anything exciting anymore. All I have to look forward to is years and years of sweaty, hot furnace-work.”",
             "“",
-            "“I should save up and buy a computer. Maybe I can find a girlfriend on the 'internet'...\nWhat? Don't judge me! Not everyone is a cool, attractive, socially-adept farmer, you know!\nWhat's a guy like me supposed to do? *Groan*”",
+            "“I should save up and buy a computer., Maybe I can find a girlfriend on the 'internet'...\nWhat? Don't judge me! Not everyone is a cool, attractive, socially-adept farmer, you know!\nWhat's a guy like me supposed to do? *Groan*”",
             "“",
             "“Be glad you're a farmer, [Player]. It's nicer to work outdoors than by a hot furnace all day. I'm only a blacksmith because my father pushed me into it.”",
             "“",
@@ -1057,7 +1098,7 @@
           ],
           [
             "“",
-            "“I should save up and buy a computer. Maybe I can find a girlfriend on the 'internet'...\nWhat? Don't judge me! Not everyone is a cool, attractive, socially-adept farmer, you know!\nWhat's a guy like me supposed to do? *Groan*”"
+            "“I should save up and buy a computer., Maybe I can find a girlfriend on the 'internet'...\nWhat? Don't judge me! Not everyone is a cool, attractive, socially-adept farmer, you know!\nWhat's a guy like me supposed to do? *Groan*”"
           ],
           [
             "“",
@@ -1125,7 +1166,7 @@
             "Events"
           ],
           [
-            "Egg Festival Odd-numbered year “ “Is there any more food?” Even-numbered year “ “Oh no... *gulp*... It's mostly salad this year...” Desert Festival “ “Hey, [Player]. To tell you the truth, I don't really like festivals. But I'd feel even worse if I stayed at home, knowing everyone else was out here having fun.” If a shop owner “ “Need any ores?” Flower Dance Odd-numbered year “ “I wonder if Emily would dance with me?” Even-numbered year “ “*sigh* Everyone is partnered up... and here I am alone, once again… Ah well... I'll just drown my sorrows with some of that sweet and tangy jelly.” The Luau Odd-numbered year “ “I'm full, but what else is there to do besides eat?” Even-numbered year “ “*munch* This festival always has the best food.” Dance of the Moonlight Jellies Odd-numbered year “ “I wore my special shoes tonight... No one noticed.” Even-numbered year “ “I got too close to a wave, and it soaked my foot...” Stardew Valley Fair Odd-numbered year “ “I complain about my job sometimes, but I do take pride in my work. These are some of my finest pieces. I hope you like them.” Even-numbered year “ “It's heartening to see others take an interest in my work. Makes me feel like I'm doing something good in the world. I finished some of these pieces just last week. Please inspect them closely, I stand behind my work!” Spirit's Eve Odd-numbered year “ “One of my iridium-infused maces would make quick work of these things.” Even-numbered year “ “I already made it through the maze... now it's time to kick back with a pumpkin ale! ...I'm trying my best to ignore the spider infestation behind me.” Festival of Ice Odd-numbered year “ “Emily started helping me without any provocation... does that mean something? *gulp*” Even-numbered year “ “These lumps of snow won't form into balls… I think I'm better working in the heat than in the cold.” Night Market “ “I have a doctor's appointment tomorrow... Maybe the mermaid show will calm my nerves? But what if they think I'm ogling... *gulp*” Feast of the Winter Star Odd-numbered year “ “*sigh*... All these happy families. But for me, just another lonely year.” Even-numbered year “ “I could use some new blacksmithing tools. Mine have gotten a little rusty over the years.”",
+            "Egg Festival, Odd-numbered year, “, “Is there any more food?”, Even-numbered year, “, “Oh no... *gulp*... It's mostly salad this year...”, Desert Festival, “, “Hey, [Player]. To tell you the truth, I don't really like festivals. But I'd feel even worse if I stayed at home, knowing everyone else was out here having fun.”, If a shop owner, “, “Need any ores?”, Flower Dance, Odd-numbered year, “, “I wonder if Emily would dance with me?”, Even-numbered year, “, “*sigh* Everyone is partnered up... and here I am alone, once again…, Ah well... I'll just drown my sorrows with some of that sweet and tangy jelly.”, The Luau, Odd-numbered year, “, “I'm full, but what else is there to do besides eat?”, Even-numbered year, “, “*munch* This festival always has the best food.”, Dance of the Moonlight Jellies, Odd-numbered year, “, “I wore my special shoes tonight... No one noticed.”, Even-numbered year, “, “I got too close to a wave, and it soaked my foot...”, Stardew Valley Fair, Odd-numbered year, “, “I complain about my job sometimes, but I do take pride in my work., These are some of my finest pieces. I hope you like them.”, Even-numbered year, “, “It's heartening to see others take an interest in my work. Makes me feel like I'm doing something good in the world., I finished some of these pieces just last week. Please inspect them closely, I stand behind my work!”, Spirit's Eve, Odd-numbered year, “, “One of my iridium-infused maces would make quick work of these things.”, Even-numbered year, “, “I already made it through the maze... now it's time to kick back with a pumpkin ale!, ...I'm trying my best to ignore the spider infestation behind me.”, Festival of Ice, Odd-numbered year, “, “Emily started helping me without any provocation... does that mean something? *gulp*”, Even-numbered year, “, “These lumps of snow won't form into balls…, I think I'm better working in the heat than in the cold.”, Night Market, “, “I have a doctor's appointment tomorrow... Maybe the mermaid show will calm my nerves? But what if they think I'm ogling... *gulp*”, Feast of the Winter Star, Odd-numbered year, “, “*sigh*... All these happy families. But for me, just another lonely year.”, Even-numbered year, “, “I could use some new blacksmithing tools. Mine have gotten a little rusty over the years.”",
             "“",
             "“Is there any more food?”",
             "“",
@@ -1137,7 +1178,7 @@
             "“",
             "“I wonder if Emily would dance with me?”",
             "“",
-            "“*sigh* Everyone is partnered up... and here I am alone, once again… Ah well... I'll just drown my sorrows with some of that sweet and tangy jelly.”",
+            "“*sigh* Everyone is partnered up... and here I am alone, once again…, Ah well... I'll just drown my sorrows with some of that sweet and tangy jelly.”",
             "“",
             "“I'm full, but what else is there to do besides eat?”",
             "“",
@@ -1147,17 +1188,17 @@
             "“",
             "“I got too close to a wave, and it soaked my foot...”",
             "“",
-            "“I complain about my job sometimes, but I do take pride in my work. These are some of my finest pieces. I hope you like them.”",
+            "“I complain about my job sometimes, but I do take pride in my work., These are some of my finest pieces. I hope you like them.”",
             "“",
-            "“It's heartening to see others take an interest in my work. Makes me feel like I'm doing something good in the world. I finished some of these pieces just last week. Please inspect them closely, I stand behind my work!”",
+            "“It's heartening to see others take an interest in my work. Makes me feel like I'm doing something good in the world., I finished some of these pieces just last week. Please inspect them closely, I stand behind my work!”",
             "“",
             "“One of my iridium-infused maces would make quick work of these things.”",
             "“",
-            "“I already made it through the maze... now it's time to kick back with a pumpkin ale! ...I'm trying my best to ignore the spider infestation behind me.”",
+            "“I already made it through the maze... now it's time to kick back with a pumpkin ale!, ...I'm trying my best to ignore the spider infestation behind me.”",
             "“",
             "“Emily started helping me without any provocation... does that mean something? *gulp*”",
             "“",
-            "“These lumps of snow won't form into balls… I think I'm better working in the heat than in the cold.”",
+            "“These lumps of snow won't form into balls…, I think I'm better working in the heat than in the cold.”",
             "“",
             "“I have a doctor's appointment tomorrow... Maybe the mermaid show will calm my nerves? But what if they think I'm ogling... *gulp*”",
             "“",
@@ -1187,7 +1228,7 @@
           ],
           [
             "“",
-            "“*sigh* Everyone is partnered up... and here I am alone, once again… Ah well... I'll just drown my sorrows with some of that sweet and tangy jelly.”"
+            "“*sigh* Everyone is partnered up... and here I am alone, once again…, Ah well... I'll just drown my sorrows with some of that sweet and tangy jelly.”"
           ],
           [
             "“",
@@ -1207,11 +1248,11 @@
           ],
           [
             "“",
-            "“I complain about my job sometimes, but I do take pride in my work. These are some of my finest pieces. I hope you like them.”"
+            "“I complain about my job sometimes, but I do take pride in my work., These are some of my finest pieces. I hope you like them.”"
           ],
           [
             "“",
-            "“It's heartening to see others take an interest in my work. Makes me feel like I'm doing something good in the world. I finished some of these pieces just last week. Please inspect them closely, I stand behind my work!”"
+            "“It's heartening to see others take an interest in my work. Makes me feel like I'm doing something good in the world., I finished some of these pieces just last week. Please inspect them closely, I stand behind my work!”"
           ],
           [
             "“",
@@ -1219,7 +1260,7 @@
           ],
           [
             "“",
-            "“I already made it through the maze... now it's time to kick back with a pumpkin ale! ...I'm trying my best to ignore the spider infestation behind me.”"
+            "“I already made it through the maze... now it's time to kick back with a pumpkin ale!, ...I'm trying my best to ignore the spider infestation behind me.”"
           ],
           [
             "“",
@@ -1227,7 +1268,7 @@
           ],
           [
             "“",
-            "“These lumps of snow won't form into balls… I think I'm better working in the heat than in the cold.”"
+            "“These lumps of snow won't form into balls…, I think I'm better working in the heat than in the cold.”"
           ],
           [
             "“",
@@ -1251,7 +1292,7 @@
         "rows": [
           [
             "“",
-            "“Yep. I'm a blacksmith. My father was also a blacksmith. My grandfather was a blacksmith as well. I bet you can't guess what my great-grandfather was...”"
+            "“Yep. I'm a blacksmith. My father was also a blacksmith. My grandfather was a blacksmith as well., I bet you can't guess what my great-grandfather was...”"
           ]
         ]
       }
@@ -1268,19 +1309,19 @@
           ],
           [
             "Bachelors",
-            "Alex • Elliott • Harvey • Sam • Sebastian • Shane"
+            "Alex, •, Elliott, •, Harvey, •, Sam, •, Sebastian, •, Shane"
           ],
           [
             "Bachelorettes",
-            "Abigail • Emily • Haley • Leah • Maru • Penny"
+            "Abigail, •, Emily, •, Haley, •, Leah, •, Maru, •, Penny"
           ],
           [
             "Townspeople",
-            "Caroline • Clint • Demetrius • Evelyn • George • Gil • Gunther • Gus • Jas • Jodi • Kent • Lewis • Linus • Marlon • Marnie • Pam • Pierre • Robin • Vincent • Willy"
+            "Caroline, •, Clint, •, Demetrius, •, Evelyn, •, George, •, Gil, •, Gunther, •, Gus, •, Jas, •, Jodi, •, Kent, •, Lewis, •, Linus, •, Marlon, •, Marnie, •, Pam, •, Pierre, •, Robin, •, Vincent, •, Willy"
           ],
           [
             "Other",
-            "Birdie • Bouncer • Dwarf • Fizz • Governor • Grandpa • Henchman • Junimos • Krobus • Leo • Morris • Mr. Qi • Old Mariner • Professor Snail • Sandy • Wizard"
+            "Birdie, •, Bouncer, •, Dwarf, •, Fizz, •, Governor, •, Grandpa, •, Henchman, •, Junimos, •, Krobus, •, Leo, •, Morris, •, Mr. Qi, •, Old Mariner, •, Professor Snail, •, Sandy, •, Wizard"
           ]
         ]
       }

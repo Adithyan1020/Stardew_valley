@@ -4,7 +4,7 @@
   "sections": [
     {
       "heading": "Introduction",
-      "content": "Truffle Oil A gourmet cooking ingredient. Information Source Artisan Goods • Desert Festival • Truffle Crabs • Traveling Cart Energy / Health 38 17 Sell Prices Base Artisan (+40%) 1,065g 1,491g Artisan Goods Equipment Oil Maker Processing Time 360m (6h) Ingredients Truffle (1)\nTruffle Oil is an Artisan Good made in the Oil Maker from a Truffle , taking 6 hours to produce. It can also be dropped from Truffle Crabs . One may be purchased from Marnie 's shop at the Desert Festival for data-sort-value=\"50\"> 50 Calico Eggs . Occasionally the Traveling Cart will offer it in her rotating stock.\nDespite being listed as \"A gourmet cooking ingredient\" there are no cooking recipes that use it, but it is used to make the Rain Totem ."
+      "content": "Truffle Oil is an Artisan Good made in the Oil Maker from a Truffle , taking 6 hours to produce. It can also be dropped from Truffle Crabs . One may be purchased from Marnie 's shop at the Desert Festival for data-sort-value=\"50\"> 50 Calico Eggs . Occasionally the Traveling Cart will offer it in her rotating stock.\nDespite being listed as \"A gourmet cooking ingredient\" there are no cooking recipes that use it, but it is used to make the Rain Totem ."
     },
     {
       "heading": "Bundles",
@@ -33,6 +33,163 @@
   ],
   "tables": [
     {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Truffle Oil"
+          ],
+          [
+            ""
+          ],
+          [
+            "A gourmet cooking ingredient."
+          ],
+          [
+            "Information"
+          ],
+          [
+            "Source",
+            "Artisan Goods, •, Desert Festival, •, Truffle Crabs, •, Traveling Cart"
+          ],
+          [
+            "Energy, /, Health",
+            "38, 17",
+            "",
+            "38",
+            "",
+            "17"
+          ],
+          [
+            "",
+            "38",
+            "",
+            "17"
+          ],
+          [
+            "Sell Prices, Base, Artisan, (+40%), 1,065g, 1,491g",
+            "Sell Prices",
+            "Base",
+            "Artisan, (+40%)",
+            "1,065g",
+            "",
+            "1,065g",
+            "1,491g",
+            "",
+            "1,491g"
+          ],
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Artisan, (+40%)"
+          ],
+          [
+            "1,065g",
+            "",
+            "1,065g",
+            "1,491g",
+            "",
+            "1,491g"
+          ],
+          [
+            "",
+            "1,065g"
+          ],
+          [
+            "",
+            "1,491g"
+          ],
+          [
+            "Artisan Goods"
+          ],
+          [
+            "Equipment",
+            "Oil Maker"
+          ],
+          [
+            "Processing Time",
+            "360m (6h)"
+          ],
+          [
+            "Ingredients",
+            "Truffle, (1)"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "38",
+            "",
+            "17"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Sell Prices"
+          ],
+          [
+            "Base",
+            "Artisan, (+40%)"
+          ],
+          [
+            "1,065g",
+            "",
+            "1,065g",
+            "1,491g",
+            "",
+            "1,491g"
+          ],
+          [
+            "",
+            "1,065g"
+          ],
+          [
+            "",
+            "1,491g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "1,065g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Introduction",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "",
+            "1,491g"
+          ]
+        ]
+      }
+    },
+    {
       "section": "Gifting",
       "table": {
         "headers": [
@@ -48,11 +205,11 @@
           ],
           [
             "Like",
-            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Shane • Willy • Wizard"
+            "Abigail, •, Alex, •, Caroline, •, Clint, •, Demetrius, •, Dwarf, •, Elliott, •, Emily, •, Evelyn, •, George, •, Gus, •, Haley, •, Jodi, •, Kent, •, Krobus, •, Leah, •, Leo, •, Lewis, •, Linus, •, Marnie, •, Maru, •, Pam, •, Penny, •, Pierre, •, Robin, •, Sam, •, Sandy, •, Shane, •, Willy, •, Wizard"
           ],
           [
             "Hate",
-            "Jas • Sebastian • Vincent"
+            "Jas, •, Sebastian, •, Vincent"
           ]
         ]
       }
@@ -81,9 +238,9 @@
             "",
             "Rain Totem",
             "Activate to greatly increase the chance for rain tomorrow. Consumed on use.",
-            "Hardwood (1) Truffle Oil (1) Pine Tar (5)",
-            "Foraging Level 9",
-            "data-sort-value=\"20\"> 20g"
+            "Hardwood, (1), Truffle Oil, (1), Pine Tar, (5)",
+            "Foraging, Level 9",
+            "data-sort-value=\"20\">, 20g"
           ]
         ]
       }
@@ -104,15 +261,15 @@
           ],
           [
             "Cask",
-            "Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine"
+            "Beer, •, Cheese, •, Goat Cheese, •, Mead, •, Pale Ale, •, Wine"
           ],
           [
             "Cheese Press",
-            "Cheese • Goat Cheese"
+            "Cheese, •, Goat Cheese"
           ],
           [
             "Keg",
-            "Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine"
+            "Beer, •, Coffee, •, Green Tea, •, Juice, •, Mead, •, Pale Ale, •, Wine"
           ],
           [
             "Loom",
@@ -120,15 +277,15 @@
           ],
           [
             "Mayonnaise Machine",
-            "Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise"
+            "Dinosaur Mayonnaise, •, Duck Mayonnaise, •, Mayonnaise, •, Void Mayonnaise"
           ],
           [
             "Oil Maker",
-            "Oil • Truffle Oil"
+            "Oil, •, Truffle Oil"
           ],
           [
             "Preserves Jar",
-            "Aged Roe • Caviar • Jellies and Pickles"
+            "Aged Roe, •, Caviar, •, Jellies and Pickles"
           ],
           [
             "Fish Smoker",
@@ -136,11 +293,11 @@
           ],
           [
             "Dehydrator",
-            "Dried Mushrooms • Dried Fruit • Raisins"
+            "Dried Mushrooms, •, Dried Fruit, •, Raisins"
           ],
           [
             "Misc",
-            "Maple Syrup • Oak Resin • Pine Tar • Mystic Syrup"
+            "Maple Syrup, •, Oak Resin, •, Pine Tar, •, Mystic Syrup"
           ]
         ]
       }
