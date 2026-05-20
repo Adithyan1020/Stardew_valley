@@ -12,12 +12,13 @@ A full-stack AI Assistant for Stardew Valley that uses **Retrieval-Augmented Gen
 1. **Data Pipeline**: Scrapes the wiki (using BeautifulSoup), cleans the text, chunks it, and embeds it using HuggingFace `BAAI/bge-small-en-v1.5`.
 2. **Vector Database**: Stores the embeddings locally using **ChromaDB**.
 3. **Backend API**: A **FastAPI** server that receives user questions, retrieves the top 20 relevant chunks from ChromaDB, and formats them into a LangChain prompt for Groq.
-4. **Frontend**: A pure HTML/CSS/Vanilla JS web app that can be hosted statically on Netlify.
+4. **Frontend**: A modern React web app that provides a dynamic and clean UI.
 
 ## 🚀 Local Setup Instructions
 
 ### 1. Prerequisites
 * Python 3.10+
+* Node.js (for the React frontend)
 * A free [Groq API Key](https://console.groq.com/keys)
 
 ### 2. Installation
@@ -46,7 +47,12 @@ uvicorn process.api:app --reload
 *The server will start at `http://127.0.0.1:8000`*
 
 **Start the Frontend:**
-Open the `frontend/index.html` file in any web browser!
+```bash
+cd react-frontend
+npm install
+npm run dev
+```
+*The frontend will start at `http://localhost:5173` (or similar).*
 
 ## 🌐 Deployment Guide
 Because the AI dependencies (PyTorch, ChromaDB) are quite large, the frontend and backend must be deployed separately.
@@ -57,9 +63,9 @@ Because the AI dependencies (PyTorch, ChromaDB) are quite large, the frontend an
 3. Start Command: `uvicorn process.api:app --host 0.0.0.0 --port 10000`
 4. Add your `GROQ_API_KEY` in the Environment Variables section.
 
-**Frontend (Netlify.com)**
-1. Open `frontend/app.js` and change `API_URL` to your new Render URL (e.g., `https://your-app.onrender.com/chat`).
-2. Drag and drop the `frontend/` folder into Netlify for free static hosting.
+**Frontend (Vercel/Netlify)**
+1. Update your API URL in the React app to point to your new Render URL.
+2. Build the app using `npm run build` and deploy the `dist/` folder, or connect your repository directly.
 
 ## 🛠️ Modifying the Knowledge Base
 If you want to add new pages or update the wiki data:
