@@ -7,8 +7,8 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 CHUNKS_FILE = PROJECT_ROOT / "data" / "chunks" / "chunks.jsonl"
 CHROMA_DIR = PROJECT_ROOT / "data" / "chroma"
 
-COLLECTION_NAME = "stardew_chunks"
-EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+COLLECTION_NAME = "stardew_chunks_bge"
+EMBED_MODEL = "BAAI/bge-small-en-v1.5"
 BATCH_SIZE = 64
 
 

@@ -5,8 +5,8 @@ from sentence_transformers import SentenceTransformer
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 CHROMA_DIR = PROJECT_ROOT / "data" / "chroma"
 
-COLLECTION_NAME = "stardew_chunks"
-EMBED_MODEL = "sentence-transformers/all-MiniLM-L6-v2"
+COLLECTION_NAME = "stardew_chunks_bge"
+EMBED_MODEL = "BAAI/bge-small-en-v1.5"
 
 
 def main():

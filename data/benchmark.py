@@ -6,7 +6,7 @@ from typing import List, Dict, Any, Set, Tuple
 import chromadb
 
 CHROMA_PATH = "./chroma"
-COLLECTION_NAME = "stardew_chunks"
+COLLECTION_NAME = "stardew_chunks_bge"
 TOP_K_VALUES = [1, 3, 5, 10]
 
 
