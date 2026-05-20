@@ -1,0 +1,87 @@
+{
+  "name": "Stardew Valley Complete RAG Corpus v2.0",
+  "description": "Comprehensive seed file for Stardew Valley RAG model. Covers all villagers, locations, items, mechanics, festivals, and endgame content.",
+
+
+    "pages": [
+  {
+    "filename": "movie theater.json",
+    "title": "Movie Theater",
+    "url": "https://stardewvalleywiki.com/Movie_Theater",
+    "notes": "Former Abandoned JojaMart"
+  },
+  {
+    "filename": "alex.json",
+    "title": "Alex",
+    "url": "https://stardewvalleywiki.com/Alex",
+    "notes": "Includes house details"
+  },
+  {
+  "filename": "animal_products.json",
+  "title": "Animal Products",
+  "url": "https://stardewvalleywiki.com/Animal_Products",
+  "notes": "Animal products"
+  },
+  {
+    "filename": "bundles.json",
+    "title": "Bundles",
+    "url": "https://stardewvalleywiki.com/Bundles",
+    "notes": "Billboard quests"
+  },
+  {
+    "filename": "carpenter's shop.json",
+    "title": "Carpenter's Shop",
+    "url": "https://stardewvalleywiki.com/Carpenter's_Shop",
+    "notes": "With apostrophe"
+  },
+  {
+    "filename": "combat.json",
+    "title": "Combat",
+    "url": "https://stardewvalleywiki.com/Combat",
+    "notes": "Includes skill"
+  },
+  {
+  "filename": "danger_in_the_deep.json",
+  "title": "Mr. Qi",
+  "url": "https://stardewvalleywiki.com/Mr._Qi",
+  "notes": "Danger In The Deep quest is covered under Mr. Qi-related content"
+},
+  {
+    "filename": "weapons.json",
+    "title": "Weapons",
+    "url": "https://stardewvalleywiki.com/Weapons",
+    "notes": "Dwarvish/Galaxy/Infinity weapons"
+  },
+  {
+    "filename": "skills.json",
+    "title": "Skills",
+    "url": "https://stardewvalleywiki.com/Skills",
+    "notes": "Includes XP"
+  },
+  {
+    "filename": "energy.json",
+    "title": "Energy",
+    "url": "https://stardewvalleywiki.com/Energy",
+    "notes": "Fainting mechanics"
+  },
+  {
+    "filename": "farm buildings.json",
+    "title": "Farm Buildings",
+    "url": "https://stardewvalleywiki.com/Farm_Buildings",
+    "notes": "Category page"
+  },
+  {
+    "filename": "farming.json",
+    "title": "Farming",
+    "url": "https://stardewvalleywiki.com/Farming",
+    "notes": "Includes skill"
+  },
+  {
+    "filename": "bait.json",
+    "title": "Bait",
+    "url": "https://stardewvalleywiki.com/Bait",
+    "notes": "Fishing bait"
+  }
+]
+
+}

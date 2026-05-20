@@ -1,0 +1,163 @@
+{
+  "title": "Beer",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Beer Drink in moderation. Information Source Artisan Goods The Saloon Ginger Island Resort Buff(s) Tipsy Speed (−1) Buff Duration 30s Energy / Health 50 22 70 31 90 40 130 58 Sell Prices Base Artisan (+40%) 200g 250g 300g 400g 280g 350g 420g 560g Artisan Goods Equipment Keg Processing Time 1750m (≈29h) Ingredients Wheat (1)\nBeer is an Artisan Good made from the Keg using Wheat , taking 1-2 days. It is also available at The Saloon for data-sort-value=\"400\"> 400g and the Ginger Island Resort for data-sort-value=\"500\"> 500g . It can also be received as a gift at the Feast of the Winter Star . Pam sells Beer in her shop at the Desert Festival for data-sort-value=\"20\"> 20 Calico Eggs .\nWhen consumed, Beer causes a Tipsy Buff that decreases Speed by 1."
+    },
+    {
+      "heading": "Aged Values",
+      "content": "Beer can be placed inside a Cask to age from normal quality to silver, gold, and eventually iridium quality. Iridium quality doubles the base sell price of Beer.\nNormal, silver, and gold quality Beer can be prematurely removed from a cask at any time by striking the cask with an Axe , Hoe , or Pickaxe ."
+    },
+    {
+      "heading": "Bundles",
+      "content": "Beer is not used in any bundles ."
+    },
+    {
+      "heading": "Tailoring",
+      "content": "Beer is used in the spool of the Sewing Machine with Cloth in the feed to create a Black Leather Jacket . It is a yellow dye when used in the spool of the Sewing Machine with a dyeable clothing item in the feed. It can be placed in the yellow dye pot at Emily 's and Haley 's house, 2 Willow Lane , for use in dyeing ."
+    },
+    {
+      "heading": "Quests",
+      "content": "Beer is not used in any quests ."
+    },
+    {
+      "heading": "History",
+      "content": "- 1.0 : Introduced.\n- 1.1 : Added ability to age in casks .\n- 1.4 : Can now be used in Tailoring .\n- 1.6 : Now purchasable from Desert Festival ."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Aged Values",
+      "table": {
+        "headers": [
+          "Normal Quality",
+          "Silver Quality (x 1.25)",
+          "Gold Quality (x 1.5)",
+          "Iridium Quality (x 2)"
+        ],
+        "rows": [
+          [
+            "Normal Quality",
+            "Silver Quality (x 1.25)",
+            "Gold Quality (x 1.5)",
+            "Iridium Quality (x 2)"
+          ],
+          [
+            "200g",
+            "",
+            "200g",
+            "250g Aged: 7 Days",
+            "",
+            "250g",
+            "300g Aged: 7 Days Total: 14 Days",
+            "",
+            "300g",
+            "400g Aged: 14 Days Total: 28 Days",
+            "",
+            "400g"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "400g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Gifting",
+      "table": {
+        "headers": [
+          "Villager Reactions"
+        ],
+        "rows": [
+          [
+            "Villager Reactions"
+          ],
+          [
+            "Love",
+            "Pam • Shane"
+          ],
+          [
+            "Like",
+            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jodi • Kent • Krobus • Leah • Lewis • Linus • Marnie • Maru • Pierre • Robin • Sam • Sandy • Willy • Wizard"
+          ],
+          [
+            "Hate",
+            "Jas • Leo • Penny • Sebastian • Vincent"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "History",
+      "table": {
+        "headers": [
+          "Artisan Goods"
+        ],
+        "rows": [
+          [
+            "Artisan Goods"
+          ],
+          [
+            "Bee House",
+            "Honey"
+          ],
+          [
+            "Cask",
+            "Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine"
+          ],
+          [
+            "Cheese Press",
+            "Cheese • Goat Cheese"
+          ],
+          [
+            "Keg",
+            "Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine"
+          ],
+          [
+            "Loom",
+            "Cloth"
+          ],
+          [
+            "Mayonnaise Machine",
+            "Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise"
+          ],
+          [
+            "Oil Maker",
+            "Oil • Truffle Oil"
+          ],
+          [
+            "Preserves Jar",
+            "Aged Roe • Caviar • Jellies and Pickles"
+          ],
+          [
+            "Fish Smoker",
+            "Smoked Fish"
+          ],
+          [
+            "Dehydrator",
+            "Dried Mushrooms • Dried Fruit • Raisins"
+          ],
+          [
+            "Misc",
+            "Maple Syrup • Oak Resin • Pine Tar • Mystic Syrup"
+          ]
+        ]
+      }
+    }
+  ]
+}

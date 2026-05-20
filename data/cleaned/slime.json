@@ -1,0 +1,199 @@
+{
+  "title": "Slime",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Slime A shimmering, gelatinous glob with no smell. Information Source Slimes • Krobus • Slime Ball • Traveling Cart • Fish Pond Sell Price data-sort-value=\"5\"> 5g\nSlime is a Monster Loot item which is dropped by Slimes . Killing a single Slime can drop up to two Slime. Slime can also be obtained from Slime Balls or purchased from Krobus for data-sort-value=\"10\"> 10g on Mondays (up to 50 per Monday). It may randomly appear in the Traveling Cart for data-sort-value=\"15\" 100–1,000g. A Slimejack Fish Pond may also produce 10, 30, or 50 Slime daily when the population reaches 9."
+    },
+    {
+      "heading": "Bundles",
+      "content": "99 Slime is one of the options for the Adventurer's Bundle in the Boiler Room ."
+    },
+    {
+      "heading": "Recipes",
+      "content": "The color of the resulting slime egg is random, but the cheaper ones are more common. See Slime Egg-Press for the list of probabilities."
+    },
+    {
+      "heading": "Tailoring",
+      "content": "Slime is used in the spool of the Sewing Machine to create a Shirt ."
+    },
+    {
+      "heading": "Quests",
+      "content": "- 20 Slime are requested by Slimejack in a Fish Pond quest to increase the capacity of the pond from 1 to 3.\n- 5 Slime may be requested by Bullhead or Largemouth Bass in a Fish Pond quest to increase the capacity of the pond from 3 to 5.\n- 99 Slime may be requested by the Raccoon at the Giant Stump as part of his fifth request, or as part of any request starting with the sixth."
+    },
+    {
+      "heading": "History",
+      "content": "- 1.4 : Sturdy Ring now uses 25 Slime to craft. Slime can now be used in Tailoring. Can be requested in Fish Pond quests . Can be produced by Fish Ponds.\n- 1.5 : Added Monster Musk recipe.\n- 1.6 : May now be requested by the Raccoon. Is no longer a possible Midnight Carp Fish Pond request."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Gifting",
+      "table": {
+        "headers": [
+          "Villager Reactions"
+        ],
+        "rows": [
+          [
+            "Villager Reactions"
+          ],
+          [
+            "Dislike",
+            "Wizard"
+          ],
+          [
+            "Hate",
+            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Recipes",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Ingredient",
+          "Equipment",
+          "Time",
+          "Sell Price"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Ingredient",
+            "Equipment",
+            "Time",
+            "Sell Price"
+          ],
+          [
+            "",
+            "Slime Egg",
+            "Can be hatched in a slime incubator.",
+            "Slime (100)",
+            "Slime Egg-Press",
+            "1200m (20h)",
+            "data-sort-value=\"1000\"> 1,000g data-sort-value=\"1750\"> 1,750g data-sort-value=\"2500\"> 2,500g data-sort-value=\"5000\"> 5,000g",
+            "data-sort-value=\"1000\"> 1,000g",
+            "data-sort-value=\"1750\"> 1,750g",
+            "data-sort-value=\"2500\"> 2,500g",
+            "data-sort-value=\"5000\"> 5,000g"
+          ],
+          [
+            "data-sort-value=\"1000\"> 1,000g"
+          ],
+          [
+            "data-sort-value=\"1750\"> 1,750g"
+          ],
+          [
+            "data-sort-value=\"2500\"> 2,500g"
+          ],
+          [
+            "data-sort-value=\"5000\"> 5,000g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Crafting",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Ingredients",
+          "Recipe Source"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Ingredients",
+            "Recipe Source"
+          ],
+          [
+            "",
+            "Oil Maker",
+            "Makes gourmet truffle oil.",
+            "Slime (50) Hardwood (20) Gold Bar (1)",
+            "Farming Level 8"
+          ],
+          [
+            "",
+            "Cork Bobber",
+            "Slightly increases the size of your \"fishing bar\".",
+            "Wood (10) Hardwood (5) Slime (10)",
+            "Fishing Level 7"
+          ],
+          [
+            "",
+            "Slime Incubator",
+            "Hatches slimes eggs into slimes. Allows you to raise slimes outdoors.",
+            "Iridium Bar (2) Slime (100)",
+            "Combat Level 8"
+          ],
+          [
+            "",
+            "Wild Bait (5)",
+            "A unique recipe from Linus that gives you a chance to catch two fish at once.",
+            "Fiber (10) Bug Meat (5) Slime (5)",
+            "Linus (4 Event)"
+          ],
+          [
+            "",
+            "Sturdy Ring",
+            "Cuts the duration of negative status effects in half.",
+            "Copper Bar (2) Bug Meat (25) Slime (25)",
+            "Combat Level 1"
+          ],
+          [
+            "",
+            "Monster Musk",
+            "Spray this on to draw more monsters out of hiding.",
+            "Bat Wing (30) Slime (30)",
+            "Wizard ( Special Order )"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "History",
+      "table": {
+        "headers": [
+          "Animals and Produce"
+        ],
+        "rows": [
+          [
+            "Animals and Produce"
+          ],
+          [
+            "Coop",
+            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+          ],
+          [
+            "Barn",
+            "Cow • Goat • Sheep • Ostrich • Pig"
+          ],
+          [
+            "Fish Pond",
+            "Fish"
+          ],
+          [
+            "Slime Hutch",
+            "Slimes"
+          ],
+          [
+            "Other",
+            "Cat • Dog • Horse • Turtle"
+          ]
+        ]
+      }
+    }
+  ]
+}

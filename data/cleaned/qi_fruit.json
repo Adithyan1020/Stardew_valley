@@ -1,0 +1,721 @@
+{
+  "title": "Qi_Fruit",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Qi Fruit Mr. Qi has challenged you to ship 500 of these strange melons. Information Seed Qi Bean Growth Time 4 days Season All Energy / Health 3 1 Sell Prices Base Tiller (+10%) 1g 1g Artisan Sell Prices Base Artisan (+40%) 3g 3g 4g 6g 52g 32g 4g 4g 5g 8g 72g 44g\nThe Qi Fruit is a fruit crop that grows from Qi Beans after 4 days. This fruit is only available during the \"Qi's Crop\" quest . Qi Fruit is one of only five crops that can grow into a giant crop .\nAll Qi Fruit and Qi Beans despawn when the quest is over ( i.e., the day after the player ships them or the quest timer ends), including growing crops, all players' inventories, Chests , Preserves Jars , Kegs , and Marlon 's Item Recovery Service list.\nGiant Qi Fruit do not disappear when the quest is over, and they can be harvested during future quests to yield more Qi Fruit. If a player chops down a giant Qi Fruit when the \"Qi's Crop\" quest is not active, then they will receive one Mystery Box instead of fruit. The first time this is done, Mr. Qi will send a taunting message to the player.\nQi Fruit is always normal quality."
+    },
+    {
+      "heading": "Stages",
+      "content": "Qi Fruit can become a Giant Crop ."
+    },
+    {
+      "heading": "Bundles",
+      "content": "Qi Fruit is not used in any bundles."
+    },
+    {
+      "heading": "Quests",
+      "content": "- Mr. Qi requests the player to ship 500 Qi Fruit in 28 days in the \"Qi's Crop\" quest . The reward is data-sort-value=\"100\"> 100 ."
+    },
+    {
+      "heading": "Tailoring",
+      "content": "Qi Fruit is used in the spool of Sewing Machine with Cloth in the feed to create a Qi Mask . It can be placed in the blue dye pot at Emily's and Haley's house for use in dyeing ."
+    },
+    {
+      "heading": "Notes",
+      "content": "- Although Qi Fruit benefits from the Tiller Profession , its sell price with the extra 10% is data-sort-value=\"1.1\"> 1.1g , which is truncated to data-sort-value=\"1\"> 1g in the game code.\n- Qi Fruit jelly and wine do not despawn after the quest is completed."
+    },
+    {
+      "heading": "History",
+      "content": "- 1.5 : Introduced.\n- 1.5.2 : Can now be grown on the Farm during Winter .\n- 1.5.3 : Qi Fruits are now properly removed from any machines/craftables and from Marlon 's Item Recovery Service after the \"Qi's Crop\" quest expires.\n- 1.6 : Can now grow into a giant crop . Removed exploit where Qi Fruit could be sold to Pierre's General Store , then bought back after the \"Qi's Crop\" quest ended."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Stages",
+      "table": {
+        "headers": [
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest"
+        ],
+        "rows": [
+          [
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "1 Day",
+            "1 Day",
+            "1 Day",
+            "1 Day",
+            "Total: 4 Days"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Crop Growth Calendar",
+      "table": {
+        "headers": [
+          "Base"
+        ],
+        "rows": [
+          [
+            "Base"
+          ],
+          [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Crop Growth Calendar",
+      "table": {
+        "headers": [
+          "Agriculturist and Speed-Gro Comparison"
+        ],
+        "rows": [
+          [
+            "Agriculturist and Speed-Gro Comparison"
+          ],
+          [
+            "",
+            "Speed-Gro",
+            "Deluxe Speed-Gro",
+            "Hyper Speed-Gro"
+          ],
+          [
+            "Regular",
+            "10%* Mon Tue Wed Thu Fri Sat Sun",
+            "10%*",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "25% Mon Tue Wed Thu Fri Sat Sun",
+            "25%",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "33% Mon Tue Wed Thu Fri Sat Sun",
+            "33%",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "10%*"
+          ],
+          [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "25%"
+          ],
+          [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "33%"
+          ],
+          [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "* Note that the 10% table also applies to the Agriculturist Profession without any fertilizer."
+          ],
+          [
+            "Agriculturist",
+            "20% Mon Tue Wed Thu Fri Sat Sun",
+            "20%",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "35% Mon Tue Wed Thu Fri Sat Sun",
+            "35%",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "43% Mon Tue Wed Thu Fri Sat Sun",
+            "43%",
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "20%"
+          ],
+          [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "35%"
+          ],
+          [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "43%"
+          ],
+          [
+            "Mon",
+            "Tue",
+            "Wed",
+            "Thu",
+            "Fri",
+            "Sat",
+            "Sun"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Gifting",
+      "table": {
+        "headers": [
+          "Villager Reactions"
+        ],
+        "rows": [
+          [
+            "Villager Reactions"
+          ],
+          [
+            "Like",
+            "Demetrius • Elliott • Harvey • Jodi • Kent • Leah • Linus • Pam • Robin • Sandy • Shane"
+          ],
+          [
+            "Dislike",
+            "Abigail • Alex • Caroline • Clint • Dwarf • Emily • Evelyn • George • Gus • Haley • Jas • Krobus • Leo • Lewis • Marnie • Maru • Penny • Pierre • Sam • Sebastian • Vincent • Willy • Wizard"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "History",
+      "table": {
+        "headers": [
+          "Crops"
+        ],
+        "rows": [
+          [
+            "Crops"
+          ],
+          [
+            "Spring",
+            "Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice"
+          ],
+          [
+            "Summer",
+            "Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat"
+          ],
+          [
+            "Fall",
+            "Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam"
+          ],
+          [
+            "Winter",
+            "Powdermelon"
+          ],
+          [
+            "Special",
+            "Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves"
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5314 @@
+{
+  "title": "Crops",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Crops are plants that are grown from seeds to be harvested for the purpose of profit, food, or gifting. Generally, each crop is seasonal . It can be planted only during its designated season, and when seasons change (after the 28th day), the crop will wither and die. Multi-season crops ( i.e., Ancient Fruit , Coffee Bean , Corn , Sunflower , and Wheat ), however, will continue to grow during all specified seasons."
+    },
+    {
+      "heading": "Monsters",
+      "content": "Monsters (either on the Wilderness Farm or toggled on by the Dark Shrine of Night Terrors on any farm) have no effect on crops."
+    },
+    {
+      "heading": "Crows",
+      "content": "Crops can be eaten by Crows when there are over 15 crops growing and there is no Scarecrow within range."
+    },
+    {
+      "heading": "Farm Animals",
+      "content": "Farm Animals never trample or destroy crops. They may get in the way of planting or harvesting efforts, but will never cause damage to crops."
+    },
+    {
+      "heading": "Fertilizing and Planting",
+      "content": "Fallow (untilled) farm land must be tilled with the Hoe before fertilizing or planting there, an activity that consumes some of the player's daily energy, as reflected on the energy bar. A tile may be watered (by using the Watering Can ) only after it has been tilled, which consumes more energy.\nSeeds and fertilizer are placed on a tilled tile individually by using the left-click control, or on multiple tiles by continuously holding on to the right-click or left-click control and moving the cursor and/or player. Since planting and fertilizing require no tool use, those activities consume none of the player's energy.\nOnly one type of fertilizer at a time may be used on any given tile. Some fertilizer must be placed on a tile before a seed is planted there, other types can be placed before or after planting a seed. Watering can be done at any time after tilling, and freely either before or after fertilizing and/or planting, without regard to order."
+    },
+    {
+      "heading": "Trellis Crops",
+      "content": "Some crops require a trellis, which cannot be walked through, so they require an appropriate crop layout to be reachable. Trellis crops can be walked through once they are dead.\nThe available trellis crops are Green Bean , Hops , and Grape ."
+    },
+    {
+      "heading": "Grow Times",
+      "content": "The grow times shown on this page (and in the game) exclude the day the seeds were planted. If planting on the first of a season, a 5-day crop will be ready for harvest on day 6, not day 5. In this case, the number may be thought of as the number of nights required to grow the crop.\nFertilizer and the Agriculturist Profession are not taken into account on this page, but the effects can be viewed on individual crop pages.\nCrops must be watered every day for maximum growth. If unwatered for a day, a crop will not grow. Unwatered crops do not die, but they will not grow either.\nIf a seed is planted into unwatered soil and not watered the same day, it will not grow that night. Growth will start the following night. The grow times on this page assume the seeds are watered the day they are planted.\nPlanting after midnight does not impose a penalty (it still counts as having been planted on the current day)."
+    },
+    {
+      "heading": "End of Season",
+      "content": "On the 1st of each season, all crops that are no longer in season will wither and die, leaving behind a dead crop. When a dead crop is left behind at the start of a season it will keep the soil it was planted on tilled, which can reduce the amount of manual tilling and watering that needs to be done at the start of a season. Dead crops can be removed with a scythe .\nMulti-season crops that are still in season ( i.e., corn planted in summer when transitioning into fall) will not wither and will simply continue to grow. Fully grown crops that are ready to harvest will wither and die when moving to a new season, however."
+    },
+    {
+      "heading": "Giant Crops",
+      "content": "Cauliflowers , Melons , Pumpkins , Powdermelons and Qi Fruits planted in a 3x3 pattern can randomly combine into a giant crop. Giant crops drop 15–21 normal-quality items when harvested with any axe , taking three hits.\nAt the start of each day, every possible 3x3 grid of crops (including overlaps) has a 1% chance to grow into a giant crop as long as the top left crop is fully-grown and watered, and all constituent crops are of the same type. Giant crops won't necessarily appear on the day the crops finish growing; it can happen any day those criteria are met.\nGiant crops don't die at change of season like other crops, and giant Qi Fruits don't disappear after the \"Qi's Crop\" special order is over. Soil underneath a giant crop may become untilled, causing any fertilizer to be lost. Giant crops cannot grow in the greenhouse , by using Garden Pots , or on Ginger Island ."
+    },
+    {
+      "heading": "Crop Quality",
+      "content": "The quality of crops comes in four levels: regular, silver, gold, and iridium. Quality is determined when a crop is harvested. Normally, harvested crops are almost all of regular quality, with a few at silver or gold quality levels. The average quality can be increased by planting seeds into fertilized soil. Note that iridium quality is possible only with Deluxe Fertilizer . Increasing Farming Skill also increases the chance to harvest a quality crop. If a Seed Maker turns a higher-quality crop into seeds, the seeds are no more likely to produce higher-quality crops when grown and harvested.\nNote that for forage items grown from wild seeds , the quality of the items is determined by foraging skill, not farming skill, making iridium quality foraged items possible with the Botanist profession.\nHigher quality crops command higher prices when sold, and deliver greater energy and health benefits when eaten. If given as a gift to an NPC who likes or loves the crop, a silver, gold, or iridium quality crop gives a higher number of friendship points. Crop quality has no effect on cooked foods ' health or energy gains, or on the quality of Artisan Goods produced.\nThe quality star of a crop in inventory animates when it is of the highest quality possible (iridium).\nFor crops that produce multiples at harvest ( i.e., Coffee Bean , Blueberry , Cranberries ), Basic , Quality and Deluxe Fertilizers affect only the first crop produced. That is, only 1 out of 4 coffee beans is affected at each harvest; only 1 out of 3 blueberries is affected, etc."
+    },
+    {
+      "heading": "Gold per Day",
+      "content": "Calculations do not take into account Fertilizer , crop quality, or the Tiller or Agriculturist Professions . Variations are noted in or below each table, if applicable. It is assumed that the crop is watered on the day of planting.\nThe general formula is: Minimum Gold per Day = ((Max Harvests × Sell Price per Harvest) − Seed Price) / Growing Days\nGrowing Days = Days to Maturity + ((Max Harvests − 1) × Days to Regrow)\nDays to Maturity and Days to Regrow are listed in each table.\nMax Harvests is normally 1, but for crops that continue to produce, it is the actual number of harvests that can be obtained in the growing season(s).\nSell Price per Harvest is normally the same as the Sell Price of one normal-quality crop. Extra crops are not counted since their occurrence is rare, except in the case of potatoes . The chance of an extra potato is ≈25%, much higher than with any other crop. Thus, the Sell Price per Harvest is 1.25 × 80 instead of 1 × 80.\nIn the case of plants that always give >1 item per harvest ( e.g., Coffee Bean , Blueberry , Cranberries ) the Sell Price per Harvest = # of crops per Harvest × Sell Price for one item."
+    },
+    {
+      "heading": "Blue Jazz",
+      "content": "The flower grows in a sphere to invite as many butterflies as possible."
+    },
+    {
+      "heading": "Carrot",
+      "content": "A fast-growing, colorful tuber that makes for a great snack."
+    },
+    {
+      "heading": "Cauliflower",
+      "content": "Valuable, but slow-growing. Despite its pale color, the florets are packed with nutrients.\nCauliflower can become a Giant Crop ."
+    },
+    {
+      "heading": "Coffee Bean",
+      "content": "Plant in spring or summer to grow a coffee plant. Place five beans in a keg to make coffee.\nEach plant yields 4 beans per harvest, with a 2% chance for more beans. This crop continues to produce after maturity."
+    },
+    {
+      "heading": "Garlic",
+      "content": "Adds a wonderful zestiness to dishes. High quality garlic can be pretty spicy.\nAvailable from year 2+."
+    },
+    {
+      "heading": "Green Bean",
+      "content": "A juicy little bean with a cool, crisp snap.\nThis crop uses a trellis, and continues to produce after maturity."
+    },
+    {
+      "heading": "Kale",
+      "content": "The waxy leaves are great in soups and stir fries."
+    },
+    {
+      "heading": "Parsnip",
+      "content": "A spring tuber closely related to the carrot. It has an earthy taste and is full of nutrients."
+    },
+    {
+      "heading": "Potato",
+      "content": "A widely cultivated tuber.\nYields at least 1 Potato at harvest, with a chance to produce, on average, 0.25 extra potatoes."
+    },
+    {
+      "heading": "Rhubarb",
+      "content": "The stalks are extremely tart, but make a great dessert when sweetened."
+    },
+    {
+      "heading": "Strawberry",
+      "content": "A sweet, juicy favorite with an appealing red color.\nKeeps producing after maturity. When harvested, each Strawberry plant gives 1 Strawberry every 4 days, with a 2% chance for more Strawberries."
+    },
+    {
+      "heading": "Tulip",
+      "content": "The most popular spring flower. Has a very faint sweet smell."
+    },
+    {
+      "heading": "Unmilled Rice",
+      "content": "Rice in its rawest form. Run this through a mill to increase the value.\nHas a 10% chance of yielding more unmilled rice when harvested."
+    },
+    {
+      "heading": "Blueberry",
+      "content": "A popular berry reported to have many health benefits. The blue skin has the highest nutrient concentration.\nKeeps producing after maturity. Each plant produces 3 blueberries at harvest, with a 2% chance for more blueberries."
+    },
+    {
+      "heading": "Corn",
+      "content": "One of the most popular grains. The sweet, fresh cobs are a summer favorite.\nKeeps producing after maturity. Can be grown in Summer or Fall."
+    },
+    {
+      "heading": "Hops",
+      "content": "A bitter, tangy flower used to flavor beer.\nHops use a trellis, and continue to produce after maturity."
+    },
+    {
+      "heading": "Hot Pepper",
+      "content": "Fiery hot with a hint of sweetness.\nKeeps producing after maturity. When harvested, each Hot Pepper plant gives 1 Hot Pepper every 3 days, with a 3% for more Hot Peppers."
+    },
+    {
+      "heading": "Melon",
+      "content": "A cool, sweet summer treat.\nMelons can become a Giant Crop ."
+    },
+    {
+      "heading": "Poppy",
+      "content": "In addition to its colorful flower, the Poppy has culinary and medicinal uses."
+    },
+    {
+      "heading": "Radish",
+      "content": "A crisp and refreshing root vegetable with hints of pepper when eaten raw."
+    },
+    {
+      "heading": "Red Cabbage",
+      "content": "Often used in salads and coleslaws. The color can range from purple to blue to green-yellow depending on soil conditions.\nAvailable from year 2+."
+    },
+    {
+      "heading": "Starfruit",
+      "content": "An extremely juicy fruit that grows in hot, humid weather. Slightly sweet with a sour undertone.\nNot to be mistaken for Stardrop ."
+    },
+    {
+      "heading": "Summer Spangle",
+      "content": "A tropical bloom that thrives in the humid summer air. Has a sweet, tangy aroma."
+    },
+    {
+      "heading": "Summer Squash",
+      "content": "A curved yellow squash that is harvested while immature, and still tender. Keeps producing after maturity."
+    },
+    {
+      "heading": "Sunflower",
+      "content": "A common misconception is that the flower turns so it's always facing the sun.\nHarvesting a sunflower will also produce 0-2 Sunflower Seeds. Sunflowers can be grown in Summer or Fall."
+    },
+    {
+      "heading": "Tomato",
+      "content": "Rich and slightly tangy, the Tomato has a wide variety of culinary uses.\nKeeps producing after maturity. Each harvest produces 1 tomato, with a 5% chance for more tomatoes."
+    },
+    {
+      "heading": "Wheat",
+      "content": "One of the most widely cultivated grains. Makes a great flour for breads and cakes.\nCan be grown in Summer or Fall."
+    },
+    {
+      "heading": "Amaranth",
+      "content": "A purple grain cultivated by an ancient civilization."
+    },
+    {
+      "heading": "Artichoke",
+      "content": "The bud of a thistle plant. The spiny outer leaves conceal a fleshy, filling interior.\nAvailable from year 2+."
+    },
+    {
+      "heading": "Beet",
+      "content": "A sweet and earthy root vegetable. As a bonus, the leaves make a great salad."
+    },
+    {
+      "heading": "Bok Choy",
+      "content": "The leafy greens and fibrous stalks are healthy and delicious."
+    },
+    {
+      "heading": "Broccoli",
+      "content": "The flowering head of a broccoli plant. The tiny buds give it a unique texture. Keeps producing after maturity."
+    },
+    {
+      "heading": "Cranberries",
+      "content": "These tart red berries are a traditional winter food.\nYields 2 berries at harvest, with a 10% chance for more berries. Keeps producing after maturity."
+    },
+    {
+      "heading": "Eggplant",
+      "content": "A rich and wholesome relative of the tomato. Delicious fried or stewed.\nKeeps producing after maturity. When harvested, each Eggplant bush gives 1 Eggplant every 5 days, with a 0.2% chance for more Eggplants."
+    },
+    {
+      "heading": "Fairy Rose",
+      "content": "An old folk legend suggests that the sweet smell of this flower attracts fairies."
+    },
+    {
+      "heading": "Grape",
+      "content": "A sweet cluster of fruit.\nGrapes use a trellis, and continue to produce after maturity."
+    },
+    {
+      "heading": "Pumpkin",
+      "content": "A fall favorite, grown for its crunchy seeds and delicately flavored flesh. As a bonus, the hollow shell can be carved into a festive decoration.\nPumpkins can become a Giant Crop ."
+    },
+    {
+      "heading": "Yam",
+      "content": "A starchy tuber with a lot of culinary versatility."
+    },
+    {
+      "heading": "Powdermelon",
+      "content": "Named for the powdery coating that forms on the surface, this melon is crisp and sweet, with a delicate flavor.\nPowdermelons can become a Giant Crop ."
+    },
+    {
+      "heading": "Ancient Fruit",
+      "content": "It's been dormant for eons.\nGrows in Spring, Summer, or Fall. See Ancient Seeds for availability."
+    },
+    {
+      "heading": "Cactus Fruit",
+      "content": "The sweet fruit of the prickly pear cactus.\nCan only be grown in the Greenhouse , indoors in Garden Pots , or the Ginger Island farm ."
+    },
+    {
+      "heading": "Fiber",
+      "content": "Raw material sourced from plants.\nGrows in all seasons. Does not need to be watered. Produces 4-7 Fiber when harvested, with a 1% chance for even more Fiber."
+    },
+    {
+      "heading": "Mixed Flower Seeds",
+      "content": "An assortment of flower seeds. Plant them and see what grows!\nMixed Flower Seeds are a type of seed that can be planted in any season, except Winter, to grow into a random flower specific to that season. They can be randomly found when cutting weeds with a tool during the Summer, opening Mystery Boxes , or as the 3rd prize from the Prize Machine .\nMixed Flower Seeds will turn into the following seeds upon planting."
+    },
+    {
+      "heading": "Mixed Seeds",
+      "content": "There's a little bit of everything here. Plant them and see what grows!\nMixed Seeds are a type of seed that can be planted in any season, except Winter, to grow into a random crop specific to that season. They can be randomly found when cutting weeds with a scythe , by digging up dirt or sand with a hoe , or from a Seed Maker . The Forest Farm has a unique type of weed which always drops Mixed Seeds when destroyed.\nMixed Seeds will turn into the following seeds upon planting. Note that Mixed Seeds can turn into Artichoke Seeds during year 1, despite the fact that Artichoke Seeds are normally unavailable until year 2. During Spring, on the Farm , Parsnip Seeds are twice as likely to be chosen as Cauliflower or Potato Seeds."
+    },
+    {
+      "heading": "Pineapple",
+      "content": "A sweet and tangy tropical treat.\nGrows in Summer if planted on the Farm and all year on Ginger Island ."
+    },
+    {
+      "heading": "Taro Root",
+      "content": "This starchy root is one of the most ancient crops.\nGrows in Summer if planted on the Farm and all year on Ginger Island ."
+    },
+    {
+      "heading": "Sweet Gem Berry",
+      "content": "It's by far the sweetest thing you've ever smelled.\nGrows in Fall . Seeds can be found for sale at the Traveling Cart during Spring and Summer , and rarely during Fall and Winter . Can be gifted to Old Master Cannoli in the Secret Woods in exchange for a Stardrop ."
+    },
+    {
+      "heading": "Tea Leaves",
+      "content": "The young leaves of the tea plant. Can be brewed into the popular, energizing beverage.\nGrows in all seasons. Can be harvested each day during the last week of Spring, Summer, and Fall (and Winter if indoors)."
+    },
+    {
+      "heading": "Wild Seeds",
+      "content": "Wild Seeds can be crafted out of foraged plants after learning the recipe at the appropriate foraging level (Spring at level 1, Summer at level 4, Fall at level 6, Winter at level 7). Each recipe will produce 10 seed packets.\nWhen planted, wild seeds will randomly grow into one of that season's foraged plants. Regardless of what ends up growing, all wild seeds take the same amount of time to grow to maturity (7 days, not counting the day planted). Crows do not attack crops grown from Wild Seeds, so the use of Scarecrows is unnecessary.\nSince these seeds grow Forage crops, they will always be of iridium quality if the Botanist Profession is chosen."
+    },
+    {
+      "heading": "Artisan Goods",
+      "content": "Crops can be processed into Artisan Goods to increase their sell value. Most Fruits and Vegetables can be processed into Jellies and Pickles via a Preserves Jar , or Wine and Juice via a Keg . Five matching Fruits can be processed into Dried Fruit using a Dehydrator .\nUsing a Keg , Hops can be processed into Pale Ale , Wheat into Beer , Coffee Beans into Coffee , and Tea Leaves into Green Tea ."
+    },
+    {
+      "heading": "Achievements",
+      "content": "There are 2 Achievements related to Shipping crops.\n- Polyculture (Ship 15 of each crop)\n- Monoculture (Ship 300 of one crop)\nPlease refer to the Achievements page for a list of crops that will satisfy these achievements."
+    },
+    {
+      "heading": "Notes",
+      "content": "- Lightning during thunderstorms can randomly strike crops, causing them to wither and die.\n- If Wheat is planted at the end of Summer, it will still be present at the start of Fall, and will prevent tilled soil and Fertilizer from disappearing at the change of seasons. Specifically, if planted on or before the 25th of Summer and allowed to remain unharvested until the 1st of Fall, the wheat can then be quickly harvested with the Scythe on Day 1 of Fall, leaving tilled and fertilized soil ready for Fall crops. Wheat is a good choice for this, as its seeds are very cheap, easily accessible, and quick to grow.\n- There is a small chance for any crop to produce an extra crop at harvest. See Modding:Crop data .\n- Crops have a -1 Speed penalty, but only if the player is running. Seeds do not count as crops for this. If a player has read Ol' Slitherlegs , the penalty is reduced to -0.33."
+    },
+    {
+      "heading": "External Links",
+      "content": "- Stardew Profits allows for crop comparison across a wide variety of variables in a compact format."
+    },
+    {
+      "heading": "References",
+      "content": "↑ See Crop::newDay in the game code. ↑ See Crop::ResolveSeedId in the game code."
+    },
+    {
+      "heading": "History",
+      "content": "- 1.3.27 : Seeds planted outside of normal growing season no longer disappear, the player is instead prevented from planting them. Cactus Fruit can be grown from Cactus Seeds .\n- 1.5 : Iridium crops are now possible when using Deluxe Fertilizer .\n- 1.6 : Carrot , Summer Squash , Broccoli , Powdermelon , and Mixed Flower Seeds have been added to the game. Powdermelons and Qi Fruits can now become Giant Crops . Reading Ol' Slitherlegs now reduces the speed penalty from -1 to -0.33. Giant Crops now require the top left crop of the 3x3 grid to be watered, instead of the center crop."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Giant Crops",
+      "table": {
+        "headers": [
+          "Giant Crops"
+        ],
+        "rows": [
+          [
+            "Giant Crops"
+          ],
+          [
+            "Cauliflower",
+            "Melon",
+            "Pumpkin",
+            "Powdermelon",
+            "Qi Fruit"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Gold per Day",
+      "table": {
+        "headers": [
+          "Example: Cranberries"
+        ],
+        "rows": [
+          [
+            "Example: Cranberries"
+          ],
+          [
+            "Max Harvests = 5 Sell Price per Harvest = 2 berries × data-sort-value=\"75\"> 75g = data-sort-value=\"150\"> 150g Seed Price = data-sort-value=\"240\"> 240g Growing Days = 7 + ((5 − 1) × 5) = 27 Gold per Day = (5 × 150 − 240) / 27 = data-sort-value=\"18.89\"> 18.89g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Blue Jazz",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Jazz Seeds Pierre's : data-sort-value=\"30\"> 30g JojaMart : data-sort-value=\"37\"> 37g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "50g 62g 75g 100g",
+            "",
+            "50g",
+            "",
+            "62g",
+            "",
+            "75g",
+            "",
+            "100g",
+            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "63",
+            "",
+            "28",
+            "",
+            "81",
+            "",
+            "36",
+            "",
+            "117",
+            "",
+            "52",
+            "Lucky Lunch"
+          ],
+          [
+            "",
+            "50g"
+          ],
+          [
+            "",
+            "62g"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "63",
+            "",
+            "28"
+          ],
+          [
+            "",
+            "81",
+            "",
+            "36"
+          ],
+          [
+            "",
+            "117",
+            "",
+            "52"
+          ],
+          [
+            "1 day",
+            "2 days",
+            "2 days",
+            "2 days",
+            "Total: 7 days",
+            "≈ data-sort-value=\"2.86\"> 2.86g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Carrot",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Harvest",
+          "Sells For",
+          "Energy / Health"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Harvest",
+            "Sells For",
+            "Energy / Health"
+          ],
+          [
+            "Carrot Seeds",
+            "",
+            "",
+            "",
+            "",
+            "35g 43g 52g 70g",
+            "",
+            "35g",
+            "",
+            "43g",
+            "",
+            "52g",
+            "",
+            "70g",
+            "data-sort-value=\"30\" 75 33 105 47 135 60 195 87",
+            "",
+            "75",
+            "",
+            "33",
+            "",
+            "105",
+            "",
+            "47",
+            "",
+            "135",
+            "",
+            "60",
+            "",
+            "195",
+            "",
+            "87"
+          ],
+          [
+            "",
+            "35g"
+          ],
+          [
+            "",
+            "43g"
+          ],
+          [
+            "",
+            "52g"
+          ],
+          [
+            "",
+            "70g"
+          ],
+          [
+            "",
+            "75",
+            "",
+            "33"
+          ],
+          [
+            "",
+            "105",
+            "",
+            "47"
+          ],
+          [
+            "",
+            "135",
+            "",
+            "60"
+          ],
+          [
+            "",
+            "195",
+            "",
+            "87"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "1 day",
+            "Total: 3 days",
+            "≈ data-sort-value=\"11.67\"> 11.67g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Cauliflower",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Cauliflower Seeds Pierre's : data-sort-value=\"80\"> 80g JojaMart : data-sort-value=\"100\"> 100g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "175g 218g 262g 350g",
+            "",
+            "175g",
+            "",
+            "218g",
+            "",
+            "262g",
+            "",
+            "350g",
+            "data-sort-value=\"30\" 75 33 105 47 135 60 195 87",
+            "",
+            "75",
+            "",
+            "33",
+            "",
+            "105",
+            "",
+            "47",
+            "",
+            "135",
+            "",
+            "60",
+            "",
+            "195",
+            "",
+            "87",
+            "Cheese Cauliflower Spring Crops Bundle \"Jodi's Request\" Quest Maru (Loved gift)"
+          ],
+          [
+            "",
+            "175g"
+          ],
+          [
+            "",
+            "218g"
+          ],
+          [
+            "",
+            "262g"
+          ],
+          [
+            "",
+            "350g"
+          ],
+          [
+            "",
+            "75",
+            "",
+            "33"
+          ],
+          [
+            "",
+            "105",
+            "",
+            "47"
+          ],
+          [
+            "",
+            "135",
+            "",
+            "60"
+          ],
+          [
+            "",
+            "195",
+            "",
+            "87"
+          ],
+          [
+            "1 day",
+            "2 days",
+            "4 days",
+            "4 days",
+            "1 day",
+            "Total: 12 days",
+            "≈ data-sort-value=\"7.92\"> 7.92g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Coffee Bean",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Coffee Bean Traveling Cart : data-sort-value=\"2500\"> 2,500g Dust Sprite (1% chance)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "15g 18g 22g 30g",
+            "",
+            "15g",
+            "",
+            "18g",
+            "",
+            "22g",
+            "",
+            "30g",
+            "Inedible",
+            "Coffee"
+          ],
+          [
+            "",
+            "15g"
+          ],
+          [
+            "",
+            "18g"
+          ],
+          [
+            "",
+            "22g"
+          ],
+          [
+            "",
+            "30g"
+          ],
+          [
+            "1 day",
+            "2 days",
+            "2 days",
+            "3 days",
+            "2 days",
+            "Total: 10 days",
+            "Regrowth: 2 days",
+            "data-sort-value=\"-20.74\"> -20.74g /d data-sort-value=\"20.77\"> 20.77g /d data-sort-value=\"25.56\"> 25.56g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Garlic",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Garlic Seeds Pierre's : data-sort-value=\"40\"> 40g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "60g 75g 90g 120g",
+            "",
+            "60g",
+            "",
+            "75g",
+            "",
+            "90g",
+            "",
+            "120g",
+            "data-sort-value=\"8\" 20 9 28 12 36 16 52 23",
+            "",
+            "20",
+            "",
+            "9",
+            "",
+            "28",
+            "",
+            "12",
+            "",
+            "36",
+            "",
+            "16",
+            "",
+            "52",
+            "",
+            "23",
+            "Escargot Fiddlehead Risotto Oil of Garlic"
+          ],
+          [
+            "",
+            "60g"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "90g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "20",
+            "",
+            "9"
+          ],
+          [
+            "",
+            "28",
+            "",
+            "12"
+          ],
+          [
+            "",
+            "36",
+            "",
+            "16"
+          ],
+          [
+            "",
+            "52",
+            "",
+            "23"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "1 day",
+            "1 day",
+            "Total: 4 days",
+            "data-sort-value=\"5\"> 5g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Green Bean",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Bean Starter Pierre's : data-sort-value=\"60\"> 60g JojaMart : data-sort-value=\"75\"> 75g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "40g 50g 60g 80g",
+            "",
+            "40g",
+            "",
+            "50g",
+            "",
+            "60g",
+            "",
+            "80g",
+            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "",
+            "25",
+            "",
+            "11",
+            "",
+            "35",
+            "",
+            "15",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "65",
+            "",
+            "29",
+            "Bean Hotpot Spring Crops Bundle"
+          ],
+          [
+            "",
+            "40g"
+          ],
+          [
+            "",
+            "50g"
+          ],
+          [
+            "",
+            "60g"
+          ],
+          [
+            "",
+            "80g"
+          ],
+          [
+            "",
+            "25",
+            "",
+            "11"
+          ],
+          [
+            "",
+            "35",
+            "",
+            "15"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "65",
+            "",
+            "29"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "1 day",
+            "3 days",
+            "4 days",
+            "Total: 10 days",
+            "Regrowth: 3 days",
+            "data-sort-value=\"7.20\"> 7.2g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Kale",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Kale Seeds Pierre's : data-sort-value=\"70\"> 70g JojaMart : data-sort-value=\"87\"> 87g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "110g 137g 165g 220g",
+            "",
+            "110g",
+            "",
+            "137g",
+            "",
+            "165g",
+            "",
+            "220g",
+            "data-sort-value=\"20\" 50 22 70 31 90 40 130 58",
+            "",
+            "50",
+            "",
+            "22",
+            "",
+            "70",
+            "",
+            "31",
+            "",
+            "90",
+            "",
+            "40",
+            "",
+            "130",
+            "",
+            "58",
+            "Salmon Dinner Stir Fry"
+          ],
+          [
+            "",
+            "110g"
+          ],
+          [
+            "",
+            "137g"
+          ],
+          [
+            "",
+            "165g"
+          ],
+          [
+            "",
+            "220g"
+          ],
+          [
+            "",
+            "50",
+            "",
+            "22"
+          ],
+          [
+            "",
+            "70",
+            "",
+            "31"
+          ],
+          [
+            "",
+            "90",
+            "",
+            "40"
+          ],
+          [
+            "",
+            "130",
+            "",
+            "58"
+          ],
+          [
+            "1 day",
+            "2 days",
+            "2 days",
+            "1 day",
+            "Total: 6 days",
+            "≈ data-sort-value=\"6.67\"> 6.67g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Parsnip",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Parsnip Seeds Pierre's : data-sort-value=\"20\"> 20g JojaMart : data-sort-value=\"25\"> 25g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "35g 43g 52g 70g",
+            "",
+            "35g",
+            "",
+            "43g",
+            "",
+            "52g",
+            "",
+            "70g",
+            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "",
+            "25",
+            "",
+            "11",
+            "",
+            "35",
+            "",
+            "15",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "65",
+            "",
+            "29",
+            "Farmer's Lunch Parsnip Soup Spring Crops Bundle Quality Crops Bundle Pam (Loved gift)"
+          ],
+          [
+            "",
+            "35g"
+          ],
+          [
+            "",
+            "43g"
+          ],
+          [
+            "",
+            "52g"
+          ],
+          [
+            "",
+            "70g"
+          ],
+          [
+            "",
+            "25",
+            "",
+            "11"
+          ],
+          [
+            "",
+            "35",
+            "",
+            "15"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "65",
+            "",
+            "29"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "1 day",
+            "1 day",
+            "Total: 4 days",
+            "data-sort-value=\"3.75\"> 3.75g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Potato",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Potato Seeds Pierre's : data-sort-value=\"50\"> 50g JojaMart : data-sort-value=\"62\"> 62g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "80g 100g 120g 160g",
+            "",
+            "80g",
+            "",
+            "100g",
+            "",
+            "120g",
+            "",
+            "160g",
+            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "",
+            "25",
+            "",
+            "11",
+            "",
+            "35",
+            "",
+            "15",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "65",
+            "",
+            "29",
+            "Hashbrowns Spring Crops Bundle"
+          ],
+          [
+            "",
+            "80g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "160g"
+          ],
+          [
+            "",
+            "25",
+            "",
+            "11"
+          ],
+          [
+            "",
+            "35",
+            "",
+            "15"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "65",
+            "",
+            "29"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "1 day",
+            "2 days",
+            "1 day",
+            "Total: 6 days",
+            "data-sort-value=\"5.0\"> 5g /d ≈ data-sort-value=\"8.33\"> 8.33g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Rhubarb",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Rhubarb Seeds Oasis : data-sort-value=\"100\"> 100g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "220g 275g 330g 440g",
+            "",
+            "220g",
+            "",
+            "275g",
+            "",
+            "330g",
+            "",
+            "440g",
+            "Inedible",
+            "Rhubarb Pie"
+          ],
+          [
+            "",
+            "220g"
+          ],
+          [
+            "",
+            "275g"
+          ],
+          [
+            "",
+            "330g"
+          ],
+          [
+            "",
+            "440g"
+          ],
+          [
+            "2 days",
+            "2 days",
+            "2 days",
+            "3 days",
+            "4 days",
+            "Total: 13 days",
+            "≈ data-sort-value=\"9.23\"> 9.23g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Strawberry",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used in"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used in"
+          ],
+          [
+            "Strawberry Seeds Egg Festival : data-sort-value=\"100\"> 100g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "120g 150g 180g 240g",
+            "",
+            "120g",
+            "",
+            "150g",
+            "",
+            "180g",
+            "",
+            "240g",
+            "data-sort-value=\"20\" 50 22 70 31 90 40 130 58",
+            "",
+            "50",
+            "",
+            "22",
+            "",
+            "70",
+            "",
+            "31",
+            "",
+            "90",
+            "",
+            "40",
+            "",
+            "130",
+            "",
+            "58",
+            "Demetrius (Loved gift) Maru (Loved gift)"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "180g"
+          ],
+          [
+            "",
+            "240g"
+          ],
+          [
+            "",
+            "50",
+            "",
+            "22"
+          ],
+          [
+            "",
+            "70",
+            "",
+            "31"
+          ],
+          [
+            "",
+            "90",
+            "",
+            "40"
+          ],
+          [
+            "",
+            "130",
+            "",
+            "58"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "2 days",
+            "2 days",
+            "2 days",
+            "Total: 8 days",
+            "Regrowth: 4 days",
+            "≈ data-sort-value=\"20.83\"> 20.83g /d ≈ data-sort-value=\"11.67\"> 11.67g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Tulip",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used in"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used in"
+          ],
+          [
+            "Tulip Bulb Pierre's : data-sort-value=\"20\"> 20g JojaMart : data-sort-value=\"25\"> 25g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "30g 37g 45g 60g",
+            "",
+            "30g",
+            "",
+            "37g",
+            "",
+            "45g",
+            "",
+            "60g",
+            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "63",
+            "",
+            "28",
+            "",
+            "81",
+            "",
+            "36",
+            "",
+            "117",
+            "",
+            "52",
+            "Evelyn (Loved gift)"
+          ],
+          [
+            "",
+            "30g"
+          ],
+          [
+            "",
+            "37g"
+          ],
+          [
+            "",
+            "45g"
+          ],
+          [
+            "",
+            "60g"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "63",
+            "",
+            "28"
+          ],
+          [
+            "",
+            "81",
+            "",
+            "36"
+          ],
+          [
+            "",
+            "117",
+            "",
+            "52"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "2 days",
+            "2 days",
+            "Total: 6 days",
+            "≈ data-sort-value=\"1.67\"> 1.67g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Unmilled Rice",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Rice Shoot Pierre's : data-sort-value=\"40\"> 40g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "30g 37g 45g 60g",
+            "",
+            "30g",
+            "",
+            "37g",
+            "",
+            "45g",
+            "",
+            "60g",
+            "data-sort-value=\"1\" 3 1 4 1 5 2 7 3",
+            "",
+            "3",
+            "",
+            "1",
+            "",
+            "4",
+            "",
+            "1",
+            "",
+            "5",
+            "",
+            "2",
+            "",
+            "7",
+            "",
+            "3",
+            "Rice"
+          ],
+          [
+            "",
+            "30g"
+          ],
+          [
+            "",
+            "37g"
+          ],
+          [
+            "",
+            "45g"
+          ],
+          [
+            "",
+            "60g"
+          ],
+          [
+            "",
+            "3",
+            "",
+            "1"
+          ],
+          [
+            "",
+            "4",
+            "",
+            "1"
+          ],
+          [
+            "",
+            "5",
+            "",
+            "2"
+          ],
+          [
+            "",
+            "7",
+            "",
+            "3"
+          ],
+          [
+            "1 day",
+            "2 days 1 day",
+            "2 days 1 day",
+            "3 days",
+            "Total: 8 days Total: 6 days",
+            "data-sort-value=\"-1.25\"> -1.25g /d ≈ data-sort-value=\"-1.67\"> -1.67g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Blueberry",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Blueberry Seeds Pierre's : data-sort-value=\"80\"> 80g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "50g 62g 75g 100g",
+            "",
+            "50g",
+            "",
+            "62g",
+            "",
+            "75g",
+            "",
+            "100g",
+            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "",
+            "25",
+            "",
+            "11",
+            "",
+            "35",
+            "",
+            "15",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "65",
+            "",
+            "29",
+            "Blueberry Tart Fruit Salad Summer Crops Bundle"
+          ],
+          [
+            "",
+            "50g"
+          ],
+          [
+            "",
+            "62g"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "25",
+            "",
+            "11"
+          ],
+          [
+            "",
+            "35",
+            "",
+            "15"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "65",
+            "",
+            "29"
+          ],
+          [
+            "1 day",
+            "3 days",
+            "3 days",
+            "4 days",
+            "2 days",
+            "Total: 13 days",
+            "Regrowth: 4 days",
+            "data-sort-value=\"20.8\"> 20.8g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Corn",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Corn Seeds Pierre's : data-sort-value=\"150\"> 150g JojaMart : data-sort-value=\"187\"> 187g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "50g 62g 75g 100g",
+            "",
+            "50g",
+            "",
+            "62g",
+            "",
+            "75g",
+            "",
+            "100g",
+            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "",
+            "25",
+            "",
+            "11",
+            "",
+            "35",
+            "",
+            "15",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "65",
+            "",
+            "29",
+            "Tortilla Oil Fall Crops Bundle Quality Crops Bundle"
+          ],
+          [
+            "",
+            "50g"
+          ],
+          [
+            "",
+            "62g"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "25",
+            "",
+            "11"
+          ],
+          [
+            "",
+            "35",
+            "",
+            "15"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "65",
+            "",
+            "29"
+          ],
+          [
+            "2 days",
+            "3 days",
+            "3 days",
+            "3 days",
+            "3 days",
+            "Total: 14 days",
+            "Regrowth: 4 days",
+            "≈ data-sort-value=\"1.92\"> 1.92g /d ≈ data-sort-value=\"7.41\"> 7.41g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Hops",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Hops Starter Pierre's : data-sort-value=\"60\"> 60g JojaMart : data-sort-value=\"75\"> 75g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "25g 31g 37g 50g",
+            "",
+            "25g",
+            "",
+            "31g",
+            "",
+            "37g",
+            "",
+            "50g",
+            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "63",
+            "",
+            "28",
+            "",
+            "81",
+            "",
+            "36",
+            "",
+            "117",
+            "",
+            "52",
+            "Pale Ale"
+          ],
+          [
+            "",
+            "25g"
+          ],
+          [
+            "",
+            "31g"
+          ],
+          [
+            "",
+            "37g"
+          ],
+          [
+            "",
+            "50g"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "63",
+            "",
+            "28"
+          ],
+          [
+            "",
+            "81",
+            "",
+            "36"
+          ],
+          [
+            "",
+            "117",
+            "",
+            "52"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "2 days",
+            "3 days",
+            "4 days",
+            "Total: 11 days",
+            "Regrowth: 1 day",
+            "≈ data-sort-value=\"13.52\"> 13.52g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Hot Pepper",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Pepper Seeds Pierre's : data-sort-value=\"40\"> 40g JojaMart : data-sort-value=\"50\"> 50g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "40g 50g 60g 80g",
+            "",
+            "40g",
+            "",
+            "50g",
+            "",
+            "60g",
+            "",
+            "80g",
+            "data-sort-value=\"5\" 13 5 18 8 23 10 33 14",
+            "",
+            "13",
+            "",
+            "5",
+            "",
+            "18",
+            "",
+            "8",
+            "",
+            "23",
+            "",
+            "10",
+            "",
+            "33",
+            "",
+            "14",
+            "Pepper Poppers Spicy Eel Tropical Curry Summer Crops Bundle \"Knee Therapy\" Quest Lewis (Loved gift) Shane (Loved gift)"
+          ],
+          [
+            "",
+            "40g"
+          ],
+          [
+            "",
+            "50g"
+          ],
+          [
+            "",
+            "60g"
+          ],
+          [
+            "",
+            "80g"
+          ],
+          [
+            "",
+            "13",
+            "",
+            "5"
+          ],
+          [
+            "",
+            "18",
+            "",
+            "8"
+          ],
+          [
+            "",
+            "23",
+            "",
+            "10"
+          ],
+          [
+            "",
+            "33",
+            "",
+            "14"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "1 day",
+            "1 day",
+            "1 day",
+            "Total: 5 days",
+            "Regrowth: 3 days",
+            "≈ data-sort-value=\"10.77\"> 10.77g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Melon",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Melon Seeds Pierre's : data-sort-value=\"80\"> 80g JojaMart : data-sort-value=\"100\"> 100g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "250g 312g 375g 500g",
+            "",
+            "250g",
+            "",
+            "312g",
+            "",
+            "375g",
+            "",
+            "500g",
+            "data-sort-value=\"45\" 113 50 158 71 203 91 293 131",
+            "",
+            "113",
+            "",
+            "50",
+            "",
+            "158",
+            "",
+            "71",
+            "",
+            "203",
+            "",
+            "91",
+            "",
+            "293",
+            "",
+            "131",
+            "Fruit Salad Pink Cake Summer Crops Bundle Quality Crops Bundle \"Crop Research\" Quest Penny (Loved gift)"
+          ],
+          [
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "312g"
+          ],
+          [
+            "",
+            "375g"
+          ],
+          [
+            "",
+            "500g"
+          ],
+          [
+            "",
+            "113",
+            "",
+            "50"
+          ],
+          [
+            "",
+            "158",
+            "",
+            "71"
+          ],
+          [
+            "",
+            "203",
+            "",
+            "91"
+          ],
+          [
+            "",
+            "293",
+            "",
+            "131"
+          ],
+          [
+            "1 day",
+            "2 days",
+            "3 days",
+            "3 days",
+            "3 days",
+            "Total: 12 days",
+            "≈ data-sort-value=\"14.17\"> 14.17g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Poppy",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Poppy Seeds Pierre's : data-sort-value=\"100\"> 100g JojaMart : data-sort-value=\"125\"> 125g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "140g 175g 210g 280g",
+            "",
+            "140g",
+            "",
+            "175g",
+            "",
+            "210g",
+            "",
+            "280g",
+            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "63",
+            "",
+            "28",
+            "",
+            "81",
+            "",
+            "36",
+            "",
+            "117",
+            "",
+            "52",
+            "Poppyseed Muffin Chef's Bundle Penny (Loved gift)"
+          ],
+          [
+            "",
+            "140g"
+          ],
+          [
+            "",
+            "175g"
+          ],
+          [
+            "",
+            "210g"
+          ],
+          [
+            "",
+            "280g"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "63",
+            "",
+            "28"
+          ],
+          [
+            "",
+            "81",
+            "",
+            "36"
+          ],
+          [
+            "",
+            "117",
+            "",
+            "52"
+          ],
+          [
+            "1 day",
+            "2 days",
+            "2 days",
+            "2 days",
+            "Total: 7 days",
+            "≈ data-sort-value=\"5.71\"> 5.71g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Radish",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Radish Seeds Pierre's : data-sort-value=\"40\"> 40g JojaMart : data-sort-value=\"50\"> 50g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "90g 112g 135g 180g",
+            "",
+            "90g",
+            "",
+            "112g",
+            "",
+            "135g",
+            "",
+            "180g",
+            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "63",
+            "",
+            "28",
+            "",
+            "81",
+            "",
+            "36",
+            "",
+            "117",
+            "",
+            "52",
+            "Radish Salad Red Plate"
+          ],
+          [
+            "",
+            "90g"
+          ],
+          [
+            "",
+            "112g"
+          ],
+          [
+            "",
+            "135g"
+          ],
+          [
+            "",
+            "180g"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "63",
+            "",
+            "28"
+          ],
+          [
+            "",
+            "81",
+            "",
+            "36"
+          ],
+          [
+            "",
+            "117",
+            "",
+            "52"
+          ],
+          [
+            "2 days",
+            "1 day",
+            "2 days",
+            "1 day",
+            "Total: 6 days",
+            "≈ data-sort-value=\"8.33\"> 8.33g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Red Cabbage",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Red Cabbage Seeds Pierre's : data-sort-value=\"100\"> 100g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "260g 325g 390g 520g",
+            "",
+            "260g",
+            "",
+            "325g",
+            "",
+            "390g",
+            "",
+            "520g",
+            "data-sort-value=\"30\" 75 33 105 47 135 60 195 87",
+            "",
+            "75",
+            "",
+            "33",
+            "",
+            "105",
+            "",
+            "47",
+            "",
+            "135",
+            "",
+            "60",
+            "",
+            "195",
+            "",
+            "87",
+            "Coleslaw Fish Taco Red Plate Dye Bundle"
+          ],
+          [
+            "",
+            "260g"
+          ],
+          [
+            "",
+            "325g"
+          ],
+          [
+            "",
+            "390g"
+          ],
+          [
+            "",
+            "520g"
+          ],
+          [
+            "",
+            "75",
+            "",
+            "33"
+          ],
+          [
+            "",
+            "105",
+            "",
+            "47"
+          ],
+          [
+            "",
+            "135",
+            "",
+            "60"
+          ],
+          [
+            "",
+            "195",
+            "",
+            "87"
+          ],
+          [
+            "2 days",
+            "1 day",
+            "2 days",
+            "2 days",
+            "2 days",
+            "Total: 9 days",
+            "≈ data-sort-value=\"17.78\"> 17.78g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Starfruit",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used in"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used in"
+          ],
+          [
+            "Starfruit Seeds Oasis : data-sort-value=\"400\"> 400g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "750g 937g 1,125g 1,500g",
+            "",
+            "750g",
+            "",
+            "937g",
+            "",
+            "1,125g",
+            "",
+            "1,500g",
+            "data-sort-value=\"50\" 125 56 175 78 225 101 325 146",
+            "",
+            "125",
+            "",
+            "56",
+            "",
+            "175",
+            "",
+            "78",
+            "",
+            "225",
+            "",
+            "101",
+            "",
+            "325",
+            "",
+            "146",
+            "Junimo Hut \"A Soldier's Star\" Quest"
+          ],
+          [
+            "",
+            "750g"
+          ],
+          [
+            "",
+            "937g"
+          ],
+          [
+            "",
+            "1,125g"
+          ],
+          [
+            "",
+            "1,500g"
+          ],
+          [
+            "",
+            "125",
+            "",
+            "56"
+          ],
+          [
+            "",
+            "175",
+            "",
+            "78"
+          ],
+          [
+            "",
+            "225",
+            "",
+            "101"
+          ],
+          [
+            "",
+            "325",
+            "",
+            "146"
+          ],
+          [
+            "2 days",
+            "3 days",
+            "2 days",
+            "3 days",
+            "3 days",
+            "Total: 13 days",
+            "≈ data-sort-value=\"26.92\"> 26.92g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Summer Spangle",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used in"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used in"
+          ],
+          [
+            "Spangle Seeds Pierre's : data-sort-value=\"50\"> 50g JojaMart : data-sort-value=\"62\"> 62g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "90g 112g 135g 180g",
+            "",
+            "90g",
+            "",
+            "112g",
+            "",
+            "135g",
+            "",
+            "180g",
+            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "63",
+            "",
+            "28",
+            "",
+            "81",
+            "",
+            "36",
+            "",
+            "117",
+            "",
+            "52",
+            "Caroline (Loved gift)"
+          ],
+          [
+            "",
+            "90g"
+          ],
+          [
+            "",
+            "112g"
+          ],
+          [
+            "",
+            "135g"
+          ],
+          [
+            "",
+            "180g"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "63",
+            "",
+            "28"
+          ],
+          [
+            "",
+            "81",
+            "",
+            "36"
+          ],
+          [
+            "",
+            "117",
+            "",
+            "52"
+          ],
+          [
+            "1 day",
+            "2 days",
+            "3 days",
+            "2 days",
+            "Total: 8 days",
+            "data-sort-value=\"5\"> 5g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Summer Squash",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health"
+          ],
+          [
+            "Summer Squash Seeds",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "45g 56g 67g 90g",
+            "",
+            "45g",
+            "",
+            "56g",
+            "",
+            "67g",
+            "",
+            "90g",
+            "data-sort-value=\"25\" 63 28 88 39 113 50 163 73",
+            "",
+            "63",
+            "",
+            "28",
+            "",
+            "88",
+            "",
+            "39",
+            "",
+            "113",
+            "",
+            "50",
+            "",
+            "163",
+            "",
+            "73"
+          ],
+          [
+            "",
+            "45g"
+          ],
+          [
+            "",
+            "56g"
+          ],
+          [
+            "",
+            "67g"
+          ],
+          [
+            "",
+            "90g"
+          ],
+          [
+            "",
+            "63",
+            "",
+            "28"
+          ],
+          [
+            "",
+            "88",
+            "",
+            "39"
+          ],
+          [
+            "",
+            "113",
+            "",
+            "50"
+          ],
+          [
+            "",
+            "163",
+            "",
+            "73"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "1 day",
+            "2 days",
+            "1 day",
+            "Total: 6 days",
+            "Regrowth: 3 days",
+            "≈ data-sort-value=\"13.33\"> 13.33g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Sunflower",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Sunflower Seeds Pierre's : data-sort-value=\"200\"> 200g JojaMart : data-sort-value=\"125\"> 125g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "80g 100g 120g 160g",
+            "",
+            "80g",
+            "",
+            "100g",
+            "",
+            "120g",
+            "",
+            "160g",
+            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "63",
+            "",
+            "28",
+            "",
+            "81",
+            "",
+            "36",
+            "",
+            "117",
+            "",
+            "52",
+            "Oil Dye Bundle Haley (Loved gift)"
+          ],
+          [
+            "",
+            "80g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "160g"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "63",
+            "",
+            "28"
+          ],
+          [
+            "",
+            "81",
+            "",
+            "36"
+          ],
+          [
+            "",
+            "117",
+            "",
+            "52"
+          ],
+          [
+            "1 day",
+            "2 days",
+            "3 days",
+            "2 days",
+            "Total: 8 days",
+            "data-sort-value=\"-15\"> -15g /d data-sort-value=\"-5.63\"> -5.63g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Tomato",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Tomato Seeds Pierre's : data-sort-value=\"50\"> 50g JojaMart : data-sort-value=\"62\"> 62g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "60g 75g 90g 120g",
+            "",
+            "60g",
+            "",
+            "75g",
+            "",
+            "90g",
+            "",
+            "120g",
+            "data-sort-value=\"8\" 20 9 28 12 36 16 52 23",
+            "",
+            "20",
+            "",
+            "9",
+            "",
+            "28",
+            "",
+            "12",
+            "",
+            "36",
+            "",
+            "16",
+            "",
+            "52",
+            "",
+            "23",
+            "Bruschetta Eggplant Parmesan Fish Stew Pizza Spaghetti Vegetable Medley Summer Crops Bundle"
+          ],
+          [
+            "",
+            "60g"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "90g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "20",
+            "",
+            "9"
+          ],
+          [
+            "",
+            "28",
+            "",
+            "12"
+          ],
+          [
+            "",
+            "36",
+            "",
+            "16"
+          ],
+          [
+            "",
+            "52",
+            "",
+            "23"
+          ],
+          [
+            "2 days",
+            "2 days",
+            "2 days",
+            "2 days",
+            "3 days",
+            "Total: 11 days",
+            "Regrowth: 4 days",
+            "≈ data-sort-value=\"9.26\"> 9.26g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Wheat",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Wheat Seeds Pierre's : data-sort-value=\"10\"> 10g JojaMart : data-sort-value=\"12\"> 12g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "25g 31g 37g 50g",
+            "",
+            "25g",
+            "",
+            "31g",
+            "",
+            "37g",
+            "",
+            "50g",
+            "Inedible",
+            "Beer Wheat Flour Fodder Bundle"
+          ],
+          [
+            "",
+            "25g"
+          ],
+          [
+            "",
+            "31g"
+          ],
+          [
+            "",
+            "37g"
+          ],
+          [
+            "",
+            "50g"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "1 day",
+            "1 day",
+            "Total: 4 days",
+            "data-sort-value=\"3.75\"> 3.75g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Amaranth",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Amaranth Seeds Pierre's : data-sort-value=\"70\"> 70g JojaMart : data-sort-value=\"87\"> 87g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "150g 187g 225g 300g",
+            "",
+            "150g",
+            "",
+            "187g",
+            "",
+            "225g",
+            "",
+            "300g",
+            "data-sort-value=\"20\" 50 22 70 31 90 40 130 58",
+            "",
+            "50",
+            "",
+            "22",
+            "",
+            "70",
+            "",
+            "31",
+            "",
+            "90",
+            "",
+            "40",
+            "",
+            "130",
+            "",
+            "58",
+            "Salmon Dinner \"Cow's Delight\" Quest"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "50",
+            "",
+            "22"
+          ],
+          [
+            "",
+            "70",
+            "",
+            "31"
+          ],
+          [
+            "",
+            "90",
+            "",
+            "40"
+          ],
+          [
+            "",
+            "130",
+            "",
+            "58"
+          ],
+          [
+            "1 day",
+            "2 days",
+            "2 days",
+            "2 days",
+            "Total: 7 days",
+            "≈ data-sort-value=\"11.43\"> 11.43g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Artichoke",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Artichoke Seeds Pierre's : data-sort-value=\"30\"> 30g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "160g 200g 240g 320g",
+            "",
+            "160g",
+            "",
+            "200g",
+            "",
+            "240g",
+            "",
+            "320g",
+            "data-sort-value=\"12\" 30 13 42 18 54 24 78 35",
+            "",
+            "30",
+            "",
+            "13",
+            "",
+            "42",
+            "",
+            "18",
+            "",
+            "54",
+            "",
+            "24",
+            "",
+            "78",
+            "",
+            "35",
+            "Artichoke Dip Super Meal"
+          ],
+          [
+            "",
+            "160g"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "240g"
+          ],
+          [
+            "",
+            "320g"
+          ],
+          [
+            "",
+            "30",
+            "",
+            "13"
+          ],
+          [
+            "",
+            "42",
+            "",
+            "18"
+          ],
+          [
+            "",
+            "54",
+            "",
+            "24"
+          ],
+          [
+            "",
+            "78",
+            "",
+            "35"
+          ],
+          [
+            "2 days",
+            "2 days",
+            "1 day",
+            "2 days",
+            "1 day",
+            "Total: 8 days",
+            "data-sort-value=\"16.25\"> 16.25g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Beet",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Beet Seeds Oasis : data-sort-value=\"20\"> 20g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "100g 125g 150g 200g",
+            "",
+            "100g",
+            "",
+            "125g",
+            "",
+            "150g",
+            "",
+            "200g",
+            "data-sort-value=\"12\" 30 13 42 18 54 24 78 35",
+            "",
+            "30",
+            "",
+            "13",
+            "",
+            "42",
+            "",
+            "18",
+            "",
+            "54",
+            "",
+            "24",
+            "",
+            "78",
+            "",
+            "35",
+            "Vegetable Medley Sugar \"The Mysterious Qi\" Quest Evelyn (Loved gift)"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "125g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "30",
+            "",
+            "13"
+          ],
+          [
+            "",
+            "42",
+            "",
+            "18"
+          ],
+          [
+            "",
+            "54",
+            "",
+            "24"
+          ],
+          [
+            "",
+            "78",
+            "",
+            "35"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "2 days",
+            "2 days",
+            "Total: 6 days",
+            "≈ data-sort-value=\"13.33\"> 13.33g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Bok Choy",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Bok Choy Seeds Pierre's : data-sort-value=\"50\"> 50g JojaMart : data-sort-value=\"62\"> 62g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "80g 100g 120g 160g",
+            "",
+            "80g",
+            "",
+            "100g",
+            "",
+            "120g",
+            "",
+            "160g",
+            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "",
+            "25",
+            "",
+            "11",
+            "",
+            "35",
+            "",
+            "15",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "65",
+            "",
+            "29",
+            "Super Meal"
+          ],
+          [
+            "",
+            "80g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "160g"
+          ],
+          [
+            "",
+            "25",
+            "",
+            "11"
+          ],
+          [
+            "",
+            "35",
+            "",
+            "15"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "65",
+            "",
+            "29"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "1 day",
+            "1 day",
+            "Total: 4 days",
+            "data-sort-value=\"7.50\"> 7.5g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Broccoli",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health"
+          ],
+          [
+            "Broccoli Seeds",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "70g 87g 105g 140g",
+            "",
+            "70g",
+            "",
+            "87g",
+            "",
+            "105g",
+            "",
+            "140g",
+            "data-sort-value=\"25\" 63 28 88 39 113 50 163 73",
+            "",
+            "63",
+            "",
+            "28",
+            "",
+            "88",
+            "",
+            "39",
+            "",
+            "113",
+            "",
+            "50",
+            "",
+            "163",
+            "",
+            "73"
+          ],
+          [
+            "",
+            "70g"
+          ],
+          [
+            "",
+            "87g"
+          ],
+          [
+            "",
+            "105g"
+          ],
+          [
+            "",
+            "140g"
+          ],
+          [
+            "",
+            "63",
+            "",
+            "28"
+          ],
+          [
+            "",
+            "88",
+            "",
+            "39"
+          ],
+          [
+            "",
+            "113",
+            "",
+            "50"
+          ],
+          [
+            "",
+            "163",
+            "",
+            "73"
+          ],
+          [
+            "2 days",
+            "2 days",
+            "2 days",
+            "2 days",
+            "Total: 8 days",
+            "Regrowth: 4 days",
+            "≈ data-sort-value=\"14.58\"> 14.58g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Cranberries",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Cranberry Seeds Pierre's : data-sort-value=\"240\"> 240g JojaMart : data-sort-value=\"300\"> 300g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "75g 93g 112g 150g",
+            "",
+            "75g",
+            "",
+            "93g",
+            "",
+            "112g",
+            "",
+            "150g",
+            "data-sort-value=\"15\" 38 17 53 23 68 30 98 44",
+            "",
+            "38",
+            "",
+            "17",
+            "",
+            "53",
+            "",
+            "23",
+            "",
+            "68",
+            "",
+            "30",
+            "",
+            "98",
+            "",
+            "44",
+            "Cranberry Candy Cranberry Sauce Stuffing Super Meal"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "93g"
+          ],
+          [
+            "",
+            "112g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "38",
+            "",
+            "17"
+          ],
+          [
+            "",
+            "53",
+            "",
+            "23"
+          ],
+          [
+            "",
+            "68",
+            "",
+            "30"
+          ],
+          [
+            "",
+            "98",
+            "",
+            "44"
+          ],
+          [
+            "1 day",
+            "2 days",
+            "1 day",
+            "1 day",
+            "2 days",
+            "Total: 7 days",
+            "Regrowth: 5 days",
+            "≈ data-sort-value=\"18.89\"> 18.89g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Eggplant",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Eggplant Seeds Pierre's : data-sort-value=\"20\"> 20g JojaMart : data-sort-value=\"25\"> 25g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "60g 75g 90g 120g",
+            "",
+            "60g",
+            "",
+            "75g",
+            "",
+            "90g",
+            "",
+            "120g",
+            "data-sort-value=\"8\" 20 9 28 12 36 16 52 23",
+            "",
+            "20",
+            "",
+            "9",
+            "",
+            "28",
+            "",
+            "12",
+            "",
+            "36",
+            "",
+            "16",
+            "",
+            "52",
+            "",
+            "23",
+            "Eggplant Parmesan Survival Burger Fall Crops Bundle"
+          ],
+          [
+            "",
+            "60g"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "90g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "20",
+            "",
+            "9"
+          ],
+          [
+            "",
+            "28",
+            "",
+            "12"
+          ],
+          [
+            "",
+            "36",
+            "",
+            "16"
+          ],
+          [
+            "",
+            "52",
+            "",
+            "23"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "1 day",
+            "1 day",
+            "1 day",
+            "Total: 5 days",
+            "Regrowth: 5 days",
+            "data-sort-value=\"11.20\"> 11.2g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Fairy Rose",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used in"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used in"
+          ],
+          [
+            "Fairy Seeds Pierre's : data-sort-value=\"200\"> 200g JojaMart : data-sort-value=\"250\"> 250g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "290g 362g 435g 580g",
+            "",
+            "290g",
+            "",
+            "362g",
+            "",
+            "435g",
+            "",
+            "580g",
+            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "63",
+            "",
+            "28",
+            "",
+            "81",
+            "",
+            "36",
+            "",
+            "117",
+            "",
+            "52",
+            "Fairy Dust Evelyn (Loved gift) Jas (Loved gift)"
+          ],
+          [
+            "",
+            "290g"
+          ],
+          [
+            "",
+            "362g"
+          ],
+          [
+            "",
+            "435g"
+          ],
+          [
+            "",
+            "580g"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "63",
+            "",
+            "28"
+          ],
+          [
+            "",
+            "81",
+            "",
+            "36"
+          ],
+          [
+            "",
+            "117",
+            "",
+            "52"
+          ],
+          [
+            "1 day",
+            "4 days",
+            "4 days",
+            "3 days",
+            "Total: 12 days",
+            "data-sort-value=\"7.50\"> 7.5g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Grape",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Grape Starter Pierre's : data-sort-value=\"60\"> 60g JojaMart : data-sort-value=\"75\"> 75g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "80g 100g 120g 160g",
+            "",
+            "80g",
+            "",
+            "100g",
+            "",
+            "120g",
+            "",
+            "160g",
+            "data-sort-value=\"15\" 38 17 53 23 68 30 98 44",
+            "",
+            "38",
+            "",
+            "17",
+            "",
+            "53",
+            "",
+            "23",
+            "",
+            "68",
+            "",
+            "30",
+            "",
+            "98",
+            "",
+            "44",
+            "Summer Seeds Summer Foraging Bundle Vincent (Loved gift)"
+          ],
+          [
+            "",
+            "80g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "160g"
+          ],
+          [
+            "",
+            "38",
+            "",
+            "17"
+          ],
+          [
+            "",
+            "53",
+            "",
+            "23"
+          ],
+          [
+            "",
+            "68",
+            "",
+            "30"
+          ],
+          [
+            "",
+            "98",
+            "",
+            "44"
+          ],
+          [
+            "1 day",
+            "1 day",
+            "2 days",
+            "3 days",
+            "3 days",
+            "Total: 10 days",
+            "Regrowth: 3 days",
+            "data-sort-value=\"16.80\"> 16.8g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Pumpkin",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Pumpkin Seeds Pierre's : data-sort-value=\"100\"> 100g JojaMart : data-sort-value=\"125\"> 125g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "320g 400g 480g 640g",
+            "",
+            "320g",
+            "",
+            "400g",
+            "",
+            "480g",
+            "",
+            "640g",
+            "Inedible",
+            "Autumn's Bounty Pumpkin Pie Pumpkin Soup Jack-O-Lantern Fall Crops Bundle Quality Crops Bundle \"Carving Pumpkins\" Quest Abigail (Loved gift) Krobus (Loved gift) Willy (Loved gift)"
+          ],
+          [
+            "",
+            "320g"
+          ],
+          [
+            "",
+            "400g"
+          ],
+          [
+            "",
+            "480g"
+          ],
+          [
+            "",
+            "640g"
+          ],
+          [
+            "1 day",
+            "2 days",
+            "3 days",
+            "4 days",
+            "3 days",
+            "Total: 13 days",
+            "≈ data-sort-value=\"16.92\"> 16.92g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Yam",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Yam Seeds Pierre's : data-sort-value=\"60\"> 60g JojaMart : data-sort-value=\"75\"> 75g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "160g 200g 240g 320g",
+            "",
+            "160g",
+            "",
+            "200g",
+            "",
+            "240g",
+            "",
+            "320g",
+            "data-sort-value=\"18\" 45 20 63 28 81 36 117 52",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "63",
+            "",
+            "28",
+            "",
+            "81",
+            "",
+            "36",
+            "",
+            "117",
+            "",
+            "52",
+            "Autumn's Bounty Glazed Yams Fall Crops Bundle Linus (Loved gift)"
+          ],
+          [
+            "",
+            "160g"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "240g"
+          ],
+          [
+            "",
+            "320g"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "63",
+            "",
+            "28"
+          ],
+          [
+            "",
+            "81",
+            "",
+            "36"
+          ],
+          [
+            "",
+            "117",
+            "",
+            "52"
+          ],
+          [
+            "1 day",
+            "3 days",
+            "3 days",
+            "3 days",
+            "Total: 10 days",
+            "data-sort-value=\"10\"> 10g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Powdermelon",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health"
+          ],
+          [
+            "Powdermelon Seeds",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "60g 75g 90g 120g",
+            "",
+            "60g",
+            "",
+            "75g",
+            "",
+            "90g",
+            "",
+            "120g",
+            "data-sort-value=\"25\" 63 28 88 39 113 50 163 73",
+            "",
+            "63",
+            "",
+            "28",
+            "",
+            "88",
+            "",
+            "39",
+            "",
+            "113",
+            "",
+            "50",
+            "",
+            "163",
+            "",
+            "73"
+          ],
+          [
+            "",
+            "60g"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "90g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "63",
+            "",
+            "28"
+          ],
+          [
+            "",
+            "88",
+            "",
+            "39"
+          ],
+          [
+            "",
+            "113",
+            "",
+            "50"
+          ],
+          [
+            "",
+            "163",
+            "",
+            "73"
+          ],
+          [
+            "1 day",
+            "2 days",
+            "1 day",
+            "2 days",
+            "1 day",
+            "Total: 7 days",
+            "≈ data-sort-value=\"8.57\"> 8.57g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Ancient Fruit",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health"
+          ],
+          [
+            "Ancient Seeds Crafting Recipe : Free",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "550g 687g 825g 1,100g",
+            "",
+            "550g",
+            "",
+            "687g",
+            "",
+            "825g",
+            "",
+            "1,100g",
+            "Inedible"
+          ],
+          [
+            "",
+            "550g"
+          ],
+          [
+            "",
+            "687g"
+          ],
+          [
+            "",
+            "825g"
+          ],
+          [
+            "",
+            "1,100g"
+          ],
+          [
+            "2 days",
+            "7 days",
+            "7 days",
+            "7 days",
+            "5 days",
+            "Total: 28 days",
+            "Regrowth: 7 days",
+            "≈ data-sort-value=\"57.14\"> 57.14g /d*"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Cactus Fruit",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used in"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used in"
+          ],
+          [
+            "Cactus Seeds Oasis : data-sort-value=\"150\"> 150g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "75g 93g 112g 150g",
+            "",
+            "75g",
+            "",
+            "93g",
+            "",
+            "112g",
+            "",
+            "150g",
+            "data-sort-value=\"30\" 75 33 105 47 135 60 195 87",
+            "",
+            "75",
+            "",
+            "33",
+            "",
+            "105",
+            "",
+            "47",
+            "",
+            "135",
+            "",
+            "60",
+            "",
+            "195",
+            "",
+            "87",
+            "Exotic Foraging Bundle Linus (Loved gift) Pam (Loved gift) Sam (Loved gift)"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "93g"
+          ],
+          [
+            "",
+            "112g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "75",
+            "",
+            "33"
+          ],
+          [
+            "",
+            "105",
+            "",
+            "47"
+          ],
+          [
+            "",
+            "135",
+            "",
+            "60"
+          ],
+          [
+            "",
+            "195",
+            "",
+            "87"
+          ],
+          [
+            "2 days",
+            "2 days",
+            "2 days",
+            "3 days",
+            "3 days",
+            "Total: 12 days",
+            "Regrowth: 3 days",
+            "≈ data-sort-value=\"11.11\"> 11.11g /d ≈ data-sort-value=\"24.11\"> 24.11g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Fiber",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used in"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used in"
+          ],
+          [
+            "Fiber Seeds Crafting Recipe : Free",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "data-sort-value=\"1\"> 1g each",
+            "Inedible",
+            "Crafting"
+          ],
+          [
+            "1 day",
+            "2 days",
+            "2 days",
+            "2 days",
+            "Total: 7 days"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Mixed Flower Seeds",
+      "table": {
+        "headers": [
+          "Season",
+          "Seeds"
+        ],
+        "rows": [
+          [
+            "Season",
+            "Seeds"
+          ],
+          [
+            "Spring",
+            "Tulip Bulb • Jazz Seeds"
+          ],
+          [
+            "Summer",
+            "Sunflower Seeds • Spangle Seeds • Poppy Seeds"
+          ],
+          [
+            "Fall",
+            "Sunflower Seeds • Fairy Seeds"
+          ],
+          [
+            "Winter",
+            "Any of the above ( Greenhouse and indoor Garden Pot only)."
+          ],
+          [
+            "Ginger Island",
+            "Sunflower Seeds • Spangle Seeds • Poppy Seeds"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Mixed Seeds",
+      "table": {
+        "headers": [
+          "Season",
+          "Seeds"
+        ],
+        "rows": [
+          [
+            "Season",
+            "Seeds"
+          ],
+          [
+            "Spring",
+            "Cauliflower Seeds • Parsnip Seeds • Potato Seeds"
+          ],
+          [
+            "Summer",
+            "Corn Seeds • Pepper Seeds • Radish Seeds • Wheat Seeds"
+          ],
+          [
+            "Fall",
+            "Artichoke Seeds • Corn Seeds • Eggplant Seeds • Pumpkin Seeds"
+          ],
+          [
+            "Winter",
+            "Any of the above ( Greenhouse and indoor Garden Pot only)."
+          ],
+          [
+            "Ginger Island",
+            "Blueberry Seeds • Melon Seeds • Pineapple Seeds • Rhubarb Seeds"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Pineapple",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Pineapple Seeds Island Trader : Magma Cap (1)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "300g 375g 450g 600g",
+            "",
+            "300g",
+            "",
+            "375g",
+            "",
+            "450g",
+            "",
+            "600g",
+            "data-sort-value=\"55\" 138 62 193 86 248 111 358 161",
+            "",
+            "138",
+            "",
+            "62",
+            "",
+            "193",
+            "",
+            "86",
+            "",
+            "248",
+            "",
+            "111",
+            "",
+            "358",
+            "",
+            "161",
+            "Tropical Curry"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "375g"
+          ],
+          [
+            "",
+            "450g"
+          ],
+          [
+            "",
+            "600g"
+          ],
+          [
+            "",
+            "138",
+            "",
+            "62"
+          ],
+          [
+            "",
+            "193",
+            "",
+            "86"
+          ],
+          [
+            "",
+            "248",
+            "",
+            "111"
+          ],
+          [
+            "",
+            "358",
+            "",
+            "161"
+          ],
+          [
+            "1 day",
+            "3 days",
+            "3 days",
+            "4 days",
+            "3 days",
+            "Total: 14 days",
+            "Regrowth: 7 days",
+            "≈ data-sort-value=\"28.57\"> 28.57g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Taro Root",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "Taro Tuber Island Trader : Bone Fragment (2)",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "100g 125g 150g 200g",
+            "",
+            "100g",
+            "",
+            "125g",
+            "",
+            "150g",
+            "",
+            "200g",
+            "data-sort-value=\"15\" 38 17 53 23 68 30 98 44",
+            "",
+            "38",
+            "",
+            "17",
+            "",
+            "53",
+            "",
+            "23",
+            "",
+            "68",
+            "",
+            "30",
+            "",
+            "98",
+            "",
+            "44",
+            "Poi"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "125g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "38",
+            "",
+            "17"
+          ],
+          [
+            "",
+            "53",
+            "",
+            "23"
+          ],
+          [
+            "",
+            "68",
+            "",
+            "30"
+          ],
+          [
+            "",
+            "98",
+            "",
+            "44"
+          ],
+          [
+            "1 day 1 day",
+            "2 days 1 day",
+            "3 days 2 days",
+            "4 days 3 days",
+            "Total: 10 days Total: 7 days",
+            "data-sort-value=\"10\"> 10g /d ≈ data-sort-value=\"14.29\"> 14.29g /d"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Sweet Gem Berry",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest",
+          "Sells For",
+          "Energy / Health"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest",
+            "Sells For",
+            "Energy / Health"
+          ],
+          [
+            "Rare Seed Traveling Cart : data-sort-value=\"1000\"> 1,000g",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "3,000g 3,750g 4,500g 6,000g",
+            "",
+            "3,000g",
+            "",
+            "3,750g",
+            "",
+            "4,500g",
+            "",
+            "6,000g",
+            "Inedible"
+          ],
+          [
+            "",
+            "3,000g"
+          ],
+          [
+            "",
+            "3,750g"
+          ],
+          [
+            "",
+            "4,500g"
+          ],
+          [
+            "",
+            "6,000g"
+          ],
+          [
+            "2 days",
+            "4 days",
+            "6 days",
+            "6 days",
+            "6 days",
+            "Total: 24 days",
+            "≈ data-sort-value=\"83.33\"> 83.33g /d*"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Tea Leaves",
+      "table": {
+        "headers": [
+          "Seeds",
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Harvest",
+          "Sells For",
+          "Energy / Health",
+          "Used in"
+        ],
+        "rows": [
+          [
+            "Seeds",
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Harvest",
+            "Sells For",
+            "Energy / Health",
+            "Used in"
+          ],
+          [
+            "Tea Sapling Crafting Recipe : Free",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "50g",
+            "",
+            "50g",
+            "Inedible",
+            "Green Tea"
+          ],
+          [
+            "",
+            "50g"
+          ],
+          [
+            "10 days",
+            "10 days",
+            "Up to and including 21st of the season",
+            "Total: 20 days",
+            "Regrowth: 1 day"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "History",
+      "table": {
+        "headers": [
+          "Crops"
+        ],
+        "rows": [
+          [
+            "Crops"
+          ],
+          [
+            "Spring",
+            "Blue Jazz • Carrot • Cauliflower • Coffee Bean • Garlic • Green Bean • Kale • Parsnip • Potato • Rhubarb • Strawberry • Tulip • Unmilled Rice"
+          ],
+          [
+            "Summer",
+            "Blueberry • Coffee Bean • Corn • Hops • Hot Pepper • Melon • Poppy • Radish • Red Cabbage • Starfruit • Summer Spangle • Summer Squash • Sunflower • Tomato • Wheat"
+          ],
+          [
+            "Fall",
+            "Amaranth • Artichoke • Beet • Bok Choy • Broccoli • Corn • Cranberries • Eggplant • Fairy Rose • Grape • Pumpkin • Sunflower • Wheat • Yam"
+          ],
+          [
+            "Winter",
+            "Powdermelon"
+          ],
+          [
+            "Special",
+            "Ancient Fruit • Cactus Fruit • Pineapple • Qi Fruit • Sweet Gem Berry • Taro Root • Tea Leaves"
+          ]
+        ]
+      }
+    }
+  ]
+}

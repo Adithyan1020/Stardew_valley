@@ -1,0 +1,745 @@
+{
+  "title": "Minerals",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Minerals are items that can be found in the Mines and the Skull Cavern . Most minerals are acquired from geodes after having Clint process them. Some are found on the ground and some can be mined from nodes, which are also found in the Quarry . They can also sometimes be acquired as Monster Drops , as gifts from Villagers , or from the Statue of Endless Fortune . Minerals (other than geode minerals) are also possible items found in Fishing Treasure Chests .\nMinerals can be donated to the Museum for rewards and achievements . Minerals not yet donated will have an item description of \" Gunther can tell you more about this if you donate it to the museum.\" After one of that mineral has been donated, the item's description will appear. There are 53 different minerals which can be donated.\nAll Minerals, Gems, and Geodes can be used in the spool of the Sewing Machine located inside Emily and Haley 's house to Tailor clothing, once the Sewing Machine is unlocked. All minerals, gems, and geodes can be used to dye existing clothing using the Sewing Machine, and some can be used to dye clothing using Dye Pots.\nMinerals can be sold at a shipping box and also to the Blacksmith ."
+    },
+    {
+      "heading": "Foraged Minerals",
+      "content": "Foraged minerals are found on the ground in The Mines and the Skull Cavern . They can be picked up in the same way that other forageables can, and if the Gatherer profession is chosen at Foraging level 5 then the player has a chance of a double harvest. They are used in crafting recipes and in the Geologist's Bundle in the Boiler Room .\nNote that picking up foraged minerals normally does not award Foraging XP, but a bug results in 7 Foraging XP awarded only for a duplicate mineral created by the Gatherer profession."
+    },
+    {
+      "heading": "Gems",
+      "content": "Gems are used in Crafting recipes and are generally \"loved\" or \"liked\" as gifts. All gems, except Diamond and Prismatic Shard , can be found in crates and barrels in The Mines ."
+    },
+    {
+      "heading": "Geode Minerals",
+      "content": "Geode minerals are extracted from geodes. They are mainly used as donations to the Museum , or sold for a small profit. They can be used to tailor or dye clothing. They are generally disliked as gifts . The Wizard likes all Geode Minerals."
+    },
+    {
+      "heading": "Geodes",
+      "content": "Geodes are mineral deposits that contain minerals, certain Artifacts , or basic resources . They can be found primarily by breaking rocks in The Mines .\nGeodes must be processed either using a Geode Crusher or at the Blacksmith to obtain the minerals inside. Clint charges data-sort-value=\"25\"> 25g each, while the Geode Crusher is free once available. Certain minerals are only available from certain types of Geodes, but Omni Geodes can contain any mineral.\nNote that unopened Geodes are NOT considered to be minerals themselves, so they cannot be donated to the Museum ."
+    },
+    {
+      "heading": "Collection",
+      "content": "Minerals do not have to be shipped or donated to the Museum to count towards the Collections Tab of the player menu. They only need to be picked up.\nNote that minerals found in Fishing Treasure Chests may not appear as found on the collections tab. Dragging the mineral outside the inventory window and allowing it to be taken back into inventory may correct this. Holding the mineral in inventory overnight may also correct this.\nNote also that minerals' descriptions appear on the collections tab as soon as they are found, despite the inventory description stating \"Gunther can tell you more about this if you donate it to the museum.\"\nEmerald Aquamarine Ruby Amethyst Topaz Jade Diamond Prismatic Shard Quartz Fire Quartz Frozen Tear Earth Crystal Alamite Bixite Baryte Aerinite Calcite Dolomite Esperite Fluorapatite Geminite Helvite Jamborite Jagoite Kyanite Lunarite Malachite Neptunite Lemon Stone Nekoite Orpiment Petrified Slime Thunder Egg Pyrite Ocean Stone Ghost Crystal Tigerseye Jasper Opal Fire Opal Celestine Marble Sandstone Granite Basalt Limestone Soapstone Hematite Mudstone Obsidian Slate Fairy Stone Star Shards"
+    },
+    {
+      "heading": "History",
+      "content": "- 1.1 : Removed quality stars from foraged minerals.\n- 1.5 : Geodes can now be processed outside of the Blacksmith using Geode Crushers .\n- 1.6.3 : Geodes can now be processed during tool upgrades."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Foraged Minerals",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Sell Price",
+          "Gemologist Sell Price",
+          "Source",
+          "Used in"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Sell Price",
+            "Gemologist Sell Price",
+            "Source",
+            "Used in"
+          ],
+          [
+            "",
+            "Quartz",
+            "A clear crystal commonly found in caves and mines.",
+            "data-sort-value=\"25\"> 25g",
+            "data-sort-value=\"32\"> 32g",
+            "The Mines (Floors 1-120) Garbage Can Stone Golem (10%)",
+            "Geologist's Bundle Refined Quartz Fish Pond (Quest)"
+          ],
+          [
+            "",
+            "Earth Crystal",
+            "A resinous substance found near the surface.",
+            "data-sort-value=\"50\"> 50g",
+            "data-sort-value=\"65\"> 65g",
+            "The Mines (Floors 1-39) Duggy (10%) Haunted Skull (1.3%) Fishing Treasure Chest Panning Geode Omni Geode Garbage Can",
+            "Geologist's Bundle Earth Obelisk Mayonnaise Machine Fish Pond (Quest)"
+          ],
+          [
+            "",
+            "Frozen Tear",
+            "A crystal fabled to be the frozen tears of a yeti.",
+            "data-sort-value=\"75\"> 75g",
+            "data-sort-value=\"97\"> 97g",
+            "The Mines (Floors 40-79) Fishing Treasure Chest Panning Frozen Geode Omni Geode Dust Sprite (2%) Garbage Can",
+            "Geologist's Bundle Warrior Ring Sebastian (Loved Gift) Fish Pond (Quest)"
+          ],
+          [
+            "",
+            "Fire Quartz",
+            "A glowing red crystal commonly found near hot lava.",
+            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"130\"> 130g",
+            "The Mines (Floors 80-120) Fishing Treasure Chest Panning Magma Geode Omni Geode Garbage Can",
+            "Geologist's Bundle Slime Egg-Press Refined Quartz Fish Pond (Quest)"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Gems",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Sell Price",
+          "Gemologist Sell Price",
+          "Source",
+          "Used in"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Sell Price",
+            "Gemologist Sell Price",
+            "Source",
+            "Used in"
+          ],
+          [
+            "",
+            "Emerald",
+            "A precious stone with a brilliant green color.",
+            "data-sort-value=\"250\"> 250g",
+            "data-sort-value=\"325\"> 325g",
+            "Emerald Node Gem Node Dwarvish Sentry Panning Garbage Can Fishing Treasure Chest Feast of the Winter Star",
+            "Clint , Dwarf , Emily , Penny (Loved Gift) Fish Pond (Quest) Forge weapons"
+          ],
+          [
+            "",
+            "Aquamarine",
+            "A shimmery blue-green gem.",
+            "data-sort-value=\"180\"> 180g",
+            "data-sort-value=\"234\"> 234g",
+            "Aquamarine Node Gem Node Dwarvish Sentry Panning Garbage Can Fishing Treasure Chest",
+            "Dye Bundle Clint , Dwarf , Emily (Loved Gift) Marble Brazier Fish Pond (Quest) Forge weapons"
+          ],
+          [
+            "",
+            "Ruby",
+            "A precious stone that is sought after for its rich color and beautiful luster.",
+            "data-sort-value=\"250\"> 250g",
+            "data-sort-value=\"325\"> 325g",
+            "Ruby Node Gem Node Dwarvish Sentry Panning Garbage Can Fishing Treasure Chest Feast of the Winter Star",
+            "Clint , Dwarf , Emily (Loved Gift) Forge weapons"
+          ],
+          [
+            "",
+            "Amethyst",
+            "A purple variant of quartz.",
+            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"130\"> 130g",
+            "Amethyst Node Gem Node Green Slimes Dwarvish Sentry Panning Garbage Can Fishing Treasure Chest",
+            "Abigail , Clint , Dwarf , Emily (Loved Gift) Fish Pond (Quest) Forge weapons"
+          ],
+          [
+            "",
+            "Topaz",
+            "Fairly common but still prized for its beauty.",
+            "data-sort-value=\"80\"> 80g",
+            "data-sort-value=\"104\"> 104g",
+            "Topaz Node Gem Node Dwarvish Sentry Panning Garbage Can Fishing Treasure Chest",
+            "Clint , Dwarf , Emily (Loved Gift) Fish Pond (Quest) Forge weapons"
+          ],
+          [
+            "",
+            "Jade",
+            "A pale green ornamental stone.",
+            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"260\"> 260g",
+            "Jade Node Gem Node Blue Slimes Dwarvish Sentry Garbage Can Fishing Treasure Chest Feast of the Winter Star",
+            "Clint , Dwarf , Emily (Loved Gift) Fish Pond (Quest) Forge weapons"
+          ],
+          [
+            "",
+            "Diamond",
+            "A rare and valuable gem.",
+            "data-sort-value=\"750\"> 750g",
+            "data-sort-value=\"974\"> 974g",
+            "Diamond Node Gem Node Dwarvish Sentry Panning Garbage Can Fishing Treasure Chest Any monster after reaching the bottom of the mines (0.05%)",
+            "Ring of Yoba Geode Crusher Fairy Dust Evelyn , Gus , Jodi , Krobus , Marnie , Maru , Penny , Willy (Loved Gift) Fish Pond (Quest) Forge weapons"
+          ],
+          [
+            "",
+            "Prismatic Shard",
+            "A very rare and powerful substance with unknown origins.",
+            "data-sort-value=\"2000\"> 2,000g",
+            "data-sort-value=\"2600\"> 2,600g",
+            "Iridium Node (4%) Mystic Stone (25%) Omni Geode (0 . 4%) Shadow Brute (0 . 05%) Shadow Shaman (0 . 05%) Mummy (0 . 1%) Serpent (0 . 1%) Fishing Treasure Chest Any monster after reaching the bottom of the mines (0.05%)",
+            "Loved by all Villagers except Haley , who hates it. Obtain the Galaxy Sword in the Desert Transform children into doves at the Dark Shrine of Selfishness Enchant tools and weapons"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Geode Minerals",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Sell Price",
+          "Gemologist Sell Price",
+          "Source",
+          "Used in"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Sell Price",
+            "Gemologist Sell Price",
+            "Source",
+            "Used in"
+          ],
+          [
+            "",
+            "Tigerseye",
+            "A stripe of shimmering gold gives this gem a warm luster.",
+            "data-sort-value=\"275\"> 275g",
+            "data-sort-value=\"357\"> 357g",
+            "Magma Geode Omni Geode",
+            "Sam (Loved Gift)"
+          ],
+          [
+            "",
+            "Opal",
+            "Its internal structure causes it to reflect a rainbow of light.",
+            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"195\"> 195g",
+            "Frozen Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Fire Opal",
+            "A rare variety of opal, named for its red spots.",
+            "data-sort-value=\"350\"> 350g",
+            "data-sort-value=\"455\"> 455g",
+            "Magma Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Alamite",
+            "Its distinctive fluorescence makes it a favorite among rock collectors.",
+            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"195\"> 195g",
+            "Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Bixite",
+            "A dark metallic Mineral sought after for its cubic structure.",
+            "data-sort-value=\"300\"> 300g",
+            "data-sort-value=\"390\"> 390g",
+            "Magma Geode Omni Geode Black Slime",
+            ""
+          ],
+          [
+            "",
+            "Baryte",
+            "The best specimens resemble a desert rose.",
+            "data-sort-value=\"50\"> 50g",
+            "data-sort-value=\"65\"> 65g",
+            "Magma Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Aerinite",
+            "These crystals are curiously light.",
+            "data-sort-value=\"125\"> 125g",
+            "data-sort-value=\"162\"> 162g",
+            "Frozen Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Calcite",
+            "This yellow crystal is speckled with shimmering nodules.",
+            "data-sort-value=\"75\"> 75g",
+            "data-sort-value=\"97\"> 97g",
+            "Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Dolomite",
+            "It can occur in coral reefs, often near an underwater volcano.",
+            "data-sort-value=\"300\"> 300g",
+            "data-sort-value=\"390\"> 390g",
+            "Magma Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Esperite",
+            "The crystals glow bright green when stimulated.",
+            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"130\"> 130g",
+            "Frozen Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Fluorapatite",
+            "Small amounts are found in human teeth.",
+            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"260\"> 260g",
+            "Frozen Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Geminite",
+            "Occurs in brilliant clusters.",
+            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"195\"> 195g",
+            "Frozen Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Helvite",
+            "It grows in a triangular column.",
+            "data-sort-value=\"450\"> 450g",
+            "data-sort-value=\"585\"> 585g",
+            "Magma Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Jamborite",
+            "The crystals are so tightly packed it almost looks fuzzy.",
+            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"195\"> 195g",
+            "Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Jagoite",
+            "A high volume of tiny crystals makes it very glittery.",
+            "data-sort-value=\"115\"> 115g",
+            "data-sort-value=\"149\"> 149g",
+            "Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Kyanite",
+            "The geometric faces are as smooth as glass.",
+            "data-sort-value=\"250\"> 250g",
+            "data-sort-value=\"325\"> 325g",
+            "Frozen Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Lunarite",
+            "The cratered white orbs form a tight cluster.",
+            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"260\"> 260g",
+            "Frozen Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Malachite",
+            "A popular ornamental stone, used in sculpture and to make green paint.",
+            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"130\"> 130g",
+            "Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Neptunite",
+            "A jet-black crystal that is unusually reflective.",
+            "data-sort-value=\"400\"> 400g",
+            "data-sort-value=\"520\"> 520g",
+            "Magma Geode Omni Geode Black Slime",
+            ""
+          ],
+          [
+            "",
+            "Lemon Stone",
+            "Some claim the powdered crystal is a dwarvish delicacy.",
+            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"260\"> 260g",
+            "Magma Geode Omni Geode",
+            "Dwarf (Loved Gift)"
+          ],
+          [
+            "",
+            "Nekoite",
+            "The delicate shards form a tiny pink meadow.",
+            "data-sort-value=\"80\"> 80g",
+            "data-sort-value=\"104\"> 104g",
+            "Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Orpiment",
+            "Despite its high toxicity, this Mineral is widely used in manufacturing and folk medicine.",
+            "data-sort-value=\"80\"> 80g",
+            "data-sort-value=\"104\"> 104g",
+            "Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Petrified Slime",
+            "This little guy may be 100,000 years old.",
+            "data-sort-value=\"120\"> 120g",
+            "data-sort-value=\"156\"> 156g",
+            "Geode Omni Geode Slime Ball",
+            "Fish Pond (Quest)"
+          ],
+          [
+            "",
+            "Thunder Egg",
+            "According to legend, angry thunder spirits would throw these stones at one another.",
+            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"130\"> 130g",
+            "Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Pyrite",
+            "Commonly known as \"Fool's Gold\".",
+            "data-sort-value=\"120\"> 120g",
+            "data-sort-value=\"156\"> 156g",
+            "Frozen Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Ocean Stone",
+            "An old legend claims these stones are the mosaics of ancient mermaids.",
+            "data-sort-value=\"220\"> 220g",
+            "data-sort-value=\"286\"> 286g",
+            "Frozen Geode Omni Geode",
+            "Fish Pond (Quest)"
+          ],
+          [
+            "",
+            "Ghost Crystal",
+            "There is an aura of coldness around this crystal.",
+            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"260\"> 260g",
+            "Frozen Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Jasper",
+            "When polished, this stone becomes attractively luminous. Prized by ancient peoples for thousands of years.",
+            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"195\"> 195g",
+            "Magma Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Celestine",
+            "Some early life forms had bones made from this.",
+            "data-sort-value=\"125\"> 125g",
+            "data-sort-value=\"162\"> 162g",
+            "Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Marble",
+            "A very popular material for sculptures and construction.",
+            "data-sort-value=\"110\"> 110g",
+            "data-sort-value=\"143\"> 143g",
+            "Frozen Geode Omni Geode",
+            "Marble Brazier"
+          ],
+          [
+            "",
+            "Sandstone",
+            "A common type of stone with red and brown striations.",
+            "data-sort-value=\"60\"> 60g",
+            "data-sort-value=\"78\"> 78g",
+            "Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Granite",
+            "A speckled Mineral that is commonly used in construction.",
+            "data-sort-value=\"75\"> 75g",
+            "data-sort-value=\"97\"> 97g",
+            "Geode Omni Geode",
+            "Fish Pond (Quest)"
+          ],
+          [
+            "",
+            "Basalt",
+            "Forms near searing hot magma.",
+            "data-sort-value=\"175\"> 175g",
+            "data-sort-value=\"227\"> 227g",
+            "Magma Geode Omni Geode",
+            "Fish Pond (Quest)"
+          ],
+          [
+            "",
+            "Limestone",
+            "A very common type of stone. It's not worth very much.",
+            "data-sort-value=\"15\"> 15g",
+            "data-sort-value=\"19\"> 19g",
+            "Geode Omni Geode",
+            "Fish Pond (Quest)"
+          ],
+          [
+            "",
+            "Soapstone",
+            "Because of its relatively soft consistency, this stone is very popular for carving.",
+            "data-sort-value=\"120\"> 120g",
+            "data-sort-value=\"156\"> 156g",
+            "Frozen Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Hematite",
+            "An iron-based Mineral with interesting magnetic properties.",
+            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"195\"> 195g",
+            "Frozen Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Mudstone",
+            "A fine-grained rock made from ancient clay or mud.",
+            "data-sort-value=\"25\"> 25g",
+            "data-sort-value=\"32\"> 32g",
+            "Geode Omni Geode",
+            "Fish Pond (Quest)"
+          ],
+          [
+            "",
+            "Obsidian",
+            "A volcanic glass that forms when lava cools rapidly.",
+            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"260\"> 260g",
+            "Magma Geode Omni Geode",
+            "Sebastian (Loved Gift)"
+          ],
+          [
+            "",
+            "Slate",
+            "It's extremely resistant to water, making it a good roofing material.",
+            "data-sort-value=\"85\"> 85g",
+            "data-sort-value=\"110\"> 110g",
+            "Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Fairy Stone",
+            "An old miner's song suggests these are made from the bones of ancient fairies.",
+            "data-sort-value=\"250\"> 250g",
+            "data-sort-value=\"325\"> 325g",
+            "Frozen Geode Omni Geode",
+            ""
+          ],
+          [
+            "",
+            "Star Shards",
+            "No one knows how these form. Some scientists claim that the microscopic structure displays unnatural regularity.",
+            "data-sort-value=\"500\"> 500g",
+            "data-sort-value=\"650\"> 650g",
+            "Magma Geode Omni Geode",
+            ""
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Geodes",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Sell Price",
+          "Source",
+          "Used in"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Sell Price",
+            "Source",
+            "Used in"
+          ],
+          [
+            "",
+            "Geode",
+            "A blacksmith can break this open for you.",
+            "data-sort-value=\"50\"> 50g",
+            "The Mines (Floors 1-39) Duggy (25%) Tilling on The Farm Fishing Treasure Chest Feast of the Winter Star",
+            "Fish Pond (Quest)"
+          ],
+          [
+            "",
+            "Frozen Geode",
+            "A blacksmith can break this open for you.",
+            "data-sort-value=\"100\"> 100g",
+            "The Mines (Floor 41-79) Fishing Treasure Chest Tilling on The Farm ( Winter ) Feast of the Winter Star",
+            "Field Research Bundle Fish Pond (Quest)"
+          ],
+          [
+            "",
+            "Magma Geode",
+            "A blacksmith can break this open for you.",
+            "data-sort-value=\"150\"> 150g",
+            "The Mines (Floor 81-120) Boxes/barrels in the Skull Cavern Fishing Treasure Chest Tilling on The Farm Feast of the Winter Star",
+            ""
+          ],
+          [
+            "",
+            "Omni Geode",
+            "A blacksmith can break this open for you. These geodes contain a wide variety of minerals.",
+            "data-sort-value=\"0\"> 0g",
+            "The Mines Skull Cavern Carbon Ghost Panning The Oasis (Wednesdays) Krobus (Tuesdays) Ginger Island Artifact Spots Volcano Dungeon",
+            "Clint , Dwarf (Loved Gift) Fish Pond (Quest) Desert Trader (Currency)"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Collection",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Emerald",
+            "Aquamarine",
+            "Ruby",
+            "Amethyst",
+            "Topaz",
+            "Jade",
+            "Diamond",
+            "Prismatic Shard",
+            "Quartz",
+            "Fire Quartz"
+          ],
+          [
+            "Frozen Tear",
+            "Earth Crystal",
+            "Alamite",
+            "Bixite",
+            "Baryte",
+            "Aerinite",
+            "Calcite",
+            "Dolomite",
+            "Esperite",
+            "Fluorapatite"
+          ],
+          [
+            "Geminite",
+            "Helvite",
+            "Jamborite",
+            "Jagoite",
+            "Kyanite",
+            "Lunarite",
+            "Malachite",
+            "Neptunite",
+            "Lemon Stone",
+            "Nekoite"
+          ],
+          [
+            "Orpiment",
+            "Petrified Slime",
+            "Thunder Egg",
+            "Pyrite",
+            "Ocean Stone",
+            "Ghost Crystal",
+            "Tigerseye",
+            "Jasper",
+            "Opal",
+            "Fire Opal"
+          ],
+          [
+            "Celestine",
+            "Marble",
+            "Sandstone",
+            "Granite",
+            "Basalt",
+            "Limestone",
+            "Soapstone",
+            "Hematite",
+            "Mudstone",
+            "Obsidian"
+          ],
+          [
+            "Slate",
+            "Fairy Stone",
+            "Star Shards"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "History",
+      "table": {
+        "headers": [
+          "Minerals"
+        ],
+        "rows": [
+          [
+            "Minerals"
+          ],
+          [
+            "Foraged Minerals",
+            "Earth Crystal • Fire Quartz • Frozen Tear • Quartz"
+          ],
+          [
+            "Gems",
+            "Amethyst • Aquamarine • Diamond • Emerald • Jade • Prismatic Shard • Ruby • Topaz"
+          ],
+          [
+            "Geode Minerals",
+            "Aerinite • Alamite • Baryte • Basalt • Bixite • Calcite • Celestine • Dolomite • Esperite • Fairy Stone • Fire Opal • Fluorapatite • Geminite • Ghost Crystal • Granite • Helvite • Hematite • Jagoite • Jamborite • Jasper • Kyanite • Lemon Stone • Limestone • Lunarite • Malachite • Marble • Mudstone • Nekoite • Neptunite • Obsidian • Ocean Stone • Opal • Orpiment • Petrified Slime • Pyrite • Sandstone • Slate • Soapstone • Star Shards • Thunder Egg • Tigerseye"
+          ],
+          [
+            "Geodes",
+            "Geode • Frozen Geode • Magma Geode • Omni Geode"
+          ]
+        ]
+      }
+    }
+  ]
+}

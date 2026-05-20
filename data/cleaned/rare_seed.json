@@ -1,0 +1,109 @@
+{
+  "title": "Rare_Seed",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Rare Seed Sow in fall. Takes all season to grow. Information Crop: Sweet Gem Berry Growth Time: 24 days Season: Fall Sell Price: data-sort-value=\"200\"> 200g Purchase Prices General Store : Not Sold JojaMart : Not Sold Traveling Cart : data-sort-value=\"1000\"> 1,000g (Spring and Summer) data-sort-value=\"200\" 600–1,000g (1.26% chance, any season)\nThe Rare Seed is a type of seed. A mature plant yields a Sweet Gem Berry .\nOne to five Rare Seeds can be purchased at the Traveling Cart for data-sort-value=\"1000\"> 1,000g each during Spring and Summer . During any season, there is also a 1.26% chance that the merchant will be selling 1-5 Rare Seeds for data-sort-value=\"200\" 600–1,000g each. (It is possible for Rare Seeds to occupy two slots in the merchant's offerings in Spring and Summer). Rare Seeds can also be obtained by using the Seed Maker .\nDespite the description stating that this seed \" takes all season to grow \", it takes only 24 days. If using fertilizer that speeds crop growth or having the Agriculturist Profession , it will take fewer days."
+    },
+    {
+      "heading": "Tips",
+      "content": "- The Seed Maker creates an average of two seeds from one Sweet Gem Berry 97.5% of the time. Since a Sweet Gem Berry is worth at least data-sort-value=\"3000\"> 3,000g , each Rare Seed produced from the Seed Maker is created at a cost of data-sort-value=\"1500\"> 1,500g to data-sort-value=\"3000\"> 3,000g depending on the quality of the input. This makes the maximum price of data-sort-value=\"1000\"> 1,000g at the Traveling Cart a much better buy, even though the quantities offered there are limited."
+    },
+    {
+      "heading": "Notes",
+      "content": "A Livin' Off The Land tip (Fall 1, Year 2) informs the player that Rare Seeds take only 24 days to grow, and not a full season (28 days)."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Stages",
+      "table": {
+        "headers": [
+          "Stage 1",
+          "Stage 2",
+          "Stage 3",
+          "Stage 4",
+          "Stage 5",
+          "Harvest"
+        ],
+        "rows": [
+          [
+            "Stage 1",
+            "Stage 2",
+            "Stage 3",
+            "Stage 4",
+            "Stage 5",
+            "Harvest"
+          ],
+          [
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          [
+            "2 Days",
+            "4 Days",
+            "6 Days",
+            "6 Days",
+            "6 Days",
+            "Total: 24 Days"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Gifting",
+      "table": {
+        "headers": [
+          "Villager Reactions"
+        ],
+        "rows": [
+          [
+            "Villager Reactions"
+          ],
+          [
+            "Dislike",
+            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Notes",
+      "table": {
+        "headers": [
+          "Seeds, Starters, and Saplings"
+        ],
+        "rows": [
+          [
+            "Seeds, Starters, and Saplings"
+          ],
+          [
+            "Spring",
+            "Apricot Sapling • Bean Starter • Carrot Seeds • Cauliflower Seeds • Cherry Sapling • Coffee Beans • Garlic Seeds • Jazz Seeds • Kale Seeds • Parsnip Seeds • Potato Seeds • Rice Shoot • Rhubarb Seeds • Spring Seeds • Strawberry Seeds • Tulip Bulb"
+          ],
+          [
+            "Summer",
+            "Blueberry Seeds • Coffee Beans • Corn Seeds • Hops Starter • Melon Seeds • Orange Sapling • Peach Sapling • Pepper Seeds • Poppy Seeds • Radish Seeds • Red Cabbage Seeds • Spangle Seeds • Summer Seeds • Summer Squash Seeds • Sunflower Seeds • Starfruit Seeds • Tomato Seeds • Wheat Seeds"
+          ],
+          [
+            "Fall",
+            "Amaranth Seeds • Apple Sapling • Artichoke Seeds • Beet Seeds • Bok Choy Seeds • Broccoli Seeds • Corn Seeds • Cranberry Seeds • Eggplant Seeds • Fairy Seeds • Fall Seeds • Grape Starter • Pomegranate Sapling • Pumpkin Seeds • Rare Seed • Sunflower Seeds • Wheat Seeds • Yam Seeds"
+          ],
+          [
+            "Winter",
+            "Powdermelon Seeds • Winter Seeds"
+          ],
+          [
+            "Other",
+            "Acorn • Ancient Seeds • Banana Sapling • Blue Grass Starter • Cactus Seeds • Fiber Seeds • Grass Starter • Mahogany Seed • Mango Sapling • Maple Seed • Mixed Flower Seeds • Mixed Seeds • Mossy Seed • Mushroom Tree Seed • Mystic Tree Seed • Pineapple Seeds • Qi Bean • Tea Sapling • Pine Cone • Taro Tuber"
+          ]
+        ]
+      }
+    }
+  ]
+}

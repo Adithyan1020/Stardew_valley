@@ -1,0 +1,66 @@
+{
+  "title": "Artifact_Trove",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Artifact Trove A blacksmith can open this for you. These troves often contain ancient relics and curiosities. Information Source Desert Trader • Bookseller • Panning • Haunted Skull • Artifact Spots on Ginger Island • Mayor's Manor • Dog Sell Price data-sort-value=\"0\"> 0g\nThe Artifact Trove is an artifact container that can be traded from the Desert Trader for 5 Omni Geodes each. The Bookseller may trade 3 Artifact Troves for 1 Treasure Appraisal Guide , provided the player has already obtained the power from that book. Up to 5 can be purchased from George 's shop at the Desert Festival for data-sort-value=\"10\"> 10 Calico Eggs each.\nIt can also be obtained by panning , dropped by Haunted Skulls if all Vault Bundles have been completed, found in Supply Crates on the Beach Farm once the player has upgraded the Farmhouse at least two times, or dug up from Artifact Spots on Ginger Island . Four or five Artifact Troves can be obtained as a prize from the Prize Machine . Five Artifact Troves may occasionally be found in treasure rooms in the Skull Cavern. It can also be gifted by a pet dog with max friendship .\nAlthough most of the contents are artifacts, there are a few items, namely the Golden Pumpkin , Pearl , Treasure Appraisal Guide , and Treasure Chest , which are not.\nThe Artifact Trove can be broken open at the Blacksmith for data-sort-value=\"25\"> 25g to obtain the contents inside. It cannot be broken open using a Geode Crusher ."
+    },
+    {
+      "heading": "Contents",
+      "content": "All items below have an equal (3.6%) chance of appearing inside an Artifact Trove."
+    },
+    {
+      "heading": "Bundles",
+      "content": "Artifact Trove is not used in any bundles ."
+    },
+    {
+      "heading": "Tailoring",
+      "content": "Artifact Trove is used in the spool of the Sewing Machine to create the Trinket Shirt ."
+    },
+    {
+      "heading": "Quests",
+      "content": "Artifact Trove is not used in any quests ."
+    },
+    {
+      "heading": "Notes",
+      "content": "- By multiplying the sell price of each item by the chance to obtain it, the average profit of opening an Artifact Trove without having read the Treasure Appraisal Guide is data-sort-value=\"472.4\"> 472.4g , or data-sort-value=\"447.4\"> 447.4g when the data-sort-value=\"25\"> 25g opening cost is factored in. The profit after having read the guide is data-sort-value=\"660.4\"> 660.4g , or data-sort-value=\"635.4\"> 635.4g when the data-sort-value=\"25\"> 25g opening cost is factored in.\n- Since the average profit when breaking open an Omni Geode is data-sort-value=\"96.4\"> 96.4g , and it takes five Omni Geodes to trade for one Artifact Trove ( i.e., data-sort-value=\"482.0\"> 482g ) at the Desert Trader , you will typically lose data-sort-value=\"35\"> 35g every time you trade for one (if you have not yet read the Treasure Appraisal Guide ). After having read it however, you will typically earn data-sort-value=\"153\"> 153g per trade. This assumes you sell the contents."
+    },
+    {
+      "heading": "History",
+      "content": "- 1.4 : Introduced.\n- 1.5 : Added Supply Crates and Ginger Island artifact spots to sources.\n- 1.6 : Added Treasure Appraisal Guide to possible items. Can now be purchased from George at the Desert Festival and traded from the Bookseller . Can now be obtained from the Prize Machine and from panning . Can now be gifted by a pet dog with max friendship .\n- 1.6.4 : Can now be obtained from Skull Cavern treasure rooms ."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Contents",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "Anchor Ancient Doll Ancient Drum Ancient Seed Ancient Sword Arrowhead Bone Flute Chewing Stick Chicken Statue Chipped Amphora",
+            "Dried Starfish Dwarf Gadget Dwarvish Helm Elvish Jewelry Glass Shards Golden Mask Golden Pumpkin Golden Relic Ornamental Fan",
+            "Pearl Prehistoric Handaxe Prehistoric Tool Rare Disc Rusty Cog Rusty Spoon Rusty Spur Treasure Appraisal Guide Treasure Chest"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Gifting",
+      "table": {
+        "headers": [
+          "Villager Reactions"
+        ],
+        "rows": [
+          [
+            "Villager Reactions"
+          ],
+          [
+            "Hate",
+            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+          ]
+        ]
+      }
+    }
+  ]
+}

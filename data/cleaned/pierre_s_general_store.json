@@ -1,0 +1,576 @@
+{
+  "title": "Pierre's_General_Store",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Pierre's General Store Open Hours: Shop: 9am to 5pm Building: 9am to 9pm Closed: Wednesday (Only if community center hasn't been restored) Address: North of Town Square Occupants: Pierre Caroline Abigail\nPierre's General Store sells various seeds, saplings, fertilizer, ingredients and other useful items. As well as selling those items, Pierre also buys foraged items, crops and crop seeds, artisan goods , cooked dishes , and animal products from the player. This avoids waiting overnight for shipping , but does not count as shipping for the purpose of achievements or collections . Some products in stock, namely seeds, will vary from season to season and others are in-stock year-round. Pierre's main competitor in the valley is JojaMart .\nOutside of Pierre's General Store to the left of the entrance, the player can find a calendar and a \"Help Wanted\" board .\nPierre's General Store is normally open most days at 9am, three hours after the player wakes up, and closes at 5pm. The player can enter the building until 9pm, but Pierre leaves the sales counter at 5pm every day, so the shop cannot actually be used to purchase or sell goods after 5pm. This is because the building also serves as Pierre's family home.\nTip: When purchasing items, the player can buy multiples of 5 by holding Shift + right- or left-click, multiples of 25 by holding Control + Shift + right- or left-click, and a full stack of 999 by holding Control + Shift + 1 + left-click."
+    },
+    {
+      "heading": "Events",
+      "content": "Several events can affect the store's operating hours and stock.\n- Pierre stays closed on Wednesday unless all of the Community Center bundles are finished or the player obtains the Key To The Town , and then Pierre's General Store will be open 7 days a week.\n- By returning Pierre's Missing Stocklist , he will sell seeds from every season all year-round (at a 50% markup for out-of-season seeds). Seeds which are not sold until year 2 will not be included in this stock expansion in year 1, and players will still need to wait until year 2 to purchase them.\n- After having 8 hearts of friendship with a marriage candidate, a bouquet of flowers will also be available for purchase."
+    },
+    {
+      "heading": "Year-Round Stock",
+      "content": "Pierre also sells backpack upgrades that can be purchased by the player. These appear at the right side of the counter, instead of in Pierre's \"shop\" menu."
+    },
+    {
+      "heading": "Player-Derived Stock",
+      "content": "If the player chooses to sell items to Pierre, there is a chance they will appear in the list of items for sale, especially if sold to Pierre in large quantity. Any of these items that are edible will be available for purchase in limited quantities. Additional villager dialogues may appear indicating they've seen or purchased the items. Villagers tend to be disgusted by those of normal quality and enjoy silver or higher quality items."
+    },
+    {
+      "heading": "Living quarters",
+      "content": "Abigail's room and Pierre/Caroline's bedroom are to the north of the shop. In the middle is a large area used for exercise class on Tuesdays from 1-4pm, which Caroline , Jodi , Robin , Emily and Marnie will attend. To the top right is the Kitchen and a door to Caroline's sun room. To the east is a shrine of Yoba which is used for religious ceremonies on Sundays."
+    },
+    {
+      "heading": "Bugs",
+      "content": "- After obtaining the Key To The Town , Pierre will stand behind the sales counter at 6am. At 7am he will leave the sales counter and walk to the store shelves, and the player will be unable to purchase anything. At 8:30am he will leave the store shelves and return to the sales counter.\n- After giving Pierre the Missing Stocklist , seeds that can grow in multiple seasons will appear twice."
+    },
+    {
+      "heading": "Trivia",
+      "content": "- Pierre often takes credit for finding or cooking items that the player has sold to him as player-derived stock.\n- In Winter, when walking into the shop, Pierre might say: \"Welcome to Pierre's heated shop!\" Upon talking to him, he says: \"Is it just me or is there a cold draft in here?\".\n- In Winter, when walking into the shop, Pierre might say: \"Seeds for sale!\" despite not selling seeds during winter.\n- When entering Pierre's shop, there is a low chance for a dialogue bubble to pop up with him saying \"Did you remember your wallet?\"."
+    },
+    {
+      "heading": "Gallery",
+      "content": "- Interior"
+    },
+    {
+      "heading": "History",
+      "content": "- 1.4 : Fixed bug where pressing Alt+Enter inside shop menu would destroy a held item. Pierre no longer accepts fish as player-derived stock; instead Willy does.\n- 1.6 : Added Dehydrator recipe to the shop's stock. Fixed world map tooltip for Pierre’s shop still showing “closed on Wednesdays” after he extends his business hours. On PC, holding left-shift + left-ctrl + 1 when buying from a shop will attempt to buy a stack of 999. Price of flooring and wallpaper increased from data-sort-value=\"100\"> 100g to data-sort-value=\"200\"> 200g . Fixed exploit allowing the player to sell Qi Fruit to Pierre then buy it back after the \" Qi's Crop \" Special Order had expired. Fixed exploit that allowed the player to sell Artisan Goods to Pierre at the Artisan price, change profession at the Statue Of Uncertainty , then buy the items back at a cheaper price."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Year-Round Stock",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Price"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Price"
+          ],
+          [
+            "",
+            "Grass Starter",
+            "Place this on your farm to start a new patch of grass.",
+            "data-sort-value=\"100\"> 100g"
+          ],
+          [
+            "",
+            "Grass Starter (Recipe)",
+            "A recipe to make Grass Starter",
+            "data-sort-value=\"1000\"> 1,000g"
+          ],
+          [
+            "",
+            "Sugar",
+            "Adds sweetness to pastries and candies. Too much can be unhealthy.",
+            "data-sort-value=\"100\"> 100g"
+          ],
+          [
+            "",
+            "Wheat Flour",
+            "A common cooking ingredient made from crushed wheat seeds.",
+            "data-sort-value=\"100\"> 100g"
+          ],
+          [
+            "",
+            "Rice",
+            "A basic grain often served under vegetables.",
+            "data-sort-value=\"200\"> 200g"
+          ],
+          [
+            "",
+            "Oil",
+            "All purpose cooking oil.",
+            "data-sort-value=\"200\"> 200g"
+          ],
+          [
+            "",
+            "Vinegar",
+            "An aged fermented liquid used in many cooking recipes.",
+            "data-sort-value=\"200\"> 200g"
+          ],
+          [
+            "",
+            "Basic Fertilizer",
+            "Improves soil quality a little, increasing your chance to grow quality crops. Mix into tilled soil. (Available from spring 15 of year 1 onward)",
+            "data-sort-value=\"100\"> 100g"
+          ],
+          [
+            "",
+            "Quality Fertilizer",
+            "Improves soil quality, increasing your chance to grow quality crops. Mix into tilled soil. (Available from year 2 onward)",
+            "data-sort-value=\"150\"> 150g"
+          ],
+          [
+            "",
+            "Basic Retaining Soil",
+            "This soil has a chance of staying watered overnight. Mix into tilled soil. (Available from spring 15 of year 1 onward)",
+            "data-sort-value=\"100\"> 100g"
+          ],
+          [
+            "",
+            "Quality Retaining Soil",
+            "This soil has a good chance of staying watered overnight. Mix into tilled soil. (Available from year 2 onward)",
+            "data-sort-value=\"150\"> 150g"
+          ],
+          [
+            "",
+            "Speed-Gro",
+            "Stimulates leaf production. Guaranteed to increase growth rate by at least 10%. Mix into tilled soil. (Available from spring 15 of year 1 onward)",
+            "data-sort-value=\"100\"> 100g"
+          ],
+          [
+            "",
+            "Deluxe Speed-Gro",
+            "Stimulates leaf production. Guaranteed to increase growth rate by at least 25%. Mix into tilled soil. (Available from year 2 onward)",
+            "data-sort-value=\"150\"> 150g"
+          ],
+          [
+            "",
+            "Wallpaper (Random each day)",
+            "Decorates the walls of one room.",
+            "data-sort-value=\"200\"> 200g"
+          ],
+          [
+            "",
+            "Flooring (Random each day)",
+            "Decorates the floor of one room.",
+            "data-sort-value=\"200\"> 200g"
+          ],
+          [
+            "",
+            "Cherry Sapling",
+            "Takes 28 days to produce a mature Cherry tree. Bears fruit in the spring. Only grows if the 8 surrounding \"tiles\" are empty.",
+            "data-sort-value=\"3400\"> 3,400g"
+          ],
+          [
+            "",
+            "Apricot Sapling",
+            "Takes 28 days to produce a mature Apricot tree. Bears fruit in the spring. Only grows if the 8 surrounding \"tiles\" are empty.",
+            "data-sort-value=\"2000\"> 2,000g"
+          ],
+          [
+            "",
+            "Orange Sapling",
+            "Takes 28 days to produce a mature Orange tree. Bears fruit in the summer. Only grows if the 8 surrounding \"tiles\" are empty.",
+            "data-sort-value=\"4000\"> 4,000g"
+          ],
+          [
+            "",
+            "Peach Sapling",
+            "Takes 28 days to produce a mature Peach tree. Bears fruit in the summer. Only grows if the 8 surrounding \"tiles\" are empty.",
+            "data-sort-value=\"6000\"> 6,000g"
+          ],
+          [
+            "",
+            "Pomegranate Sapling",
+            "Takes 28 days to produce a mature Pomegranate tree. Bears fruit in the fall. Only grows if the 8 surrounding \"tiles\" are empty.",
+            "data-sort-value=\"6000\"> 6,000g"
+          ],
+          [
+            "",
+            "Apple Sapling",
+            "Takes 28 days to produce a mature Apple tree. Bears fruit in the fall. Only grows if the 8 surrounding \"tiles\" are empty.",
+            "data-sort-value=\"4000\"> 4,000g"
+          ],
+          [
+            "",
+            "Catalogue",
+            "Provides unlimited access to all wallpapers and floors... from the convenience of your home!",
+            "data-sort-value=\"30000\"> 30,000g"
+          ],
+          [
+            "",
+            "Dehydrator (Recipe)",
+            "A recipe to make Dehydrator",
+            "data-sort-value=\"10000\"> 10,000g"
+          ],
+          [
+            "",
+            "Bouquet",
+            "A gift that shows your romantic interest. (Unlocked after reaching 8 hearts with a marriage candidate)",
+            "data-sort-value=\"200\"> 200g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Year-Round Stock",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Price",
+          "Description",
+          "Available"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Price",
+            "Description",
+            "Available"
+          ],
+          [
+            "",
+            "Large Pack",
+            "data-sort-value=\"2000\"> 2,000g",
+            "Unlocks the 2nd row of inventory (12 more slots, total 24).",
+            "At the start of the game"
+          ],
+          [
+            "",
+            "Deluxe Pack",
+            "data-sort-value=\"10000\"> 10,000g",
+            "Unlocks the 3rd row of inventory (12 more slots, total 36).",
+            "After purchasing the Large Pack."
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Spring Stock",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Price"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Price"
+          ],
+          [
+            "Spring",
+            "Out of season"
+          ],
+          [
+            "",
+            "Parsnip Seeds",
+            "Plant these in the spring. Takes 4 days to mature.",
+            "data-sort-value=\"20\"> 20g",
+            "data-sort-value=\"20*1.5\"> 30g"
+          ],
+          [
+            "",
+            "Bean Starter",
+            "Plant these in the spring. Takes 10 days to mature, but keeps producing after that. Grows on a trellis.",
+            "data-sort-value=\"60\"> 60g",
+            "data-sort-value=\"60*1.5\"> 90g"
+          ],
+          [
+            "",
+            "Cauliflower Seeds",
+            "Plant these in the spring. Takes 12 days to produce a large cauliflower.",
+            "data-sort-value=\"80\"> 80g",
+            "data-sort-value=\"80*1.5\"> 120g"
+          ],
+          [
+            "",
+            "Potato Seeds",
+            "Plant these in the spring. Takes 6 days to mature, and has a chance of yielding multiple potatoes at harvest.",
+            "data-sort-value=\"50\"> 50g",
+            "data-sort-value=\"50*1.5\"> 75g"
+          ],
+          [
+            "",
+            "Tulip Bulb",
+            "Plant in spring. Takes 6 days to produce a colorful flower. Assorted colors.",
+            "data-sort-value=\"20\"> 20g",
+            "data-sort-value=\"20*1.5\"> 30g"
+          ],
+          [
+            "",
+            "Kale Seeds",
+            "Plant these in the spring. Takes 6 days to mature. Harvest with the scythe.",
+            "data-sort-value=\"70\"> 70g",
+            "data-sort-value=\"70*1.5\"> 105g"
+          ],
+          [
+            "",
+            "Jazz Seeds",
+            "Plant in spring. Takes 7 days to produce a blue puffball flower.",
+            "data-sort-value=\"30\"> 30g",
+            "data-sort-value=\"30*1.5\"> 45g"
+          ],
+          [
+            "",
+            "Garlic Seeds",
+            "Plant these in the spring. Takes 4 days to mature. (Available in year 2+)",
+            "data-sort-value=\"40\"> 40g",
+            "data-sort-value=\"40*1.5\"> 60g"
+          ],
+          [
+            "",
+            "Rice Shoot",
+            "Plant these in the spring. Takes 8 days to mature. Grows faster if planted near a body of water. Harvest with the scythe. (Available in year 2+)",
+            "data-sort-value=\"40\"> 40g",
+            "data-sort-value=\"40*1.5\"> 60g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Summer Stock",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Price"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Price"
+          ],
+          [
+            "Summer",
+            "Out of season"
+          ],
+          [
+            "",
+            "Melon Seeds",
+            "Plant these in the summer. Takes 12 days to mature.",
+            "data-sort-value=\"80\"> 80g",
+            "data-sort-value=\"80*1.5\"> 120g"
+          ],
+          [
+            "",
+            "Tomato Seeds",
+            "Plant these in the summer. Takes 11 days to mature, and continues to produce after first harvest.",
+            "data-sort-value=\"50\"> 50g",
+            "data-sort-value=\"50*1.5\"> 75g"
+          ],
+          [
+            "",
+            "Blueberry Seeds",
+            "Plant these in the summer. Takes 13 days to mature, and continues to produce after first harvest.",
+            "data-sort-value=\"80\"> 80g",
+            "data-sort-value=\"80*1.5\"> 120g"
+          ],
+          [
+            "",
+            "Pepper Seeds",
+            "Plant these in the summer. Takes 5 days to mature, and continues to produce after first harvest.",
+            "data-sort-value=\"40\"> 40g",
+            "data-sort-value=\"40*1.5\"> 60g"
+          ],
+          [
+            "",
+            "Wheat Seeds",
+            "Plant these in the summer or fall. Takes 4 days to mature. Harvest with the scythe.",
+            "data-sort-value=\"10\"> 10g",
+            "data-sort-value=\"10*1.5\"> 15g"
+          ],
+          [
+            "",
+            "Radish Seeds",
+            "Plant these in the summer. Takes 6 days to mature.",
+            "data-sort-value=\"40\"> 40g",
+            "data-sort-value=\"40*1.5\"> 60g"
+          ],
+          [
+            "",
+            "Poppy Seeds",
+            "Plant in summer. Produces a bright red flower in 7 days.",
+            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100*1.5\"> 150g"
+          ],
+          [
+            "",
+            "Spangle Seeds",
+            "Plant in summer. Takes 8 days to produce a vibrant tropical flower. Assorted colors.",
+            "data-sort-value=\"50\"> 50g",
+            "data-sort-value=\"50*1.5\"> 75g"
+          ],
+          [
+            "",
+            "Hops Starter",
+            "Plant these in the summer. Takes 11 days to grow, but keeps producing after that. Grows on a trellis.",
+            "data-sort-value=\"60\"> 60g",
+            "data-sort-value=\"60*1.5\"> 90g"
+          ],
+          [
+            "",
+            "Corn Seeds",
+            "Plant these in the summer or fall. Takes 14 days to mature, and continues to produce after first harvest.",
+            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"150*1.5\"> 225g"
+          ],
+          [
+            "",
+            "Sunflower Seeds",
+            "Plant in summer or fall. Takes 8 days to produce a large sunflower. Yields more seeds at harvest.",
+            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200*1.5\"> 300g"
+          ],
+          [
+            "",
+            "Red Cabbage Seeds",
+            "Plant these in the summer. Takes 9 days to mature. (Available in year 2+)",
+            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100*1.5\"> 150g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Fall Stock",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Price"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Price"
+          ],
+          [
+            "Fall",
+            "Out of season"
+          ],
+          [
+            "",
+            "Eggplant Seeds",
+            "Plant these in the fall. Takes 5 days to mature, and continues to produce after first harvest.",
+            "data-sort-value=\"20\"> 20g",
+            "data-sort-value=\"20*1.5\"> 30g"
+          ],
+          [
+            "",
+            "Corn Seeds",
+            "Plant these in the summer or fall. Takes 14 days to mature, and continues to produce after first harvest.",
+            "data-sort-value=\"150\"> 150g",
+            "data-sort-value=\"150*1.5\"> 225g"
+          ],
+          [
+            "",
+            "Pumpkin Seeds",
+            "Plant these in the fall. Takes 13 days to mature.",
+            "data-sort-value=\"100\"> 100g",
+            "data-sort-value=\"100*1.5\"> 150g"
+          ],
+          [
+            "",
+            "Bok Choy Seeds",
+            "Plant these in the fall. Takes 4 days to mature.",
+            "data-sort-value=\"50\"> 50g",
+            "data-sort-value=\"50*1.5\"> 75g"
+          ],
+          [
+            "",
+            "Yam Seeds",
+            "Plant these in the fall. Takes 10 days to mature.",
+            "data-sort-value=\"60\"> 60g",
+            "data-sort-value=\"60*1.5\"> 90g"
+          ],
+          [
+            "",
+            "Cranberry Seeds",
+            "Plant these in the fall. Takes 7 days to mature, and continues to produce after first harvest.",
+            "data-sort-value=\"240\"> 240g",
+            "data-sort-value=\"240*1.5\"> 360g"
+          ],
+          [
+            "",
+            "Sunflower Seeds",
+            "Plant in summer or fall. Takes 8 days to produce a large sunflower. Yields more seeds at harvest.",
+            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200*1.5\"> 300g"
+          ],
+          [
+            "",
+            "Fairy Seeds",
+            "Plant in fall. Takes 12 days to produce a mysterious flower. Assorted Colors.",
+            "data-sort-value=\"200\"> 200g",
+            "data-sort-value=\"200*1.5\"> 300g"
+          ],
+          [
+            "",
+            "Amaranth Seeds",
+            "Plant these in the fall. Takes 7 days to grow. Harvest with the scythe.",
+            "data-sort-value=\"70\"> 70g",
+            "data-sort-value=\"70*1.5\"> 105g"
+          ],
+          [
+            "",
+            "Grape Starter",
+            "Plant these in the fall. Takes 10 days to grow, but keeps producing after that. Grows on a trellis.",
+            "data-sort-value=\"60\"> 60g",
+            "data-sort-value=\"60*1.5\"> 90g"
+          ],
+          [
+            "",
+            "Wheat Seeds",
+            "Plant these in the summer or fall. Takes 4 days to mature. Harvest with the scythe.",
+            "data-sort-value=\"10\"> 10g",
+            "data-sort-value=\"10*1.5\"> 15g"
+          ],
+          [
+            "",
+            "Artichoke Seeds",
+            "Plant these in the fall. Takes 8 days to mature. (Available in year 2+)",
+            "data-sort-value=\"30\"> 30g",
+            "data-sort-value=\"30*1.5\"> 45g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "History",
+      "table": {
+        "headers": [
+          "Buildings"
+        ],
+        "rows": [
+          [
+            "Buildings"
+          ],
+          [
+            "Merchants",
+            "Abandoned House • Adventurer's Guild • Blacksmith • Bookseller • Carpenter's Shop • Casino • Desert Trader • Fish Shop • Giant Stump • Harvey's Clinic • Ice Cream Stand • Island Trader • JojaMart • Marnie's Ranch • Oasis • Pierre's General Store • Qi's Walnut Room • The Stardrop Saloon • Traveling Cart • Volcano Dwarf • Wizard's Tower"
+          ],
+          [
+            "Houses",
+            "1 River Road • 2 River Road • 1 Willow Lane • 2 Willow Lane • 24 Mountain Road • Elliott's Cabin • Farmhouse • Island Farmhouse • Leah's Cottage • Mayor's Manor • Tent • Trailer • Treehouse"
+          ],
+          [
+            "Farm Buildings",
+            "Farming",
+            "Barn • Cabin • Coop • Fish Pond • Greenhouse • Mill • Pet Bowl • Shed • Silo • Slime Hutch • Stable • Well"
+          ],
+          [
+            "Special",
+            "Desert Obelisk • Earth Obelisk • Farm Obelisk • Gold Clock • Island Obelisk • Junimo Hut • Water Obelisk"
+          ],
+          [
+            "Other Buildings",
+            "Community Center • Dog Pen • Island Field Office • Joja Warehouse • Movie Theater • Museum • Spa • Witch's Hut"
+          ]
+        ]
+      }
+    }
+  ]
+}

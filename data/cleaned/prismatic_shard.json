@@ -1,0 +1,118 @@
+{
+  "title": "Prismatic_Shard",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Prismatic Shard A very rare and powerful substance with unknown origins. Information Source Mining • Fishing Treasure Chests • Monsters ' drop • Omni Geodes • Rainbow Trout Fish Ponds • Treasure room • Statue Of True Perfection • Meteorite • Mystery Box • Golden Mystery Box Sell Price data-sort-value=\"2000 \"> 2,000g Gemologist Profession (+30% Sell Price) data-sort-value=\"2600 \"> 2,600g\nThe Prismatic Shard is a Mineral . It is one of the rarest items in the game, and has a variety of uses, including obtaining the Galaxy Sword ."
+    },
+    {
+      "heading": "Locations",
+      "content": "Prismatic shards can be found in:\n- 25% chance from a Mystic Stone in the Mines at floors 100+, Skull Cavern , and Quarry .\n- 25% chance from a meteorite .\n- 1/26 (≈3.8%) chance from a treasure room in the Skull Cavern.\n- 3.5% chance from an Iridium Node in the Skull Cavern , Quarry and Volcano Dungeon .\n- 0.4% chance from an Omni Geode .\n- 0.4% chance from a Mystery Box .\n- 0.1% chance from Serpents and Mummies (and their dangerous variants). 0.05% chance from Shadow Brutes and Shadow Shaman (and their dangerous variants).\n- 0.1% chance from Wilderness Golems and Iridium Golems after reaching Combat Level 10.\n- 0.79% chance from a Golden Mystery Box .\n- 0.09% daily chance from a Rainbow Trout Fish Pond with a population of at least 9.\n- 0.05% chance from any monster after the player has reached the bottom of the Mines .\n- ≈0.012% chance from a Fishing Treasure Chest after reaching fishing level 6 .\n- One in a chest at the top of the Volcano Dungeon the first time the player arrives there.\n- Once per day from the Statue Of True Perfection .\n- Purchased from Emily for data-sort-value=\"500\"> 500 Calico Eggs when she hosts a shop during the Desert Festival .\n- From the Blessing Of The Butterfly (up to a 17.5% chance)."
+    },
+    {
+      "heading": "Uses",
+      "content": "- A Prismatic Shard can be used in the Desert to obtain the Galaxy Sword . The Dwarvish Headstone in the graveyard contains a riddle explaining how to obtain it.\n- A Prismatic Shard is one of the options used to complete the Missing Bundle to unlock the Movie Theater .\n- A Prismatic Shard can be offered to the Dark Shrine of Selfishness at the Witch's Hut to turn children into doves (getting rid of them permanently).\n- On Thursdays the Desert Trader sells 1 Magic Rock Candy for 3 Prismatic Shards.\n- Prismatic Shards are used to enchant tools in the Forge .\n- A Prismatic Shard can be placed into a Junimo Hut to cause the Junimo to cycle through the rainbow resembling a Prismatic Shard.\n- A Prismatic Shard can be donated to Gunther at the Museum .\n- A Prismatic Shard can be used in the Sewing Machine to create prismatic clothing (see Tailoring below).\n- Prismatic Shards can be gifted as a universally loved gift (to everyone except Haley ).\n- Multiplayer only: A Prismatic Shard can be used to craft a Wedding Ring to propose marriage to another player."
+    },
+    {
+      "heading": "Bundles",
+      "content": "One Prismatic Shard is an option for The Missing Bundle in the abandoned JojaMart ."
+    },
+    {
+      "heading": "Tailoring",
+      "content": "Prismatic Shard is used in the spool of a Sewing Machine to create one of 5 random \"prismatic\" clothing items . It is possible to obtain duplicates before obtaining all 5 items.\n- Prismatic Shirt\n- Prismatic Shirt (white sleeves)\n- Prismatic Shirt (black sleeves)\n- Prismatic Pants\n- Prismatic Genie Pants"
+    },
+    {
+      "heading": "Quests",
+      "content": "4 Prismatic Shards are requested in Mr. Qi 's Four Precious Stones quest."
+    },
+    {
+      "heading": "Notes",
+      "content": "- Prismatic Shards cannot be duplicated in a Crystalarium . According to the Lost Book Technology Report! , \"the EMF from the shard interacts negatively with the crystalarium.\""
+    },
+    {
+      "heading": "History",
+      "content": "- 1.0 : Introduced.\n- 1.3.27 : Added to all monster drop pools after player has reached the bottom of the Mines .\n- 1.4 : Added as option for Missing Bundle . Fixed bug where an entire stack would be consumed when obtaining the Galaxy Sword . Can now be used in Tailoring . Can be produced by Fish Ponds .\n- 1.5 : Can be used to enchant tools . Obtained from the Statue Of True Perfection . One can be obtained at the top of the Volcano Dungeon . Requested in Four Precious Stones .\n- 1.6 : Chance of obtaining Prismatic Shard from Iridium Node decreased from 4% to 3.5%. Can now be obtained from Mystery Box , Golden Mystery Box , Meteorite , and Iridium Golem . Can now be purchased from Emily at the Desert Festival .\n- 1.6.3 : Reduced rate of the Meteorite dropping a Prismatic Shard from 100% to 25%."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Gifting",
+      "table": {
+        "headers": [
+          "Villager Reactions"
+        ],
+        "rows": [
+          [
+            "Villager Reactions"
+          ],
+          [
+            "Love",
+            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+          ],
+          [
+            "Hate",
+            "Haley"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Recipes",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Ingredients",
+          "Recipe Source"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Ingredients",
+            "Recipe Source"
+          ],
+          [
+            "",
+            "Wedding Ring",
+            "An old Zuzu City tradition... It's used to ask for another farmer's hand in marriage. Used only in multiplayer games.",
+            "Iridium Bar (5) Prismatic Shard (1)",
+            "Traveling Cart data-sort-value=\"500\"> 500g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "History",
+      "table": {
+        "headers": [
+          "Minerals"
+        ],
+        "rows": [
+          [
+            "Minerals"
+          ],
+          [
+            "Foraged Minerals",
+            "Earth Crystal • Fire Quartz • Frozen Tear • Quartz"
+          ],
+          [
+            "Gems",
+            "Amethyst • Aquamarine • Diamond • Emerald • Jade • Prismatic Shard • Ruby • Topaz"
+          ],
+          [
+            "Geode Minerals",
+            "Aerinite • Alamite • Baryte • Basalt • Bixite • Calcite • Celestine • Dolomite • Esperite • Fairy Stone • Fire Opal • Fluorapatite • Geminite • Ghost Crystal • Granite • Helvite • Hematite • Jagoite • Jamborite • Jasper • Kyanite • Lemon Stone • Limestone • Lunarite • Malachite • Marble • Mudstone • Nekoite • Neptunite • Obsidian • Ocean Stone • Opal • Orpiment • Petrified Slime • Pyrite • Sandstone • Slate • Soapstone • Star Shards • Thunder Egg • Tigerseye"
+          ],
+          [
+            "Geodes",
+            "Geode • Frozen Geode • Magma Geode • Omni Geode"
+          ]
+        ]
+      }
+    }
+  ]
+}

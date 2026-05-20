@@ -1,0 +1,78 @@
+{
+  "title": "Rain_Totem",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Rain Totem Activate to greatly increase the chance for rain tomorrow. Consumed on use. Information Source Crafting Sell Price data-sort-value=\"20\"> 20g Recipe Recipe Source(s) Foraging Level 9 Ingredients Hardwood (1) Truffle Oil (1) Pine Tar (5)\nThe Rain Totem is a crafted item that sets the weather for the next day to rainy. A Rain Totem can be activated by selecting it in inventory and pressing the Check button ( on PC, Y on Nintendo Switch, A on Xbox, X on PlayStation).\nThe crafting recipe becomes available at Foraging Level 9. One to three Rain Totems may also occasionally be found in treasure rooms in the Skull Cavern."
+    },
+    {
+      "heading": "Caveats",
+      "content": "- The weather in Pelican Town and Ginger Island can be different, and the weather will only be changed in the region where the Rain Totem is activated.\n- A Rain Totem will not force the weather in Pelican Town to be rainy on festival days or on the 1st day of a season."
+    },
+    {
+      "heading": "Bundles",
+      "content": "Rain Totem is not used in any bundles ."
+    },
+    {
+      "heading": "Tailoring",
+      "content": "A Rain Totem can be used in the spool of the Sewing Machine to create the Totem Mask . It can be used in dyeing , serving as an orange dye at the dye pots, located in Emily 's and Haley 's house, 2 Willow Lane ."
+    },
+    {
+      "heading": "Quests",
+      "content": "The Rain Totem is not used in any quests ."
+    },
+    {
+      "heading": "Bugs",
+      "content": "- If a Rain Totem is used during Winter on the day before a snowy day, it will cause it to rain and snow simultaneously the following day."
+    },
+    {
+      "heading": "History",
+      "content": "- 1.4 : Can now be used in Tailoring .\n- 1.6 : Fixed a bug where using a Rain Totem on a stormy day would turn the next day's weather to stormy instead of rainy; storms could be chained in this way to obtain large numbers of Battery Packs ."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Gifting",
+      "table": {
+        "headers": [
+          "Villager Reactions"
+        ],
+        "rows": [
+          [
+            "Villager Reactions"
+          ],
+          [
+            "Hate",
+            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "History",
+      "table": {
+        "headers": [
+          "Totems"
+        ],
+        "rows": [
+          [
+            "Totems"
+          ],
+          [
+            "Warp Totems",
+            "Warp Totem: Beach • Warp Totem: Desert • Warp Totem: Farm • Warp Totem: Island • Warp Totem: Mountains"
+          ],
+          [
+            "Permanent Teleporters",
+            "Desert Obelisk • Earth Obelisk • Farm Obelisk • Island Obelisk • Return Scepter • Water Obelisk"
+          ],
+          [
+            "Other Totems",
+            "Mini-Obelisk • Rain Totem • Treasure Totem"
+          ]
+        ]
+      }
+    }
+  ]
+}

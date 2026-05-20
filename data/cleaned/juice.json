@@ -1,0 +1,114 @@
+{
+  "title": "Juice",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Juice A sweet, nutritious beverage. Information Source Artisan Goods Sell Prices Base Artisan (+40%) 2.25 × Base Vegetable / Forage Price 1.4 × Base Juice Price Artisan Goods Equipment Keg Processing Time 6000m (≈4d) Ingredients Any vegetable (1) (other than Wheat , Hops , & Tea Leaves ) or Any positive energy foraged item (1) (other than Mushrooms )\nJuice is an Artisan Good made from placing a vegetable or foraged item inside a Keg , taking approximately 4 days . Its selling price is the base value of the ingredient input multiplied by 2.25 (3.15 with the Artisan profession).\nThe energy and health restored by Juice is equal to 2 × Base Ingredient Value for edible vegetables and foraged items. For inedible vegetables, Juice will restore energy equal to exactly Base Vegetable Value and health equal to 45% Base Vegetable Value. The color of the Juice also depends on the item used.\nAlthough Wheat , Hops , and Tea Leaves are classified as vegetables , when used with a Keg , they produce Beer , Pale Ale , and Green Tea respectively.\nThe following foraged items can be made into Juice: Cave Carrot , Dandelion , Ginger , Hazelnut , Leek , Spring Onion , Snow Yam , Wild Horseradish , and Winter Root .\nJuice cannot be put in a cask ."
+    },
+    {
+      "heading": "Bundles",
+      "content": "Juice is one of the options for the Brewer's Bundle in the Pantry (Remixed) ."
+    },
+    {
+      "heading": "Recipes",
+      "content": "Juice is not used in any recipes."
+    },
+    {
+      "heading": "Tailoring",
+      "content": "Juice is used in the spool of the Sewing Machine to create the dyeable Sports Shirt . It can be used in dyeing , serving as a green dye at the dye pots, located in Emily 's and Haley 's house, 2 Willow Lane ."
+    },
+    {
+      "heading": "Quests",
+      "content": "- Pam requests 12 Potato Juice in the \"The Strong Stuff\" Special Order.\n- One Juice is requested by the Raccoon at the Giant Stump as part of his fourth request. It may also be requested as part of any request starting with the sixth."
+    },
+    {
+      "heading": "Trivia",
+      "content": "Juice sold by the Traveling Cart will not be of any ingredients type, will sell for data-sort-value=\"150\"> 150g (or data-sort-value=\"210\"> 210g with the Artisan Profession ), and will restore 75 energy and 33 health ."
+    },
+    {
+      "heading": "History",
+      "content": "- 1.4 : Can now be used in Tailoring .\n- 1.5 : Is now an option in the Brewer's Bundle.\n- 1.6 : Inventory icon changed, it is no longer a recolor of the Wine sprite. The new Juice icon now changes color to match the item used to create it. Positive energy Forage can now be made into Juice. Juice is now requested by the Raccoon.\n- 1.6.2 : Health and Energy now scales with base vegetable's values."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Gifting",
+      "table": {
+        "headers": [
+          "Villager Reactions"
+        ],
+        "rows": [
+          [
+            "Villager Reactions"
+          ],
+          [
+            "Like",
+            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Shane • Willy • Wizard"
+          ],
+          [
+            "Hate",
+            "Jas • Sebastian • Vincent"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "History",
+      "table": {
+        "headers": [
+          "Artisan Goods"
+        ],
+        "rows": [
+          [
+            "Artisan Goods"
+          ],
+          [
+            "Bee House",
+            "Honey"
+          ],
+          [
+            "Cask",
+            "Beer • Cheese • Goat Cheese • Mead • Pale Ale • Wine"
+          ],
+          [
+            "Cheese Press",
+            "Cheese • Goat Cheese"
+          ],
+          [
+            "Keg",
+            "Beer • Coffee • Green Tea • Juice • Mead • Pale Ale • Wine"
+          ],
+          [
+            "Loom",
+            "Cloth"
+          ],
+          [
+            "Mayonnaise Machine",
+            "Dinosaur Mayonnaise • Duck Mayonnaise • Mayonnaise • Void Mayonnaise"
+          ],
+          [
+            "Oil Maker",
+            "Oil • Truffle Oil"
+          ],
+          [
+            "Preserves Jar",
+            "Aged Roe • Caviar • Jellies and Pickles"
+          ],
+          [
+            "Fish Smoker",
+            "Smoked Fish"
+          ],
+          [
+            "Dehydrator",
+            "Dried Mushrooms • Dried Fruit • Raisins"
+          ],
+          [
+            "Misc",
+            "Maple Syrup • Oak Resin • Pine Tar • Mystic Syrup"
+          ]
+        ]
+      }
+    }
+  ]
+}

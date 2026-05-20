@@ -1,0 +1,40 @@
+{
+  "title": "Joja_Community_Development_Form",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "The Joja Community Development Form is the JojaMart equivalent to the Community Center Bundles . It can be accessed the day after paying data-sort-value=\"5000\"> 5,000g for a JojaMart membership to Morris , through which the Community Center gets turned into a Joja Warehouse . The player is able to complete town restoration projects (\"developments\") by individually purchasing them via the Joja Community Development Form located at Morris' counter inside JojaMart.\nAfter each purchase, Morris and his JojaMart crew will complete the project after the player goes to sleep. Only one development can be purchased per day, even if the player has the funds to purchase multiple at once."
+    },
+    {
+      "heading": "Developments",
+      "content": "- data-sort-value=\"40000\"> 40,000g Bus to the Desert\n- data-sort-value=\"25000\"> 25,000g Bridge to the Quarry\n- data-sort-value=\"20000\"> 20,000g Removes the glittering boulder, allowing panning\n- data-sort-value=\"15000\"> 15,000g Minecarts\n- data-sort-value=\"35000\"> 35,000g Greenhouse\nIt costs data-sort-value=\"135000\"> 135,000g to complete all developments ( data-sort-value=\"140000\"> 140,000g including the membership purchase). There are no \"Friendship\" rewards associated with the Joja Community Development Form like there are with the Community Center Bundles.\nIf the player completes all the bundles in a room in the Community Center that unlocks a development before purchasing a membership, the development will remain in place and show as already completed after purchasing a membership. However, no discount is given for partially completed rooms. The Joja cost for a development is the same regardless of prior community center progress."
+    },
+    {
+      "heading": "Completion",
+      "content": "Starting the day following the completion of the development form, the first time the player walks into Pelican Town on a sunny day (at any time of day), a completion ceremony is held in front of the warehouse. The ceremony is delayed if it is raining or a festival is held in town.\nMorris gives the following speech:\nThe player then receives the Soda Machine . At JojaMart, the Auto-Petter becomes available for purchase for data-sort-value=\"50000\"> 50,000g and Morris will present the player with an \" entertainment opportunity .\"\nThe day after viewing the completion ceremony, a letter will arrive from Willy inviting the player into his back room . The closing ceremony does not need to be seen to trigger the letter."
+    },
+    {
+      "heading": "Notes",
+      "content": "- Until the player has the funds for both a Joja membership and a development, a good strategy can be to put off buying a membership until ready and meanwhile receiving rewards for bundles that are easy to complete, such as the Spring Foraging Bundle or Crab Pot Bundle.\n- If the player plans to buy the bus first, it may be more \"rewarding\" to complete the Community Center bundles instead for a total cost of data-sort-value=\"42500\"> 42,500g (vs Joja's price of data-sort-value=\"40000\"> 40,000g ) and receive 3 Chocolate Cakes , 30 Quality Fertilizers , a Lightning Rod , and a Crystalarium .\n- Curiously, Lewis , Robin , Willy , and the other villagers are mystified by the source of the community improvements, implying Joja does not publicize its actions or that villagers do not notice an entire crew coming from out of town to make repairs."
+    },
+    {
+      "heading": "History",
+      "content": "- 1.4 : Movie Theater introduced.\n- 1.5 : Auto-Petter introduced. Completing the Development Form now unlocks access to Willy's Boat ."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Completion",
+      "table": {
+        "headers": [],
+        "rows": [
+          [
+            "“",
+            "“Just a few short years ago, the great innovators at Joja Headquarters came up with a new idea, the Joja Community Development Project. The project was concieved as a way to provide important construction services to the beloved communities we hold so dear...*sniff*... all while generating substantial revenue!\nPelican Town, with its run-down infrastructure, was a perfect testing grounds. Well, thanks to you, our Community Development Pilot Program has been a major success!\nFrom repairing old bridges, to fixing buses, to turning piles of rubble into a greenhouse, we've really turned this city around!\nI've also received a big promotion! Hehehe.\nThe president of the company asked me to give you this exclusive gift as a way of saying 'thanks'.”"
+          ]
+        ]
+      }
+    }
+  ]
+}

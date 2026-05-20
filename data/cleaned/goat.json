@@ -1,0 +1,136 @@
+{
+  "title": "Goat",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Goat Happy adults provide goat milk every other day. A milk pail is required to harvest the milk. Lives in the barn. Information Building Big Barn Purchase Price data-sort-value=\"4000 \"> 4,000g Produce Goat Milk Large Goat Milk\nThe Goat is an animal that lives in a Big Barn . Goats can be purchased at Marnie's Ranch for data-sort-value=\"4000\"> 4,000g . Goats can become pregnant and give birth ."
+    },
+    {
+      "heading": "Produce",
+      "content": "Goats who eat every day mature after 5 nights have passed. A mature and fed goat produces Goat Milk every 2 days. Once sufficient friendship and happiness are reached, they will produce Large Goat Milk . Goat Milk can be collected using a Milk Pail . Milking a goat by hand increases friendship by 5 points. Alternatively, an Auto-Grabber will automatically milk every Goat in a Barn.\nGoat Milk can be placed in a Cheese Press to produce Goat Cheese , which sells for data-sort-value=\"400\"> 400g or data-sort-value=\"600\"> 600g depending on quality."
+    },
+    {
+      "heading": "Reproduction",
+      "content": "Goats, like cows , sheep , and pigs , have a low chance to reproduce. The more animals there are inside the same barn , the higher the chance an animal will give birth.\nWhen it occurs, the player will receive a notice at the bottom of the screen before the day starts, stating \"During the night, [parent's name] gave birth to a baby goat.\" Other than this, there is no indication that a goat is pregnant."
+    },
+    {
+      "heading": "Selling",
+      "content": "Goats can be sold. The selling price is dependent on how many hearts the animal has ( data-sort-value=\"5200\"> 5,200g max).\nTo sell a coop or barn animal, right-click the animal after petting. The friendship/mood interface appears. Move the cursor over the gold coin button at the right to see how much you can sell the animal for. Click that button and the confirmation that follows to complete the sale."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Produce",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Sell Price"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Sell Price"
+          ],
+          [
+            "",
+            "Goat Milk",
+            "The milk of a goat.",
+            "225g 281g 337g 450g",
+            "",
+            "225g",
+            "",
+            "281g",
+            "",
+            "337g",
+            "",
+            "450g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "281g"
+          ],
+          [
+            "",
+            "337g"
+          ],
+          [
+            "",
+            "450g"
+          ],
+          [
+            "",
+            "Large Goat Milk",
+            "A gallon of creamy goat's milk.",
+            "345g 431g 517g 690g",
+            "",
+            "345g",
+            "",
+            "431g",
+            "",
+            "517g",
+            "",
+            "690g"
+          ],
+          [
+            "",
+            "345g"
+          ],
+          [
+            "",
+            "431g"
+          ],
+          [
+            "",
+            "517g"
+          ],
+          [
+            "",
+            "690g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Selling",
+      "table": {
+        "headers": [
+          "Animals and Produce"
+        ],
+        "rows": [
+          [
+            "Animals and Produce"
+          ],
+          [
+            "Coop",
+            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+          ],
+          [
+            "Barn",
+            "Cow • Goat • Sheep • Ostrich • Pig"
+          ],
+          [
+            "Fish Pond",
+            "Fish"
+          ],
+          [
+            "Slime Hutch",
+            "Slimes"
+          ],
+          [
+            "Other",
+            "Cat • Dog • Horse • Turtle"
+          ]
+        ]
+      }
+    }
+  ]
+}

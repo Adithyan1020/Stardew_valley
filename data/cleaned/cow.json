@@ -1,0 +1,136 @@
+{
+  "title": "Cow",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Cow Adults can be milked daily. A milk pail is required to harvest the milk. Lives in the barn. Information Building Barn Purchase Price data-sort-value=\"1500 \"> 1,500g Produce Milk Large Milk\nThe Cow is an animal that lives in a Barn . Cows can be purchased at Marnie's Ranch for data-sort-value=\"1500\"> 1,500g . Cows come in two varieties: White and Brown. When purchasing a cow, the game decides randomly whether you will get a white or brown cow (50% chance). Cows can become pregnant and give birth ."
+    },
+    {
+      "heading": "Produce",
+      "content": "Cows who eat every day mature after 5 nights have passed. A mature and fed cow produce Milk every day. Milk does not vary depending on the color of the Cow, unlike Eggs . Once sufficient friendship and happiness is reached, they will produce Large Milk . Milk can be collected using a Milk Pail . Milking a cow by hand increases friendship by 5 points. Alternatively, an Auto-Grabber will automatically milk every cow in a Barn.\nMilk can be placed in a Cheese Press to produce Cheese , which sells for data-sort-value=\"230\"> 230g or data-sort-value=\"345\"> 345g depending on quality."
+    },
+    {
+      "heading": "Reproduction",
+      "content": "Cows, like pigs , sheep , and goats , have a low chance to reproduce and can produce baby cows. The more animals there are inside the same barn , the higher the chance an animal will give birth.\nWhen it occurs, the player will receive a notice at the bottom of the screen before the day starts, stating \"During the night, [parent's name] gave birth to a baby cow.\" Other than this, there is no indication that a cow is pregnant."
+    },
+    {
+      "heading": "Selling",
+      "content": "Cows can be sold. The selling price is dependent on how many hearts the animal has ( data-sort-value=\"1950\"> 1,950g max).\nTo sell a coop or barn animal, right-click the animal after petting. The friendship/mood interface appears. Move the cursor over the gold coin button at the right to see how much you can sell the animal for. Click that button and the confirmation that follows to complete the sale."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Produce",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Sell Price"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Sell Price"
+          ],
+          [
+            "",
+            "Milk",
+            "A jug of cow's milk.",
+            "125g 156g 187g 250g",
+            "",
+            "125g",
+            "",
+            "156g",
+            "",
+            "187g",
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "125g"
+          ],
+          [
+            "",
+            "156g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "Large Milk",
+            "A large jug of cow's milk.",
+            "190g 237g 285g 380g",
+            "",
+            "190g",
+            "",
+            "237g",
+            "",
+            "285g",
+            "",
+            "380g"
+          ],
+          [
+            "",
+            "190g"
+          ],
+          [
+            "",
+            "237g"
+          ],
+          [
+            "",
+            "285g"
+          ],
+          [
+            "",
+            "380g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Selling",
+      "table": {
+        "headers": [
+          "Animals and Produce"
+        ],
+        "rows": [
+          [
+            "Animals and Produce"
+          ],
+          [
+            "Coop",
+            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+          ],
+          [
+            "Barn",
+            "Cow • Goat • Sheep • Ostrich • Pig"
+          ],
+          [
+            "Fish Pond",
+            "Fish"
+          ],
+          [
+            "Slime Hutch",
+            "Slimes"
+          ],
+          [
+            "Other",
+            "Cat • Dog • Horse • Turtle"
+          ]
+        ]
+      }
+    }
+  ]
+}

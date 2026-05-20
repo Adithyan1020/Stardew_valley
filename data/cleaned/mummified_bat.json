@@ -1,0 +1,49 @@
+{
+  "title": "Mummified_Bat",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Mummified Bat The delicate wings have been perfectly preserved. Information Source Breaking rocks in the Volcano Dungeon Sell Price data-sort-value=\"100\"> 100g\nMummified Bat is an item that can be obtained by breaking rocks (1/200 chance) in the Volcano Dungeon ."
+    },
+    {
+      "heading": "Donation",
+      "content": "The Mummified Bat can be donated to the Island Field Office , which rewards 1 Golden Walnut ."
+    },
+    {
+      "heading": "Bone Mill",
+      "content": "The Mummified Bat can be turned into Quality Fertilizer , Speed-Gro , Deluxe Speed-Gro or Tree Fertilizer in the Bone Mill ."
+    },
+    {
+      "heading": "Tailoring",
+      "content": "Mummified Bat is used in the spool of a Sewing Machine to create the Skeleton Shirt . It can be used in dyeing , serving as a yellow dye at the dye pots, located in Emily 's and Haley 's house, 2 Willow Lane ."
+    },
+    {
+      "heading": "Quests",
+      "content": "- \"Fragments of the past\" : Gunther may make a request on the Special Orders board for 100 of any combination of bone items that must be gathered while the quest is active. You have 7 days to complete the quest. The reward is data-sort-value=\"3500\"> 3,500g and the Bone Mill recipe."
+    },
+    {
+      "heading": "History",
+      "content": "- 1.5 : Introduced."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Gifting",
+      "table": {
+        "headers": [
+          "Villager Reactions"
+        ],
+        "rows": [
+          [
+            "Villager Reactions"
+          ],
+          [
+            "Hate",
+            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+          ]
+        ]
+      }
+    }
+  ]
+}

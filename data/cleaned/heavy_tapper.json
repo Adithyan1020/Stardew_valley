@@ -1,0 +1,232 @@
+{
+  "title": "Heavy_Tapper",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Heavy Tapper Place on a maple, oak, or pine tree and wait for the reservoir to fill with product! Works twice as fast as a normal tapper. Information Source Crafting Season All Sell Price Cannot be sold Crafting Recipe Source Qi's Secret Walnut Room for data-sort-value=\"20\"> 20 Ingredients Hardwood (30) Radioactive Bar (1)\nThe Heavy Tapper is a crafted item that works at twice the production rate of a regular Tapper . The recipe can be purchased in Mr. Qi 's Secret Walnut Room on Ginger Island for data-sort-value=\"20\"> 20 . It can be placed on a tree to produce Maple Syrup , Oak Resin , Pine Tar , Mystic Syrup , or Sap . It can also be placed on a Mushroom Tree to produce different mushrooms, but the production rate is not increased compared to a regular Tapper. It can be placed on a Green Rain Tree (Type 3) to produce Fiddlehead Ferns . Other types of Green Rain Tree cannot be tapped.\nThe Heavy Tapper can be removed from a tree by hitting it once with an axe or pickaxe. This leaves the Tapper intact and able to be reused. If the Heavy Tapper is on a tree when it is struck by lightning , both the Tapper and its contents are destroyed.\nHeavy Tappers placed on Maple Trees , Oak Trees , Pine Trees , Mahogany Trees , or Mystic Trees continue to produce during Winter . Since Mushroom Trees and Green Rain Trees (Type 3) turn to stumps in Winter , any tappers placed on them produce nothing during that season.\nNote that there is no difference between a Tapper and a Heavy Tapper placed on a Mahogany Tree , since Heavy Tappers only affect production time, and the minimum production time for a tapper is 1 night."
+    },
+    {
+      "heading": "Bugs",
+      "content": "- Oak Trees and Maple Trees tapped with a Heavy Tapper instead of a regular Tapper can turn into Green Rain Trees in Fall , whereas this should only have a chance to happen to trees that do not contain any tapper."
+    },
+    {
+      "heading": "References",
+      "content": "↑ See Tree::UpdateTapperProduct in the game code. Tree type indexes can be deduced by looking at Tree::loadTexture and the Content\\TerrainFeatures\\ folder."
+    },
+    {
+      "heading": "History",
+      "content": "- 1.5 : Introduced.\n- 1.6 : Mystic Syrup and Fiddlehead Fern now possible products. Fixed bug where common trees tapped with a Heavy Tapper could turn into Mushroom Trees ."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Products",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Source",
+          "Time",
+          "Sell Price",
+          "Energy / Health"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Source",
+            "Time",
+            "Sell Price",
+            "Energy / Health"
+          ],
+          [
+            "",
+            "Maple Syrup",
+            "A sweet syrup with a unique flavor.",
+            "Maple Tree",
+            "4 Nights",
+            "data-sort-value=\"200\"> 200g",
+            "50 22"
+          ],
+          [
+            "",
+            "Oak Resin",
+            "A sticky, fragrant substance derived from oak sap.",
+            "Oak Tree",
+            "3 Nights",
+            "data-sort-value=\"150\"> 150g",
+            "Inedible"
+          ],
+          [
+            "",
+            "Pine Tar",
+            "A pungent substance derived from pine sap.",
+            "Pine Tree",
+            "2 Nights",
+            "data-sort-value=\"100\"> 100g",
+            "Inedible"
+          ],
+          [
+            "",
+            "3 - 8 Sap",
+            "A fluid obtained from trees.",
+            "Mahogany Tree",
+            "1 Night",
+            "data-sort-value=\"2\"> 2g",
+            "−2"
+          ],
+          [
+            "",
+            "Common Mushroom",
+            "Slightly nutty, with good texture.",
+            "Mushroom Tree",
+            "Varies",
+            "data-sort-value=\"40\"> 40g",
+            "38 17"
+          ],
+          [
+            "",
+            "Red Mushroom",
+            "A spotted mushroom sometimes found in caves.",
+            "Mushroom Tree",
+            "Varies",
+            "data-sort-value=\"75\"> 75g",
+            "−50"
+          ],
+          [
+            "",
+            "Purple Mushroom",
+            "A rare mushroom found deep in caves.",
+            "Mushroom Tree",
+            "Varies",
+            "data-sort-value=\"250\"> 250g",
+            "125 56"
+          ],
+          [
+            "",
+            "Mystic Syrup",
+            "A very rare syrup that is said to have magic properties.",
+            "Mystic Tree",
+            "3 Nights",
+            "data-sort-value=\"1000\"> 1,000g",
+            "500 225"
+          ],
+          [
+            "",
+            "Fiddlehead Fern",
+            "The young shoots are an edible specialty.",
+            "Green Rain Tree (Type 3)",
+            "1 Night",
+            "data-sort-value=\"90\"> 90g",
+            "25 11"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Types",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Ingredients",
+          "Recipe Source"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Ingredients",
+            "Recipe Source"
+          ],
+          [
+            "",
+            "Tapper",
+            "Place on a maple, oak, or pine tree and wait for the reservoir to fill with product!",
+            "Wood (40) Copper Bar (2)",
+            "Foraging Level 4"
+          ],
+          [
+            "",
+            "Heavy Tapper",
+            "Place on a maple, oak, or pine tree and wait for the reservoir to fill with product! Works twice as fast as a normal tapper.",
+            "Hardwood (30) Radioactive Bar (1)",
+            "Qi's Walnut Room for data-sort-value=\"20\"> 20"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "History",
+      "table": {
+        "headers": [
+          "Equipment"
+        ],
+        "rows": [
+          [
+            "Equipment"
+          ],
+          [
+            "Artisan",
+            "Bee House • Cask • Cheese Press • Dehydrator • Fish Smoker • Keg • Loom • Mayonnaise Machine • Oil Maker • Preserves Jar"
+          ],
+          [
+            "Refining",
+            "Bait Maker • Bone Mill • Charcoal Kiln • Crystalarium • Deluxe Worm Bin • Furnace • Geode Crusher • Heavy Furnace • Heavy Tapper • Lightning Rod • Mushroom Log • Ostrich Incubator • Recycling Machine • Seed Maker • Slime Egg-Press • Slime Incubator • Solar Panel • Tapper • Wood Chipper • Worm Bin"
+          ],
+          [
+            "Farming",
+            "Fertilizer",
+            "Basic Fertilizer • Basic Retaining Soil • Deluxe Fertilizer • Deluxe Retaining Soil • Deluxe Speed-Gro • Hyper Speed-Gro • Quality Fertilizer • Quality Retaining Soil • Speed-Gro • Tree Fertilizer"
+          ],
+          [
+            "Sprinklers",
+            "Iridium Sprinkler • Quality Sprinkler • Sprinkler"
+          ],
+          [
+            "Other",
+            "Deluxe Scarecrow • Garden Pot • Rarecrow • Scarecrow"
+          ],
+          [
+            "Fishing",
+            "Bait",
+            "Bait • Challenge Bait • Deluxe Bait • Magic Bait • Magnet • Targeted Bait • Wild Bait"
+          ],
+          [
+            "Tackle",
+            "Barbed Hook • Cork Bobber • Curiosity Lure • Dressed Spinner • Lead Bobber • Quality Bobber • Sonar Bobber • Spinner • Trap Bobber • Treasure Hunter"
+          ],
+          [
+            "Other",
+            "Crab Pot"
+          ],
+          [
+            "Bombs",
+            "Bomb • Cherry Bomb • Mega Bomb"
+          ],
+          [
+            "Fences",
+            "Gate • Hardwood Fence • Iron Fence • Stone Fence • Wood Fence"
+          ],
+          [
+            "Storage",
+            "Big Chest • Big Stone Chest • Chest • Junimo Chest • Mini-Fridge • Stone Chest"
+          ],
+          [
+            "Signs",
+            "Dark Sign • Stone Sign • Text Sign • Wood Sign"
+          ],
+          [
+            "Misc",
+            "Anvil • Coffee Maker • Cookout Kit • Deconstructor • Fairy Dust • Farm Computer • Hopper • Mini-Forge • Mini-Jukebox • Mini-Shipping Bin • Sewing Machine • Staircase • Statue Of Blessings • Statue Of The Dwarf King • Telephone • Tent Kit • Tools • Workbench"
+          ]
+        ]
+      }
+    }
+  ]
+}

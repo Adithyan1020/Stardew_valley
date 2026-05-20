@@ -1,0 +1,187 @@
+{
+  "title": "Flower_Dance",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "The Flower Dance is a festival that takes place on the 24th of every Spring . The player enters the dance by entering Cindersap Forest between 9am and 2pm. The forest cannot be entered before 9am.\nThe dance takes place in the far west of the forest, across the bridge that is south of the Wizard's Tower . This area is accessible only during the Flower Dance.\nOn the day of the Festival, every home and shop in Stardew Valley is \"locked\" and cannot be entered.\nDuring this festival, the player can dance with one of the bachelors or bachelorettes . The player must talk to them until the \"Ask <name> to be your dance partner?\" dialogue pops up (normally 2x), but they will refuse unless the player has at least four hearts of friendship with them. The player can talk to the other villagers and they will have event-related dialogue.\nDancing with an NPC will increase friendship with that NPC by 1 heart (250 points). In a multiplayer game, players may also dance with each other. If the player is divorced, their ex will refuse their dance proposal and respond with angry dialogue instead.\nOnce the player talks to Mayor Lewis , the dance begins. After the dance, the festival ends and the player is returned to The Farm at 10pm."
+    },
+    {
+      "heading": "Shop",
+      "content": "Pierre has a booth from which he sells the following items."
+    },
+    {
+      "heading": "Dance Partners",
+      "content": "If the player is unable to choose a partner, or chooses not to dance, the following dance pairs will take part:\nIf the player chooses to dance with someone, they will replace the partner listed above. The replaced dance partner will stand below the dance, next to Pierre and Caroline ."
+    },
+    {
+      "heading": "Trivia",
+      "content": "- It is technically possible, though not easy, to get 4 hearts of friendship with all twelve marriage candidates in the first year.\n- After the player is married, they can choose to dance with other partners. Their spouse may dance with someone else as well.\n- Talking to Haley before starting the Flower Dance will result in her saying that she is \"practicing her dance moves\". However, her sprite appears to just be wandering around aimlessly."
+    },
+    {
+      "heading": "History",
+      "content": "- 1.3.27 : Added Seasonal Decor and two Seasonal Plants to Pierre's shop. Decreased Tub o' Flowers price from data-sort-value=\"1000\"> 1,000g to data-sort-value=\"250\"> 250g . Decreased Tub o' Flowers recipe price from data-sort-value=\"2000\"> 2,000g to data-sort-value=\"1000\"> 1,000g .\n- 1.4 : Fixed bug where NPCs would follow non-festival schedules after the festival.\n- 1.5 : Added Wall Flower and Ceiling Leaves decorations to Pierre's shop."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Shop",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Price"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Price"
+          ],
+          [
+            "",
+            "Seasonal Decor",
+            "This decoration changes with the seasons.",
+            "data-sort-value=\"350\"> 350g"
+          ],
+          [
+            "",
+            "Seasonal Plant",
+            "An ornamental plant that changes with each season. It doesn't need to be watered.",
+            "data-sort-value=\"350\"> 350g"
+          ],
+          [
+            "",
+            "Seasonal Plant",
+            "An ornamental plant that changes with each season. It doesn't need to be watered.",
+            "data-sort-value=\"350\"> 350g"
+          ],
+          [
+            "",
+            "Tub o' Flowers",
+            "Flowers planted in an oak barrel. Blooms in spring and summer.",
+            "data-sort-value=\"250\"> 250g"
+          ],
+          [
+            "",
+            "Tub o' Flowers Recipe",
+            "A recipe to make Tub o' Flowers",
+            "data-sort-value=\"1000\"> 1,000g"
+          ],
+          [
+            "",
+            "Daffodil (10)",
+            "A traditional spring flower that makes a nice gift.",
+            "data-sort-value=\"50\"> 50g"
+          ],
+          [
+            "",
+            "Dandelion (10)",
+            "Not the prettiest flower, but the leaves make a good salad.",
+            "data-sort-value=\"50\"> 50g"
+          ],
+          [
+            "",
+            "Rarecrow #5 (1)",
+            "Collect them all! (5 of 8)",
+            "data-sort-value=\"2500\"> 2,500g"
+          ],
+          [
+            "",
+            "Wall Flower",
+            "Can be placed inside your house.",
+            "data-sort-value=\"800\"> 800g"
+          ],
+          [
+            "",
+            "S. Wall Flower",
+            "Can be placed inside your house.",
+            "data-sort-value=\"800\"> 800g"
+          ],
+          [
+            "",
+            "Ceiling Leaves",
+            "Can be placed inside your house.",
+            "data-sort-value=\"400\"> 400g"
+          ],
+          [
+            "",
+            "Ceiling Leaves",
+            "Can be placed inside your house.",
+            "data-sort-value=\"400\"> 400g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Dance Partners",
+      "table": {
+        "headers": [
+          "Female Dancer",
+          "Male Dancer"
+        ],
+        "rows": [
+          [
+            "Female Dancer",
+            "Male Dancer"
+          ],
+          [
+            "Leah",
+            "Elliott"
+          ],
+          [
+            "Maru",
+            "Harvey"
+          ],
+          [
+            "Emily",
+            "Shane"
+          ],
+          [
+            "Haley",
+            "Alex"
+          ],
+          [
+            "Penny",
+            "Sam"
+          ],
+          [
+            "Abigail",
+            "Sebastian"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "History",
+      "table": {
+        "headers": [
+          "Festivals"
+        ],
+        "rows": [
+          [
+            "Festivals"
+          ],
+          [
+            "Spring",
+            "Egg Festival • Desert Festival • Flower Dance"
+          ],
+          [
+            "Summer",
+            "Luau • Trout Derby • Dance of the Moonlight Jellies"
+          ],
+          [
+            "Fall",
+            "Stardew Valley Fair • Spirit's Eve"
+          ],
+          [
+            "Winter",
+            "Festival of Ice • SquidFest • Night Market • Feast of the Winter Star"
+          ]
+        ]
+      }
+    }
+  ]
+}

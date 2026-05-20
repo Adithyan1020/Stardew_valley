@@ -1,0 +1,98 @@
+{
+  "title": "Ancient_Seed",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Ancient Seed It's a dry old seed from some ancient plant. By all appearances it's long since dead... Information Artifact Spots: Cindersap Forest (0.7%) The Mountain (0.7%) Monster Drops: Bug (0.5%) Cave Fly (0.5%) Grub (0.5%) Mutant Fly (0.5%) Mutant Grub (0.5%) Other Sources: Fishing Treasure Chest (0.7-0.8%) Artifact Trove (3.7%) Deconstructor Donation Reward: Ancient Seeds (1) Ancient Seeds Recipe Sell Price: data-sort-value=\"5 \"> 5g\nThe Ancient Seed is an Artifact that can be found by digging up an Artifact Spot in Cindersap Forest or The Mountain (including the Quarry ), or obtained inside Artifact Troves , or Fishing Treasure Chests after reaching Fishing level 2 . It can be dropped from Bugs , Grubs , Cave Flies , Mutant Flies , and Mutant Grubs (0.5% chance). It can also be found by cutting foliage on Prehistoric Floors , in The Mines when they are in a \"Dangerous\" state, or in the Volcano Dungeon . Placing a packet of Ancient Seeds in a Deconstructor yields an Ancient Seed.\nThis artifact can be crafted into viable seeds that can be planted to grow Ancient Fruit during Spring , Summer and Fall , or during any season in the Greenhouse or the Ginger Island farm."
+    },
+    {
+      "heading": "Donation",
+      "content": "The only productive use of the first Ancient Seed artifact found is to donate it to the Museum . The item contributes to the total count of Museum donations. Gunther will reward the player with one pack of plantable Ancient Seeds and the recipe to craft any further Ancient Seed artifacts into more seeds."
+    },
+    {
+      "heading": "Bundles",
+      "content": "Ancient Seed is not used in any bundles ."
+    },
+    {
+      "heading": "Tailoring",
+      "content": "Ancient Seed is used in the spool of the Sewing Machine to create the Brown Suit ."
+    },
+    {
+      "heading": "Quests",
+      "content": "Ancient Seed is not used in any quests ."
+    },
+    {
+      "heading": "History",
+      "content": "- 1.0 : Introduced.\n- 1.4 : Updated sprite, added Artifact Trove as a source. Can now be used in Tailoring .\n- 1.5 : Artifacts are now liked by the Dwarf and Penny , disliked by all other NPCs."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Gifting",
+      "table": {
+        "headers": [
+          "Villager Reactions"
+        ],
+        "rows": [
+          [
+            "Villager Reactions"
+          ],
+          [
+            "Like",
+            "Dwarf • Penny"
+          ],
+          [
+            "Dislike",
+            "Abigail • Alex • Caroline • Clint • Demetrius • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Recipes",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Ingredients",
+          "Recipe From"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Ingredients",
+            "Recipe From"
+          ],
+          [
+            "",
+            "Ancient Seeds",
+            "Could these still grow?",
+            "Ancient Seed (1)",
+            "Donating Ancient Seed to the Museum"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "History",
+      "table": {
+        "headers": [
+          "Artifacts"
+        ],
+        "rows": [
+          [
+            "Artifacts"
+          ],
+          [
+            "Artifacts",
+            "Amphibian Fossil • Anchor • Ancient Doll • Ancient Drum • Ancient Seed • Ancient Sword • Arrowhead • Bone Flute • Chewing Stick • Chicken Statue • Chipped Amphora • Dinosaur Egg • Dried Starfish • Dwarf Gadget • Dwarf Scroll I • Dwarf Scroll II • Dwarf Scroll III • Dwarf Scroll IV • Dwarvish Helm • Elvish Jewelry • Glass Shards • Golden Mask • Golden Relic • Nautilus Fossil • Ornamental Fan • Palm Fossil • Prehistoric Handaxe • Prehistoric Rib • Prehistoric Scapula • Prehistoric Skull • Prehistoric Tibia • Prehistoric Tool • Prehistoric Vertebra • Rare Disc • Rusty Cog • Rusty Spoon • Rusty Spur • Skeletal Hand • Skeletal Tail • Strange Doll (green) • Strange Doll (yellow) • Trilobite"
+          ]
+        ]
+      }
+    }
+  ]
+}

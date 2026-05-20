@@ -1,0 +1,82 @@
+{
+  "title": "Slime_Egg",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Slime Egg Can be hatched in a slime incubator. Information Source Slime Egg-Press Drop from Slimes Slimejack / Lionfish Fish Pond Energy Inedible Sell Price 1,000g 1,750g 2,500g 5,000g 8,000g\nSlime Eggs can be obtained as rare drops from slimes or by putting 100 slime into a Slime Egg-Press . Purple and red Slime Eggs can also be found in treasure rooms in the Skull Cavern. One Green Slime Egg may be produced daily in a Slimejack Fish Pond when the population of the pond reaches 9. A Tiger Slime Egg might drop when a Tiger Slime is killed in the Volcano Dungeon or West area of Ginger Island . One Tiger Slime Egg may be produced daily in a Lionfish Fish Pond when the population of the pond reaches 9.\nThe color of egg produced from a Slime Egg-Press is random. There is a 5% chance the egg will be purple, 9.5% chance of red, 21.375% chance of blue, and 64.125% chance of green.\nOnce a Slime Hutch is built on the Farm , there is a 1% chance that a slime (encountered anywhere) will drop a Slime Egg when slain. Green slimes drop green eggs, blue slimes drop blue eggs, red slimes drop red eggs, purple slimes drop purple eggs, and tiger slimes drop tiger slime eggs.\nSlime Eggs can be sold at different prices depending on the color, or placed in a Slime Incubator ."
+    },
+    {
+      "heading": "Incubation",
+      "content": "The Slime egg can be hatched into a slime in a Slime Incubator . The incubation takes 4000 minutes in game time, which amounts to 3 entire days (6 am to 2 am) and 6 hours. The Coopmaster Profession cuts this time in half.\nGreen eggs will hatch green slimes, blue eggs hatch blue slimes, red eggs hatch red slimes, purple eggs hatch purple slimes, and tiger eggs hatch tiger slimes.\nThe gender of the egg is completely random and can't be found out before hatching the egg."
+    },
+    {
+      "heading": "Bundles",
+      "content": "Slime Egg is not used in any bundles ."
+    },
+    {
+      "heading": "Tailoring",
+      "content": "Slime Egg is used in the spool of the Sewing Machine to create the dyeable Baggy Pants . Slime Eggs can also be used as a dye in the dye pots located in Haley 's and Emily 's house, 2 Willow Lane . The dye pots the eggs go into match their color, as follows:\n- Green Slime Eggs are a green dye\n- Blue Slime Eggs are a blue dye\n- Red Slime Eggs are a red dye\n- Purple Slime Eggs are a purple dye\n- Tiger Slime Eggs are an orange dye"
+    },
+    {
+      "heading": "Quests",
+      "content": "The Slime Egg is not used in any quests ."
+    },
+    {
+      "heading": "History",
+      "content": "- 1.0 : Introduced.\n- 1.11 : Increased sell price for all eggs.\n- 1.4 : Can now be used in Tailoring . Can be produced by Fish Ponds .\n- 1.5 : Added Tiger Slime Eggs."
+    }
+  ],
+  "tables": [
+    {
+      "section": "Gifting",
+      "table": {
+        "headers": [
+          "Villager Reactions"
+        ],
+        "rows": [
+          [
+            "Villager Reactions"
+          ],
+          [
+            "Hate",
+            "Abigail • Alex • Caroline • Clint • Demetrius • Dwarf • Elliott • Emily • Evelyn • George • Gus • Haley • Harvey • Jas • Jodi • Kent • Krobus • Leah • Leo • Lewis • Linus • Marnie • Maru • Pam • Penny • Pierre • Robin • Sam • Sandy • Sebastian • Shane • Vincent • Willy • Wizard"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "History",
+      "table": {
+        "headers": [
+          "Animals and Produce"
+        ],
+        "rows": [
+          [
+            "Animals and Produce"
+          ],
+          [
+            "Coop",
+            "Chicken • Dinosaur • Duck • Golden Chicken • Rabbit • Void Chicken"
+          ],
+          [
+            "Barn",
+            "Cow • Goat • Sheep • Ostrich • Pig"
+          ],
+          [
+            "Fish Pond",
+            "Fish"
+          ],
+          [
+            "Slime Hutch",
+            "Slimes"
+          ],
+          [
+            "Other",
+            "Cat • Dog • Horse • Turtle"
+          ]
+        ]
+      }
+    }
+  ]
+}

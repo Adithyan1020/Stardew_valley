@@ -1,0 +1,216 @@
+{
+  "name": "Stardew Valley RAG Benchmark v1.0",
+  "description": "50-query evaluation set covering core gameplay mechanics, villager interactions, farming progression, and late-game content. Designed for Precision@5, Recall@5, MRR measurement.",
+  "query_count": 50,
+  "version": "2026-04-14",
+  "queries": [
+    {
+      "query": "scarecrow range",
+      "expected_titles": ["Scarecrow"]
+    },
+    {
+      "query": "what gift does clint love",
+      "expected_titles": ["Clint"]
+    },
+    {
+      "query": "lewis loved gifts",
+      "expected_titles": ["Lewis"]
+    },
+    {
+      "query": "willy favorite gift",
+      "expected_titles": ["Willy"]
+    },
+    {
+      "query": "pierre liked gifts",
+      "expected_titles": ["Pierre"]
+    },
+    {
+      "query": "how to unlock greenhouse",
+      "expected_titles": ["Greenhouse", "Pantry Bundle", "Community Center"]
+    },
+    {
+      "query": "parrot express puzzle",
+      "expected_titles": ["Parrot Express", "Volcano Dungeon"]
+    },
+    {
+      "query": "qi golden walnuts",
+      "expected_titles": ["Golden Walnuts", "Mr. Qi"]
+    },
+    {
+      "query": "how to get prismatic shard",
+      "expected_titles": ["Prismatic Shard", "Skull Cavern", "Omni Geode"]
+    },
+    {
+      "query": "galaxy sword location",
+      "expected_titles": ["Galaxy Sword", "Calico Desert"]
+    },
+    {
+      "query": "spring crops best",
+      "expected_titles": ["Crops", "Spring Crops"]
+    },
+    {
+      "query": "strawberry seeds when",
+      "expected_titles": ["Egg Festival", "Strawberry Seed"]
+    },
+    {
+      "query": "best spring forage",
+      "expected_titles": ["Foraging", "Spring Forageable"]
+    },
+    {
+      "query": "chicken coop upgrade",
+      "expected_titles": ["Coop", "Robin"]
+    },
+    {
+      "query": "barn upgrade cost",
+      "expected_titles": ["Barn", "Robin"]
+    },
+    {
+      "query": "fishing bait how to get",
+      "expected_titles": ["Bait", "Fishing", "Willy"]
+    },
+    {
+      "query": "crab pot locations",
+      "expected_titles": ["Crab Pot", "The Beach"]
+    },
+    {
+      "query": "legendary fish locations",
+      "expected_titles": ["Legendary Fish", "Master Angler"]
+    },
+    {
+      "query": "gold star quality",
+      "expected_titles": ["Quality Fertilizer", "Farming"]
+    },
+    {
+      "query": "speed gro recipe",
+      "expected_titles": ["Speed-Gro", "Crafting"]
+    },
+    {
+      "query": "slime hutch build",
+      "expected_titles": ["Slime Hutch", "Carpenter's Shop"]
+    },
+    {
+      "query": "skull cavern best strategy",
+      "expected_titles": ["Skull Cavern", "Stardew Valley Fair"]
+    },
+    {
+      "query": "bomb crafting recipe",
+      "expected_titles": ["Bomb", "Crafting"]
+    },
+    {
+      "query": "stardrop locations",
+      "expected_titles": ["Stardrop", "The Saloon"]
+    },
+    {
+      "query": "community center bundles",
+      "expected_titles": ["Bundles", "Community Center"]
+    },
+    {
+      "query": "joja route vs community center",
+      "expected_titles": ["Joja Community Development Form", "Community Center"]
+    },
+    {
+      "query": "bus repair how to",
+      "expected_titles": ["Bus", "The Mines"]
+    },
+    {
+      "query": "desert unlock",
+      "expected_titles": ["Calico Desert", "Bus"]
+    },
+    {
+      "query": "wizard quests",
+      "expected_titles": ["Wizard", "Quests"]
+    },
+    {
+      "query": "krobus friendship",
+      "expected_titles": ["Krobus"]
+    },
+    {
+      "query": "dwarf translation guide",
+      "expected_titles": ["Dwarf", "Mining"]
+    },
+    {
+      "query": "secret woods location",
+      "expected_titles": ["Secret Woods"]
+    },
+    {
+      "query": "golden pumpkin uses",
+      "expected_titles": ["Golden Pumpkin", "Tailoring"]
+    },
+    {
+      "query": "festival of ice timing",
+      "expected_titles": ["Festival of Ice"]
+    },
+    {
+      "query": "luau soup ingredients",
+      "expected_titles": ["Luau", "Cooking"]
+    },
+    {
+      "query": "fair star tokens best use",
+      "expected_titles": ["Stardew Valley Fair"]
+    },
+    {
+      "query": "winter star gift exchange",
+      "expected_titles": ["Feast of the Winter Star"]
+    },
+    {
+      "query": "grandpa evaluation points",
+      "expected_titles": ["Grandpa"]
+    },
+    {
+      "query": "perfection requirements",
+      "expected_titles": ["Perfection"]
+    },
+    {
+      "query": "prairie king high score",
+      "expected_titles": ["Journey Of The Prairie King"]
+    },
+    {
+      "query": "movie theater unlock",
+      "expected_titles": ["Movie Theater"]
+    },
+    {
+      "query": "special orders board",
+      "expected_titles": ["Special Orders"]
+    },
+    {
+      "query": "golden mystery box",
+      "expected_titles": ["Golden Mystery Box"]
+    },
+    {
+      "query": "qi challenge help",
+      "expected_titles": ["Mr. Qi", "Challenges"]
+    },
+    {
+      "query": "island trader stock",
+      "expected_titles": ["Island Trader"]
+    },
+    {
+      "query": "volcano forge recipes",
+      "expected_titles": ["Volcano Forge"]
+    },
+    {
+      "query": "2 willow lane layout",
+      "expected_titles": ["2 Willow Lane"]
+    },
+    {
+      "query": "traveling cart schedule",
+      "expected_titles": ["Traveling Cart"]
+    },
+    {
+      "query": "dark shrine of night",
+      "expected_titles": ["Dark Shrine of Night"]
+    },
+    {
+      "query": "witch broom upgrade",
+      "expected_titles": ["Witch's Hut", "Broom"]
+    },
+    {
+      "query": "golden scythe location",
+      "expected_titles": ["Golden Scythe"]
+    },
+    {
+      "query": "iridium sprinkler coverage",
+      "expected_titles": ["Sprinkler", "Iridium Sprinkler"]
+    }
+  ]
+}

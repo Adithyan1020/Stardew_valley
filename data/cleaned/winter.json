@@ -1,0 +1,2534 @@
+{
+  "title": "Winter",
+  "source": "stardewvalleywiki",
+  "sections": [
+    {
+      "heading": "Introduction",
+      "content": "Winter is the fourth season in Stardew Valley . It is followed by Spring and preceded by Fall .\nWinter is unique amongst the seasons in that no outdoors Crops , apart from Powdermelon Seeds , Winter Seeds and Fiber Seeds , will grow, and all Weeds and most tilled soil (including all fertilizer, even if the tile remains tilled) will all be removed at the start of the season. Grass remains but does not spread. Bee Houses will also not produce honey during winter. Finally, standard trees , including those planted on the farm (except fruit trees) do not grow in winter unless Tree Fertilizer is applied.\nOverall, with plant growth stopped, Winter can become a challenging season for farmers, leaving only animal produce and the Greenhouse as the mainstay of farm produce. However, the reduced intensity of farming makes it an excellent season for other activities, including foraging , The Mines / Skull Cavern exploration, fishing , digging at artifact spots , and gift-giving - with nine birthdays, Winter is tied with Summer for most birthdays in a season. It also makes it easier to obtain Farm and Tool upgrades without impacting normal routines.\nAnimals require additional care during this season, as they cannot go outside due to the cold. Providing them with a Heater will also make them happier. Additionally, due to the lack of grass and weeds, Fiber and Hay are more difficult to obtain outdoors. However fiber still can be found in the Mines and Mutant Bug Lair , or alternatively grown with Fiber Seeds . Hay can be purchased from Marnie's Ranch , or randomly gifted from her in the mail. It can also be obtained as a byproduct of Wheat grown in the Greenhouse .\nThere are several winter events and festivals which give the player unique opportunities to acquire items. One takes place early in the month and one takes place towards the end, marking the end of the year in the Valley. Additional SquidFest and Night Market activities occur halfway through the season."
+    },
+    {
+      "heading": "Events",
+      "content": "Krobus Linus Caroline Festival of Ice Sebastian SquidFest SquidFest Harvey Night Market Night Market Night Market Wizard Evelyn Leah Feast of the Winter Star Clint"
+    },
+    {
+      "heading": "Crops",
+      "content": "The following crop is the only one that can be grown in Winter. \"Maximum Harvests per Season\" assumes no fertilizer is used and the Agriculturist profession is not chosen. \"Gold/Day\" assumes no fertilizer is used and the Tiller profession is not chosen. See the Crops page for the full calculation."
+    },
+    {
+      "heading": "Other",
+      "content": "The following can also be planted in Winter, but do not grant any farming experience."
+    },
+    {
+      "heading": "Forage",
+      "content": "The Nautilus Shell can be found at The Beach only in Winter. In addition, the items shown below can be found while foraging during Winter. The percentages provided for each location are the percentage of all foraged items in the location that will (on average) be the specified item."
+    },
+    {
+      "heading": "Fish",
+      "content": "Certain fish can be caught only during specific seasons. Listed below are all fish catchable during Winter.\nFish that can be caught during all seasons are not listed.\nNote: Any Fish can be used for recipes with the tag \"any fish\" ( i.e., Sashimi , Maki Roll , Quality Fertilizer )."
+    },
+    {
+      "heading": "Night Market Fish",
+      "content": "These fish can be caught in the submarine ride at the Night Market during Winter 15-17, while the market is open (5pm – 2am). They can also be caught regardless of weather, time, or season using Magic Bait in the southwest corner of The Beach .\nIn addition to the 3 fish listed above, Sea Cucumber , Super Cucumber , Octopus , and Seaweed can be caught in the submarine. There is also a 0.4% chance (0.9% if using a Curiosity Lure ) of catching a Pearl ."
+    },
+    {
+      "heading": "References",
+      "content": "↑ The foraged items that can spawn in a given location each season are determined by GameLocation::spawnObjects in the game code, using input from the data file Content\\Locations.xnb . The percentages provided here have been normalized to ensure that the percentages sum to 100% for each location. The data was normalized by: Calculating the sum of all percentages listed in Locations.xnb for Winter Dividing each percentage by the sum"
+    }
+  ],
+  "tables": [
+    {
+      "section": "Events",
+      "table": {
+        "headers": [
+          "Day",
+          "Name",
+          "Day",
+          "Event",
+          "Day",
+          "Villager"
+        ],
+        "rows": [
+          [
+            "Festivals Day Name 08 Festival of Ice 12–13 SquidFest 15–17 Night Market 25 Feast of the Winter Star Other Day Event 2x randomly: 5, 11, 12, 19, 22, 24 Bookseller",
+            "Day",
+            "Name",
+            "08",
+            "Festival of Ice",
+            "12–13",
+            "SquidFest",
+            "15–17",
+            "Night Market",
+            "25",
+            "Feast of the Winter Star",
+            "Day",
+            "Event",
+            "2x randomly: 5, 11, 12, 19, 22, 24",
+            "Bookseller",
+            "",
+            "Birthdays Day Villager 01 Krobus 03 Linus 07 Caroline 10 Sebastian 14 Harvey 17 Wizard 20 Evelyn 23 Leah 26 Clint",
+            "Day",
+            "Villager",
+            "01",
+            "Krobus",
+            "03",
+            "Linus",
+            "07",
+            "Caroline",
+            "10",
+            "Sebastian",
+            "14",
+            "Harvey",
+            "17",
+            "Wizard",
+            "20",
+            "Evelyn",
+            "23",
+            "Leah",
+            "26",
+            "Clint"
+          ],
+          [
+            "Day",
+            "Name"
+          ],
+          [
+            "08",
+            "Festival of Ice"
+          ],
+          [
+            "12–13",
+            "SquidFest"
+          ],
+          [
+            "15–17",
+            "Night Market"
+          ],
+          [
+            "25",
+            "Feast of the Winter Star"
+          ],
+          [
+            "Day",
+            "Event"
+          ],
+          [
+            "2x randomly: 5, 11, 12, 19, 22, 24",
+            "Bookseller"
+          ],
+          [
+            "Day",
+            "Villager"
+          ],
+          [
+            "01",
+            "Krobus"
+          ],
+          [
+            "03",
+            "Linus"
+          ],
+          [
+            "07",
+            "Caroline"
+          ],
+          [
+            "10",
+            "Sebastian"
+          ],
+          [
+            "14",
+            "Harvey"
+          ],
+          [
+            "17",
+            "Wizard"
+          ],
+          [
+            "20",
+            "Evelyn"
+          ],
+          [
+            "23",
+            "Leah"
+          ],
+          [
+            "26",
+            "Clint"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Crops",
+      "table": {
+        "headers": [
+          "Crop",
+          "Seed Price",
+          "Days to Grow",
+          "Maximum Harvests per Season",
+          "Sells For",
+          "Gold/Day"
+        ],
+        "rows": [
+          [
+            "Crop",
+            "Seed Price",
+            "Days to Grow",
+            "Maximum Harvests per Season",
+            "Sells For",
+            "Gold/Day"
+          ],
+          [
+            "Powdermelon",
+            "N/A",
+            "7 days",
+            "3",
+            "data-sort-value=\"60\"> 60g",
+            "≈ data-sort-value=\"8.57\"> 8.57g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Other",
+      "table": {
+        "headers": [
+          "Seed",
+          "Days to Grow",
+          "Maximum Harvests per Season",
+          "Ingredients",
+          "Recipe Source"
+        ],
+        "rows": [
+          [
+            "Seed",
+            "Days to Grow",
+            "Maximum Harvests per Season",
+            "Ingredients",
+            "Recipe Source"
+          ],
+          [
+            "Winter Seeds",
+            "7 days",
+            "3",
+            "Winter Root (1) Crystal Fruit (1) Snow Yam (1) Crocus (1)",
+            "Foraging Level 7"
+          ],
+          [
+            "Fiber Seeds",
+            "7 days",
+            "3",
+            "Mixed Seeds (1) Sap (5) Clay (1)",
+            "Linus ( Special Order )"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Forage",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Found",
+          "Sell Price",
+          "Energy / Health",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Found",
+            "Sell Price",
+            "Energy / Health",
+            "Used In"
+          ],
+          [
+            "",
+            "Crocus",
+            "Pelican Town (54%) Railroad (50%) Bus Stop (42%) Mountain (40%) Cindersap Forest (39%) Backwoods (35%)",
+            "data-sort-value=\"60\" 60g 75g 90g 120g",
+            "",
+            "60g",
+            "",
+            "75g",
+            "",
+            "90g",
+            "",
+            "120g",
+            "data-sort-value=\"0\" 0 0 0 0 0 0 0 0",
+            "",
+            "0",
+            "",
+            "0",
+            "",
+            "0",
+            "",
+            "0",
+            "",
+            "0",
+            "",
+            "0",
+            "",
+            "0",
+            "",
+            "0",
+            "Winter Foraging Bundle Winter Seeds Sandy (loved gift)"
+          ],
+          [
+            "",
+            "60g"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "90g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "0",
+            "",
+            "0"
+          ],
+          [
+            "",
+            "0",
+            "",
+            "0"
+          ],
+          [
+            "",
+            "0",
+            "",
+            "0"
+          ],
+          [
+            "",
+            "0",
+            "",
+            "0"
+          ],
+          [
+            "",
+            "Crystal Fruit",
+            "Railroad (50%) Cindersap Forest (39%) Mountain (38%) Bus Stop (23%) Backwoods (22%) Pelican Town (8%)",
+            "data-sort-value=\"150\" 150g 187g 225g 300g",
+            "",
+            "150g",
+            "",
+            "187g",
+            "",
+            "225g",
+            "",
+            "300g",
+            "data-sort-value=\"25\" 63 28 88 39 113 50 163 73",
+            "",
+            "63",
+            "",
+            "28",
+            "",
+            "88",
+            "",
+            "39",
+            "",
+            "113",
+            "",
+            "50",
+            "",
+            "163",
+            "",
+            "73",
+            "Winter Foraging Bundle Winter Seeds Dried Fruit Jelly Wine"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "63",
+            "",
+            "28"
+          ],
+          [
+            "",
+            "88",
+            "",
+            "39"
+          ],
+          [
+            "",
+            "113",
+            "",
+            "50"
+          ],
+          [
+            "",
+            "163",
+            "",
+            "73"
+          ],
+          [
+            "",
+            "Holly",
+            "Secret Woods (100%) Backwoods (43%) Pelican Town (38%) Bus Stop (35%) Cindersap Forest (22%) Mountain (22%)",
+            "data-sort-value=\"80\" 80g 100g 120g 160g",
+            "",
+            "80g",
+            "",
+            "100g",
+            "",
+            "120g",
+            "",
+            "160g",
+            "data-sort-value=\"-15\" −37 0 −52 0 −67 0 −97 0",
+            "",
+            "−37",
+            "",
+            "0",
+            "",
+            "−52",
+            "",
+            "0",
+            "",
+            "−67",
+            "",
+            "0",
+            "",
+            "−97",
+            "",
+            "0",
+            "remixed Winter Foraging Bundle Winter Star Bundle"
+          ],
+          [
+            "",
+            "80g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "160g"
+          ],
+          [
+            "",
+            "−37",
+            "",
+            "0"
+          ],
+          [
+            "",
+            "−52",
+            "",
+            "0"
+          ],
+          [
+            "",
+            "−67",
+            "",
+            "0"
+          ],
+          [
+            "",
+            "−97",
+            "",
+            "0"
+          ],
+          [
+            "",
+            "Snow Yam",
+            "Tilling soil throughout Stardew Valley",
+            "data-sort-value=\"100\" 100g 125g 150g 200g",
+            "",
+            "100g",
+            "",
+            "125g",
+            "",
+            "150g",
+            "",
+            "200g",
+            "data-sort-value=\"12\" 30 13 42 18 54 24 78 35",
+            "",
+            "30",
+            "",
+            "13",
+            "",
+            "42",
+            "",
+            "18",
+            "",
+            "54",
+            "",
+            "24",
+            "",
+            "78",
+            "",
+            "35",
+            "Winter Foraging Bundle Winter Seeds Juice Pickles"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "125g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "30",
+            "",
+            "13"
+          ],
+          [
+            "",
+            "42",
+            "",
+            "18"
+          ],
+          [
+            "",
+            "54",
+            "",
+            "24"
+          ],
+          [
+            "",
+            "78",
+            "",
+            "35"
+          ],
+          [
+            "",
+            "Winter Root",
+            "Tilling soil throughout Stardew Valley",
+            "data-sort-value=\"70\" 70g 87g 105g 140g",
+            "",
+            "70g",
+            "",
+            "87g",
+            "",
+            "105g",
+            "",
+            "140g",
+            "data-sort-value=\"10\" 25 11 35 15 45 20 65 29",
+            "",
+            "25",
+            "",
+            "11",
+            "",
+            "35",
+            "",
+            "15",
+            "",
+            "45",
+            "",
+            "20",
+            "",
+            "65",
+            "",
+            "29",
+            "Winter Foraging Bundle Winter Seeds Roots Platter Juice Pickles"
+          ],
+          [
+            "",
+            "70g"
+          ],
+          [
+            "",
+            "87g"
+          ],
+          [
+            "",
+            "105g"
+          ],
+          [
+            "",
+            "140g"
+          ],
+          [
+            "",
+            "25",
+            "",
+            "11"
+          ],
+          [
+            "",
+            "35",
+            "",
+            "15"
+          ],
+          [
+            "",
+            "45",
+            "",
+            "20"
+          ],
+          [
+            "",
+            "65",
+            "",
+            "29"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Fish",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Price",
+          "Fisher Profession (+25%)",
+          "Angler Profession (+50%)",
+          "Location",
+          "Time",
+          "Season",
+          "Weather",
+          "Size (inches)",
+          "Difficulty & Behavior",
+          "Base XP",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Price",
+            "Fisher Profession (+25%)",
+            "Angler Profession (+50%)",
+            "Location",
+            "Time",
+            "Season",
+            "Weather",
+            "Size (inches)",
+            "Difficulty & Behavior",
+            "Base XP",
+            "Used In"
+          ],
+          [
+            "",
+            "Tuna",
+            "A large fish that lives in the ocean.",
+            "data-sort-value=\"100\" 100g 125g 150g 200g",
+            "",
+            "100g",
+            "",
+            "125g",
+            "",
+            "150g",
+            "",
+            "200g",
+            "data-sort-value=\"125\" 125g 156g 187g 250g",
+            "",
+            "125g",
+            "",
+            "156g",
+            "",
+            "187g",
+            "",
+            "250g",
+            "data-sort-value=\"150\" 150g 187g 225g 300g",
+            "",
+            "150g",
+            "",
+            "187g",
+            "",
+            "225g",
+            "",
+            "300g",
+            "Ocean , Ginger Island Oceans",
+            "6am – 7pm",
+            "Summer Winter ( All Seasons on Ginger Island )",
+            "Any",
+            "12–61",
+            "70 smooth",
+            "26",
+            "Ocean Fish Bundle Quality Fish Bundle Fish Taco"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "125g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "125g"
+          ],
+          [
+            "",
+            "156g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "Sardine",
+            "A common ocean fish.",
+            "data-sort-value=\"40\" 40g 50g 60g 80g",
+            "",
+            "40g",
+            "",
+            "50g",
+            "",
+            "60g",
+            "",
+            "80g",
+            "data-sort-value=\"50\" 50g 62g 75g 100g",
+            "",
+            "50g",
+            "",
+            "62g",
+            "",
+            "75g",
+            "",
+            "100g",
+            "data-sort-value=\"60\" 60g 75g 90g 120g",
+            "",
+            "60g",
+            "",
+            "75g",
+            "",
+            "90g",
+            "",
+            "120g",
+            "Ocean",
+            "6am – 7pm",
+            "Spring Fall Winter",
+            "Any",
+            "1–13",
+            "30 dart",
+            "13",
+            "Ocean Fish Bundle Dish O' The Sea"
+          ],
+          [
+            "",
+            "40g"
+          ],
+          [
+            "",
+            "50g"
+          ],
+          [
+            "",
+            "60g"
+          ],
+          [
+            "",
+            "80g"
+          ],
+          [
+            "",
+            "50g"
+          ],
+          [
+            "",
+            "62g"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "60g"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "90g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "Perch",
+            "A freshwater fish of the winter.",
+            "data-sort-value=\"55\" 55g 68g 82g 110g",
+            "",
+            "55g",
+            "",
+            "68g",
+            "",
+            "82g",
+            "",
+            "110g",
+            "data-sort-value=\"68\" 68g 85g 102g 137g",
+            "",
+            "68g",
+            "",
+            "85g",
+            "",
+            "102g",
+            "",
+            "137g",
+            "data-sort-value=\"82\" 82g 102g 123g 165g",
+            "",
+            "82g",
+            "",
+            "102g",
+            "",
+            "123g",
+            "",
+            "165g",
+            "Town River, Forest River, Forest Pond, Mountain Lake",
+            "Anytime",
+            "Winter",
+            "Any",
+            "10–25",
+            "35 dart",
+            "14",
+            ""
+          ],
+          [
+            "",
+            "55g"
+          ],
+          [
+            "",
+            "68g"
+          ],
+          [
+            "",
+            "82g"
+          ],
+          [
+            "",
+            "110g"
+          ],
+          [
+            "",
+            "68g"
+          ],
+          [
+            "",
+            "85g"
+          ],
+          [
+            "",
+            "102g"
+          ],
+          [
+            "",
+            "137g"
+          ],
+          [
+            "",
+            "82g"
+          ],
+          [
+            "",
+            "102g"
+          ],
+          [
+            "",
+            "123g"
+          ],
+          [
+            "",
+            "165g"
+          ],
+          [
+            "",
+            "Pike",
+            "A freshwater fish that's difficult to catch.",
+            "data-sort-value=\"100\" 100g 125g 150g 200g",
+            "",
+            "100g",
+            "",
+            "125g",
+            "",
+            "150g",
+            "",
+            "200g",
+            "data-sort-value=\"125\" 125g 156g 187g 250g",
+            "",
+            "125g",
+            "",
+            "156g",
+            "",
+            "187g",
+            "",
+            "250g",
+            "data-sort-value=\"150\" 150g 187g 225g 300g",
+            "",
+            "150g",
+            "",
+            "187g",
+            "",
+            "225g",
+            "",
+            "300g",
+            "Town River, Forest River, Forest Pond",
+            "Anytime",
+            "Summer Winter",
+            "Any",
+            "15–61",
+            "60 dart",
+            "23",
+            ""
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "125g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "125g"
+          ],
+          [
+            "",
+            "156g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "Red Mullet",
+            "Long ago these were kept as pets.",
+            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "",
+            "75g",
+            "",
+            "93g",
+            "",
+            "112g",
+            "",
+            "150g",
+            "data-sort-value=\"93\" 93g 116g 140g 187g",
+            "",
+            "93g",
+            "",
+            "116g",
+            "",
+            "140g",
+            "",
+            "187g",
+            "data-sort-value=\"112\" 112g 139g 168g 225g",
+            "",
+            "112g",
+            "",
+            "139g",
+            "",
+            "168g",
+            "",
+            "225g",
+            "Ocean",
+            "6am – 7pm",
+            "Summer Winter",
+            "Any",
+            "8–23",
+            "55 smooth",
+            "21",
+            ""
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "93g"
+          ],
+          [
+            "",
+            "112g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "93g"
+          ],
+          [
+            "",
+            "116g"
+          ],
+          [
+            "",
+            "140g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "112g"
+          ],
+          [
+            "",
+            "139g"
+          ],
+          [
+            "",
+            "168g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "Herring",
+            "A common ocean fish.",
+            "data-sort-value=\"30\" 30g 37g 45g 60g",
+            "",
+            "30g",
+            "",
+            "37g",
+            "",
+            "45g",
+            "",
+            "60g",
+            "data-sort-value=\"37\" 37g 46g 56g 75g",
+            "",
+            "37g",
+            "",
+            "46g",
+            "",
+            "56g",
+            "",
+            "75g",
+            "data-sort-value=\"45\" 45g 55g 67g 90g",
+            "",
+            "45g",
+            "",
+            "55g",
+            "",
+            "67g",
+            "",
+            "90g",
+            "Ocean",
+            "Anytime",
+            "Spring Winter",
+            "Any",
+            "8–21",
+            "25 dart",
+            "11",
+            ""
+          ],
+          [
+            "",
+            "30g"
+          ],
+          [
+            "",
+            "37g"
+          ],
+          [
+            "",
+            "45g"
+          ],
+          [
+            "",
+            "60g"
+          ],
+          [
+            "",
+            "37g"
+          ],
+          [
+            "",
+            "46g"
+          ],
+          [
+            "",
+            "56g"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "45g"
+          ],
+          [
+            "",
+            "55g"
+          ],
+          [
+            "",
+            "67g"
+          ],
+          [
+            "",
+            "90g"
+          ],
+          [
+            "",
+            "Squid",
+            "A deep sea creature that can grow to enormous size.",
+            "data-sort-value=\"80\" 80g 100g 120g 160g",
+            "",
+            "80g",
+            "",
+            "100g",
+            "",
+            "120g",
+            "",
+            "160g",
+            "data-sort-value=\"100\" 100g 125g 150g 200g",
+            "",
+            "100g",
+            "",
+            "125g",
+            "",
+            "150g",
+            "",
+            "200g",
+            "data-sort-value=\"120\" 120g 150g 180g 240g",
+            "",
+            "120g",
+            "",
+            "150g",
+            "",
+            "180g",
+            "",
+            "240g",
+            "Ocean",
+            "6pm – 2am",
+            "Winter",
+            "Any",
+            "12–49",
+            "75 sinker",
+            "28",
+            "Fried Calamari \"Catch a Squid\" Quest"
+          ],
+          [
+            "",
+            "80g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "160g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "125g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "180g"
+          ],
+          [
+            "",
+            "240g"
+          ],
+          [
+            "",
+            "Sea Cucumber",
+            "A slippery, slimy creature found on the ocean floor.",
+            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "",
+            "75g",
+            "",
+            "93g",
+            "",
+            "112g",
+            "",
+            "150g",
+            "data-sort-value=\"93\" 93g 116g 140g 187g",
+            "",
+            "93g",
+            "",
+            "116g",
+            "",
+            "140g",
+            "",
+            "187g",
+            "data-sort-value=\"112\" 112g 139g 168g 225g",
+            "",
+            "112g",
+            "",
+            "139g",
+            "",
+            "168g",
+            "",
+            "225g",
+            "Ocean",
+            "6am – 7pm",
+            "Fall Winter",
+            "Any",
+            "3–21",
+            "40 sinker",
+            "16",
+            "Lucky Lunch Willy (loved gift)"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "93g"
+          ],
+          [
+            "",
+            "112g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "93g"
+          ],
+          [
+            "",
+            "116g"
+          ],
+          [
+            "",
+            "140g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "112g"
+          ],
+          [
+            "",
+            "139g"
+          ],
+          [
+            "",
+            "168g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "Sturgeon",
+            "An ancient bottom-feeder with a dwindling population. Females can live up to 150 years.",
+            "data-sort-value=\"200\" 200g 250g 300g 400g",
+            "",
+            "200g",
+            "",
+            "250g",
+            "",
+            "300g",
+            "",
+            "400g",
+            "data-sort-value=\"250\" 250g 312g 375g 500g",
+            "",
+            "250g",
+            "",
+            "312g",
+            "",
+            "375g",
+            "",
+            "500g",
+            "data-sort-value=\"300\" 300g 375g 450g 600g",
+            "",
+            "300g",
+            "",
+            "375g",
+            "",
+            "450g",
+            "",
+            "600g",
+            "Mountain Lake",
+            "6am – 7pm",
+            "Summer Winter",
+            "Any",
+            "12–61",
+            "78 mixed",
+            "29",
+            "Lake Fish Bundle Willy (loved gift)"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "400g"
+          ],
+          [
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "312g"
+          ],
+          [
+            "",
+            "375g"
+          ],
+          [
+            "",
+            "500g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "375g"
+          ],
+          [
+            "",
+            "450g"
+          ],
+          [
+            "",
+            "600g"
+          ],
+          [
+            "",
+            "Tiger Trout",
+            "A rare hybrid trout that cannot bear offspring of its own.",
+            "data-sort-value=\"150\" 150g 187g 225g 300g",
+            "",
+            "150g",
+            "",
+            "187g",
+            "",
+            "225g",
+            "",
+            "300g",
+            "data-sort-value=\"187\" 187g 233g 281g 375g",
+            "",
+            "187g",
+            "",
+            "233g",
+            "",
+            "281g",
+            "",
+            "375g",
+            "data-sort-value=\"225\" 225g 280g 337g 450g",
+            "",
+            "225g",
+            "",
+            "280g",
+            "",
+            "337g",
+            "",
+            "450g",
+            "Town River, Forest River",
+            "6am – 7pm",
+            "Fall Winter",
+            "Any",
+            "10–21",
+            "60 dart",
+            "23",
+            "River Fish Bundle"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "233g"
+          ],
+          [
+            "",
+            "281g"
+          ],
+          [
+            "",
+            "375g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "280g"
+          ],
+          [
+            "",
+            "337g"
+          ],
+          [
+            "",
+            "450g"
+          ],
+          [
+            "",
+            "Albacore",
+            "Prefers temperature \"edges\" where cool and warm water meet.",
+            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "",
+            "75g",
+            "",
+            "93g",
+            "",
+            "112g",
+            "",
+            "150g",
+            "data-sort-value=\"93\" 93g 116g 140g 187g",
+            "",
+            "93g",
+            "",
+            "116g",
+            "",
+            "140g",
+            "",
+            "187g",
+            "data-sort-value=\"112\" 112g 139g 168g 225g",
+            "",
+            "112g",
+            "",
+            "139g",
+            "",
+            "168g",
+            "",
+            "225g",
+            "Ocean",
+            "6am – 11am 6pm – 2am",
+            "Fall Winter",
+            "Any",
+            "20–41",
+            "60 mixed",
+            "23",
+            "\"Fish Stew\" Quest"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "93g"
+          ],
+          [
+            "",
+            "112g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "93g"
+          ],
+          [
+            "",
+            "116g"
+          ],
+          [
+            "",
+            "140g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "112g"
+          ],
+          [
+            "",
+            "139g"
+          ],
+          [
+            "",
+            "168g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "Lingcod",
+            "A fearsome predator that will eat almost anything it can cram into its mouth.",
+            "data-sort-value=\"120\" 120g 150g 180g 240g",
+            "",
+            "120g",
+            "",
+            "150g",
+            "",
+            "180g",
+            "",
+            "240g",
+            "data-sort-value=\"150\" 150g 187g 225g 300g",
+            "",
+            "150g",
+            "",
+            "187g",
+            "",
+            "225g",
+            "",
+            "300g",
+            "data-sort-value=\"180\" 180g 225g 270g 360g",
+            "",
+            "180g",
+            "",
+            "225g",
+            "",
+            "270g",
+            "",
+            "360g",
+            "Town River, Forest River, Mountain Lake",
+            "Any time",
+            "Winter",
+            "Any",
+            "30–51",
+            "85 mixed",
+            "31",
+            "\"Catch a Lingcod\" Quest"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "180g"
+          ],
+          [
+            "",
+            "240g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "180g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "270g"
+          ],
+          [
+            "",
+            "360g"
+          ],
+          [
+            "",
+            "Walleye",
+            "A freshwater fish caught at night.",
+            "data-sort-value=\"105\" 105g 131g 157g 210g",
+            "",
+            "105g",
+            "",
+            "131g",
+            "",
+            "157g",
+            "",
+            "210g",
+            "data-sort-value=\"131\" 131g 163g 196g 262g",
+            "",
+            "131g",
+            "",
+            "163g",
+            "",
+            "196g",
+            "",
+            "262g",
+            "data-sort-value=\"157\" 157g 196g 235g 315g",
+            "",
+            "157g",
+            "",
+            "196g",
+            "",
+            "235g",
+            "",
+            "315g",
+            "Town River, Forest River, Forest Pond, Mountain Lake",
+            "12pm – 2am",
+            "Fall Winter with Rain Totem",
+            "Rain",
+            "10–41",
+            "45 smooth",
+            "18",
+            "Night Fishing Bundle Quality Fish Bundle"
+          ],
+          [
+            "",
+            "105g"
+          ],
+          [
+            "",
+            "131g"
+          ],
+          [
+            "",
+            "157g"
+          ],
+          [
+            "",
+            "210g"
+          ],
+          [
+            "",
+            "131g"
+          ],
+          [
+            "",
+            "163g"
+          ],
+          [
+            "",
+            "196g"
+          ],
+          [
+            "",
+            "262g"
+          ],
+          [
+            "",
+            "157g"
+          ],
+          [
+            "",
+            "196g"
+          ],
+          [
+            "",
+            "235g"
+          ],
+          [
+            "",
+            "315g"
+          ],
+          [
+            "",
+            "Catfish",
+            "An uncommon fish found in streams.",
+            "data-sort-value=\"200\" 200g 250g 300g 400g",
+            "",
+            "200g",
+            "",
+            "250g",
+            "",
+            "300g",
+            "",
+            "400g",
+            "data-sort-value=\"250\" 250g 312g 375g 500g",
+            "",
+            "250g",
+            "",
+            "312g",
+            "",
+            "375g",
+            "",
+            "500g",
+            "data-sort-value=\"300\" 300g 375g 450g 600g",
+            "",
+            "300g",
+            "",
+            "375g",
+            "",
+            "450g",
+            "",
+            "600g",
+            "Town River, Forest River, Secret Woods , Witch's Swamp",
+            "6am – 12am",
+            "Spring Fall ( Spring & Summer in Secret Woods Pond ) Winter with Rain Totem",
+            "Rain",
+            "12–73",
+            "75 mixed",
+            "28",
+            "River Fish Bundle Willy (loved gift)"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "400g"
+          ],
+          [
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "312g"
+          ],
+          [
+            "",
+            "375g"
+          ],
+          [
+            "",
+            "500g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "375g"
+          ],
+          [
+            "",
+            "450g"
+          ],
+          [
+            "",
+            "600g"
+          ],
+          [
+            "",
+            "Red Snapper",
+            "A popular fish with a nice red color.",
+            "data-sort-value=\"50\" 50g 62g 75g 100g",
+            "",
+            "50g",
+            "",
+            "62g",
+            "",
+            "75g",
+            "",
+            "100g",
+            "data-sort-value=\"62\" 62g 77g 93g 125g",
+            "",
+            "62g",
+            "",
+            "77g",
+            "",
+            "93g",
+            "",
+            "125g",
+            "data-sort-value=\"75\" 75g 93g 112g 150g",
+            "",
+            "75g",
+            "",
+            "93g",
+            "",
+            "112g",
+            "",
+            "150g",
+            "Ocean",
+            "6am – 7pm",
+            "Summer Fall Winter with Rain Totem",
+            "Rain",
+            "8–26",
+            "40 mixed",
+            "16",
+            "Ocean Fish Bundle"
+          ],
+          [
+            "",
+            "50g"
+          ],
+          [
+            "",
+            "62g"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "62g"
+          ],
+          [
+            "",
+            "77g"
+          ],
+          [
+            "",
+            "93g"
+          ],
+          [
+            "",
+            "125g"
+          ],
+          [
+            "",
+            "75g"
+          ],
+          [
+            "",
+            "93g"
+          ],
+          [
+            "",
+            "112g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "Halibut",
+            "A flat fish that lives on the ocean floor.",
+            "data-sort-value=\"80\" 80g 100g 120g 160g",
+            "",
+            "80g",
+            "",
+            "100g",
+            "",
+            "120g",
+            "",
+            "160g",
+            "data-sort-value=\"100\" 100g 125g 150g 200g",
+            "",
+            "100g",
+            "",
+            "125g",
+            "",
+            "150g",
+            "",
+            "200g",
+            "data-sort-value=\"120\" 120g 150g 180g 240g",
+            "",
+            "120g",
+            "",
+            "150g",
+            "",
+            "180g",
+            "",
+            "240g",
+            "Ocean",
+            "6am – 11am 7pm – 2am",
+            "Spring Summer Winter",
+            "Any",
+            "10–34",
+            "50 sinker",
+            "19",
+            ""
+          ],
+          [
+            "",
+            "80g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "160g"
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "125g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "120g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "180g"
+          ],
+          [
+            "",
+            "240g"
+          ],
+          [
+            "",
+            "Midnight Carp",
+            "This shy fish only feels comfortable at night.",
+            "data-sort-value=\"150\" 150g 187g 225g 300g",
+            "",
+            "150g",
+            "",
+            "187g",
+            "",
+            "225g",
+            "",
+            "300g",
+            "data-sort-value=\"187\" 187g 233g 281g 375g",
+            "",
+            "187g",
+            "",
+            "233g",
+            "",
+            "281g",
+            "",
+            "375g",
+            "data-sort-value=\"225\" 225g 280g 337g 450g",
+            "",
+            "225g",
+            "",
+            "280g",
+            "",
+            "337g",
+            "",
+            "450g",
+            "Forest Pond, Mountain Lake, Ginger Island Rivers",
+            "10pm – 2am",
+            "Fall Winter ( All Seasons on Ginger Island )",
+            "Any",
+            "12–53",
+            "55 mixed",
+            "21",
+            "Seafoam Pudding"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "233g"
+          ],
+          [
+            "",
+            "281g"
+          ],
+          [
+            "",
+            "375g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "280g"
+          ],
+          [
+            "",
+            "337g"
+          ],
+          [
+            "",
+            "450g"
+          ],
+          [
+            "",
+            "Glacierfish",
+            "Builds a nest on the underside of glaciers.",
+            "data-sort-value=\"1000\" 1,000g 1,250g 1,500g 2,000g",
+            "",
+            "1,000g",
+            "",
+            "1,250g",
+            "",
+            "1,500g",
+            "",
+            "2,000g",
+            "data-sort-value=\"1250\" 1,250g 1,562g 1,875g 2,500g",
+            "",
+            "1,250g",
+            "",
+            "1,562g",
+            "",
+            "1,875g",
+            "",
+            "2,500g",
+            "data-sort-value=\"1500\" 1,500g 1,875g 2,250g 3,000g",
+            "",
+            "1,500g",
+            "",
+            "1,875g",
+            "",
+            "2,250g",
+            "",
+            "3,000g",
+            "South end of Arrowhead Island in Cindersap Forest . Requires level 6 fishing.",
+            "Any",
+            "Winter",
+            "Any",
+            "26–28",
+            "100 mixed",
+            "180",
+            ""
+          ],
+          [
+            "",
+            "1,000g"
+          ],
+          [
+            "",
+            "1,250g"
+          ],
+          [
+            "",
+            "1,500g"
+          ],
+          [
+            "",
+            "2,000g"
+          ],
+          [
+            "",
+            "1,250g"
+          ],
+          [
+            "",
+            "1,562g"
+          ],
+          [
+            "",
+            "1,875g"
+          ],
+          [
+            "",
+            "2,500g"
+          ],
+          [
+            "",
+            "1,500g"
+          ],
+          [
+            "",
+            "1,875g"
+          ],
+          [
+            "",
+            "2,250g"
+          ],
+          [
+            "",
+            "3,000g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "Night Market Fish",
+      "table": {
+        "headers": [
+          "Image",
+          "Name",
+          "Description",
+          "Price",
+          "Fisher Profession (+25%)",
+          "Angler Profession (+50%)",
+          "Size (inches)",
+          "Difficulty & Behavior",
+          "Base XP",
+          "Used In"
+        ],
+        "rows": [
+          [
+            "Image",
+            "Name",
+            "Description",
+            "Price",
+            "Fisher Profession (+25%)",
+            "Angler Profession (+50%)",
+            "Size (inches)",
+            "Difficulty & Behavior",
+            "Base XP",
+            "Used In"
+          ],
+          [
+            "",
+            "Midnight Squid",
+            "A strange and mysterious denizen of the ocean's twilight depths.",
+            "data-sort-value=\"100\" 100g 125g 150g 200g",
+            "",
+            "100g",
+            "",
+            "125g",
+            "",
+            "150g",
+            "",
+            "200g",
+            "data-sort-value=\"125\" 125g 156g 187g 250g",
+            "",
+            "125g",
+            "",
+            "156g",
+            "",
+            "187g",
+            "",
+            "250g",
+            "data-sort-value=\"150\" 150g 187g 225g 300g",
+            "",
+            "150g",
+            "",
+            "187g",
+            "",
+            "225g",
+            "",
+            "300g",
+            "8–26",
+            "55 sinker",
+            "21",
+            ""
+          ],
+          [
+            "",
+            "100g"
+          ],
+          [
+            "",
+            "125g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "200g"
+          ],
+          [
+            "",
+            "125g"
+          ],
+          [
+            "",
+            "156g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "250g"
+          ],
+          [
+            "",
+            "150g"
+          ],
+          [
+            "",
+            "187g"
+          ],
+          [
+            "",
+            "225g"
+          ],
+          [
+            "",
+            "300g"
+          ],
+          [
+            "",
+            "Spook Fish",
+            "The huge eyes can detect the faint silhouettes of prey.",
+            "data-sort-value=\"220\" 220g 275g 330g 440g",
+            "",
+            "220g",
+            "",
+            "275g",
+            "",
+            "330g",
+            "",
+            "440g",
+            "data-sort-value=\"275\" 275g 343g 412g 550g",
+            "",
+            "275g",
+            "",
+            "343g",
+            "",
+            "412g",
+            "",
+            "550g",
+            "data-sort-value=\"330\" 330g 412g 495g 660g",
+            "",
+            "330g",
+            "",
+            "412g",
+            "",
+            "495g",
+            "",
+            "660g",
+            "8–26",
+            "60 dart",
+            "23",
+            ""
+          ],
+          [
+            "",
+            "220g"
+          ],
+          [
+            "",
+            "275g"
+          ],
+          [
+            "",
+            "330g"
+          ],
+          [
+            "",
+            "440g"
+          ],
+          [
+            "",
+            "275g"
+          ],
+          [
+            "",
+            "343g"
+          ],
+          [
+            "",
+            "412g"
+          ],
+          [
+            "",
+            "550g"
+          ],
+          [
+            "",
+            "330g"
+          ],
+          [
+            "",
+            "412g"
+          ],
+          [
+            "",
+            "495g"
+          ],
+          [
+            "",
+            "660g"
+          ],
+          [
+            "",
+            "Blobfish",
+            "This odd creature floats above the ocean floor, consuming any edible material in its path.",
+            "data-sort-value=\"500\" 500g 625g 750g 1,000g",
+            "",
+            "500g",
+            "",
+            "625g",
+            "",
+            "750g",
+            "",
+            "1,000g",
+            "data-sort-value=\"625\" 625g 781g 937g 1,250g",
+            "",
+            "625g",
+            "",
+            "781g",
+            "",
+            "937g",
+            "",
+            "1,250g",
+            "data-sort-value=\"750\" 750g 937g 1,125g 1,500g",
+            "",
+            "750g",
+            "",
+            "937g",
+            "",
+            "1,125g",
+            "",
+            "1,500g",
+            "8–26",
+            "75 floater",
+            "28",
+            "Master Fisher's Bundle"
+          ],
+          [
+            "",
+            "500g"
+          ],
+          [
+            "",
+            "625g"
+          ],
+          [
+            "",
+            "750g"
+          ],
+          [
+            "",
+            "1,000g"
+          ],
+          [
+            "",
+            "625g"
+          ],
+          [
+            "",
+            "781g"
+          ],
+          [
+            "",
+            "937g"
+          ],
+          [
+            "",
+            "1,250g"
+          ],
+          [
+            "",
+            "750g"
+          ],
+          [
+            "",
+            "937g"
+          ],
+          [
+            "",
+            "1,125g"
+          ],
+          [
+            "",
+            "1,500g"
+          ]
+        ]
+      }
+    },
+    {
+      "section": "References",
+      "table": {
+        "headers": [
+          "Seasons"
+        ],
+        "rows": [
+          [
+            "Seasons"
+          ],
+          [
+            "Seasons",
+            "Spring • Summer • Fall • Winter"
+          ]
+        ]
+      }
+    }
+  ]
+}
